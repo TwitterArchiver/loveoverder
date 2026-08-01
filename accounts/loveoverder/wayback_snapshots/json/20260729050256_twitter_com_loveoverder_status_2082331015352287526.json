@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081837537639694336"
+      ],
+      "media_source_tweet_id": [
+        "2081837541288759608"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082331015352287526",
+    "created_at": "2026-07-29T05:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082331015352287526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759237876599189504",
+          "start": 3,
+          "username": "Carlosgramosc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qIVNG9URIL",
+          "end": 112,
+          "expanded_url": "https://x.com/Carlosgramosc/status/2081837541288759608/photo/1",
+          "media_key": "3_2081837537639694336",
+          "start": 89,
+          "url": "https://t.co/qIVNG9URIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082331015352287526",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4522
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081837541288759608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Carlosgramosc: Sabes que tu abuela no te escucho nada cuando se te queda viendo así: https://t.co/qIVNG9URIL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 413,
+        "media_key": "3_2081837537639694336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQsNd8WgAAY6eg.jpg",
+        "width": 627
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081837537639694336"
+          ]
+        },
+        "author_id": "1759237876599189504",
+        "conversation_id": "2081837541288759608",
+        "created_at": "2026-07-27T20:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081837541288759608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qIVNG9URIL",
+              "end": 93,
+              "expanded_url": "https://x.com/Carlosgramosc/status/2081837541288759608/photo/1",
+              "media_key": "3_2081837537639694336",
+              "start": 70,
+              "url": "https://t.co/qIVNG9URIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081837541288759608",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1508,
+          "impression_count": 838199,
+          "like_count": 81308,
+          "quote_count": 220,
+          "reply_count": 59,
+          "retweet_count": 4522
+        },
+        "reply_settings": "everyone",
+        "text": "Sabes que tu abuela no te escucho nada cuando se te queda viendo así: https://t.co/qIVNG9URIL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081837537639694336"
+          ],
+          "media_source_tweet_id": [
+            "2081837541288759608"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082331015352287526",
+        "created_at": "2026-07-29T05:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082331015352287526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759237876599189504",
+              "start": 3,
+              "username": "Carlosgramosc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qIVNG9URIL",
+              "end": 112,
+              "expanded_url": "https://x.com/Carlosgramosc/status/2081837541288759608/photo/1",
+              "media_key": "3_2081837537639694336",
+              "start": 89,
+              "url": "https://t.co/qIVNG9URIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082331015352287526",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4522
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081837541288759608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Carlosgramosc: Sabes que tu abuela no te escucho nada cuando se te queda viendo así: https://t.co/qIVNG9URIL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 304,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1777
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T15:26:24.000Z",
+        "description": "🎨🏃🏻🇲🇽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/guzmnrac?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/guzmnrac?igsh=MWpqOHVhaXZmenk4Mw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/ZNrWEbbJ0p"
+              }
+            ]
+          }
+        },
+        "id": "1759237876599189504",
+        "location": "Ensenada, Baja California",
+        "name": ".",
+        "pinned_tweet_id": "2057340699977433538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064453486029271041/Q3OIDaPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8241,
+          "following_count": 569,
+          "like_count": 1212,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 1018
+        },
+        "url": "https://t.co/ZNrWEbbJ0p",
+        "username": "Carlosgramosc",
+        "verified": true
+      }
+    ]
+  }
+}

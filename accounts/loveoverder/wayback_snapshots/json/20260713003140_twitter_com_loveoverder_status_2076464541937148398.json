@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076252233000419328"
+      ],
+      "media_source_tweet_id": [
+        "2076252237702304027"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076464541937148398",
+    "created_at": "2026-07-13T00:31:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076464541937148398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759940409407819776",
+          "start": 3,
+          "username": "ikuhisa_99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ACpBL2g9c3",
+          "end": 43,
+          "expanded_url": "https://x.com/ikuhisa_99/status/2076252237702304027/photo/1",
+          "media_key": "3_2076252233000419328",
+          "start": 20,
+          "url": "https://t.co/ACpBL2g9c3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076464541937148398",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076252237702304027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ikuhisa_99: あつい https://t.co/ACpBL2g9c3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2035,
+        "media_key": "3_2076252233000419328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBUZ8waAAA1ot0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076252233000419328"
+          ],
+          "media_source_tweet_id": [
+            "2076252237702304027"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076464541937148398",
+        "created_at": "2026-07-13T00:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076464541937148398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759940409407819776",
+              "start": 3,
+              "username": "ikuhisa_99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACpBL2g9c3",
+              "end": 43,
+              "expanded_url": "https://x.com/ikuhisa_99/status/2076252237702304027/photo/1",
+              "media_key": "3_2076252233000419328",
+              "start": 20,
+              "url": "https://t.co/ACpBL2g9c3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076464541937148398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076252237702304027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ikuhisa_99: あつい https://t.co/ACpBL2g9c3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076252233000419328"
+          ]
+        },
+        "author_id": "1759940409407819776",
+        "conversation_id": "2076252237702304027",
+        "created_at": "2026-07-12T10:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076252237702304027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACpBL2g9c3",
+              "end": 27,
+              "expanded_url": "https://x.com/ikuhisa_99/status/2076252237702304027/photo/1",
+              "media_key": "3_2076252233000419328",
+              "start": 4,
+              "url": "https://t.co/ACpBL2g9c3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076252237702304027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 258,
+          "impression_count": 21169,
+          "like_count": 3390,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "あつい https://t.co/ACpBL2g9c3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 68,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T13:57:57.000Z",
+        "description": "基礎デ3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ikuhisa_masami…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ikuhisa_masami?igsh=MXBtZWx2c2VrY3p5OA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/H6Q70Yt2dK"
+              }
+            ]
+          }
+        },
+        "id": "1759940409407819776",
+        "name": "鈴木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908881746197917696/9YCyNoQP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 392,
+          "like_count": 65757,
+          "listed_count": 4,
+          "media_count": 94,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/H6Q70Yt2dK",
+        "username": "ikuhisa_99",
+        "verified": false
+      }
+    ]
+  }
+}

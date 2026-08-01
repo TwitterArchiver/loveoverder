@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076203264195100672"
+      ],
+      "media_source_tweet_id": [
+        "2076203517304570202"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076444657467502924",
+    "created_at": "2026-07-12T23:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T00:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076444657467502924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1056818658",
+          "start": 3,
+          "username": "CryptoPainter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T69HXP84zm",
+          "end": 68,
+          "expanded_url": "https://x.com/CryptoPainter/status/2076203517304570202/video/1",
+          "media_key": "13_2076203264195100672",
+          "start": 45,
+          "url": "https://t.co/T69HXP84zm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076444657467502924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076203517304570202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CryptoPainter: 哎…太温馨了…\n\n一个认妈了，一个收养了小女儿…… https://t.co/T69HXP84zm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52443,
+        "height": 1080,
+        "media_key": "13_2076203264195100672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076203264195100672/img/Umm_6moHY9IUgIZT.jpg",
+        "public_metrics": {
+          "view_count": 2814
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076203264195100672/vid/avc1/1280x720/uBL4Pgsxs-W6vceS.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076203264195100672/vid/avc1/480x270/EqpPsLRKcWP4FlJO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076203264195100672/vid/avc1/640x360/sbDCPNliyQZ8Wena.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076203264195100672/pl/ZMbK2KHz8-NPjmjG.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076203264195100672/vid/avc1/1920x1080/_fPtqnGzCNRIPSXm.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076203264195100672"
+          ],
+          "media_source_tweet_id": [
+            "2076203517304570202"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076444657467502924",
+        "created_at": "2026-07-12T23:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T00:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076444657467502924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1056818658",
+              "start": 3,
+              "username": "CryptoPainter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T69HXP84zm",
+              "end": 68,
+              "expanded_url": "https://x.com/CryptoPainter/status/2076203517304570202/video/1",
+              "media_key": "13_2076203264195100672",
+              "start": 45,
+              "url": "https://t.co/T69HXP84zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076444657467502924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076203517304570202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CryptoPainter: 哎…太温馨了…\n\n一个认妈了，一个收养了小女儿…… https://t.co/T69HXP84zm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076203264195100672"
+          ]
+        },
+        "author_id": "1056818658",
+        "conversation_id": "2076203517304570202",
+        "created_at": "2026-07-12T07:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076203517304570202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T69HXP84zm",
+              "end": 49,
+              "expanded_url": "https://x.com/CryptoPainter/status/2076203517304570202/video/1",
+              "media_key": "13_2076203264195100672",
+              "start": 26,
+              "url": "https://t.co/T69HXP84zm"
+            },
+            {
+              "display_url": "x.com/cryptopainter/…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/cryptopainter/status/2075511617966768200",
+              "start": 50,
+              "url": "https://t.co/gz36YGNgaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076203517304570202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12007,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075511617966768200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎…太温馨了…\n\n一个认妈了，一个收养了小女儿…… https://t.co/T69HXP84zm https://t.co/gz36YGNgaA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 63,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-03T04:07:25.000Z",
+        "description": "老朋友叫我“画师”，技术\\数据分析和量化交易，提供各种刁钻角度看市场，用时间做杠杆，正在开发一款量化AI交易工具：A-Trading！\n#OKX 启程Web3：https://t.co/cTJurNgODH\n#Binance 币安一键注册：https://t.co/WfOCGl7hut",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 68,
+                "tag": "OKX"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/4iSLash",
+                "end": 103,
+                "expanded_url": "https://bit.ly/4iSLash",
+                "start": 80,
+                "url": "https://t.co/cTJurNgODH"
+              },
+              {
+                "display_url": "bit.ly/48zRqBN",
+                "end": 143,
+                "expanded_url": "https://bit.ly/48zRqBN",
+                "start": 120,
+                "url": "https://t.co/WfOCGl7hut"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZPkREzth-qJjO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZPkREzth-qJjOWE1",
+                "start": 0,
+                "url": "https://t.co/GmJX6YT5ym"
+              }
+            ]
+          }
+        },
+        "id": "1056818658",
+        "location": "电报群 TG Group → ",
+        "name": "Crypto_Painter",
+        "pinned_tweet_id": "1921354818838315294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999005830872797184/kfpmb1Mr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93729,
+          "following_count": 1831,
+          "like_count": 74124,
+          "listed_count": 1757,
+          "media_count": 6369,
+          "tweet_count": 34285
+        },
+        "url": "https://t.co/GmJX6YT5ym",
+        "username": "CryptoPainter",
+        "verified": true
+      }
+    ]
+  }
+}

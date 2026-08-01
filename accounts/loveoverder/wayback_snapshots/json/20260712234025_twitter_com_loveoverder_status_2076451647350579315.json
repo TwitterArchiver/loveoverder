@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076451647350579315",
+    "created_at": "2026-07-12T23:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T00:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076451647350579315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3159548571",
+          "start": 3,
+          "username": "YuYang02203548"
+        },
+        {
+          "end": 34,
+          "id": "3353223123",
+          "start": 20,
+          "username": "Paris13Jeanne"
+        },
+        {
+          "end": 45,
+          "id": "1232020421479788544",
+          "start": 35,
+          "username": "miyayweb3"
+        },
+        {
+          "end": 58,
+          "id": "1427931875935330310",
+          "start": 46,
+          "username": "sisibinance"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076451647350579315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076228805232894253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuYang02203548: @Paris13Jeanne @miyayweb3 @sisibinance 教主你要多发照片呀，兄弟们每天都在盯盘、看k线、扛单，真的很压抑的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076451647350579315",
+        "created_at": "2026-07-12T23:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T00:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076451647350579315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3159548571",
+              "start": 3,
+              "username": "YuYang02203548"
+            },
+            {
+              "end": 34,
+              "id": "3353223123",
+              "start": 20,
+              "username": "Paris13Jeanne"
+            },
+            {
+              "end": 45,
+              "id": "1232020421479788544",
+              "start": 35,
+              "username": "miyayweb3"
+            },
+            {
+              "end": 58,
+              "id": "1427931875935330310",
+              "start": 46,
+              "username": "sisibinance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076451647350579315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076228805232894253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuYang02203548: @Paris13Jeanne @miyayweb3 @sisibinance 教主你要多发照片呀，兄弟们每天都在盯盘、看k线、扛单，真的很压抑的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3159548571",
+        "conversation_id": "2076171695174348800",
+        "created_at": "2026-07-12T08:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076228805232894253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3353223123",
+              "start": 0,
+              "username": "Paris13Jeanne"
+            },
+            {
+              "end": 25,
+              "id": "1232020421479788544",
+              "start": 15,
+              "username": "miyayweb3"
+            },
+            {
+              "end": 38,
+              "id": "1427931875935330310",
+              "start": 26,
+              "username": "sisibinance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076228805232894253",
+        "in_reply_to_user_id": "3353223123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076171695174348800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paris13Jeanne @miyayweb3 @sisibinance 教主你要多发照片呀，兄弟们每天都在盯盘、看k线、扛单，真的很压抑的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 65,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-12T12:35:42.000Z",
+        "description": "雪山千古冷，独照峨眉峰",
+        "id": "3159548571",
+        "location": "People's Republic of China",
+        "name": "Deepsea深海🚢",
+        "pinned_tweet_id": "2045141343333425184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566585711460352/1xLC_vmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 45,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "YuYang02203548",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-01T15:03:04.000Z",
+        "description": "Advisor @flapdotsh @conso_tg /二级实盘交易员/CFA特许金融分析师一级/动物福利坚决拥护者/缠论lover/群链接在下方/\n近3亿用户共同选择全球TOP1交易所币安Binance",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "flapdotsh"
+              },
+              {
+                "end": 28,
+                "start": 19,
+                "username": "conso_tg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+pvDUrBUsKNlkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+pvDUrBUsKNlkOTNk",
+                "start": 0,
+                "url": "https://t.co/t38FA91D8G"
+              }
+            ]
+          }
+        },
+        "id": "3353223123",
+        "location": "Paris",
+        "name": "K线教主（网络喷子版）",
+        "pinned_tweet_id": "1916829286822216079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030892218891026432/yxk98wBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123618,
+          "following_count": 3169,
+          "like_count": 83928,
+          "listed_count": 1153,
+          "media_count": 4234,
+          "tweet_count": 59602
+        },
+        "url": "https://t.co/t38FA91D8G",
+        "username": "Paris13Jeanne",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-24T19:12:25.000Z",
+        "description": "尊敬的Binance VIP你来啦，唯一英文号@Miyaybnb\n想成为我们VIP请点击👉🏻：https://t.co/kRPxEA85ho\n\n相信做正确的事情一定会有好的回报🦋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "Miyaybnb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "accounts.binance.com/en/register-bu…",
+                "end": 70,
+                "expanded_url": "https://accounts.binance.com/en/register-business?crc=eyJ2aXBTYWxlc0lkIjoiMjcwIn0=",
+                "start": 47,
+                "url": "https://t.co/kRPxEA85ho"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com",
+                "end": 23,
+                "expanded_url": "http://binance.com",
+                "start": 0,
+                "url": "https://t.co/votTl4yiIa"
+              }
+            ]
+          }
+        },
+        "id": "1232020421479788544",
+        "location": "Korea ",
+        "name": "Miya咪呀🔶BN｜玩bStocks 上币安",
+        "pinned_tweet_id": "2057687850590900556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043160800966365184/qaX0eUbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25123,
+          "following_count": 828,
+          "like_count": 3772,
+          "listed_count": 32,
+          "media_count": 72,
+          "tweet_count": 2281
+        },
+        "url": "https://t.co/votTl4yiIa",
+        "username": "miyayweb3",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-18T09:54:33.000Z",
+        "description": "永远保持进攻的角宿🌟Telegram：ElsieSisi / WeChat：binancesisi2 （其它联系方式均是冒充，请勿相信） 官方Tg：https://t.co/Y7bEmSxL09",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/BinanceChinese",
+                "end": 97,
+                "expanded_url": "https://t.me/BinanceChinese",
+                "start": 74,
+                "url": "https://t.co/Y7bEmSxL09"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com/zh-TC/download",
+                "end": 23,
+                "expanded_url": "https://www.binance.com/zh-TC/download",
+                "start": 0,
+                "url": "https://t.co/ivKxQX5hS4"
+              }
+            ]
+          }
+        },
+        "id": "1427931875935330310",
+        "name": "sisi",
+        "pinned_tweet_id": "2066439338876166431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902417399426772995/ozn-P54e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145912,
+          "following_count": 2674,
+          "like_count": 11366,
+          "listed_count": 920,
+          "media_count": 634,
+          "tweet_count": 16031
+        },
+        "url": "https://t.co/ivKxQX5hS4",
+        "username": "sisibinance",
+        "verified": true
+      }
+    ]
+  }
+}

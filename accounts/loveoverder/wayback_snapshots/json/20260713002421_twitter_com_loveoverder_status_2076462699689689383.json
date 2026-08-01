@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076462699689689383",
+    "created_at": "2026-07-13T00:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076462699689689383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiangchunerxin…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/xiangchunerxin1/status/2076236270905496025",
+          "start": 13,
+          "url": "https://t.co/emadWV1uFe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076462699689689383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076236270905496025",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感覺絲滑的過分了，假的吧 https://t.co/emadWV1uFe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12166,
+        "height": 852,
+        "media_key": "13_2076235943649144832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076235943649144832/img/dphOuGz0jM6-sz-0.jpg",
+        "public_metrics": {
+          "view_count": 127673
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076235943649144832/vid/avc1/320x568/NQUDWVxObeIDxWGm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076235943649144832/vid/avc1/480x852/OtX0goyfvJyVMVoV.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076235943649144832/pl/3AcdPcD4tEKvFl-T.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076462699689689383",
+        "created_at": "2026-07-13T00:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076462699689689383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiangchunerxin…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/xiangchunerxin1/status/2076236270905496025",
+              "start": 13,
+              "url": "https://t.co/emadWV1uFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076462699689689383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076236270905496025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感覺絲滑的過分了，假的吧 https://t.co/emadWV1uFe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076235943649144832"
+          ]
+        },
+        "author_id": "1531795717391536129",
+        "conversation_id": "2076236270905496025",
+        "created_at": "2026-07-12T09:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076236270905496025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nLcZwGgJSG",
+              "end": 63,
+              "expanded_url": "https://x.com/xiangchunerxin1/status/2076236270905496025/video/1",
+              "media_key": "13_2076235943649144832",
+              "start": 40,
+              "url": "https://t.co/nLcZwGgJSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076236270905496025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 213238,
+          "like_count": 182,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "学琴棋书画，不如武术持家。情侣街头吵架，男生试图公主抱，被女生夺命剪刀脚撂倒。 https://t.co/nLcZwGgJSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 68,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T00:32:23.000Z",
+        "description": "爱我你怕了吗",
+        "id": "1531795717391536129",
+        "name": "梦想家拉斐尔（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581592655875776515/BTXhbzna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16904,
+          "following_count": 13040,
+          "like_count": 8355,
+          "listed_count": 32,
+          "media_count": 10533,
+          "tweet_count": 17323
+        },
+        "url": "",
+        "username": "xiangchunerxin1",
+        "verified": false
+      }
+    ]
+  }
+}

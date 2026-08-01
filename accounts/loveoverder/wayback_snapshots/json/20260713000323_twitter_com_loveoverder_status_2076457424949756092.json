@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076312733251948544"
+      ],
+      "media_source_tweet_id": [
+        "2076312795008876851"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076457424949756092",
+    "created_at": "2026-07-13T00:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076457424949756092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1477915703818612739",
+          "start": 3,
+          "username": "0xallen69"
+        },
+        {
+          "end": 27,
+          "id": "1547117925231841280",
+          "start": 15,
+          "username": "Lily_OKXVIP"
+        },
+        {
+          "end": 39,
+          "id": "1461224994705649671",
+          "start": 28,
+          "username": "okxchinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Y53fBKwF1",
+          "end": 67,
+          "expanded_url": "https://x.com/0xallen69/status/2076312795008876851/video/1",
+          "media_key": "13_2076312733251948544",
+          "start": 44,
+          "url": "https://t.co/7Y53fBKwF1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076457424949756092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076312795008876851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0xallen69: @Lily_OKXVIP @okxchinese 谢谢哇 https://t.co/7Y53fBKwF1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8000,
+        "height": 1280,
+        "media_key": "13_2076312733251948544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076312733251948544/img/LbueAE7ffBEAJqkO.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076312733251948544/vid/avc1/320x568/7gkgCYA72evbTytn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076312733251948544/vid/avc1/480x852/ttVlrKZif4nJxYNU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076312733251948544/vid/avc1/720x1280/Juu9kdORwroC3Rpl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076312733251948544/pl/fmx5EcayMoUbYa3g.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076312733251948544"
+          ],
+          "media_source_tweet_id": [
+            "2076312795008876851"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076457424949756092",
+        "created_at": "2026-07-13T00:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076457424949756092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1477915703818612739",
+              "start": 3,
+              "username": "0xallen69"
+            },
+            {
+              "end": 27,
+              "id": "1547117925231841280",
+              "start": 15,
+              "username": "Lily_OKXVIP"
+            },
+            {
+              "end": 39,
+              "id": "1461224994705649671",
+              "start": 28,
+              "username": "okxchinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Y53fBKwF1",
+              "end": 67,
+              "expanded_url": "https://x.com/0xallen69/status/2076312795008876851/video/1",
+              "media_key": "13_2076312733251948544",
+              "start": 44,
+              "url": "https://t.co/7Y53fBKwF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076457424949756092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076312795008876851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0xallen69: @Lily_OKXVIP @okxchinese 谢谢哇 https://t.co/7Y53fBKwF1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076312733251948544"
+          ]
+        },
+        "author_id": "1477915703818612739",
+        "conversation_id": "2076023970021966012",
+        "created_at": "2026-07-12T14:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076312795008876851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547117925231841280",
+              "start": 0,
+              "username": "Lily_OKXVIP"
+            },
+            {
+              "end": 24,
+              "id": "1461224994705649671",
+              "start": 13,
+              "username": "okxchinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Y53fBKwF1",
+              "end": 52,
+              "expanded_url": "https://x.com/0xallen69/status/2076312795008876851/video/1",
+              "media_key": "13_2076312733251948544",
+              "start": 29,
+              "url": "https://t.co/7Y53fBKwF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076312795008876851",
+        "in_reply_to_user_id": "1547117925231841280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076204443230752772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lily_OKXVIP @okxchinese 谢谢哇 https://t.co/7Y53fBKwF1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 68,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T08:12:29.000Z",
+        "description": "@memeland MVP Co-founder. @playCounterFire CM. @acg_worlds_ CM.@RugRadio Alpha call. @din_lol_ and @delabsOfficial Ads ... #WEEX全球大使 #BiyaPay全球宣传大使 DM Collab",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 123,
+                "tag": "WEEX全球大使"
+              },
+              {
+                "end": 147,
+                "start": 133,
+                "tag": "BiyaPay全球宣传大使"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "memeland"
+              },
+              {
+                "end": 42,
+                "start": 26,
+                "username": "playCounterFire"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "acg_worlds_"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "RugRadio"
+              },
+              {
+                "end": 94,
+                "start": 85,
+                "username": "din_lol_"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "delabsOfficial"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "webapxx.online/register?vipCo…",
+                "end": 23,
+                "expanded_url": "https://webapxx.online/register?vipCode=z01s",
+                "start": 0,
+                "url": "https://t.co/fkwgK4kmqm"
+              }
+            ]
+          }
+        },
+        "id": "1477915703818612739",
+        "location": "TG：@oxallen6969",
+        "name": "0xAllen",
+        "pinned_tweet_id": "2076023970021966012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973489611277213704/Y-V3Ci5B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97183,
+          "following_count": 1794,
+          "like_count": 54142,
+          "listed_count": 52,
+          "media_count": 756,
+          "tweet_count": 68008
+        },
+        "url": "https://t.co/fkwgK4kmqm",
+        "username": "0xallen69",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-13T07:18:15.000Z",
+        "description": "OKX大客户经理",
+        "id": "1547117925231841280",
+        "name": "Lily",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066451083799724032/mAsB-myJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 123,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Lily_OKXVIP",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-18T06:49:35.000Z",
+        "description": "全球领先的加密资产交易平台和Web3平台｜@mancity @mclarenf1 赞助商\n注册领奖励：https://t.co/WUckrWaDMh\nOKX中文社交媒体：https://t.co/LXGDuDmAdk\n*某些产品服务或推广活动不适用于部分地区",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "mancity"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "mclarenf1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/ul/6CngT5?chan…",
+                "end": 74,
+                "expanded_url": "https://www.okx.com/ul/6CngT5?channelId=TWITTERCN",
+                "start": 51,
+                "url": "https://t.co/WUckrWaDMh"
+              },
+              {
+                "display_url": "linktr.ee/okxchinese",
+                "end": 108,
+                "expanded_url": "https://linktr.ee/okxchinese",
+                "start": 85,
+                "url": "https://t.co/LXGDuDmAdk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "okx.com/ul/6CngT5?chan…",
+                "end": 23,
+                "expanded_url": "https://www.okx.com/ul/6CngT5?channelId=TWITTERCN",
+                "start": 0,
+                "url": "https://t.co/WUckrWaDMh"
+              }
+            ]
+          }
+        },
+        "id": "1461224994705649671",
+        "name": "OKX中文",
+        "pinned_tweet_id": "2076094610678714446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004404711307575296/w6OwQ4Ni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712740,
+          "following_count": 389,
+          "like_count": 7649,
+          "listed_count": 1746,
+          "media_count": 6631,
+          "tweet_count": 15756
+        },
+        "url": "https://t.co/WUckrWaDMh",
+        "username": "okxchinese",
+        "verified": true
+      }
+    ]
+  }
+}

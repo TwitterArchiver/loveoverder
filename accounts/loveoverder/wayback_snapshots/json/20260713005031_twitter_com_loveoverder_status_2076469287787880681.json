@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076469287787880681",
+    "created_at": "2026-07-13T00:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076469287787880681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1533037218444476416",
+          "start": 3,
+          "username": "xincctnnq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076469287787880681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076295464551600455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xincctnnq: 看到一个加拿大的老太在自家死了 2 个月才被人发现。\n尸体都溶进地版里了，还是邻居小哥被臭的不行了才报警。\n\n突然感觉人老了最好的死法必须得是嘎嘣一下就没了最好，干脆果断无痛苦。要是是摔了一跤在地板上挣扎了10来天没人发现慢慢煎熬挂掉的，就实在是太…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076469287787880681",
+        "created_at": "2026-07-13T00:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076469287787880681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1533037218444476416",
+              "start": 3,
+              "username": "xincctnnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076469287787880681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076295464551600455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xincctnnq: 看到一个加拿大的老太在自家死了 2 个月才被人发现。\n尸体都溶进地版里了，还是邻居小哥被臭的不行了才报警。\n\n突然感觉人老了最好的死法必须得是嘎嘣一下就没了最好，干脆果断无痛苦。要是是摔了一跤在地板上挣扎了10来天没人发现慢慢煎熬挂掉的，就实在是太…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533037218444476416",
+        "conversation_id": "2076295464551600455",
+        "created_at": "2026-07-12T13:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076295464551600455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076295464551600455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4248,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到一个加拿大的老太在自家死了 2 个月才被人发现。\n尸体都溶进地版里了，还是邻居小哥被臭的不行了才报警。\n\n突然感觉人老了最好的死法必须得是嘎嘣一下就没了最好，干脆果断无痛苦。要是是摔了一跤在地板上挣扎了10来天没人发现慢慢煎熬挂掉的，就实在是太惨了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 73,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 286
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T10:45:36.000Z",
+        "description": "AI & Crypto｜ 披萨的投资碎碎念笔记，用AI 在 Crypto 搞钱，内容不具有投资建议｜ #Binance 近3亿用户共同选择币安 https://t.co/QqdNgDXhPv ｜ #OKX 最好用链上钱包 https://t.co/Q9AOZ9xkd4 ｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "Binance"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "OKX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/join?ref=G8EO3…",
+                "end": 95,
+                "expanded_url": "http://binance.com/join?ref=G8EO34S3",
+                "start": 72,
+                "url": "https://t.co/QqdNgDXhPv"
+              },
+              {
+                "display_url": "web3.okx.com/join/666000",
+                "end": 134,
+                "expanded_url": "http://web3.okx.com/join/666000",
+                "start": 111,
+                "url": "https://t.co/Q9AOZ9xkd4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/pppiza",
+                "end": 23,
+                "expanded_url": "http://t.me/pppiza",
+                "start": 0,
+                "url": "https://t.co/HyXg1GeRhz"
+              }
+            ]
+          }
+        },
+        "id": "1533037218444476416",
+        "location": "collab👉：",
+        "name": "币圈女菩萨 | Pizza披萨🍕",
+        "pinned_tweet_id": "2065989000276676886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659093832355713030/S93g3Y7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103731,
+          "following_count": 7410,
+          "like_count": 21989,
+          "listed_count": 767,
+          "media_count": 2979,
+          "tweet_count": 43083
+        },
+        "url": "https://t.co/HyXg1GeRhz",
+        "username": "xincctnnq",
+        "verified": true
+      }
+    ]
+  }
+}

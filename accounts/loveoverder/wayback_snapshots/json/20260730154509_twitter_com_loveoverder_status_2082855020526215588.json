@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082855020526215588",
+    "created_at": "2026-07-30T15:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082855020526215588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938700030539399168",
+          "start": 3,
+          "username": "leo_osn5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082855020526215588",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6954
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082634337065767366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leo_osn5: El verdadero lujo es acostarse a dormir y quedarse dormido inmediatamente"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082855020526215588",
+        "created_at": "2026-07-30T15:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082855020526215588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938700030539399168",
+              "start": 3,
+              "username": "leo_osn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082855020526215588",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6954
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082634337065767366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leo_osn5: El verdadero lujo es acostarse a dormir y quedarse dormido inmediatamente"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938700030539399168",
+        "conversation_id": "2082634337065767366",
+        "created_at": "2026-07-30T01:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082634337065767366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082634337065767366",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 489,
+          "impression_count": 475580,
+          "like_count": 46730,
+          "quote_count": 318,
+          "reply_count": 164,
+          "retweet_count": 6954
+        },
+        "reply_settings": "everyone",
+        "text": "El verdadero lujo es acostarse a dormir y quedarse dormido inmediatamente"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 315,
+          "like_count": 991,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1948
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T20:52:02.000Z",
+        "description": "Dentist\n\n🇸🇾🇦🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/leo_omn5/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/leo_omn5/",
+                "start": 0,
+                "url": "https://t.co/2uH70JYjVp"
+              }
+            ]
+          }
+        },
+        "id": "1938700030539399168",
+        "location": "B.S",
+        "name": "Leo",
+        "pinned_tweet_id": "2063749508543009244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082214960914984960/Mol5Uelu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8689,
+          "following_count": 2299,
+          "like_count": 32200,
+          "listed_count": 5,
+          "media_count": 6,
+          "tweet_count": 2734
+        },
+        "url": "https://t.co/2uH70JYjVp",
+        "username": "leo_osn5",
+        "verified": false
+      }
+    ]
+  }
+}

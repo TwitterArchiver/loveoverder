@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082559082335207424",
+        "3_2082559082372943872"
+      ],
+      "media_source_tweet_id": [
+        "2082559093584347158",
+        "2082559093584347158"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082769505206620649",
+    "created_at": "2026-07-30T10:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082769505206620649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1589777534476247041",
+          "start": 3,
+          "username": "Izumi_Sunagawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gTBBNArpNO",
+          "end": 91,
+          "expanded_url": "https://x.com/Izumi_Sunagawa/status/2082559093584347158/photo/1",
+          "media_key": "3_2082559082335207424",
+          "start": 68,
+          "url": "https://t.co/gTBBNArpNO"
+        },
+        {
+          "display_url": "pic.x.com/gTBBNArpNO",
+          "end": 91,
+          "expanded_url": "https://x.com/Izumi_Sunagawa/status/2082559093584347158/photo/1",
+          "media_key": "3_2082559082372943872",
+          "start": 68,
+          "url": "https://t.co/gTBBNArpNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082769505206620649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12453
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082559093584347158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Izumi_Sunagawa: 台湾の救助隊が、このワッペンを付けて熊本地震の被災地に駆けつけてくれた。\n本当にありがとう❗️ https://t.co/gTBBNArpNO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 652,
+        "media_key": "3_2082559082335207424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOa8c5ZagAAmLXP.jpg",
+        "width": 646
+      },
+      {
+        "height": 678,
+        "media_key": "3_2082559082372943872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOa8c5iaUAA9Zw8.jpg",
+        "width": 615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082559082335207424",
+            "3_2082559082372943872"
+          ]
+        },
+        "author_id": "1589777534476247041",
+        "conversation_id": "2082559093584347158",
+        "created_at": "2026-07-29T20:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082559093584347158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gTBBNArpNO",
+              "end": 71,
+              "expanded_url": "https://x.com/Izumi_Sunagawa/status/2082559093584347158/photo/1",
+              "media_key": "3_2082559082335207424",
+              "start": 48,
+              "url": "https://t.co/gTBBNArpNO"
+            },
+            {
+              "display_url": "pic.x.com/gTBBNArpNO",
+              "end": 71,
+              "expanded_url": "https://x.com/Izumi_Sunagawa/status/2082559093584347158/photo/1",
+              "media_key": "3_2082559082372943872",
+              "start": 48,
+              "url": "https://t.co/gTBBNArpNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082559093584347158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2774,
+          "impression_count": 1850221,
+          "like_count": 92912,
+          "quote_count": 615,
+          "reply_count": 454,
+          "retweet_count": 12453
+        },
+        "reply_settings": "everyone",
+        "text": "台湾の救助隊が、このワッペンを付けて熊本地震の被災地に駆けつけてくれた。\n本当にありがとう❗️ https://t.co/gTBBNArpNO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082559082335207424",
+            "3_2082559082372943872"
+          ],
+          "media_source_tweet_id": [
+            "2082559093584347158",
+            "2082559093584347158"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082769505206620649",
+        "created_at": "2026-07-30T10:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082769505206620649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1589777534476247041",
+              "start": 3,
+              "username": "Izumi_Sunagawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gTBBNArpNO",
+              "end": 91,
+              "expanded_url": "https://x.com/Izumi_Sunagawa/status/2082559093584347158/photo/1",
+              "media_key": "3_2082559082335207424",
+              "start": 68,
+              "url": "https://t.co/gTBBNArpNO"
+            },
+            {
+              "display_url": "pic.x.com/gTBBNArpNO",
+              "end": 91,
+              "expanded_url": "https://x.com/Izumi_Sunagawa/status/2082559093584347158/photo/1",
+              "media_key": "3_2082559082372943872",
+              "start": 68,
+              "url": "https://t.co/gTBBNArpNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082769505206620649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12453
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082559093584347158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Izumi_Sunagawa: 台湾の救助隊が、このワッペンを付けて熊本地震の被災地に駆けつけてくれた。\n本当にありがとう❗️ https://t.co/gTBBNArpNO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 310,
+          "like_count": 960,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1911
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T00:31:27.000Z",
+        "description": "BP130kg、DL200kg、SQ170kgの筋トレガチ勢。反日左翼、しばき隊、不良外国人と戦う愛国、保守アカ。 日本を貶めんとする反日工作員、不良外国人の悪行は許さない。移民政策反対！日本が好きな人、団結しよう！ 無言フォロー大歓迎です(反日除く) 。サブ垢→@izumi_sunagawa2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 132,
+                "username": "izumi_sunagawa2"
+              }
+            ]
+          }
+        },
+        "id": "1589777534476247041",
+        "location": "日本→豪州→アメリカ→台湾→日本",
+        "name": "🇯🇵砂川 泉🎌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005537124330950656/0vbFXWVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74618,
+          "following_count": 6276,
+          "like_count": 93228,
+          "listed_count": 263,
+          "media_count": 4311,
+          "tweet_count": 27727
+        },
+        "url": "",
+        "username": "Izumi_Sunagawa",
+        "verified": true
+      }
+    ]
+  }
+}

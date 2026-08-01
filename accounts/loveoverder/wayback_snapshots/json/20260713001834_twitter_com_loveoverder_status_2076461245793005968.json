@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076291047051956224"
+      ],
+      "media_source_tweet_id": [
+        "2076291055818015080"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076461245793005968",
+    "created_at": "2026-07-13T00:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076461245793005968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1978798059195871233",
+          "start": 3,
+          "username": "gin_givitis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tsx7PRN4Gl",
+          "end": 79,
+          "expanded_url": "https://x.com/gin_givitis/status/2076291055818015080/photo/1",
+          "media_key": "3_2076291047051956224",
+          "start": 56,
+          "url": "https://t.co/tsx7PRN4Gl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076461245793005968",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076291055818015080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gin_givitis: The harder I fly, the further the sky. https://t.co/tsx7PRN4Gl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076291047051956224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNB3tOXbEAA9FZ_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076291047051956224"
+          ],
+          "media_source_tweet_id": [
+            "2076291055818015080"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076461245793005968",
+        "created_at": "2026-07-13T00:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076461245793005968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1978798059195871233",
+              "start": 3,
+              "username": "gin_givitis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsx7PRN4Gl",
+              "end": 79,
+              "expanded_url": "https://x.com/gin_givitis/status/2076291055818015080/photo/1",
+              "media_key": "3_2076291047051956224",
+              "start": 56,
+              "url": "https://t.co/tsx7PRN4Gl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076461245793005968",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076291055818015080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gin_givitis: The harder I fly, the further the sky. https://t.co/tsx7PRN4Gl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076291047051956224"
+          ]
+        },
+        "author_id": "1978798059195871233",
+        "conversation_id": "2076291055818015080",
+        "created_at": "2026-07-12T13:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076291055818015080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsx7PRN4Gl",
+              "end": 62,
+              "expanded_url": "https://x.com/gin_givitis/status/2076291055818015080/photo/1",
+              "media_key": "3_2076291047051956224",
+              "start": 39,
+              "url": "https://t.co/tsx7PRN4Gl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076291055818015080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 19610,
+          "like_count": 2170,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "The harder I fly, the further the sky. https://t.co/tsx7PRN4Gl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 68,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T12:20:18.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gvis403?igsh=M…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gvis403?igsh=MWJkaHhuczZ1YTRqaA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/LaI2DiVerS"
+              }
+            ]
+          }
+        },
+        "id": "1978798059195871233",
+        "name": "裂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992126958545911809/z84tw8AA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10728,
+          "following_count": 37,
+          "like_count": 3037,
+          "listed_count": 37,
+          "media_count": 45,
+          "tweet_count": 71
+        },
+        "url": "https://t.co/LaI2DiVerS",
+        "username": "gin_givitis",
+        "verified": false
+      }
+    ]
+  }
+}

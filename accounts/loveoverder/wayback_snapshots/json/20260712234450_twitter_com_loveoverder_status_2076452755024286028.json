@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076262923874545664"
+      ],
+      "media_source_tweet_id": [
+        "2076263360686088326"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076452755024286028",
+    "created_at": "2026-07-12T23:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T00:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076452755024286028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "105097140",
+          "start": 3,
+          "username": "yoneyamai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X1uMpcDPkI",
+          "end": 47,
+          "expanded_url": "https://x.com/yoneyamai/status/2076263360686088326/video/1",
+          "media_key": "13_2076262923874545664",
+          "start": 24,
+          "url": "https://t.co/X1uMpcDPkI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076452755024286028",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2121
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076263360686088326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoneyamai: WIP_0712 https://t.co/X1uMpcDPkI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6000,
+        "height": 2160,
+        "media_key": "13_2076262923874545664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076262923874545664/img/5gwT4bwD4Apefx-O.jpg",
+        "public_metrics": {
+          "view_count": 98450
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076262923874545664/pl/VJMg0orCj8phb7hx.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076262923874545664/vid/avc1/1080x1208/Yknkr-c11w7it0sH.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076262923874545664/vid/avc1/320x358/g6aw1lw2xoeOk1Ge.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076262923874545664/vid/avc1/720x806/8AFvl0WWjBCO2h8y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076262923874545664/vid/avc1/480x536/uB_a9bJBzLK5sYW4.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076262923874545664/vid/avc1/1928x2160/kRtZK1w8evpeA-m0.mp4"
+          }
+        ],
+        "width": 1928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076262923874545664"
+          ],
+          "media_source_tweet_id": [
+            "2076263360686088326"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076452755024286028",
+        "created_at": "2026-07-12T23:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T00:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076452755024286028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "105097140",
+              "start": 3,
+              "username": "yoneyamai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X1uMpcDPkI",
+              "end": 47,
+              "expanded_url": "https://x.com/yoneyamai/status/2076263360686088326/video/1",
+              "media_key": "13_2076262923874545664",
+              "start": 24,
+              "url": "https://t.co/X1uMpcDPkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076452755024286028",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2121
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076263360686088326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoneyamai: WIP_0712 https://t.co/X1uMpcDPkI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076262923874545664"
+          ]
+        },
+        "author_id": "105097140",
+        "conversation_id": "2076263360686088326",
+        "created_at": "2026-07-12T11:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076263360686088326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X1uMpcDPkI",
+              "end": 32,
+              "expanded_url": "https://x.com/yoneyamai/status/2076263360686088326/video/1",
+              "media_key": "13_2076262923874545664",
+              "start": 9,
+              "url": "https://t.co/X1uMpcDPkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076263360686088326",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2355,
+          "impression_count": 348803,
+          "like_count": 25616,
+          "quote_count": 17,
+          "reply_count": 46,
+          "retweet_count": 2120
+        },
+        "reply_settings": "everyone",
+        "text": "WIP_0712 https://t.co/X1uMpcDPkI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 67,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-15T10:35:46.000Z",
+        "description": "Yoneyama Mai - Illustrator,Animator,Artist 米山舞 \n2026/03/23 - OSAKA GRANDFRONT ART SCRAMBLE屋外彫刻展示\n2026/07/24 - 08/28 KYOTO TSUTAYA 個展arc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yoneyamai/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yoneyamai/",
+                "start": 0,
+                "url": "https://t.co/IvKzNPB6Xf"
+              }
+            ]
+          }
+        },
+        "id": "105097140",
+        "location": "Japan",
+        "name": "米山 舞 Yoneyama Mai",
+        "pinned_tweet_id": "2037476831402819611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1155680462464942081/JBCvjutU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449431,
+          "following_count": 4854,
+          "like_count": 26364,
+          "listed_count": 9395,
+          "media_count": 723,
+          "tweet_count": 25266
+        },
+        "url": "https://t.co/IvKzNPB6Xf",
+        "username": "yoneyamai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076276085512392704"
+      ],
+      "media_source_tweet_id": [
+        "2076276242026991826"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076464972125868443",
+    "created_at": "2026-07-13T00:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076464972125868443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1575815285525053440",
+          "start": 3,
+          "username": "nezumi6214694"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0YI5xOO3xL",
+          "end": 48,
+          "expanded_url": "https://x.com/nezumi6214694/status/2076276242026991826/video/1",
+          "media_key": "13_2076276085512392704",
+          "start": 25,
+          "url": "https://t.co/0YI5xOO3xL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076464972125868443",
+    "lang": "ht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 849
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076276242026991826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nezumi6214694: At BW https://t.co/0YI5xOO3xL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29816,
+        "height": 960,
+        "media_key": "13_2076276085512392704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076276085512392704/img/ytGmDOvDynTVof73.jpg",
+        "public_metrics": {
+          "view_count": 40139
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076276085512392704/vid/avc1/320x426/1KzRBnqOsTMvS7mm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076276085512392704/vid/avc1/480x640/__uKd-0FBZkNf_b5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076276085512392704/vid/avc1/720x960/eSf_ttY2-ArLWxgM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076276085512392704/pl/HP1Oae04IwvRAtQA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076276085512392704"
+          ],
+          "media_source_tweet_id": [
+            "2076276242026991826"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076464972125868443",
+        "created_at": "2026-07-13T00:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076464972125868443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1575815285525053440",
+              "start": 3,
+              "username": "nezumi6214694"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0YI5xOO3xL",
+              "end": 48,
+              "expanded_url": "https://x.com/nezumi6214694/status/2076276242026991826/video/1",
+              "media_key": "13_2076276085512392704",
+              "start": 25,
+              "url": "https://t.co/0YI5xOO3xL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076464972125868443",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 849
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076276242026991826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nezumi6214694: At BW https://t.co/0YI5xOO3xL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076276085512392704"
+          ]
+        },
+        "author_id": "1575815285525053440",
+        "conversation_id": "2076276242026991826",
+        "created_at": "2026-07-12T12:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076276242026991826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0YI5xOO3xL",
+              "end": 29,
+              "expanded_url": "https://x.com/nezumi6214694/status/2076276242026991826/video/1",
+              "media_key": "13_2076276085512392704",
+              "start": 6,
+              "url": "https://t.co/0YI5xOO3xL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076276242026991826",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1128,
+          "impression_count": 129448,
+          "like_count": 7969,
+          "quote_count": 23,
+          "reply_count": 11,
+          "retweet_count": 847
+        },
+        "reply_settings": "everyone",
+        "text": "At BW https://t.co/0YI5xOO3xL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 68,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T11:50:27.000Z",
+        "description": "原型師✉️ unnenhaku@gmail.com  | Booth:https://t.co/VukPDIfXRf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "unnenhaku.booth.pm",
+                "end": 58,
+                "expanded_url": "https://unnenhaku.booth.pm/",
+                "start": 35,
+                "url": "https://t.co/VukPDIfXRf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/3832031402",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/3832031402",
+                "start": 0,
+                "url": "https://t.co/z3GeoWSYfl"
+              }
+            ]
+          }
+        },
+        "id": "1575815285525053440",
+        "location": "Shanghai",
+        "name": "云念白",
+        "pinned_tweet_id": "2045094953798578245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575818737605046274/QF6P-N_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31838,
+          "following_count": 316,
+          "like_count": 2096,
+          "listed_count": 247,
+          "media_count": 152,
+          "tweet_count": 515
+        },
+        "url": "https://t.co/z3GeoWSYfl",
+        "username": "nezumi6214694",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067629691838910464"
+      ],
+      "media_source_tweet_id": [
+        "2075979680147292545"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076442888452616440",
+    "created_at": "2026-07-12T23:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T00:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076442888452616440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1723177835102363648",
+          "start": 3,
+          "username": "ame_daily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1YtbIGli3C",
+          "end": 38,
+          "expanded_url": "https://x.com/ame_daily/status/2075979680147292545/photo/1",
+          "media_key": "3_2067629691838910464",
+          "start": 15,
+          "url": "https://t.co/1YtbIGli3C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076442888452616440",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075979680147292545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ame_daily: https://t.co/1YtbIGli3C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 754,
+        "media_key": "3_2067629691838910464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGyP_0b0AAeZtn.png",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067629691838910464"
+          ],
+          "media_source_tweet_id": [
+            "2075979680147292545"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076442888452616440",
+        "created_at": "2026-07-12T23:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T00:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076442888452616440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1723177835102363648",
+              "start": 3,
+              "username": "ame_daily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1YtbIGli3C",
+              "end": 38,
+              "expanded_url": "https://x.com/ame_daily/status/2075979680147292545/photo/1",
+              "media_key": "3_2067629691838910464",
+              "start": 15,
+              "url": "https://t.co/1YtbIGli3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076442888452616440",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075979680147292545",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ame_daily: https://t.co/1YtbIGli3C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067629691838910464"
+          ]
+        },
+        "author_id": "1723177835102363648",
+        "conversation_id": "2075979680147292545",
+        "created_at": "2026-07-11T16:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075979680147292545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1YtbIGli3C",
+              "end": 23,
+              "expanded_url": "https://x.com/ame_daily/status/2075979680147292545/photo/1",
+              "media_key": "3_2067629691838910464",
+              "start": 0,
+              "url": "https://t.co/1YtbIGli3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075979680147292545",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 4500,
+          "like_count": 544,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1YtbIGli3C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 64,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T03:16:50.000Z",
+        "description": "˚₊‧꒰ა ♱ ໒꒱ ‧₊˚ spoilers + tws !    中/eng/少し日",
+        "id": "1723177835102363648",
+        "location": "scheduled daily posts",
+        "name": "daily ame🥀(and some kangel)",
+        "pinned_tweet_id": "1907438645663187283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852758439208042496/p0V3Enyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9446,
+          "following_count": 10,
+          "like_count": 1037,
+          "listed_count": 7,
+          "media_count": 802,
+          "tweet_count": 1425
+        },
+        "url": "",
+        "username": "ame_daily",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2076428589164060672"
+      ],
+      "media_source_tweet_id": [
+        "2076428631547502806"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076460984387191204",
+    "created_at": "2026-07-13T00:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076460984387191204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1363511844128841730",
+          "start": 3,
+          "username": "hklpwky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hIduzM4vMV",
+          "end": 36,
+          "expanded_url": "https://x.com/hklpwky/status/2076428631547502806/photo/1",
+          "media_key": "16_2076428589164060672",
+          "start": 13,
+          "url": "https://t.co/hIduzM4vMV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076460984387191204",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076428631547502806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hklpwky: https://t.co/hIduzM4vMV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 544,
+        "media_key": "16_2076428589164060672",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HND0zOqW4AAEirH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HND0zOqW4AAEirH.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2076428589164060672"
+          ],
+          "media_source_tweet_id": [
+            "2076428631547502806"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076460984387191204",
+        "created_at": "2026-07-13T00:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076460984387191204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1363511844128841730",
+              "start": 3,
+              "username": "hklpwky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIduzM4vMV",
+              "end": 36,
+              "expanded_url": "https://x.com/hklpwky/status/2076428631547502806/photo/1",
+              "media_key": "16_2076428589164060672",
+              "start": 13,
+              "url": "https://t.co/hIduzM4vMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076460984387191204",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076428631547502806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hklpwky: https://t.co/hIduzM4vMV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2076428589164060672"
+          ]
+        },
+        "author_id": "1363511844128841730",
+        "conversation_id": "2076428631547502806",
+        "created_at": "2026-07-12T22:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T23:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076428631547502806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIduzM4vMV",
+              "end": 23,
+              "expanded_url": "https://x.com/hklpwky/status/2076428631547502806/photo/1",
+              "media_key": "16_2076428589164060672",
+              "start": 0,
+              "url": "https://t.co/hIduzM4vMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076428631547502806",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 4919,
+          "like_count": 807,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hIduzM4vMV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 68,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T15:32:20.000Z",
+        "description": "",
+        "id": "1363511844128841730",
+        "name": "deri",
+        "pinned_tweet_id": "2064688194650611850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988223951999234048/MHSuweGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7947,
+          "following_count": 98,
+          "like_count": 120220,
+          "listed_count": 33,
+          "media_count": 124,
+          "tweet_count": 3516
+        },
+        "url": "",
+        "username": "hklpwky",
+        "verified": false
+      }
+    ]
+  }
+}

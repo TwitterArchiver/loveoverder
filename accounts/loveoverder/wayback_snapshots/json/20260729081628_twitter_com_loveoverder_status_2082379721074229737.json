@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082067192611508226"
+      ],
+      "media_source_tweet_id": [
+        "2082067202040385876"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082379721074229737",
+    "created_at": "2026-07-29T08:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082379721074229737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1602328096622800896",
+          "start": 3,
+          "username": "dutyge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CdSPH4yu1c",
+          "end": 67,
+          "expanded_url": "https://x.com/dutyge/status/2082067202040385876/photo/1",
+          "media_key": "3_2082067192611508226",
+          "start": 44,
+          "url": "https://t.co/CdSPH4yu1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082379721074229737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082067202040385876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dutyge: 为什么有无数中国人民，瞧不上西方福利？\n\n因为没有真正感受过。 https://t.co/CdSPH4yu1c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1529,
+        "media_key": "3_2082067192611508226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT9FJYakAIvJ6i.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082067192611508226"
+          ]
+        },
+        "author_id": "1602328096622800896",
+        "conversation_id": "2082067202040385876",
+        "created_at": "2026-07-28T11:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082067202040385876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdSPH4yu1c",
+              "end": 55,
+              "expanded_url": "https://x.com/dutyge/status/2082067202040385876/photo/1",
+              "media_key": "3_2082067192611508226",
+              "start": 32,
+              "url": "https://t.co/CdSPH4yu1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082067202040385876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 170885,
+          "like_count": 2127,
+          "quote_count": 9,
+          "reply_count": 166,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有无数中国人民，瞧不上西方福利？\n\n因为没有真正感受过。 https://t.co/CdSPH4yu1c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082067192611508226"
+          ],
+          "media_source_tweet_id": [
+            "2082067202040385876"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082379721074229737",
+        "created_at": "2026-07-29T08:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082379721074229737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1602328096622800896",
+              "start": 3,
+              "username": "dutyge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdSPH4yu1c",
+              "end": 67,
+              "expanded_url": "https://x.com/dutyge/status/2082067202040385876/photo/1",
+              "media_key": "3_2082067192611508226",
+              "start": 44,
+              "url": "https://t.co/CdSPH4yu1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082379721074229737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082067202040385876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dutyge: 为什么有无数中国人民，瞧不上西方福利？\n\n因为没有真正感受过。 https://t.co/CdSPH4yu1c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 309,
+          "like_count": 908,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1832
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "失业报道采集检索",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913529297802756096/Zhm8-Qqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57977,
+          "following_count": 96,
+          "like_count": 0,
+          "listed_count": 280,
+          "media_count": 9176,
+          "tweet_count": 15384
+        },
+        "url": "",
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

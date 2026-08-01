@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076448884319207533",
+    "created_at": "2026-07-12T23:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T00:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076448884319207533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1593650874701619200",
+          "start": 3,
+          "username": "qandv746484"
+        },
+        {
+          "end": 33,
+          "id": "1031126178994765824",
+          "start": 17,
+          "username": "0xVeryBigOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076448884319207533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076275738504995167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qandv746484: @0xVeryBigOrange 跟单要是能致富，每个贫困村 派个交易员 村民一人发个手机就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076448884319207533",
+        "created_at": "2026-07-12T23:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T00:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076448884319207533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1593650874701619200",
+              "start": 3,
+              "username": "qandv746484"
+            },
+            {
+              "end": 33,
+              "id": "1031126178994765824",
+              "start": 17,
+              "username": "0xVeryBigOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076448884319207533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076275738504995167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qandv746484: @0xVeryBigOrange 跟单要是能致富，每个贫困村 派个交易员 村民一人发个手机就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593650874701619200",
+        "conversation_id": "2076254516777755034",
+        "created_at": "2026-07-12T12:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076275738504995167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1031126178994765824",
+              "start": 0,
+              "username": "0xVeryBigOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076275738504995167",
+        "in_reply_to_user_id": "1031126178994765824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1994,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076254516777755034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xVeryBigOrange 跟单要是能致富，每个贫困村 派个交易员 村民一人发个手机就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 63,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T17:02:45.000Z",
+        "description": "",
+        "id": "1593650874701619200",
+        "location": "San Francisco, CA",
+        "name": "Soo",
+        "pinned_tweet_id": "2069005683798966315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911339507028258816/mty6XPUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 289,
+          "like_count": 59,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "qandv746484",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-19T10:30:13.000Z",
+        "description": "永远在车上永远哭的稀里哗啦。\n\nBelieve in somETHing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/0xolid",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/0xolid",
+                "start": 0,
+                "url": "https://t.co/YSWA985VKl"
+              }
+            ]
+          }
+        },
+        "id": "1031126178994765824",
+        "location": "Singapore",
+        "name": "很大很大的橙子",
+        "pinned_tweet_id": "1905174352519426151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1406527898308136961/jRLnNYIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92307,
+          "following_count": 990,
+          "like_count": 5249,
+          "listed_count": 1162,
+          "media_count": 3525,
+          "tweet_count": 8836
+        },
+        "url": "https://t.co/YSWA985VKl",
+        "username": "0xVeryBigOrange",
+        "verified": true
+      }
+    ]
+  }
+}

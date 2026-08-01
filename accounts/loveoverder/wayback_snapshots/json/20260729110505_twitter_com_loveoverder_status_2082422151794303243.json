@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082050796469022720"
+      ],
+      "media_source_tweet_id": [
+        "2082050805251850507"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2082422151794303243",
+    "created_at": "2026-07-29T11:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082422151794303243"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 21,
+          "tag": "エヴァンゲリオン"
+        },
+        {
+          "end": 42,
+          "start": 31,
+          "tag": "evangelion"
+        },
+        {
+          "end": 49,
+          "start": 44,
+          "tag": "綾波レイ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892437801322631168",
+          "start": 3,
+          "username": "Namekata_rei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sXrREZKSoO",
+          "end": 73,
+          "expanded_url": "https://x.com/Namekata_rei/status/2082050805251850507/photo/1",
+          "media_key": "3_2082050796469022720",
+          "start": 50,
+          "url": "https://t.co/sXrREZKSoO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082422151794303243",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1459
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082050805251850507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Namekata_rei: 凝視\n#エヴァンゲリオン\n#evangelion \n#綾波レイ https://t.co/sXrREZKSoO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082050796469022720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTuKw_a8AABI5V.jpg",
+        "width": 1647
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082050796469022720"
+          ]
+        },
+        "author_id": "1892437801322631168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2082050805251850507",
+        "created_at": "2026-07-28T10:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082050805251850507"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 3,
+              "tag": "エヴァンゲリオン"
+            },
+            {
+              "end": 24,
+              "start": 13,
+              "tag": "evangelion"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "綾波レイ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXrREZKSoO",
+              "end": 55,
+              "expanded_url": "https://x.com/Namekata_rei/status/2082050805251850507/photo/1",
+              "media_key": "3_2082050796469022720",
+              "start": 32,
+              "url": "https://t.co/sXrREZKSoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082050805251850507",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1994,
+          "impression_count": 156535,
+          "like_count": 14523,
+          "quote_count": 25,
+          "reply_count": 0,
+          "retweet_count": 1459
+        },
+        "reply_settings": "following",
+        "text": "凝視\n#エヴァンゲリオン\n#evangelion \n#綾波レイ https://t.co/sXrREZKSoO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082050796469022720"
+          ],
+          "media_source_tweet_id": [
+            "2082050805251850507"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2082422151794303243",
+        "created_at": "2026-07-29T11:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082422151794303243"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "エヴァンゲリオン"
+            },
+            {
+              "end": 42,
+              "start": 31,
+              "tag": "evangelion"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "綾波レイ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892437801322631168",
+              "start": 3,
+              "username": "Namekata_rei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXrREZKSoO",
+              "end": 73,
+              "expanded_url": "https://x.com/Namekata_rei/status/2082050805251850507/photo/1",
+              "media_key": "3_2082050796469022720",
+              "start": 50,
+              "url": "https://t.co/sXrREZKSoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082422151794303243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1459
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082050805251850507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Namekata_rei: 凝視\n#エヴァンゲリオン\n#evangelion \n#綾波レイ https://t.co/sXrREZKSoO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 315,
+          "like_count": 932,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1868
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T04:55:45.000Z",
+        "description": "🟰なめかたれい\nイラスト / Illustration\n主オリジナル・旧作アニメ\n✉️ kaukrtya0915@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/Namekata…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/Namekata_rei",
+                "start": 0,
+                "url": "https://t.co/Ai67grGZaW"
+              }
+            ]
+          }
+        },
+        "id": "1892437801322631168",
+        "name": "行方礼",
+        "pinned_tweet_id": "1929827594670952556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050384773940727808/ENixHTSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4296,
+          "following_count": 251,
+          "like_count": 1499,
+          "listed_count": 17,
+          "media_count": 40,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/Ai67grGZaW",
+        "username": "Namekata_rei",
+        "verified": false
+      }
+    ]
+  }
+}

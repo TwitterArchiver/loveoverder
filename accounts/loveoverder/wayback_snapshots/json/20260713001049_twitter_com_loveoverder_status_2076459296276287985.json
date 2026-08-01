@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076459296276287985",
+    "created_at": "2026-07-13T00:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076459296276287985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1397093006805721089",
+          "start": 3,
+          "username": "X7oWRP54ixapam4"
+        },
+        {
+          "end": 29,
+          "id": "1246854302791913472",
+          "start": 21,
+          "username": "0xphilo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076459296276287985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076310803826020756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X7oWRP54ixapam4: @0xphilo 男孩至少不用折腾，躺在沙发上就把钱花了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076459296276287985",
+        "created_at": "2026-07-13T00:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076459296276287985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1397093006805721089",
+              "start": 3,
+              "username": "X7oWRP54ixapam4"
+            },
+            {
+              "end": 29,
+              "id": "1246854302791913472",
+              "start": 21,
+              "username": "0xphilo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076459296276287985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076310803826020756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @X7oWRP54ixapam4: @0xphilo 男孩至少不用折腾，躺在沙发上就把钱花了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397093006805721089",
+        "conversation_id": "2076251941374693504",
+        "created_at": "2026-07-12T14:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076310803826020756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1246854302791913472",
+              "start": 0,
+              "username": "0xphilo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076310803826020756",
+        "in_reply_to_user_id": "1246854302791913472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 649,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076251941374693504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xphilo 男孩至少不用折腾，躺在沙发上就把钱花了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 68,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-25T07:31:52.000Z",
+        "description": "may peaceful light sun the world",
+        "id": "1397093006805721089",
+        "location": "Tokyo-to, Japan",
+        "name": "なひだ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616264297075863553/ZE60e7LM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 4023,
+          "like_count": 331,
+          "listed_count": 8,
+          "media_count": 7,
+          "tweet_count": 361
+        },
+        "url": "",
+        "username": "X7oWRP54ixapam4",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-05T17:37:08.000Z",
+        "description": "00后辍学\nall in web3 \nall in ai\nbuilding @zerobankdapp \nai频道：https://t.co/3EdjAqqLUl\n一级频道：https://t.co/9S3Bib1j0Q\n一级社区：https://t.co/scSJEwe4FX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "zerobankdapp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/gpthubin",
+                "end": 81,
+                "expanded_url": "https://t.me/gpthubin",
+                "start": 58,
+                "url": "https://t.co/3EdjAqqLUl"
+              },
+              {
+                "display_url": "t.me/PhiloAlpha",
+                "end": 110,
+                "expanded_url": "http://t.me/PhiloAlpha",
+                "start": 87,
+                "url": "https://t.co/9S3Bib1j0Q"
+              },
+              {
+                "display_url": "t.me/chunancommunity",
+                "end": 139,
+                "expanded_url": "https://t.me/chunancommunity",
+                "start": 116,
+                "url": "https://t.co/scSJEwe4FX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "philo.baby",
+                "end": 23,
+                "expanded_url": "http://philo.baby",
+                "start": 0,
+                "url": "https://t.co/O8HIrql6gi"
+              }
+            ]
+          }
+        },
+        "id": "1246854302791913472",
+        "location": "web3",
+        "name": "PP",
+        "pinned_tweet_id": "1977059861927284830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801671061475627009/1jdfb2Rf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21637,
+          "following_count": 3165,
+          "like_count": 13779,
+          "listed_count": 235,
+          "media_count": 982,
+          "tweet_count": 8431
+        },
+        "url": "https://t.co/O8HIrql6gi",
+        "username": "0xphilo",
+        "verified": true
+      }
+    ]
+  }
+}
