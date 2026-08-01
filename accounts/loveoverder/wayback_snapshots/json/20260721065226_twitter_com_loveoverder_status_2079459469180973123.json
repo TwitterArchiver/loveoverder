@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079176283444195328"
+      ],
+      "media_source_tweet_id": [
+        "2079176306445742345"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2079459469180973123",
+    "created_at": "2026-07-21T06:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079459469180973123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747564201693077504",
+          "start": 3,
+          "username": "2rohaky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gu9aK7nUm5",
+          "end": 51,
+          "expanded_url": "https://x.com/2rohaky/status/2079176306445742345/video/1",
+          "media_key": "13_2079176283444195328",
+          "start": 28,
+          "url": "https://t.co/gu9aK7nUm5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079459469180973123",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6867
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079176306445742345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @2rohaky: 앞으로월급들어오면이짤쓸거임 https://t.co/gu9aK7nUm5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6133,
+        "height": 720,
+        "media_key": "13_2079176283444195328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079176283444195328/img/EThkzFaUNBC5F2J3.jpg",
+        "public_metrics": {
+          "view_count": 209588
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079176283444195328/vid/avc1/360x270/k45PaHYpKYr4AXlx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079176283444195328/vid/avc1/480x360/4TdRhWENWol1DGis.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079176283444195328/vid/avc1/960x720/7g9tFXExDNmbZ4Lu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079176283444195328/pl/pD2jvqvQG58A3Fu3.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079176283444195328"
+          ]
+        },
+        "author_id": "1747564201693077504",
+        "conversation_id": "2079176306445742345",
+        "created_at": "2026-07-20T12:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079176306445742345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gu9aK7nUm5",
+              "end": 38,
+              "expanded_url": "https://x.com/2rohaky/status/2079176306445742345/video/1",
+              "media_key": "13_2079176283444195328",
+              "start": 15,
+              "url": "https://t.co/gu9aK7nUm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079176306445742345",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5691,
+          "impression_count": 579406,
+          "like_count": 36179,
+          "quote_count": 323,
+          "reply_count": 0,
+          "retweet_count": 6865
+        },
+        "reply_settings": "following",
+        "text": "앞으로월급들어오면이짤쓸거임 https://t.co/gu9aK7nUm5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079176283444195328"
+          ],
+          "media_source_tweet_id": [
+            "2079176306445742345"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2079459469180973123",
+        "created_at": "2026-07-21T06:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079459469180973123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747564201693077504",
+              "start": 3,
+              "username": "2rohaky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gu9aK7nUm5",
+              "end": 51,
+              "expanded_url": "https://x.com/2rohaky/status/2079176306445742345/video/1",
+              "media_key": "13_2079176283444195328",
+              "start": 28,
+              "url": "https://t.co/gu9aK7nUm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079459469180973123",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6867
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079176306445742345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @2rohaky: 앞으로월급들어오면이짤쓸거임 https://t.co/gu9aK7nUm5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 213,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 931
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-17T10:19:32.000Z",
+        "description": "냐냐냥!! (로하보고싶다는뜻)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/iroha_archive",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/iroha_archive",
+                "start": 0,
+                "url": "https://t.co/URqplFPzMp"
+              }
+            ]
+          }
+        },
+        "id": "1747564201693077504",
+        "name": "ㄹㅋ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062446210150289408/M9VIn0Fk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 37,
+          "like_count": 20,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 1771
+        },
+        "url": "https://t.co/URqplFPzMp",
+        "username": "2rohaky",
+        "verified": false
+      }
+    ]
+  }
+}

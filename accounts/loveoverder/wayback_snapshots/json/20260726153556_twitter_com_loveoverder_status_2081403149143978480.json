@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081074930217615360"
+      ],
+      "media_source_tweet_id": [
+        "2081076157047250986"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081403149143978480",
+    "created_at": "2026-07-26T15:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081403149143978480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1002909276426440705",
+          "start": 3,
+          "username": "xraykh_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U8DPzHXULg",
+          "end": 107,
+          "expanded_url": "https://x.com/i/status/2081076157047250986/video/1",
+          "media_key": "13_2081074930217615360",
+          "start": 84,
+          "url": "https://t.co/U8DPzHXULg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081403149143978480",
+    "lang": "ar",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 535
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081099714385080707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xraykh_: انصدمت لما قرأت تقرير عن الفهود يقول انه لا توجد اي حالات وفاة بسببهم  https://t.co/U8DPzHXULg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24681,
+        "height": 1280,
+        "media_key": "13_2081074930217615360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081074930217615360/img/UqKZNGwt8XEh0Myr.jpg",
+        "public_metrics": {
+          "view_count": 275522
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081074930217615360/vid/avc1/320x568/jNcsMAtaOribsp1E.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081074930217615360/vid/avc1/480x852/U9MGapCXAdn_rCbJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081074930217615360/vid/avc1/720x1280/8d5JMV39reKD3ZGI.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081074930217615360/pl/vmJfnmeQdSCwWaf-.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081074930217615360"
+          ]
+        },
+        "author_id": "2057368734642089984",
+        "conversation_id": "2081076157047250986",
+        "created_at": "2026-07-25T17:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081076157047250986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3Pu97f9px",
+              "end": 23,
+              "expanded_url": "https://x.com/videos529811/status/2081076157047250986/video/1",
+              "media_key": "13_2081074930217615360",
+              "start": 0,
+              "url": "https://t.co/U3Pu97f9px"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081076157047250986",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 442537,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/U3Pu97f9px"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081074930217615360"
+          ],
+          "media_source_tweet_id": [
+            "2081076157047250986"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081403149143978480",
+        "created_at": "2026-07-26T15:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081403149143978480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1002909276426440705",
+              "start": 3,
+              "username": "xraykh_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U8DPzHXULg",
+              "end": 107,
+              "expanded_url": "https://x.com/i/status/2081076157047250986/video/1",
+              "media_key": "13_2081074930217615360",
+              "start": 84,
+              "url": "https://t.co/U8DPzHXULg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081403149143978480",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 535
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081099714385080707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xraykh_: انصدمت لما قرأت تقرير عن الفهود يقول انه لا توجد اي حالات وفاة بسببهم  https://t.co/U8DPzHXULg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081074930217615360"
+          ],
+          "media_source_tweet_id": [
+            "2081076157047250986"
+          ]
+        },
+        "author_id": "1002909276426440705",
+        "conversation_id": "2081099714385080707",
+        "created_at": "2026-07-25T19:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081099714385080707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U8DPzHXULg",
+              "end": 94,
+              "expanded_url": "https://x.com/i/status/2081076157047250986/video/1",
+              "media_key": "13_2081074930217615360",
+              "start": 71,
+              "url": "https://t.co/U8DPzHXULg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081099714385080707",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1076,
+          "impression_count": 629059,
+          "like_count": 9658,
+          "quote_count": 85,
+          "reply_count": 109,
+          "retweet_count": 535
+        },
+        "reply_settings": "everyone",
+        "text": "انصدمت لما قرأت تقرير عن الفهود يقول انه لا توجد اي حالات وفاة بسببهم  https://t.co/U8DPzHXULg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 253,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1394
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-02T13:46:19.000Z",
+        "description": "( وَاذْكُر رَّبَّكَ إِذَا نَسِيتَ ) |ثريدات يومية ومواضيع متنوعة من أخبار وغرائب،هاوي ومحب للعطور، وخانة المميزة تجمع كل ثريدات وتجارب العطور Amazon Associate📦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wtspee.com/966580211121",
+                "end": 23,
+                "expanded_url": "https://www.wtspee.com/966580211121",
+                "start": 0,
+                "url": "https://t.co/R8sEgyQ4pg"
+              }
+            ]
+          }
+        },
+        "id": "1002909276426440705",
+        "location": "عنيزة",
+        "name": "خالد العويمري",
+        "pinned_tweet_id": "2081309821521850854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488226640928944128/qw0CyN8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024053,
+          "following_count": 701,
+          "like_count": 433769,
+          "listed_count": 868,
+          "media_count": 17855,
+          "tweet_count": 43799
+        },
+        "url": "https://t.co/R8sEgyQ4pg",
+        "username": "xraykh_",
+        "verified": true
+      }
+    ]
+  }
+}

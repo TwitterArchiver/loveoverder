@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076185251760812090",
+    "created_at": "2026-07-12T11:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076264117627929016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880947070837964800",
+          "start": 0,
+          "username": "Guillermin45548"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076264117627929016",
+    "in_reply_to_user_id": "1880947070837964800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076185251760812090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guillermin45548 這種牌子雖然貴但是好用，我自動鉛筆用的百樂的鉛，超級好用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2076185248761827329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAXe9Ba0AE5IRg.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076185251760812090",
+        "created_at": "2026-07-12T11:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076264117627929016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880947070837964800",
+              "start": 0,
+              "username": "Guillermin45548"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076264117627929016",
+        "in_reply_to_user_id": "1880947070837964800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076185251760812090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guillermin45548 這種牌子雖然貴但是好用，我自動鉛筆用的百樂的鉛，超級好用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076185248761827329"
+          ]
+        },
+        "author_id": "1880947070837964800",
+        "conversation_id": "2076185251760812090",
+        "created_at": "2026-07-12T06:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076185251760812090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PHkjhFLqcY",
+              "end": 55,
+              "expanded_url": "https://x.com/Guillermin45548/status/2076185251760812090/photo/1",
+              "media_key": "3_2076185248761827329",
+              "start": 32,
+              "url": "https://t.co/PHkjhFLqcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076185251760812090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2621,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的文具怎么这么贵，一根笔都快赶上一顿饭钱了，老板是犹太人？ https://t.co/PHkjhFLqcY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 43,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:14.000Z",
+        "description": "07年中专不读生，辍学后无社交试图在网上找些存在感，日常记录碎碎念，大家的情绪垃圾桶，祝天天开心～",
+        "id": "1880947070837964800",
+        "name": "瑶瑶睡不着💤",
+        "pinned_tweet_id": "2075927212734451833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075590220117094400/Lvbru8uj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20223,
+          "following_count": 108,
+          "like_count": 1214,
+          "listed_count": 18,
+          "media_count": 530,
+          "tweet_count": 2231
+        },
+        "url": "",
+        "username": "Guillermin45548",
+        "verified": true
+      }
+    ]
+  }
+}

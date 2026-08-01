@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2029969672146178048"
+      ],
+      "media_source_tweet_id": [
+        "2029969731583725648"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081406419933573454",
+    "created_at": "2026-07-26T15:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081406419933573454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1504614847337619458",
+          "start": 3,
+          "username": "andresmiguer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OqBPgidBmf",
+          "end": 106,
+          "expanded_url": "https://x.com/andresmiguer/status/2029969731583725648/video/1",
+          "media_key": "13_2029969672146178048",
+          "start": 83,
+          "url": "https://t.co/OqBPgidBmf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081406419933573454",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6756
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081181422673432953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @andresmiguer: como me siento cuando me dejan con personas que acabo de conocer https://t.co/OqBPgidBmf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8189,
+        "height": 720,
+        "media_key": "13_2029969672146178048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029969672146178048/img/mKDmGumeRhYz48WO.jpg",
+        "public_metrics": {
+          "view_count": 1075785
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029969672146178048/vid/avc1/386x270/_PdAY80R2NkEk5ix.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029969672146178048/vid/avc1/516x360/zTlVyND8ZEU1Qwdf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029969672146178048/vid/avc1/1034x720/Vv8XtDRZ4uiEowbi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029969672146178048/pl/5SEg-sS4ORBB_Pnb.m3u8"
+          }
+        ],
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029969672146178048"
+          ]
+        },
+        "author_id": "1504614847337619458",
+        "conversation_id": "2029969731583725648",
+        "created_at": "2026-03-06T17:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029969731583725648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xoyE32HIs6",
+              "end": 102,
+              "expanded_url": "https://x.com/andresmiguer/status/2029969731583725648/video/1",
+              "media_key": "13_2029969672146178048",
+              "start": 79,
+              "url": "https://t.co/xoyE32HIs6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029969731583725648",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4649,
+          "impression_count": 1099258,
+          "like_count": 85193,
+          "quote_count": 258,
+          "reply_count": 34,
+          "retweet_count": 11300
+        },
+        "reply_settings": "everyone",
+        "text": "yo cuando salgo con mis amigos y me dejan con el amigo de ellos que no conozco https://t.co/xoyE32HIs6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029969672146178048"
+          ],
+          "media_source_tweet_id": [
+            "2029969731583725648"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081406419933573454",
+        "created_at": "2026-07-26T15:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081406419933573454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1504614847337619458",
+              "start": 3,
+              "username": "andresmiguer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqBPgidBmf",
+              "end": 106,
+              "expanded_url": "https://x.com/andresmiguer/status/2029969731583725648/video/1",
+              "media_key": "13_2029969672146178048",
+              "start": 83,
+              "url": "https://t.co/OqBPgidBmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081406419933573454",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081181422673432953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @andresmiguer: como me siento cuando me dejan con personas que acabo de conocer https://t.co/OqBPgidBmf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029969672146178048"
+          ],
+          "media_source_tweet_id": [
+            "2029969731583725648"
+          ]
+        },
+        "author_id": "1504614847337619458",
+        "conversation_id": "2081181422673432953",
+        "created_at": "2026-07-26T00:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081181422673432953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqBPgidBmf",
+              "end": 88,
+              "expanded_url": "https://x.com/andresmiguer/status/2029969731583725648/video/1",
+              "media_key": "13_2029969672146178048",
+              "start": 65,
+              "url": "https://t.co/OqBPgidBmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081181422673432953",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1343,
+          "impression_count": 310308,
+          "like_count": 39085,
+          "quote_count": 97,
+          "reply_count": 16,
+          "retweet_count": 6756
+        },
+        "reply_settings": "everyone",
+        "text": "como me siento cuando me dejan con personas que acabo de conocer https://t.co/OqBPgidBmf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 253,
+          "like_count": 679,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1402
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T00:25:25.000Z",
+        "description": "no te lo tomes personal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/andresmiguer?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/andresmiguer?igsh=MTFmMThyaTV5eGNqMQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/6Wz0ssVJf9"
+              }
+            ]
+          }
+        },
+        "id": "1504614847337619458",
+        "name": "andrés",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072172140875415552/uOTO1nMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7247,
+          "following_count": 400,
+          "like_count": 85143,
+          "listed_count": 8,
+          "media_count": 2954,
+          "tweet_count": 9420
+        },
+        "url": "https://t.co/6Wz0ssVJf9",
+        "username": "andresmiguer",
+        "verified": false
+      }
+    ]
+  }
+}

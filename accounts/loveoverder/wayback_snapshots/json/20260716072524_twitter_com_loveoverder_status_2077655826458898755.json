@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2077655826458898755",
+    "created_at": "2026-07-16T07:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T08:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077655826458898755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/soheeoe/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/soheeoe/status/2077544668569756057",
+          "start": 4,
+          "url": "https://t.co/HDiE0JSy19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077655826458898755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077544668569756057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我哭了 https://t.co/HDiE0JSy19"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2077655826458898755",
+        "created_at": "2026-07-16T07:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077655826458898755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/soheeoe/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/soheeoe/status/2077544668569756057",
+              "start": 4,
+              "url": "https://t.co/HDiE0JSy19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077655826458898755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077544668569756057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哭了 https://t.co/HDiE0JSy19"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "942449615760007169",
+        "conversation_id": "2077472111409697013",
+        "created_at": "2026-07-16T00:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077544668569756057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1746470058761887744",
+              "start": 0,
+              "username": "qingyue820"
+            },
+            {
+              "end": 23,
+              "id": "1442846065473032198",
+              "start": 12,
+              "username": "Goupenguin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077544668569756057",
+        "in_reply_to_user_id": "1746470058761887744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 869,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077472111409697013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingyue820 @Goupenguin 还以为住桥洞，原来是住别墅🏡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 209,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 875
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-17T17:41:13.000Z",
+        "description": "The Honest Leek（诚实的韭菜）| 投机市场老韭菜 | 只讲真话，不卖课，不喊单 | AI+比特币长期主义观察者",
+        "id": "942449615760007169",
+        "location": "china",
+        "name": "Leek With Receipts",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976906450879627265/5WfHp467_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 1886,
+          "like_count": 1168,
+          "listed_count": 3,
+          "media_count": 626,
+          "tweet_count": 6270
+        },
+        "url": "",
+        "username": "soheeoe",
+        "verified": true
+      }
+    ]
+  }
+}

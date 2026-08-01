@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076631748361043970",
+    "created_at": "2026-07-13T11:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T12:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076631748361043970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Wesley10032/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Wesley10032/status/2076616012519366665",
+          "start": 6,
+          "url": "https://t.co/gM5vPHzWkW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076631748361043970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076616012519366665",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這個好漂亮 https://t.co/gM5vPHzWkW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_2076616006152458240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGfQVWbkAAuw8A.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076631748361043970",
+        "created_at": "2026-07-13T11:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076631748361043970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Wesley10032/status/2076616012519366665",
+              "start": 6,
+              "url": "https://t.co/gM5vPHzWkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076631748361043970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076616012519366665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個好漂亮 https://t.co/gM5vPHzWkW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076616006152458240"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076523045368250841",
+        "created_at": "2026-07-13T10:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076616012519366665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aUhbdSolOX",
+              "end": 39,
+              "expanded_url": "https://x.com/Wesley10032/status/2076616012519366665/photo/1",
+              "media_key": "3_2076616006152458240",
+              "start": 16,
+              "url": "https://t.co/aUhbdSolOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076616012519366665",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076523045368250841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akihiro_0313 😋 https://t.co/aUhbdSolOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 138,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 512
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)/兴趣相近互fo\n魔裁(まのさば)/ 崩铁(HSR)/Galgame\n头像来自@pale_noon\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n防失联@Wesley10033\n和平友善交流 谢绝人身攻击",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "pale_noon"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912735362387968/eccaKvtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 517,
+          "like_count": 3619,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 811
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+          "id": "1011352563667558400",
+          "name": "Economic Issues in Japan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+          "id": "1144330382864556032",
+          "name": "Japanese Foreign Relation "
+        }
+      }
+    ],
+    "conversation_id": "2081551906468720950",
+    "created_at": "2026-07-27T01:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T02:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081551906468720950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1934229621022846976",
+          "start": 3,
+          "username": "NFLF_Liberal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081551906468720950",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2204
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080973917259538697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NFLF_Liberal: 日本から淫夢を輸入してるのにパンダを輸出しない恩知らず国家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+              "id": "1144330382864556032",
+              "name": "Japanese Foreign Relation "
+            }
+          }
+        ],
+        "conversation_id": "2081551906468720950",
+        "created_at": "2026-07-27T01:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081551906468720950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934229621022846976",
+              "start": 3,
+              "username": "NFLF_Liberal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081551906468720950",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2204
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080973917259538697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NFLF_Liberal: 日本から淫夢を輸入してるのにパンダを輸出しない恩知らず国家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934229621022846976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+              "id": "1144330382864556032",
+              "name": "Japanese Foreign Relation "
+            }
+          }
+        ],
+        "conversation_id": "2080973917259538697",
+        "created_at": "2026-07-25T11:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080973917259538697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YahooNewsTopic…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/YahooNewsTopics/status/2080782579511464305",
+              "start": 30,
+              "url": "https://t.co/pOrCBRsDjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080973917259538697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1360,
+          "impression_count": 2434293,
+          "like_count": 26632,
+          "quote_count": 178,
+          "reply_count": 115,
+          "retweet_count": 2206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080782579511464305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本から淫夢を輸入してるのにパンダを輸出しない恩知らず国家 https://t.co/pOrCBRsDjN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 256,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1438
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T12:41:08.000Z",
+        "description": "FEC / FRA系譜の共同運営アカウント \n#Newデイリーヌソヌソ │ #ヌソヌソレア │ #リベの勉強会 │ #リベらーと │ #フォロバ100",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 23,
+                "tag": "Newデイリーヌソヌソ"
+              },
+              {
+                "end": 45,
+                "start": 38,
+                "tag": "ヌソヌソレア"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "tag": "リベの勉強会"
+              },
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "リベらーと"
+              },
+              {
+                "end": 75,
+                "start": 67,
+                "tag": "フォロバ100"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nflf0314.wixsite.com/liberal-paint",
+                "end": 23,
+                "expanded_url": "https://nflf0314.wixsite.com/liberal-paint",
+                "start": 0,
+                "url": "https://t.co/FFUgxyufTH"
+              }
+            ]
+          }
+        },
+        "id": "1934229621022846976",
+        "location": "　（旧JPF）創設2025,6/19",
+        "name": "NFLF",
+        "pinned_tweet_id": "2068396268251230592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054906187544727553/I7qhS77N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 2906,
+          "like_count": 7185,
+          "listed_count": 6,
+          "media_count": 886,
+          "tweet_count": 8258
+        },
+        "url": "https://t.co/FFUgxyufTH",
+        "username": "NFLF_Liberal",
+        "verified": true
+      }
+    ]
+  }
+}

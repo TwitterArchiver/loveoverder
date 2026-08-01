@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076639030486381028",
+    "created_at": "2026-07-13T12:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076639030486381028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981638054688501760",
+          "start": 3,
+          "username": "ashasw114514"
+        },
+        {
+          "end": 34,
+          "id": "1800782392346783744",
+          "start": 18,
+          "username": "DOUDEMOII_y92z0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076639030486381028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055131391537652213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashasw114514: @DOUDEMOII_y92z0 不论男人女人跨性别，只要你是反贼就都可以找我领一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076639030486381028",
+        "created_at": "2026-07-13T12:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076639030486381028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981638054688501760",
+              "start": 3,
+              "username": "ashasw114514"
+            },
+            {
+              "end": 34,
+              "id": "1800782392346783744",
+              "start": 18,
+              "username": "DOUDEMOII_y92z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076639030486381028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055131391537652213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashasw114514: @DOUDEMOII_y92z0 不论男人女人跨性别，只要你是反贼就都可以找我领一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2054938283185172769",
+        "created_at": "2026-05-15T03:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055131391537652213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800782392346783744",
+              "start": 0,
+              "username": "DOUDEMOII_y92z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055131391537652213",
+        "in_reply_to_user_id": "1800782392346783744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3058,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055124507040563214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOUDEMOII_y92z0 不论男人女人跨性别，只要你是反贼就都可以找我领一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 144,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 516
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4840,
+          "following_count": 3622,
+          "like_count": 8695,
+          "listed_count": 10,
+          "media_count": 729,
+          "tweet_count": 6282
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-12T06:49:27.000Z",
+        "description": "人民說毛主席萬歲，本毛擺擺手👋說人民萬歲\n我很難受，叫江青來@lyb1007 @Taffydaisuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "lyb1007"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "Taffydaisuki"
+              }
+            ]
+          }
+        },
+        "id": "1800782392346783744",
+        "location": "毛澤東紀念堂",
+        "name": "🇨🇳躺在水晶棺材裡的臘圣📕🚩",
+        "pinned_tweet_id": "1800799125124026874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067455348844511233/OrhMsflw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 130,
+          "like_count": 2030,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 589
+        },
+        "url": "",
+        "username": "DOUDEMOII_y92z0",
+        "verified": false
+      }
+    ]
+  }
+}

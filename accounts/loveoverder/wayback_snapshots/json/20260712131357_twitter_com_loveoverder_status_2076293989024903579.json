@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074831041907593216"
+      ],
+      "media_source_tweet_id": [
+        "2076260287611568334"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076293989024903579",
+    "created_at": "2026-07-12T13:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076293989024903579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976995735532138496",
+          "start": 3,
+          "username": "JanboMikan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ar00qWNUvB",
+          "end": 110,
+          "expanded_url": "https://x.com/JanboMikan/status/2076260287611568334/photo/1",
+          "media_key": "3_2074831041907593216",
+          "start": 87,
+          "url": "https://t.co/Ar00qWNUvB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076293989024903579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076260287611568334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JanboMikan: 开家长会。\n老师：您儿子天天穿女装来上学，可能有点性别认知障碍。\n我爸叹了口气：唉，遗传。\n老师：这种事还能遗传？\n我爸：他妈以前也是男的。 https://t.co/Ar00qWNUvB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2823,
+        "media_key": "3_2074831041907593216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtH1vXbEAAoRw1.jpg",
+        "width": 2322
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074831041907593216"
+          ],
+          "media_source_tweet_id": [
+            "2076260287611568334"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076293989024903579",
+        "created_at": "2026-07-12T13:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076293989024903579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976995735532138496",
+              "start": 3,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ar00qWNUvB",
+              "end": 110,
+              "expanded_url": "https://x.com/JanboMikan/status/2076260287611568334/photo/1",
+              "media_key": "3_2074831041907593216",
+              "start": 87,
+              "url": "https://t.co/Ar00qWNUvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076293989024903579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076260287611568334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JanboMikan: 开家长会。\n老师：您儿子天天穿女装来上学，可能有点性别认知障碍。\n我爸叹了口气：唉，遗传。\n老师：这种事还能遗传？\n我爸：他妈以前也是男的。 https://t.co/Ar00qWNUvB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074831041907593216"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2076260287611568334",
+        "created_at": "2026-07-12T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076260287611568334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ar00qWNUvB",
+              "end": 94,
+              "expanded_url": "https://x.com/JanboMikan/status/2076260287611568334/photo/1",
+              "media_key": "3_2074831041907593216",
+              "start": 71,
+              "url": "https://t.co/Ar00qWNUvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076260287611568334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2377,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "开家长会。\n老师：您儿子天天穿女装来上学，可能有点性别认知障碍。\n我爸叹了口气：唉，遗传。\n老师：这种事还能遗传？\n我爸：他妈以前也是男的。 https://t.co/Ar00qWNUvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 53,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15167,
+          "following_count": 590,
+          "like_count": 20833,
+          "listed_count": 52,
+          "media_count": 354,
+          "tweet_count": 10997
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      }
+    ]
+  }
+}

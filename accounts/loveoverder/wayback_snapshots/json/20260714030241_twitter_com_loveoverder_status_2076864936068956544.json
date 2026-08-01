@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2076864936068956544",
+    "created_at": "2026-07-14T03:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076864936068956544"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 16,
+          "tag": "GushingoverMagicalGirls"
+        },
+        {
+          "end": 49,
+          "start": 41,
+          "tag": "MahoAko"
+        },
+        {
+          "end": 63,
+          "start": 50,
+          "tag": "MadokaMagica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1988556417335521280",
+          "start": 3,
+          "username": "skyy459897"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076864936068956544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076578126067565047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skyy459897: #GushingoverMagicalGirls #MahoAko #MadokaMagica\nイラストレーター、Illustration Artist、Artista de ilustración： 中二栗子態\n転載許可済み、Reproduct…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2076578116907200512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNF8y46acAAiVaV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2076864936068956544",
+        "created_at": "2026-07-14T03:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076864936068956544"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 16,
+              "tag": "GushingoverMagicalGirls"
+            },
+            {
+              "end": 49,
+              "start": 41,
+              "tag": "MahoAko"
+            },
+            {
+              "end": 63,
+              "start": 50,
+              "tag": "MadokaMagica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1988556417335521280",
+              "start": 3,
+              "username": "skyy459897"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076864936068956544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076578126067565047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skyy459897: #GushingoverMagicalGirls #MahoAko #MadokaMagica\nイラストレーター、Illustration Artist、Artista de ilustración： 中二栗子態\n転載許可済み、Reproduct…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076578116907200512"
+          ]
+        },
+        "author_id": "1988556417335521280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2076578126067565047",
+        "created_at": "2026-07-13T08:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076578126067565047"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 0,
+              "tag": "GushingoverMagicalGirls"
+            },
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "MahoAko"
+            },
+            {
+              "end": 47,
+              "start": 34,
+              "tag": "MadokaMagica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7dG9mwIqQ",
+              "end": 185,
+              "expanded_url": "https://x.com/skyy459897/status/2076578126067565047/photo/1",
+              "media_key": "3_2076578116907200512",
+              "start": 162,
+              "url": "https://t.co/A7dG9mwIqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076578126067565047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 6646,
+          "like_count": 818,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "#GushingoverMagicalGirls #MahoAko #MadokaMagica\nイラストレーター、Illustration Artist、Artista de ilustración： 中二栗子態\n転載許可済み、Reproduction authorized、Reproducción autorizada https://t.co/A7dG9mwIqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 183,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 645
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T10:36:28.000Z",
+        "description": "応援していただけると嬉しいです。ぜひFANBOXにご加入ください。リンクはこちらです。 ✨\nSupport me on Ko-fi or Patreon — link here. ✨\nhttps://t.co/v9sGVHQ3Kg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linkgoods.com/skyy459897",
+                "end": 115,
+                "expanded_url": "https://linkgoods.com/skyy459897",
+                "start": 92,
+                "url": "https://t.co/v9sGVHQ3Kg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkgoods.com/skyy459897",
+                "end": 23,
+                "expanded_url": "https://linkgoods.com/skyy459897",
+                "start": 0,
+                "url": "https://t.co/v9sGVHQ3Kg"
+              }
+            ]
+          }
+        },
+        "id": "1988556417335521280",
+        "name": "神楽 澄月",
+        "pinned_tweet_id": "2072278262756356462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038853945536507904/qs4IKe-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5928,
+          "following_count": 9,
+          "like_count": 43,
+          "listed_count": 21,
+          "media_count": 980,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/v9sGVHQ3Kg",
+        "username": "skyy459897",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076303048012611905",
+    "created_at": "2026-07-12T13:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076303048012611905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kfk_ai/status/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/kfk_ai/status/2075871472476631188",
+          "start": 19,
+          "url": "https://t.co/w2r92x59JN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076303048012611905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075871472476631188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我覺得其他地方也得學學，真的容易看錯 https://t.co/w2r92x59JN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076303048012611905",
+        "created_at": "2026-07-12T13:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076303048012611905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kfk_ai/status/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/kfk_ai/status/2075871472476631188",
+              "start": 19,
+              "url": "https://t.co/w2r92x59JN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076303048012611905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075871472476631188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我覺得其他地方也得學學，真的容易看錯 https://t.co/w2r92x59JN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580767946179194882",
+        "conversation_id": "2075871472476631188",
+        "created_at": "2026-07-11T09:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075871472476631188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075871472476631188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个冷知识：\n\n比特币地址里，永远不会出现 0（零）、O（大写o）、I（大写i）、l（小写L）这四个字符\n\n因为它们长得太像，肉眼极易看混\n\n而比特币转账不可逆，地址抄错一位，币就永远找不回来了\n\n中本聪当年设计Base58编码时，直接把这几个”最容易看错”的字符从源头删掉，用最笨也最稳的方式，帮你堵死了输错地址丢币的风险"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 90476,
+          "like_count": 356,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "一个冷知识：\n\n比特币地址里，永远不会出现 0（零）、O（大写o）、I（大写i）、l（小写L）这四个字符\n\n因为它们长得太像，肉眼极易看混\n\n而比特币转账不可逆，地址抄错一位，币就永远找不回来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 56,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T03:50:34.000Z",
+        "description": "AI builder | Polymarket trader | CS bg | Toper\nScience · Technology · Society\n多学习多思考 祝你渐入佳境\n你所有的成长来源于你的思考",
+        "id": "1580767946179194882",
+        "location": "wechat: int_65535",
+        "name": "Kafka",
+        "pinned_tweet_id": "2072632465823608914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065869468929282048/R96WO3vu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11665,
+          "following_count": 466,
+          "like_count": 15035,
+          "listed_count": 54,
+          "media_count": 765,
+          "tweet_count": 8140
+        },
+        "url": "",
+        "username": "kfk_ai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1980617396445495296"
+      ],
+      "media_source_tweet_id": [
+        "1980617736460910659"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076640400274800668",
+    "created_at": "2026-07-13T12:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076640400274800668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1129229753066635264",
+          "start": 3,
+          "username": "tanijrou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OhObcKepfZ",
+          "end": 85,
+          "expanded_url": "https://x.com/tanijrou/status/1980617736460910659/video/1",
+          "media_key": "13_1980617396445495296",
+          "start": 62,
+          "url": "https://t.co/OhObcKepfZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076640400274800668",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 845
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076049539224518866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanijrou: thinking about this absolute MASTERPIECE today  https://t.co/OhObcKepfZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99923,
+        "height": 658,
+        "media_key": "13_1980617396445495296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980617396445495296/img/M6S3By3XaVaHeZ1m.jpg",
+        "public_metrics": {
+          "view_count": 787469
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980617396445495296/vid/avc1/480x270/cQAzRQWeqygPVxg-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980617396445495296/vid/avc1/640x360/3VE562tHIKlIsOqn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980617396445495296/vid/avc1/1170x658/pQxSuFSAOmBo0Gy1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980617396445495296/pl/i1pqK7diFhE9F3Np.m3u8"
+          }
+        ],
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980617396445495296"
+          ],
+          "media_source_tweet_id": [
+            "1980617736460910659"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076640400274800668",
+        "created_at": "2026-07-13T12:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076640400274800668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1129229753066635264",
+              "start": 3,
+              "username": "tanijrou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OhObcKepfZ",
+              "end": 85,
+              "expanded_url": "https://x.com/tanijrou/status/1980617736460910659/video/1",
+              "media_key": "13_1980617396445495296",
+              "start": 62,
+              "url": "https://t.co/OhObcKepfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076640400274800668",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 845
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076049539224518866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanijrou: thinking about this absolute MASTERPIECE today  https://t.co/OhObcKepfZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980617396445495296"
+          ],
+          "media_source_tweet_id": [
+            "1980617736460910659"
+          ]
+        },
+        "author_id": "1129229753066635264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076049539224518866",
+        "created_at": "2026-07-11T21:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T22:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076049539224518866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OhObcKepfZ",
+              "end": 71,
+              "expanded_url": "https://x.com/tanijrou/status/1980617736460910659/video/1",
+              "media_key": "13_1980617396445495296",
+              "start": 48,
+              "url": "https://t.co/OhObcKepfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076049539224518866",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 541,
+          "impression_count": 75576,
+          "like_count": 4415,
+          "quote_count": 32,
+          "reply_count": 4,
+          "retweet_count": 845
+        },
+        "reply_settings": "everyone",
+        "text": "thinking about this absolute MASTERPIECE today  https://t.co/OhObcKepfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 145,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 521
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-17T03:38:47.000Z",
+        "description": "shinobu and yor lover ♡ NOT spoiler free ♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "she.her.♡",
+                "end": 23,
+                "expanded_url": "http://she.her.xn--c6h/",
+                "start": 0,
+                "url": "https://t.co/yPmtuQXH5P"
+              }
+            ]
+          }
+        },
+        "id": "1129229753066635264",
+        "location": "♡",
+        "name": "amber ♡",
+        "pinned_tweet_id": "1991668980851802450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076411044453322752/ZnTJGpBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130840,
+          "following_count": 907,
+          "like_count": 92531,
+          "listed_count": 335,
+          "media_count": 35126,
+          "tweet_count": 155834
+        },
+        "url": "https://t.co/yPmtuQXH5P",
+        "username": "tanijrou",
+        "verified": false
+      }
+    ]
+  }
+}

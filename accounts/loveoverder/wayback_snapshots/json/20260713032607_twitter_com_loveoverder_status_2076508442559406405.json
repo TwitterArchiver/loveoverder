@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076508442559406405",
+    "created_at": "2026-07-13T03:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T04:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076508442559406405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1800949732820516868",
+          "start": 3,
+          "username": "Hatsumi553366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076508442559406405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076381285749272917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hatsumi553366: 反正我自己出男的，或者是别的女生出成男cos，从来没见过“女爷”“女郎”（？之类的tag，男娘这个标在内网到底想吸引谁我懒得说…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076508442559406405",
+        "created_at": "2026-07-13T03:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076508442559406405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1800949732820516868",
+              "start": 3,
+              "username": "Hatsumi553366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076508442559406405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076381285749272917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hatsumi553366: 反正我自己出男的，或者是别的女生出成男cos，从来没见过“女爷”“女郎”（？之类的tag，男娘这个标在内网到底想吸引谁我懒得说…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800949732820516868",
+        "conversation_id": "2076381285749272917",
+        "created_at": "2026-07-12T19:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T20:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076381285749272917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anzhai_officia…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/anzhai_official/status/2076317253407326505",
+              "start": 65,
+              "url": "https://t.co/3qKGr48gyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076381285749272917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 831,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076317253407326505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反正我自己出男的，或者是别的女生出成男cos，从来没见过“女爷”“女郎”（？之类的tag，男娘这个标在内网到底想吸引谁我懒得说… https://t.co/3qKGr48gyG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 81,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T17:54:23.000Z",
+        "description": "English🆗日本語勉強中\n🇨🇳コスプレイヤー/クックです\n本质碎碎念bot会发布很多心情垃圾🗑️",
+        "id": "1800949732820516868",
+        "location": "太阳神草原",
+        "name": "電子ウサギ🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069901883326832640/URbJ2Rai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 157,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1166
+        },
+        "url": "",
+        "username": "Hatsumi553366",
+        "verified": false
+      }
+    ]
+  }
+}

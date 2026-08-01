@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076314234124902649",
+    "created_at": "2026-07-12T14:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076314234124902649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Predator_fund/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Predator_fund/status/2076010121235485136",
+          "start": 7,
+          "url": "https://t.co/UnMZrRjgmi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076314234124902649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076010121235485136",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以到底怎樣 https://t.co/UnMZrRjgmi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076314234124902649",
+        "created_at": "2026-07-12T14:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076314234124902649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Predator_fund/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Predator_fund/status/2076010121235485136",
+              "start": 7,
+              "url": "https://t.co/UnMZrRjgmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076314234124902649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076010121235485136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以到底怎樣 https://t.co/UnMZrRjgmi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1145577443622658048",
+        "conversation_id": "2076010121235485136",
+        "created_at": "2026-07-11T18:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076010121235485136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jheioff/status…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/jheioff/status/2075974984158364087",
+              "start": 111,
+              "url": "https://t.co/Z95ursNYdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076010121235485136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11443,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075974984158364087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "subscribers",
+        "text": "越描越黑，用新手机登陆后，所有在线的设备都会被踢下来，旧电脑登陆纯粹是测试一下老秘密还能不能登陆，其实这次登陆是失败的，但gate是有老设备尝试登陆请求的记录的，以为没登陆成功gate就不知道了，太小瞧交易所的风控机制了 https://t.co/Z95ursNYdS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 61,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-01T06:18:41.000Z",
+        "description": "Predator Quantitative Trading System Developer. 区块链底层技术开发，合约交易为生；“村头CBD社区”创始人. 社群：https://t.co/fUjvAaTmXZ（需申请）； 油管：https://t.co/2tq5CAlRcL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+UdhxiPdfeXs0M…",
+                "end": 105,
+                "expanded_url": "https://t.me/+UdhxiPdfeXs0MDY1",
+                "start": 82,
+                "url": "https://t.co/fUjvAaTmXZ"
+              },
+              {
+                "display_url": "youtube.com/@predator_fund",
+                "end": 138,
+                "expanded_url": "https://www.youtube.com/@predator_fund",
+                "start": 115,
+                "url": "https://t.co/2tq5CAlRcL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/pudater",
+                "end": 23,
+                "expanded_url": "https://t.me/pudater",
+                "start": 0,
+                "url": "https://t.co/1fJXvb4uY2"
+              }
+            ]
+          }
+        },
+        "id": "1145577443622658048",
+        "location": "香港",
+        "name": "普达特",
+        "pinned_tweet_id": "1690397676071006208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590404432910434304/DfOmRGay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31853,
+          "following_count": 744,
+          "like_count": 3868,
+          "listed_count": 280,
+          "media_count": 887,
+          "tweet_count": 11180
+        },
+        "url": "https://t.co/1fJXvb4uY2",
+        "username": "Predator_fund",
+        "verified": true
+      }
+    ]
+  }
+}

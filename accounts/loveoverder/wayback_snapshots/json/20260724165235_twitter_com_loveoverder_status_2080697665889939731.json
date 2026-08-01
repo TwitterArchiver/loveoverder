@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080697665889939731",
+    "created_at": "2026-07-24T16:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080697665889939731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647955063564804096",
+          "start": 3,
+          "username": "Clint_Web3"
+        },
+        {
+          "end": 26,
+          "id": "1589272961235619840",
+          "start": 16,
+          "username": "xtony1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080697665889939731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080148446473081281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Clint_Web3: @xtony1314 托尼老师被横刀夺爱，此生难以释怀。我愿称托尼老师为全网第一深情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080697665889939731",
+        "created_at": "2026-07-24T16:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080697665889939731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647955063564804096",
+              "start": 3,
+              "username": "Clint_Web3"
+            },
+            {
+              "end": 26,
+              "id": "1589272961235619840",
+              "start": 16,
+              "username": "xtony1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080697665889939731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080148446473081281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Clint_Web3: @xtony1314 托尼老师被横刀夺爱，此生难以释怀。我愿称托尼老师为全网第一深情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647955063564804096",
+        "conversation_id": "2080136067760468276",
+        "created_at": "2026-07-23T04:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080148446473081281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589272961235619840",
+              "start": 0,
+              "username": "xtony1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080148446473081281",
+        "in_reply_to_user_id": "1589272961235619840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4954,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080136067760468276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xtony1314 托尼老师被横刀夺爱，此生难以释怀。我愿称托尼老师为全网第一深情。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 243,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1194
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T13:28:14.000Z",
+        "description": "AII in crypto./AII in AI.\n第一性原理践行者。\n专注，极致。\n认清骗局，不要信仰，拥抱泡沫，参与其中，攫取利润。\n欢迎交友学习加V:Web3-Clint\n社群：DeepHunt 深猎部落",
+        "id": "1647955063564804096",
+        "name": "Clint-ㄜ",
+        "pinned_tweet_id": "2078680683263005163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945851183031001088/HgI_QREg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 2065,
+          "like_count": 120,
+          "listed_count": 16,
+          "media_count": 814,
+          "tweet_count": 2821
+        },
+        "url": "",
+        "username": "Clint_Web3",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-06T15:06:27.000Z",
+        "description": "独立交易员 | 干学创始人 | 抽象艺术家 | 嫖虫研究家\n历史成绩：实盘 5W➡️5000W ，2.5年1000倍收益率\n不喊单，无指导，只分享自己，自负盈亏；\n#Binance 币安交易，安全稳定，拥抱web3，就在币安：\nhttps://t.co/YaGEmixfJS",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 82,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/join?ref=RXZ4V…",
+                "end": 137,
+                "expanded_url": "http://binance.com/join?ref=RXZ4VBCK",
+                "start": 114,
+                "url": "https://t.co/YaGEmixfJS"
+              }
+            ]
+          }
+        },
+        "id": "1589272961235619840",
+        "location": "Telegram: @TonyTraderKing",
+        "name": "逍遥XTony (清华张疆喜欢嫖娼)",
+        "pinned_tweet_id": "2080098318785327340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055962742474092544/OGL1hvtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113126,
+          "following_count": 274,
+          "like_count": 269,
+          "listed_count": 1551,
+          "media_count": 742,
+          "tweet_count": 2168
+        },
+        "url": "",
+        "username": "xtony1314",
+        "verified": true
+      }
+    ]
+  }
+}

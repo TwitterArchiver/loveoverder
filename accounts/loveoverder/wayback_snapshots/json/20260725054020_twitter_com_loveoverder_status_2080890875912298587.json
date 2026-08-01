@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080890875912298587",
+    "created_at": "2026-07-25T05:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080890875912298587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1580510925739679745",
+          "start": 3,
+          "username": "FightWithMemes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080890875912298587",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1864
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080386358359490927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FightWithMemes: Half of y'all wanna know where to find a girl like that.\n\nThe other half wanna know where to find a pizza like that. ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16401,
+        "height": 502,
+        "media_key": "13_2080386227262373888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080386227262373888/img/KJweFqmLMrVuyWGX.jpg",
+        "public_metrics": {
+          "view_count": 703199
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080386227262373888/vid/avc1/320x472/WnlJqFmB44i0rtLG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080386227262373888/vid/avc1/340x502/93dp2LS9ZQMcqxXP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080386227262373888/pl/aVwLdh3bjck6fVqD.m3u8"
+          }
+        ],
+        "width": 340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080890875912298587",
+        "created_at": "2026-07-25T05:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080890875912298587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1580510925739679745",
+              "start": 3,
+              "username": "FightWithMemes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080890875912298587",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1864
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080386358359490927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FightWithMemes: Half of y'all wanna know where to find a girl like that.\n\nThe other half wanna know where to find a pizza like that. ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080386227262373888"
+          ]
+        },
+        "author_id": "1580510925739679745",
+        "conversation_id": "2080386358359490927",
+        "created_at": "2026-07-23T20:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080386358359490927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vhSAsHKBF3",
+              "end": 140,
+              "expanded_url": "https://x.com/FightWithMemes/status/2080386358359490927/video/1",
+              "media_key": "13_2080386227262373888",
+              "start": 117,
+              "url": "https://t.co/vhSAsHKBF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080386358359490927",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1530,
+          "impression_count": 1247156,
+          "like_count": 23922,
+          "quote_count": 334,
+          "reply_count": 1129,
+          "retweet_count": 1864
+        },
+        "reply_settings": "everyone",
+        "text": "Half of y'all wanna know where to find a girl like that.\n\nThe other half wanna know where to find a pizza like that. https://t.co/vhSAsHKBF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 252,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1308
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:49:16.000Z",
+        "description": "Anti-Woke, Anti-Left, Anti-War |\nFaith ✝️, Family 👨‍👩‍👧‍, Freedom |\n\nTurn 🔔 on!",
+        "id": "1580510925739679745",
+        "location": "Texas",
+        "name": "Fight With Memes",
+        "pinned_tweet_id": "2080778565008638240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068047760704561152/6vb5F-sv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240297,
+          "following_count": 893,
+          "like_count": 13784,
+          "listed_count": 665,
+          "media_count": 4015,
+          "tweet_count": 4672
+        },
+        "url": "",
+        "username": "FightWithMemes",
+        "verified": true
+      }
+    ]
+  }
+}

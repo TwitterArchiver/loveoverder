@@ -1,0 +1,814 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418265706076917762",
+          "name": "Yahoo News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+          "id": "1144330382864556032",
+          "name": "Japanese Foreign Relation "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418265706076917762",
+          "name": "Yahoo News"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027474933",
+          "name": "Yahoo!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027474933",
+          "name": "Yahoo!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "The animal rights movement, sometimes called the animal liberation movement, animal personhood, or animal advocacy movement, is a social movement which seeks an end to the rigid moral and legal distinction drawn between human and non-human animals, an end to the status of animals as property, and an end to their use in the research, food, clothing, and entertainment industries",
+          "id": "913399929548152833",
+          "name": "Animal Rights Movement"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Social causes",
+          "id": "1074751614123008000",
+          "name": "Social causes"
+        }
+      }
+    ],
+    "conversation_id": "2081551841461207493",
+    "created_at": "2026-07-27T01:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T02:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081551841461207493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1235118658545827842",
+          "start": 3,
+          "username": "aka_kuchinashi"
+        },
+        {
+          "end": 36,
+          "id": "88846085",
+          "start": 20,
+          "username": "YahooNewsTopics"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081551841461207493",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080784449713934652",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aka_kuchinashi: @YahooNewsTopics 別にいなくても全然影響ないんで。\n\nパンダで日中関係解消しようって浅はか過ぎるし、パンダが居た時だって中国は反日国家だった。\n\nしかし、パンダを政治カードにって動物愛護の人は何で怒らないんだろうね。 ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1382,
+        "media_key": "3_2080784434400526336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBuayqbAAAHpCJ.jpg",
+        "width": 1125
+      },
+      {
+        "height": 910,
+        "media_key": "3_2080784434606092288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBuazbbsAAaLIp.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+              "id": "1144330382864556032",
+              "name": "Japanese Foreign Relation "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The animal rights movement, sometimes called the animal liberation movement, animal personhood, or animal advocacy movement, is a social movement which seeks an end to the rigid moral and legal distinction drawn between human and non-human animals, an end to the status of animals as property, and an end to their use in the research, food, clothing, and entertainment industries",
+              "id": "913399929548152833",
+              "name": "Animal Rights Movement"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Social causes",
+              "id": "1074751614123008000",
+              "name": "Social causes"
+            }
+          }
+        ],
+        "conversation_id": "2081551841461207493",
+        "created_at": "2026-07-27T01:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081551841461207493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1235118658545827842",
+              "start": 3,
+              "username": "aka_kuchinashi"
+            },
+            {
+              "end": 36,
+              "id": "88846085",
+              "start": 20,
+              "username": "YahooNewsTopics"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081551841461207493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080784449713934652",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aka_kuchinashi: @YahooNewsTopics 別にいなくても全然影響ないんで。\n\nパンダで日中関係解消しようって浅はか過ぎるし、パンダが居た時だって中国は反日国家だった。\n\nしかし、パンダを政治カードにって動物愛護の人は何で怒らないんだろうね。 ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080784434400526336",
+            "3_2080784434606092288"
+          ]
+        },
+        "author_id": "1235118658545827842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+              "id": "1144330382864556032",
+              "name": "Japanese Foreign Relation "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The animal rights movement, sometimes called the animal liberation movement, animal personhood, or animal advocacy movement, is a social movement which seeks an end to the rigid moral and legal distinction drawn between human and non-human animals, an end to the status of animals as property, and an end to their use in the research, food, clothing, and entertainment industries",
+              "id": "913399929548152833",
+              "name": "Animal Rights Movement"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Social causes",
+              "id": "1074751614123008000",
+              "name": "Social causes"
+            }
+          }
+        ],
+        "conversation_id": "2080782579511464305",
+        "created_at": "2026-07-24T22:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T23:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080784449713934652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "88846085",
+              "start": 0,
+              "username": "YahooNewsTopics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E3mkhzbGvY",
+              "end": 140,
+              "expanded_url": "https://x.com/aka_kuchinashi/status/2080784449713934652/photo/1",
+              "media_key": "3_2080784434400526336",
+              "start": 117,
+              "url": "https://t.co/E3mkhzbGvY"
+            },
+            {
+              "display_url": "pic.x.com/E3mkhzbGvY",
+              "end": 140,
+              "expanded_url": "https://x.com/aka_kuchinashi/status/2080784449713934652/photo/1",
+              "media_key": "3_2080784434606092288",
+              "start": 117,
+              "url": "https://t.co/E3mkhzbGvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080784449713934652",
+        "in_reply_to_user_id": "88846085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13258,
+          "like_count": 357,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080782579511464305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YahooNewsTopics 別にいなくても全然影響ないんで。\n\nパンダで日中関係解消しようって浅はか過ぎるし、パンダが居た時だって中国は反日国家だった。\n\nしかし、パンダを政治カードにって動物愛護の人は何で怒らないんだろうね。 https://t.co/E3mkhzbGvY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 256,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1437
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-04T08:23:38.000Z",
+        "description": "毎日いい日でありますよう。 日本保守党応援。 🔑アカさんはブロック→解除。非フォローで宜しくお願いします。いいね/RT≠賛同。DMには基本返信しません。議論もしません。浅知恵呟きです。ご理解下さい。 #日本保守党 #antiwoke #NATIVESLIVESMATTER #日本を豊かに強く #六四天安門",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 100,
+                "tag": "日本保守党"
+              },
+              {
+                "end": 116,
+                "start": 107,
+                "tag": "antiwoke"
+              },
+              {
+                "end": 136,
+                "start": 117,
+                "tag": "NATIVESLIVESMATTER"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "tag": "日本を豊かに強く"
+              },
+              {
+                "end": 153,
+                "start": 147,
+                "tag": "六四天安門"
+              }
+            ]
+          }
+        },
+        "id": "1235118658545827842",
+        "location": "🎌日本/JAPAN🎌",
+        "name": "金糸雀(かなりや)🇯🇵💙🗻",
+        "pinned_tweet_id": "1268109751256100864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784386523234021376/lWRxs5Q4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 1527,
+          "like_count": 67560,
+          "listed_count": 14,
+          "media_count": 4950,
+          "tweet_count": 86515
+        },
+        "url": "",
+        "username": "aka_kuchinashi",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-10T03:59:51.000Z",
+        "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.yahoo.co.jp",
+                "end": 23,
+                "expanded_url": "https://news.yahoo.co.jp/",
+                "start": 0,
+                "url": "https://t.co/PORT0VCtyG"
+              }
+            ]
+          }
+        },
+        "id": "88846085",
+        "name": "Yahoo!ニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037745,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 22307,
+          "media_count": 3981,
+          "tweet_count": 593337
+        },
+        "url": "https://t.co/PORT0VCtyG",
+        "username": "YahooNewsTopics",
+        "verified": true
+      }
+    ]
+  }
+}

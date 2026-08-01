@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2077040469729771849",
+    "created_at": "2026-07-14T14:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077041070958051357"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077041070958051357",
+    "in_reply_to_user_id": "2073934453454614530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077040469729771849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這個截圖是別人發我的，要是天降 5000u 給我就好了，謝謝，你就是我心中的呃，反正，很厲害吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2077040458291957760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMhSsybUAAR-7F.jpg",
+        "width": 779
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2077040469729771849",
+        "created_at": "2026-07-14T14:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077041070958051357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077041070958051357",
+        "in_reply_to_user_id": "2073934453454614530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077040469729771849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個截圖是別人發我的，要是天降 5000u 給我就好了，謝謝，你就是我心中的呃，反正，很厲害吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077040458291957760"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2077040469729771849",
+        "created_at": "2026-07-14T14:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077040469729771849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZQA7fC3N8",
+              "end": 56,
+              "expanded_url": "https://x.com/loveoverder/status/2077040469729771849/photo/1",
+              "media_key": "3_2077040458291957760",
+              "start": 33,
+              "url": "https://t.co/fZQA7fC3N8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077040469729771849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被騙五千 u 今晚，onenightin 北京這個歌你們可以聽聽 https://t.co/fZQA7fC3N8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 203,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 814
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      }
+    ]
+  }
+}

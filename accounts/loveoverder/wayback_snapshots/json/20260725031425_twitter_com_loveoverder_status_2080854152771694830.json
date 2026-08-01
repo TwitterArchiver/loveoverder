@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080202896495570944"
+      ],
+      "media_source_tweet_id": [
+        "2080202931803136001"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080854152771694830",
+    "created_at": "2026-07-25T03:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080854152771694830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1789837129247531008",
+          "start": 3,
+          "username": "SatoHiromichi01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cgCKJ0B6HP",
+          "end": 60,
+          "expanded_url": "https://x.com/SatoHiromichi01/status/2080202931803136001/photo/1",
+          "media_key": "3_2080202896495570944",
+          "start": 37,
+          "url": "https://t.co/cgCKJ0B6HP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080854152771694830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080202931803136001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SatoHiromichi01: 這部漫畫請問哪裡可以看惹🤓☝️ https://t.co/cgCKJ0B6HP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1396,
+        "media_key": "3_2080202896495570944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5dg1JbcAAsiZ-.jpg",
+        "width": 1127
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080202896495570944"
+          ]
+        },
+        "author_id": "1789837129247531008",
+        "conversation_id": "2080202931803136001",
+        "created_at": "2026-07-23T08:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080202931803136001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgCKJ0B6HP",
+              "end": 39,
+              "expanded_url": "https://x.com/SatoHiromichi01/status/2080202931803136001/photo/1",
+              "media_key": "3_2080202896495570944",
+              "start": 16,
+              "url": "https://t.co/cgCKJ0B6HP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080202931803136001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 53233,
+          "like_count": 1310,
+          "quote_count": 5,
+          "reply_count": 49,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "這部漫畫請問哪裡可以看惹🤓☝️ https://t.co/cgCKJ0B6HP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080202896495570944"
+          ],
+          "media_source_tweet_id": [
+            "2080202931803136001"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080854152771694830",
+        "created_at": "2026-07-25T03:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080854152771694830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1789837129247531008",
+              "start": 3,
+              "username": "SatoHiromichi01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgCKJ0B6HP",
+              "end": 60,
+              "expanded_url": "https://x.com/SatoHiromichi01/status/2080202931803136001/photo/1",
+              "media_key": "3_2080202896495570944",
+              "start": 37,
+              "url": "https://t.co/cgCKJ0B6HP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080854152771694830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080202931803136001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SatoHiromichi01: 這部漫畫請問哪裡可以看惹🤓☝️ https://t.co/cgCKJ0B6HP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 245,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1228
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T01:58:49.000Z",
+        "description": "中非與伊斯蘭原始人的主人，AI漫畫家、創作者\n小雅妹妹：@XK_suzushio114\n♥：@ProcyonCoke731\n莉奈妹妹：@RinaSato01\n液態貓貓：@saya8964cat\n星怒：@NationalPureVF4\n好朋友：@Eris37298 @hoshinofujivy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "XK_suzushio114"
+              },
+              {
+                "end": 61,
+                "start": 46,
+                "username": "ProcyonCoke731"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "RinaSato01"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "saya8964cat"
+              },
+              {
+                "end": 116,
+                "start": 100,
+                "username": "NationalPureVF4"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "Eris37298"
+              },
+              {
+                "end": 146,
+                "start": 132,
+                "username": "hoshinofujivy"
+              }
+            ]
+          }
+        },
+        "id": "1789837129247531008",
+        "location": "大日本帝國台北州",
+        "name": "✠✝️🇦🇹茉莉奶茶🇯🇵🌸🧋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077229392905031680/R6ALPvBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4859,
+          "following_count": 3427,
+          "like_count": 110384,
+          "listed_count": 31,
+          "media_count": 5515,
+          "tweet_count": 37182
+        },
+        "url": "",
+        "username": "SatoHiromichi01",
+        "verified": false
+      }
+    ]
+  }
+}

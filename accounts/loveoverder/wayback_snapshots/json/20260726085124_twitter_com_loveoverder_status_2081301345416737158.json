@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080873431802007552"
+      ],
+      "media_source_tweet_id": [
+        "2080873592540336501"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081301345416737158",
+    "created_at": "2026-07-26T08:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T09:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081301345416737158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1410890985538678784",
+          "start": 3,
+          "username": "ThePetsX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XHYUlQjROo",
+          "end": 88,
+          "expanded_url": "https://x.com/ThePetsX/status/2080873592540336501/video/1",
+          "media_key": "13_2080873431802007552",
+          "start": 65,
+          "url": "https://t.co/XHYUlQjROo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081301345416737158",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4657
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080873592540336501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ThePetsX: “No work, no school, no university” ahhh stretch 😭 https://t.co/XHYUlQjROo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7569,
+        "height": 720,
+        "media_key": "13_2080873431802007552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080873431802007552/img/_au5QPt7z2onm05-.jpg",
+        "public_metrics": {
+          "view_count": 142104
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080873431802007552/vid/avc1/480x270/xotlDUv8pa91MP9y.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080873431802007552/vid/avc1/640x360/Dfiz8lp8zh4BaRYZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080873431802007552/vid/avc1/1280x720/3Uwoo-c1SMXyvwwm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080873431802007552/pl/Mkzh09W5CMB63hPO.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080873431802007552"
+          ]
+        },
+        "author_id": "1410890985538678784",
+        "conversation_id": "2080873592540336501",
+        "created_at": "2026-07-25T04:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080873592540336501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHYUlQjROo",
+              "end": 74,
+              "expanded_url": "https://x.com/ThePetsX/status/2080873592540336501/video/1",
+              "media_key": "13_2080873431802007552",
+              "start": 51,
+              "url": "https://t.co/XHYUlQjROo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080873592540336501",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1657,
+          "impression_count": 382362,
+          "like_count": 32009,
+          "quote_count": 109,
+          "reply_count": 60,
+          "retweet_count": 4657
+        },
+        "reply_settings": "everyone",
+        "text": "“No work, no school, no university” ahhh stretch 😭 https://t.co/XHYUlQjROo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080873431802007552"
+          ],
+          "media_source_tweet_id": [
+            "2080873592540336501"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081301345416737158",
+        "created_at": "2026-07-26T08:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081301345416737158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1410890985538678784",
+              "start": 3,
+              "username": "ThePetsX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHYUlQjROo",
+              "end": 88,
+              "expanded_url": "https://x.com/ThePetsX/status/2080873592540336501/video/1",
+              "media_key": "13_2080873431802007552",
+              "start": 65,
+              "url": "https://t.co/XHYUlQjROo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081301345416737158",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4657
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080873592540336501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ThePetsX: “No work, no school, no university” ahhh stretch 😭 https://t.co/XHYUlQjROo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 256,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1363
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-02T09:20:30.000Z",
+        "description": "Welcome to the positive side of 𝕏. Posting the most beautiful & Adorable pictures,videos of pets. 🦁🐯🐱🐶🐺🐻🐻‍❄️🐨🐼🦝🦊",
+        "id": "1410890985538678784",
+        "location": "DM FOR CREDIT OR REMOVEL ✉️",
+        "name": "The Pets 𝕏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876704343052734464/N6IQSW7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95095,
+          "following_count": 3606,
+          "like_count": 308,
+          "listed_count": 236,
+          "media_count": 8873,
+          "tweet_count": 8898
+        },
+        "url": "",
+        "username": "ThePetsX",
+        "verified": true
+      }
+    ]
+  }
+}

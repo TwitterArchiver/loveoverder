@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076265194532306944"
+      ],
+      "media_source_tweet_id": [
+        "2076265256071118858"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076546217102967029",
+    "created_at": "2026-07-13T05:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076546217102967029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2067664155407159296",
+          "start": 3,
+          "username": "Jixvtae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pfucHtHKZR",
+          "end": 72,
+          "expanded_url": "https://x.com/Jixvtae/status/2076265256071118858/video/1",
+          "media_key": "13_2076265194532306944",
+          "start": 49,
+          "url": "https://t.co/pfucHtHKZR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076546217102967029",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 848
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076265256071118858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jixvtae: 그림 그릴 때 얼마나 많이 딴 짓 하는지 알고 싶어서 녹화했는데 https://t.co/pfucHtHKZR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11517,
+        "height": 1080,
+        "media_key": "13_2076265194532306944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076265194532306944/img/x_K9r52jnE8Ulz_r.jpg",
+        "public_metrics": {
+          "view_count": 104335
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076265194532306944/vid/avc1/360x270/Wu968nuQscgNEZ4x.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076265194532306944/vid/avc1/480x360/cPXXq-iLpJY0XBMc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076265194532306944/vid/avc1/960x720/2iIwhOt698iY2sBy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076265194532306944/pl/0rsfWdYI1rqzyFy6.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076265194532306944"
+          ],
+          "media_source_tweet_id": [
+            "2076265256071118858"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076546217102967029",
+        "created_at": "2026-07-13T05:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076546217102967029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067664155407159296",
+              "start": 3,
+              "username": "Jixvtae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfucHtHKZR",
+              "end": 72,
+              "expanded_url": "https://x.com/Jixvtae/status/2076265256071118858/video/1",
+              "media_key": "13_2076265194532306944",
+              "start": 49,
+              "url": "https://t.co/pfucHtHKZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076546217102967029",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 848
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076265256071118858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jixvtae: 그림 그릴 때 얼마나 많이 딴 짓 하는지 알고 싶어서 녹화했는데 https://t.co/pfucHtHKZR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076265194532306944"
+          ]
+        },
+        "author_id": "2067664155407159296",
+        "conversation_id": "2076265256071118858",
+        "created_at": "2026-07-12T11:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076265256071118858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfucHtHKZR",
+              "end": 59,
+              "expanded_url": "https://x.com/Jixvtae/status/2076265256071118858/video/1",
+              "media_key": "13_2076265194532306944",
+              "start": 36,
+              "url": "https://t.co/pfucHtHKZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076265256071118858",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 851,
+          "impression_count": 273415,
+          "like_count": 7165,
+          "quote_count": 339,
+          "reply_count": 14,
+          "retweet_count": 846
+        },
+        "reply_settings": "everyone",
+        "text": "그림 그릴 때 얼마나 많이 딴 짓 하는지 알고 싶어서 녹화했는데 https://t.co/pfucHtHKZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 104,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 414
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T18:06:36.000Z",
+        "description": "정신이 아파? 그래서?",
+        "id": "2067664155407159296",
+        "location": "지태",
+        "name": "池兌",
+        "pinned_tweet_id": "2076380529520415082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076230176485322752/vcrXYAZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 91,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "Jixvtae",
+        "verified": false
+      }
+    ]
+  }
+}

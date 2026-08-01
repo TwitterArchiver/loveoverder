@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081317680796303360"
+      ],
+      "media_source_tweet_id": [
+        "2081317689625325928"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081568149397491948",
+    "created_at": "2026-07-27T02:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081568149397491948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1636596318268436481",
+          "start": 3,
+          "username": "AcgSiow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0gBjzwPG2v",
+          "end": 36,
+          "expanded_url": "https://x.com/AcgSiow/status/2081317689625325928/photo/1",
+          "media_key": "3_2081317680796303360",
+          "start": 13,
+          "url": "https://t.co/0gBjzwPG2v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081568149397491948",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081317689625325928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcgSiow: https://t.co/0gBjzwPG2v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1221,
+        "media_key": "3_2081317680796303360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJTZ0SagAAmN0A.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081317680796303360"
+          ]
+        },
+        "author_id": "1636596318268436481",
+        "conversation_id": "2081317689625325928",
+        "created_at": "2026-07-26T09:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081317689625325928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gBjzwPG2v",
+              "end": 23,
+              "expanded_url": "https://x.com/AcgSiow/status/2081317689625325928/photo/1",
+              "media_key": "3_2081317680796303360",
+              "start": 0,
+              "url": "https://t.co/0gBjzwPG2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081317689625325928",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 84620,
+          "like_count": 883,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0gBjzwPG2v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081317680796303360"
+          ],
+          "media_source_tweet_id": [
+            "2081317689625325928"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081568149397491948",
+        "created_at": "2026-07-27T02:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081568149397491948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1636596318268436481",
+              "start": 3,
+              "username": "AcgSiow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gBjzwPG2v",
+              "end": 36,
+              "expanded_url": "https://x.com/AcgSiow/status/2081317689625325928/photo/1",
+              "media_key": "3_2081317680796303360",
+              "start": 13,
+              "url": "https://t.co/0gBjzwPG2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081568149397491948",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081317689625325928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcgSiow: https://t.co/0gBjzwPG2v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 257,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1463
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T05:13:10.000Z",
+        "description": "",
+        "id": "1636596318268436481",
+        "name": "春日影警察局",
+        "pinned_tweet_id": "1654870167019728897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052279329032425472/A0WHlk74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22733,
+          "following_count": 0,
+          "like_count": 14,
+          "listed_count": 19,
+          "media_count": 1613,
+          "tweet_count": 1643
+        },
+        "url": "",
+        "username": "AcgSiow",
+        "verified": false
+      }
+    ]
+  }
+}

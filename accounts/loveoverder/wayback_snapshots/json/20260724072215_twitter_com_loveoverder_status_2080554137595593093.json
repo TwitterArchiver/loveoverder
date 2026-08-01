@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080268238601293825"
+      ],
+      "media_source_tweet_id": [
+        "2080268245593112988"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080554137595593093",
+    "created_at": "2026-07-24T07:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080554137595593093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1732328772957794304",
+          "start": 3,
+          "username": "0x_MrFive"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Trq1suLIiw",
+          "end": 106,
+          "expanded_url": "https://x.com/0x_MrFive/status/2080268245593112988/photo/1",
+          "media_key": "3_2080268238601293825",
+          "start": 83,
+          "url": "https://t.co/Trq1suLIiw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080554137595593093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080268245593112988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0x_MrFive: 币圈最不缺的就是天才，有人亏钱，就有人赚钱\n\n刚刚去币安广场看了一下，这位大哥真的是风生水起了，1000U用了23天，干到600多万U https://t.co/Trq1suLIiw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1297,
+        "media_key": "3_2080268238601293825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6Y8PdbkAE75zu.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080268238601293825"
+          ]
+        },
+        "author_id": "1732328772957794304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080268245593112988",
+        "created_at": "2026-07-23T12:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080268245593112988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Trq1suLIiw",
+              "end": 91,
+              "expanded_url": "https://x.com/0x_MrFive/status/2080268245593112988/photo/1",
+              "media_key": "3_2080268238601293825",
+              "start": 68,
+              "url": "https://t.co/Trq1suLIiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080268245593112988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 126066,
+          "like_count": 263,
+          "quote_count": 3,
+          "reply_count": 139,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "币圈最不缺的就是天才，有人亏钱，就有人赚钱\n\n刚刚去币安广场看了一下，这位大哥真的是风生水起了，1000U用了23天，干到600多万U https://t.co/Trq1suLIiw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080268238601293825"
+          ],
+          "media_source_tweet_id": [
+            "2080268245593112988"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080554137595593093",
+        "created_at": "2026-07-24T07:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080554137595593093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1732328772957794304",
+              "start": 3,
+              "username": "0x_MrFive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Trq1suLIiw",
+              "end": 106,
+              "expanded_url": "https://x.com/0x_MrFive/status/2080268245593112988/photo/1",
+              "media_key": "3_2080268238601293825",
+              "start": 83,
+              "url": "https://t.co/Trq1suLIiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080554137595593093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080268245593112988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0x_MrFive: 币圈最不缺的就是天才，有人亏钱，就有人赚钱\n\n刚刚去币安广场看了一下，这位大哥真的是风生水起了，1000U用了23天，干到600多万U https://t.co/Trq1suLIiw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 240,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1154
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T09:19:14.000Z",
+        "description": "#BNB builder ｜BinanceWallet（减免20%）：https://t.co/5YXldpqfXW｜币安广场创作者 ｜ 3亿人在币安 #Binance ：https://t.co/DAJs1BQZnZ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "BNB"
+              },
+              {
+                "end": 84,
+                "start": 76,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.binance.com/referral?ref=M…",
+                "end": 58,
+                "expanded_url": "https://web3.binance.com/referral?ref=MRFIVE555",
+                "start": 35,
+                "url": "https://t.co/5YXldpqfXW"
+              },
+              {
+                "display_url": "binance.com/join?ref=P0X4J…",
+                "end": 109,
+                "expanded_url": "https://www.binance.com/join?ref=P0X4JBSM",
+                "start": 86,
+                "url": "https://t.co/DAJs1BQZnZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Mr.Five888",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Mr.Five888",
+                "start": 0,
+                "url": "https://t.co/Ufoh5ca4XY"
+              }
+            ]
+          }
+        },
+        "id": "1732328772957794304",
+        "location": "Web3",
+        "name": "Mr.Five｜买美股上币安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950909571461173249/1_xCBFxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26127,
+          "following_count": 1457,
+          "like_count": 24264,
+          "listed_count": 86,
+          "media_count": 3258,
+          "tweet_count": 27459
+        },
+        "url": "https://t.co/Ufoh5ca4XY",
+        "username": "0x_MrFive",
+        "verified": true
+      }
+    ]
+  }
+}

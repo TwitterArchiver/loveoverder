@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080878517152276702",
+    "created_at": "2026-07-25T04:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080878517152276702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1050810570570649601",
+          "start": 3,
+          "username": "ceciarmy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/eN6tP0",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/eN6tP0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080878517152276702",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1010
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080670284911083783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ceciarmy: Una mujer que trabajaba hasta tarde revisó la cámara de seguridad de su casa para ver cómo estaba su gato https://t.co/eN6tP0…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15466,
+        "height": 402,
+        "media_key": "7_2080670147560284160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2080670147560284160/pu/img/BGXF4t9Dtou0AdEB.jpg",
+        "public_metrics": {
+          "view_count": 266598
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080670147560284160/pu/vid/avc1/482x270/4V_bjrkzHAipVI0z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080670147560284160/pu/vid/avc1/720x402/yHpVWaty1b28gib3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2080670147560284160/pu/pl/zBY2SEOiWL8sz_eM.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080878517152276702",
+        "created_at": "2026-07-25T04:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080878517152276702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1050810570570649601",
+              "start": 3,
+              "username": "ceciarmy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/eN6tP0",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/eN6tP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080878517152276702",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1010
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080670284911083783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ceciarmy: Una mujer que trabajaba hasta tarde revisó la cámara de seguridad de su casa para ver cómo estaba su gato https://t.co/eN6tP0…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2080670147560284160"
+          ]
+        },
+        "author_id": "1050810570570649601",
+        "conversation_id": "2080670284911083783",
+        "created_at": "2026-07-24T15:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080670284911083783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eN6tP0cofL",
+              "end": 129,
+              "expanded_url": "https://x.com/ceciarmy/status/2080670284911083783/video/1",
+              "media_key": "7_2080670147560284160",
+              "start": 106,
+              "url": "https://t.co/eN6tP0cofL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080670284911083783",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1283,
+          "impression_count": 461823,
+          "like_count": 22067,
+          "quote_count": 99,
+          "reply_count": 96,
+          "retweet_count": 1010
+        },
+        "reply_settings": "everyone",
+        "text": "Una mujer que trabajaba hasta tarde revisó la cámara de seguridad de su casa para ver cómo estaba su gato https://t.co/eN6tP0cofL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 251,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1278
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-12T18:08:57.000Z",
+        "description": "business@ceciarmy.com",
+        "id": "1050810570570649601",
+        "name": "ceciarmy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029487364909752322/VIqTXBpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670448,
+          "following_count": 0,
+          "like_count": 180,
+          "listed_count": 809,
+          "media_count": 4735,
+          "tweet_count": 4930
+        },
+        "url": "",
+        "username": "ceciarmy",
+        "verified": true
+      }
+    ]
+  }
+}

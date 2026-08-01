@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081711687250685958",
+    "created_at": "2026-07-27T12:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081711687250685958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "859939300619714560",
+          "start": 3,
+          "username": "4xCaliban"
+        },
+        {
+          "end": 30,
+          "id": "1262365867293265920",
+          "start": 15,
+          "username": "catothesaltman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081711687250685958",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081402559135195290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4xCaliban: @catothesaltman Imagine her begging you gasping on her knees for her inhaler while you dangle it over her head"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081711687250685958",
+        "created_at": "2026-07-27T12:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081711687250685958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "859939300619714560",
+              "start": 3,
+              "username": "4xCaliban"
+            },
+            {
+              "end": 30,
+              "id": "1262365867293265920",
+              "start": 15,
+              "username": "catothesaltman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081711687250685958",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081402559135195290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4xCaliban: @catothesaltman Imagine her begging you gasping on her knees for her inhaler while you dangle it over her head"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "859939300619714560",
+        "conversation_id": "2081385830493442064",
+        "created_at": "2026-07-26T15:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081402559135195290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1262365867293265920",
+              "start": 0,
+              "username": "catothesaltman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081402559135195290",
+        "in_reply_to_user_id": "1262365867293265920",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 21694,
+          "like_count": 445,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081401311820407017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catothesaltman Imagine her begging you gasping on her knees for her inhaler while you dangle it over her head"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 258,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1476
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-04T01:14:40.000Z",
+        "description": "The reports of my death are greatly exaggerated.",
+        "id": "859939300619714560",
+        "location": "NYC",
+        "name": "RAY",
+        "pinned_tweet_id": "2079244409464385960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079242850089238528/q4T2X1La_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 168,
+          "like_count": 740,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "4xCaliban",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-18T12:54:26.000Z",
+        "description": "You squeeze out every drop of wine you can, then you pass into nothing. You can put that on my tombstone",
+        "id": "1262365867293265920",
+        "location": "Berlin",
+        "name": "Salt 🇨🇳",
+        "pinned_tweet_id": "2067962830595219958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081448846182297600/49SLfAUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 791,
+          "like_count": 417654,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 5051
+        },
+        "url": "",
+        "username": "catothesaltman",
+        "verified": false
+      }
+    ]
+  }
+}

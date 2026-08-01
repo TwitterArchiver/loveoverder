@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1364653904433045506",
+          "name": "Aposto!"
+        }
+      }
+    ],
+    "conversation_id": "2079755748893200828",
+    "created_at": "2026-07-22T02:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T03:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079755748893200828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1087757588622651397",
+          "start": 3,
+          "username": "porqueTTarg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079755748893200828",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1229
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079424269168062610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @porqueTTarg: \"Apuestas\"\n\nPorque Mia Khalifa apostó 1 millón de dólares a que España ganaba el Mundial. Tras la victoria de España, reci…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35689,
+        "height": 1386,
+        "media_key": "13_2079174256014008320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079174256014008320/img/Hg7VEgwc6rVAlxJg.jpg",
+        "public_metrics": {
+          "view_count": 5634142
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079174256014008320/vid/avc1/320x410/6LhFr1fGjQukJ5RV.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079174256014008320/vid/avc1/1080x1386/ojmqqp3yybtTcqjJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079174256014008320/vid/avc1/720x924/N98mLxFPn9B3d-Ne.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079174256014008320/vid/avc1/480x616/OngGXSfypy4t4-M9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079174256014008320/pl/au_B7fhB7jKKkCMf.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1364653904433045506",
+              "name": "Aposto!"
+            }
+          }
+        ],
+        "conversation_id": "2079755748893200828",
+        "created_at": "2026-07-22T02:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079755748893200828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1087757588622651397",
+              "start": 3,
+              "username": "porqueTTarg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079755748893200828",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1229
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079424269168062610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @porqueTTarg: \"Apuestas\"\n\nPorque Mia Khalifa apostó 1 millón de dólares a que España ganaba el Mundial. Tras la victoria de España, reci…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079174256014008320"
+          ],
+          "media_source_tweet_id": [
+            "2079174325173919877"
+          ]
+        },
+        "author_id": "1087757588622651397",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1364653904433045506",
+              "name": "Aposto!"
+            }
+          }
+        ],
+        "conversation_id": "2079424269168062610",
+        "created_at": "2026-07-21T04:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079424269168062610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFRroIcNz2",
+              "end": 163,
+              "expanded_url": "https://x.com/choga_don/status/2079174325173919877/video/1",
+              "media_key": "13_2079174256014008320",
+              "start": 140,
+              "url": "https://t.co/lFRroIcNz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079424269168062610",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2744,
+          "impression_count": 2359933,
+          "like_count": 40512,
+          "quote_count": 421,
+          "reply_count": 1029,
+          "retweet_count": 1229
+        },
+        "reply_settings": "everyone",
+        "text": "\"Apuestas\"\n\nPorque Mia Khalifa apostó 1 millón de dólares a que España ganaba el Mundial. Tras la victoria de España, recibió 1.650.000$.\n\n https://t.co/lFRroIcNz2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 219,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1011
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-22T17:03:13.000Z",
+        "description": "Explicación de las tendencias (o no) de #Twitter",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 40,
+                "tag": "Twitter"
+              }
+            ]
+          }
+        },
+        "id": "1087757588622651397",
+        "location": "Argentina",
+        "name": "Tendencias en Argentina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633225938778439683/pytGv340_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805294,
+          "following_count": 131,
+          "like_count": 31868,
+          "listed_count": 612,
+          "media_count": 43215,
+          "tweet_count": 70230
+        },
+        "url": "",
+        "username": "porqueTTarg",
+        "verified": true
+      }
+    ]
+  }
+}

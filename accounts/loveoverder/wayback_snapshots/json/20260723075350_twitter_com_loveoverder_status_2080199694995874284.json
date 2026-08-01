@@ -1,0 +1,524 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079924447524335616",
+        "3_2079924451236339712"
+      ],
+      "media_source_tweet_id": [
+        "2079924454419788150",
+        "2079924454419788150"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2080199694995874284",
+    "created_at": "2026-07-23T07:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080199694995874284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1456122926432862223",
+          "start": 3,
+          "username": "giantcutie666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h0rYpnpAix",
+          "end": 137,
+          "expanded_url": "https://x.com/giantcutie666/status/2079924454419788150/photo/1",
+          "media_key": "3_2079924447524335616",
+          "start": 114,
+          "url": "https://t.co/h0rYpnpAix"
+        },
+        {
+          "display_url": "pic.x.com/h0rYpnpAix",
+          "end": 137,
+          "expanded_url": "https://x.com/giantcutie666/status/2079924454419788150/photo/1",
+          "media_key": "3_2079924451236339712",
+          "start": 114,
+          "url": "https://t.co/h0rYpnpAix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080199694995874284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079924454419788150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @giantcutie666: 小米发了个悬赏，找白帽子测试漏洞\n\n人家白帽子不仅找到了漏洞，还顺藤摸瓜，发现线上真实业务也有这个漏洞\n\n魔幻的是，小米不仅不给钱，还把人家白帽子给告了😅\n\n雷总这样做，目测是要遭报应的😄 https://t.co/h0rYpnpAix"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 731,
+        "media_key": "3_2079924447524335616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1gQ95WsAAjW66.jpg",
+        "width": 1250
+      },
+      {
+        "height": 417,
+        "media_key": "3_2079924451236339712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1gRLuXYAAJgfv.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079924447524335616",
+            "3_2079924451236339712"
+          ]
+        },
+        "author_id": "1456122926432862223",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2079924454419788150",
+        "created_at": "2026-07-22T13:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079924454419788150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0rYpnpAix",
+              "end": 118,
+              "expanded_url": "https://x.com/giantcutie666/status/2079924454419788150/photo/1",
+              "media_key": "3_2079924447524335616",
+              "start": 95,
+              "url": "https://t.co/h0rYpnpAix"
+            },
+            {
+              "display_url": "pic.x.com/h0rYpnpAix",
+              "end": 118,
+              "expanded_url": "https://x.com/giantcutie666/status/2079924454419788150/photo/1",
+              "media_key": "3_2079924451236339712",
+              "start": 95,
+              "url": "https://t.co/h0rYpnpAix"
+            },
+            {
+              "display_url": "x.com/giantcutie666/…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/giantcutie666/status/2079781083130855917",
+              "start": 119,
+              "url": "https://t.co/OlghwgtYDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079924454419788150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 286465,
+          "like_count": 1037,
+          "quote_count": 10,
+          "reply_count": 282,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079781083130855917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小米发了个悬赏，找白帽子测试漏洞\n\n人家白帽子不仅找到了漏洞，还顺藤摸瓜，发现线上真实业务也有这个漏洞\n\n魔幻的是，小米不仅不给钱，还把人家白帽子给告了😅\n\n雷总这样做，目测是要遭报应的😄 https://t.co/h0rYpnpAix https://t.co/OlghwgtYDi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079924447524335616",
+            "3_2079924451236339712"
+          ],
+          "media_source_tweet_id": [
+            "2079924454419788150",
+            "2079924454419788150"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2080199694995874284",
+        "created_at": "2026-07-23T07:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080199694995874284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1456122926432862223",
+              "start": 3,
+              "username": "giantcutie666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0rYpnpAix",
+              "end": 137,
+              "expanded_url": "https://x.com/giantcutie666/status/2079924454419788150/photo/1",
+              "media_key": "3_2079924447524335616",
+              "start": 114,
+              "url": "https://t.co/h0rYpnpAix"
+            },
+            {
+              "display_url": "pic.x.com/h0rYpnpAix",
+              "end": 137,
+              "expanded_url": "https://x.com/giantcutie666/status/2079924454419788150/photo/1",
+              "media_key": "3_2079924451236339712",
+              "start": 114,
+              "url": "https://t.co/h0rYpnpAix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080199694995874284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079924454419788150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @giantcutie666: 小米发了个悬赏，找白帽子测试漏洞\n\n人家白帽子不仅找到了漏洞，还顺藤摸瓜，发现线上真实业务也有这个漏洞\n\n魔幻的是，小米不仅不给钱，还把人家白帽子给告了😅\n\n雷总这样做，目测是要遭报应的😄 https://t.co/h0rYpnpAix"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 227,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1089
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T04:55:47.000Z",
+        "description": "CLabs 创始人|历经两轮牛熊| TG群：https://t.co/MWphcCTLCk，视频号搜索“亮子财经”，商务合作：https://t.co/pSuhrQgmkj ，交易账号：@giantcutie777 土狗交易：@GiantCutie888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 93,
+                "username": "giantcutie777"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "GiantCutie888"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/giantcutie6688",
+                "end": 45,
+                "expanded_url": "https://t.me/giantcutie6688",
+                "start": 22,
+                "url": "https://t.co/MWphcCTLCk"
+              },
+              {
+                "display_url": "t.me/clabskoala1900",
+                "end": 86,
+                "expanded_url": "https://t.me/clabskoala1900",
+                "start": 63,
+                "url": "https://t.co/pSuhrQgmkj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@GiantCutie-CH",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@GiantCutie-CH",
+                "start": 0,
+                "url": "https://t.co/WCLhfZDD0e"
+              }
+            ]
+          }
+        },
+        "id": "1456122926432862223",
+        "name": "大漂亮| C Labs",
+        "pinned_tweet_id": "1716448495811674381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550390972714029056/gf_BBRIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131369,
+          "following_count": 1464,
+          "like_count": 14386,
+          "listed_count": 970,
+          "media_count": 2860,
+          "tweet_count": 16072
+        },
+        "url": "https://t.co/WCLhfZDD0e",
+        "username": "giantcutie666",
+        "verified": true
+      }
+    ]
+  }
+}

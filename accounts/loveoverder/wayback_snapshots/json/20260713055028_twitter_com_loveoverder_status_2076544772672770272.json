@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076492256002105344"
+      ],
+      "media_source_tweet_id": [
+        "2076492259160445295"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076544772672770272",
+    "created_at": "2026-07-13T05:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076544772672770272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2032985503621095424",
+          "start": 3,
+          "username": "jianxiexingnb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DliEpK1Qwd",
+          "end": 52,
+          "expanded_url": "https://x.com/jianxiexingnb/status/2076492259160445295/photo/1",
+          "media_key": "3_2076492256002105344",
+          "start": 29,
+          "url": "https://t.co/DliEpK1Qwd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076544772672770272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076492259160445295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jianxiexingnb: 目前尼古丁依赖程度 https://t.co/DliEpK1Qwd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2076,
+        "media_key": "3_2076492256002105344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEutIHa4AAtW9t.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076492256002105344"
+          ],
+          "media_source_tweet_id": [
+            "2076492259160445295"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076544772672770272",
+        "created_at": "2026-07-13T05:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076544772672770272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2032985503621095424",
+              "start": 3,
+              "username": "jianxiexingnb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DliEpK1Qwd",
+              "end": 52,
+              "expanded_url": "https://x.com/jianxiexingnb/status/2076492259160445295/photo/1",
+              "media_key": "3_2076492256002105344",
+              "start": 29,
+              "url": "https://t.co/DliEpK1Qwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076544772672770272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076492259160445295",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jianxiexingnb: 目前尼古丁依赖程度 https://t.co/DliEpK1Qwd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076492256002105344"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2076492259160445295",
+        "created_at": "2026-07-13T02:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076492259160445295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DliEpK1Qwd",
+              "end": 33,
+              "expanded_url": "https://x.com/jianxiexingnb/status/2076492259160445295/photo/1",
+              "media_key": "3_2076492256002105344",
+              "start": 10,
+              "url": "https://t.co/DliEpK1Qwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076492259160445295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前尼古丁依赖程度 https://t.co/DliEpK1Qwd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 103,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 235,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

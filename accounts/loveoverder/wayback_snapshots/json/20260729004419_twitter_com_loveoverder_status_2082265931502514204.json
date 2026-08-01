@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081871871134294016"
+      ],
+      "media_source_tweet_id": [
+        "2082088694681616814"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082265931502514204",
+    "created_at": "2026-07-29T00:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082265931502514204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990727295280328704",
+          "start": 3,
+          "username": "evangelionHQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qbYZ5vTbeo",
+          "end": 41,
+          "expanded_url": "https://x.com/evangelionHQ/status/2082088694681616814/photo/1",
+          "media_key": "3_2081871871134294016",
+          "start": 18,
+          "url": "https://t.co/qbYZ5vTbeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082265931502514204",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 756
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082088694681616814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @evangelionHQ: https://t.co/qbYZ5vTbeo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2480,
+        "media_key": "3_2081871871134294016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORLb8LWYAAzX5G.jpg",
+        "width": 3508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081871871134294016"
+          ]
+        },
+        "author_id": "1990727295280328704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082088694681616814",
+        "created_at": "2026-07-28T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082088694681616814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbYZ5vTbeo",
+              "end": 23,
+              "expanded_url": "https://x.com/evangelionHQ/status/2082088694681616814/photo/1",
+              "media_key": "3_2081871871134294016",
+              "start": 0,
+              "url": "https://t.co/qbYZ5vTbeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082088694681616814",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 762,
+          "impression_count": 61033,
+          "like_count": 8991,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 756
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qbYZ5vTbeo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081871871134294016"
+          ],
+          "media_source_tweet_id": [
+            "2082088694681616814"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082265931502514204",
+        "created_at": "2026-07-29T00:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082265931502514204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990727295280328704",
+              "start": 3,
+              "username": "evangelionHQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbYZ5vTbeo",
+              "end": 41,
+              "expanded_url": "https://x.com/evangelionHQ/status/2082088694681616814/photo/1",
+              "media_key": "3_2081871871134294016",
+              "start": 18,
+              "url": "https://t.co/qbYZ5vTbeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082265931502514204",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082088694681616814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @evangelionHQ: https://t.co/qbYZ5vTbeo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 295,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1732
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T10:24:58.000Z",
+        "description": "at least, be human\nエヴァンゲリオン .ᐟ\nFan Page",
+        "id": "1990727295280328704",
+        "name": "Evangelion",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082138265151287296/FXhU8vwC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9280,
+          "following_count": 0,
+          "like_count": 238,
+          "listed_count": 24,
+          "media_count": 355,
+          "tweet_count": 365
+        },
+        "url": "",
+        "username": "evangelionHQ",
+        "verified": true
+      }
+    ]
+  }
+}

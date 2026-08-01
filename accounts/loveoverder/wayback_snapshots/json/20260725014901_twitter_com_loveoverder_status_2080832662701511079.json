@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080278626231263232"
+      ],
+      "media_source_tweet_id": [
+        "2080280797731504589"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080832662701511079",
+    "created_at": "2026-07-25T01:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T02:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080832662701511079"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "ヤニねこ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1229534892",
+          "start": 3,
+          "username": "gmkry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RJnDqVISLC",
+          "end": 50,
+          "expanded_url": "https://x.com/gmkry/status/2080280797731504589/photo/1",
+          "media_key": "3_2080278626231263232",
+          "start": 27,
+          "url": "https://t.co/RJnDqVISLC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080832662701511079",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1851
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080280797731504589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gmkry: ニャーが喫煙所にゃ #ヤニねこ https://t.co/RJnDqVISLC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2080278626231263232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6iY4ZaIAAciFL.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080278626231263232"
+          ]
+        },
+        "author_id": "1229534892",
+        "conversation_id": "2080280797731504589",
+        "created_at": "2026-07-23T13:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080280797731504589"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RJnDqVISLC",
+              "end": 39,
+              "expanded_url": "https://x.com/gmkry/status/2080280797731504589/photo/1",
+              "media_key": "3_2080278626231263232",
+              "start": 16,
+              "url": "https://t.co/RJnDqVISLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080280797731504589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1034,
+          "impression_count": 448190,
+          "like_count": 20363,
+          "quote_count": 21,
+          "reply_count": 8,
+          "retweet_count": 1851
+        },
+        "reply_settings": "everyone",
+        "text": "ニャーが喫煙所にゃ #ヤニねこ https://t.co/RJnDqVISLC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080278626231263232"
+          ],
+          "media_source_tweet_id": [
+            "2080280797731504589"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080832662701511079",
+        "created_at": "2026-07-25T01:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080832662701511079"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "ヤニねこ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1229534892",
+              "start": 3,
+              "username": "gmkry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RJnDqVISLC",
+              "end": 50,
+              "expanded_url": "https://x.com/gmkry/status/2080280797731504589/photo/1",
+              "media_key": "3_2080278626231263232",
+              "start": 27,
+              "url": "https://t.co/RJnDqVISLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080832662701511079",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1851
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080280797731504589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gmkry: ニャーが喫煙所にゃ #ヤニねこ https://t.co/RJnDqVISLC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 244,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1215
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-01T10:56:35.000Z",
+        "description": "え",
+        "id": "1229534892",
+        "name": "もく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1470484885894676480/5_YmRziB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6553,
+          "following_count": 0,
+          "like_count": 488,
+          "listed_count": 22,
+          "media_count": 452,
+          "tweet_count": 9060
+        },
+        "url": "",
+        "username": "gmkry",
+        "verified": false
+      }
+    ]
+  }
+}

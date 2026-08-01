@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081992476580311546",
+    "created_at": "2026-07-28T06:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081992476580311546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1992255920777392128",
+          "start": 3,
+          "username": "GMWalletHK"
+        },
+        {
+          "end": 29,
+          "id": "705564530936418304",
+          "start": 16,
+          "username": "thankUcrypto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081992476580311546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081966235869470991",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GMWalletHK: @thankUcrypto 羡慕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081992476580311546",
+        "created_at": "2026-07-28T06:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081992476580311546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1992255920777392128",
+              "start": 3,
+              "username": "GMWalletHK"
+            },
+            {
+              "end": 29,
+              "id": "705564530936418304",
+              "start": 16,
+              "username": "thankUcrypto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081992476580311546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081966235869470991",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GMWalletHK: @thankUcrypto 羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992255920777392128",
+        "conversation_id": "2081950827971801383",
+        "created_at": "2026-07-28T04:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081966235869470991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705564530936418304",
+              "start": 0,
+              "username": "thankUcrypto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081966235869470991",
+        "in_reply_to_user_id": "705564530936418304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 588,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081950827971801383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thankUcrypto 羡慕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 282,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1636
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T15:37:19.000Z",
+        "description": "GM Wallet 全力开发中，GM Pay（EPusdt）开发者。欢迎来到开放，包容的加密世界. Eng: @GMWallet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "GMWallet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmwallet.app",
+                "end": 23,
+                "expanded_url": "https://gmwallet.app",
+                "start": 0,
+                "url": "https://t.co/5JpPjEdY2t"
+              }
+            ]
+          }
+        },
+        "id": "1992255920777392128",
+        "location": "香港",
+        "name": "GM Wallet 华语",
+        "pinned_tweet_id": "2060372840600535213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055265518660329472/d81zgfCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5421,
+          "following_count": 950,
+          "like_count": 16753,
+          "listed_count": 3,
+          "media_count": 874,
+          "tweet_count": 12767
+        },
+        "url": "https://t.co/5JpPjEdY2t",
+        "username": "GMWalletHK",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-04T01:24:27.000Z",
+        "description": "|PNL 120K—10M|助理:@xiaoweio9983\n币安：https://t.co/bVA0PgUJ98 OKX https://t.co/z4Z0vjhwWR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "xiaoweio9983"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mp3web.cloud/jsredirect/zh-…",
+                "end": 57,
+                "expanded_url": "https://www.mp3web.cloud/jsredirect/zh-CN/join?ref=aoying666",
+                "start": 34,
+                "url": "https://t.co/bVA0PgUJ98"
+              },
+              {
+                "display_url": "ouyix.link/ul/vhk7CM?chan…",
+                "end": 85,
+                "expanded_url": "https://ouyix.link/ul/vhk7CM?channelid=crypto18",
+                "start": 62,
+                "url": "https://t.co/z4Z0vjhwWR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/crypto1818",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/crypto1818",
+                "start": 0,
+                "url": "https://t.co/RbT0lcg2pd"
+              }
+            ]
+          }
+        },
+        "id": "705564530936418304",
+        "location": "你就是你自己的交易之神。",
+        "name": "allincrypto 熬鹰资本 🇨🇳",
+        "pinned_tweet_id": "1932352198903472529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156102,
+          "following_count": 631,
+          "like_count": 4998,
+          "listed_count": 2172,
+          "media_count": 2058,
+          "tweet_count": 7370
+        },
+        "url": "https://t.co/RbT0lcg2pd",
+        "username": "thankUcrypto",
+        "verified": true
+      }
+    ]
+  }
+}

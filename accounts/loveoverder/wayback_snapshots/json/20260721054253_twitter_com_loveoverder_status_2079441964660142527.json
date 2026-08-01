@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1961695730050994177"
+      ],
+      "media_source_tweet_id": [
+        "1961695872426692807"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079441964660142527",
+    "created_at": "2026-07-21T05:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079441964660142527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1179892477714718721",
+          "start": 3,
+          "username": "sciencegirl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bq8tOyoN4L",
+          "end": 61,
+          "expanded_url": "https://x.com/tweetciiiim/status/1961695872426692807/video/1",
+          "media_key": "13_1961695730050994177",
+          "start": 38,
+          "url": "https://t.co/Bq8tOyoN4L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079441964660142527",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17179
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961699853903229070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sciencegirl: Meanwhile in Japan\n\n https://t.co/Bq8tOyoN4L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 74633,
+        "height": 1280,
+        "media_key": "13_1961695730050994177",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961695730050994177/img/YSU4MO8FidfBzsbr.jpg",
+        "public_metrics": {
+          "view_count": 23287331
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961695730050994177/vid/avc1/320x568/qkMIjz7Qhs-porZx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961695730050994177/vid/avc1/480x852/HiYAboew1sJaXtGT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961695730050994177/vid/avc1/720x1280/sGBqLde62qEB3Juv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961695730050994177/pl/sw72wepsGsWBi8Y6.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961695730050994177"
+          ]
+        },
+        "author_id": "1267748390521225223",
+        "conversation_id": "1961695872426692807",
+        "created_at": "2025-08-30T07:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T08:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961695872426692807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3Uh55zyVk",
+              "end": 42,
+              "expanded_url": "https://x.com/tweetciiiim/status/1961695872426692807/video/1",
+              "media_key": "13_1961695730050994177",
+              "start": 19,
+              "url": "https://t.co/u3Uh55zyVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961695872426692807",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 332,
+          "impression_count": 74336,
+          "like_count": 1757,
+          "quote_count": 106,
+          "reply_count": 31,
+          "retweet_count": 526
+        },
+        "reply_settings": "everyone",
+        "text": "Meanwhile in Japan https://t.co/u3Uh55zyVk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961695730050994177"
+          ],
+          "media_source_tweet_id": [
+            "1961695872426692807"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079441964660142527",
+        "created_at": "2026-07-21T05:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079441964660142527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1179892477714718721",
+              "start": 3,
+              "username": "sciencegirl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bq8tOyoN4L",
+              "end": 61,
+              "expanded_url": "https://x.com/tweetciiiim/status/1961695872426692807/video/1",
+              "media_key": "13_1961695730050994177",
+              "start": 38,
+              "url": "https://t.co/Bq8tOyoN4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079441964660142527",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17179
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961699853903229070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sciencegirl: Meanwhile in Japan\n\n https://t.co/Bq8tOyoN4L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961695730050994177"
+          ],
+          "media_source_tweet_id": [
+            "1961695872426692807"
+          ]
+        },
+        "author_id": "1179892477714718721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961699853903229070",
+        "created_at": "2025-08-30T07:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T08:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961699853903229070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bq8tOyoN4L",
+              "end": 44,
+              "expanded_url": "https://x.com/tweetciiiim/status/1961695872426692807/video/1",
+              "media_key": "13_1961695730050994177",
+              "start": 21,
+              "url": "https://t.co/Bq8tOyoN4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961699853903229070",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18330,
+          "impression_count": 10973393,
+          "like_count": 186215,
+          "quote_count": 1896,
+          "reply_count": 2332,
+          "retweet_count": 17179
+        },
+        "reply_settings": "everyone",
+        "text": "Meanwhile in Japan\n\n https://t.co/Bq8tOyoN4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 211,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 899
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-03T22:54:31.000Z",
+        "description": "science in context , art history and technology",
+        "id": "1179892477714718721",
+        "location": "Earth ",
+        "name": "Science girl",
+        "pinned_tweet_id": "2075106189906489568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504867101923762178/gfZgsqoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5807670,
+          "following_count": 5795,
+          "like_count": 138710,
+          "listed_count": 13799,
+          "media_count": 73632,
+          "tweet_count": 110309
+        },
+        "url": "",
+        "username": "sciencegirl",
+        "verified": true
+      }
+    ]
+  }
+}

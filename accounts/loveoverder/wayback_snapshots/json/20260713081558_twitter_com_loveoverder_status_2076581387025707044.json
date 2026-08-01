@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076303729498927104"
+      ],
+      "media_source_tweet_id": [
+        "2076303795475407247"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2076581387025707044",
+    "created_at": "2026-07-13T08:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T09:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076581387025707044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2044052938297913344",
+          "start": 3,
+          "username": "qiqiwatchesyou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ABGmJQjIgh",
+          "end": 57,
+          "expanded_url": "https://x.com/qiqiwatchesyou/status/2076303795475407247/video/1",
+          "media_key": "13_2076303729498927104",
+          "start": 34,
+          "url": "https://t.co/ABGmJQjIgh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076581387025707044",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 501
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076303795475407247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @qiqiwatchesyou: 마티 슈프림 (2026) https://t.co/ABGmJQjIgh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21285,
+        "height": 720,
+        "media_key": "13_2076303729498927104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076303729498927104/img/hWY60GdxZwEXE446.jpg",
+        "public_metrics": {
+          "view_count": 289432
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076303729498927104/vid/avc1/360x270/ZX2TYASBEd6yvURV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076303729498927104/vid/avc1/480x360/hed8dZM4JCfcgE2f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076303729498927104/vid/avc1/960x720/xqSocfu0XWOSelqL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076303729498927104/pl/_zPhjrjV1Sy9O0HV.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076303729498927104"
+          ],
+          "media_source_tweet_id": [
+            "2076303795475407247"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076581387025707044",
+        "created_at": "2026-07-13T08:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076581387025707044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2044052938297913344",
+              "start": 3,
+              "username": "qiqiwatchesyou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABGmJQjIgh",
+              "end": 57,
+              "expanded_url": "https://x.com/qiqiwatchesyou/status/2076303795475407247/video/1",
+              "media_key": "13_2076303729498927104",
+              "start": 34,
+              "url": "https://t.co/ABGmJQjIgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076581387025707044",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 501
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076303795475407247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @qiqiwatchesyou: 마티 슈프림 (2026) https://t.co/ABGmJQjIgh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076303729498927104"
+          ]
+        },
+        "author_id": "2044052938297913344",
+        "conversation_id": "2076303795475407247",
+        "created_at": "2026-07-12T13:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076303795475407247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABGmJQjIgh",
+              "end": 37,
+              "expanded_url": "https://x.com/qiqiwatchesyou/status/2076303795475407247/video/1",
+              "media_key": "13_2076303729498927104",
+              "start": 14,
+              "url": "https://t.co/ABGmJQjIgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076303795475407247",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1207,
+          "impression_count": 653746,
+          "like_count": 4260,
+          "quote_count": 137,
+          "reply_count": 1,
+          "retweet_count": 501
+        },
+        "reply_settings": "following",
+        "text": "마티 슈프림 (2026) https://t.co/ABGmJQjIgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 129,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 471
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T13:59:40.000Z",
+        "description": "뒤돌아영화관가",
+        "id": "2044052938297913344",
+        "name": "qiqi",
+        "pinned_tweet_id": "2069739480182067611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076282234789871616/psLn4EWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 47,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 718
+        },
+        "url": "",
+        "username": "qiqiwatchesyou",
+        "verified": false
+      }
+    ]
+  }
+}

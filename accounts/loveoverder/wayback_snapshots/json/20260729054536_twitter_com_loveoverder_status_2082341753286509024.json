@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2082100850864865280"
+      ],
+      "media_source_tweet_id": [
+        "2082101016120471992"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082341753286509024",
+    "created_at": "2026-07-29T05:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082341753286509024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "412997648",
+          "start": 3,
+          "username": "hardestgifs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dZPZsQMLkd",
+          "end": 40,
+          "expanded_url": "https://x.com/hardestgifs/status/2082101016120471992/photo/1",
+          "media_key": "16_2082100850864865280",
+          "start": 17,
+          "url": "https://t.co/dZPZsQMLkd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082341753286509024",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 843
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082101016120471992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hardestgifs: https://t.co/dZPZsQMLkd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "16_2082100850864865280",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOUbsUJWwAAWtpv.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOUbsUJWwAAWtpv.mp4"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2082100850864865280"
+          ]
+        },
+        "author_id": "412997648",
+        "conversation_id": "2082101016120471992",
+        "created_at": "2026-07-28T13:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082101016120471992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZPZsQMLkd",
+              "end": 23,
+              "expanded_url": "https://x.com/hardestgifs/status/2082101016120471992/photo/1",
+              "media_key": "16_2082100850864865280",
+              "start": 0,
+              "url": "https://t.co/dZPZsQMLkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082101016120471992",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1403,
+          "impression_count": 303636,
+          "like_count": 8038,
+          "quote_count": 152,
+          "reply_count": 41,
+          "retweet_count": 843
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dZPZsQMLkd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2082100850864865280"
+          ],
+          "media_source_tweet_id": [
+            "2082101016120471992"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082341753286509024",
+        "created_at": "2026-07-29T05:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082341753286509024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "412997648",
+              "start": 3,
+              "username": "hardestgifs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZPZsQMLkd",
+              "end": 40,
+              "expanded_url": "https://x.com/hardestgifs/status/2082101016120471992/photo/1",
+              "media_key": "16_2082100850864865280",
+              "start": 17,
+              "url": "https://t.co/dZPZsQMLkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082341753286509024",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 843
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082101016120471992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hardestgifs: https://t.co/dZPZsQMLkd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 303,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1791
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-15T11:12:13.000Z",
+        "description": "just for fun",
+        "id": "412997648",
+        "location": "the world",
+        "name": "Hardest GIFs 🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640140330/breakdance_normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7015,
+          "following_count": 34,
+          "like_count": 446,
+          "listed_count": 16,
+          "media_count": 185,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "hardestgifs",
+        "verified": false
+      }
+    ]
+  }
+}

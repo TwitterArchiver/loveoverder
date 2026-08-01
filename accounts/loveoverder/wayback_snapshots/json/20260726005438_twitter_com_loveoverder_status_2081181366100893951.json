@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080992640581939200"
+      ],
+      "media_source_tweet_id": [
+        "2080992655152951452"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081181366100893951",
+    "created_at": "2026-07-26T00:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T01:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081181366100893951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2065017960402669568",
+          "start": 3,
+          "username": "Juzi7ide"
+        },
+        {
+          "end": 30,
+          "id": "1194755806534586368",
+          "start": 14,
+          "username": "TaiwanFreedom89"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ti9gFMqXGQ",
+          "end": 57,
+          "expanded_url": "https://x.com/Juzi7ide/status/2080992655152951452/photo/1",
+          "media_key": "3_2080992640581939200",
+          "start": 34,
+          "url": "https://t.co/ti9gFMqXGQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081181366100893951",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080992655152951452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Juzi7ide: @TaiwanFreedom89 无言 https://t.co/ti9gFMqXGQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2448,
+        "media_key": "3_2080992640581939200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOErx_IWsAA54vs.jpg",
+        "width": 1221
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080992640581939200"
+          ]
+        },
+        "author_id": "2065017960402669568",
+        "conversation_id": "2080961942462869516",
+        "created_at": "2026-07-25T12:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080992655152951452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1194755806534586368",
+              "start": 0,
+              "username": "TaiwanFreedom89"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ti9gFMqXGQ",
+              "end": 43,
+              "expanded_url": "https://x.com/Juzi7ide/status/2080992655152951452/photo/1",
+              "media_key": "3_2080992640581939200",
+              "start": 20,
+              "url": "https://t.co/ti9gFMqXGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080992655152951452",
+        "in_reply_to_user_id": "1194755806534586368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1885,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080961942462869516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaiwanFreedom89 无言 https://t.co/ti9gFMqXGQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080992640581939200"
+          ],
+          "media_source_tweet_id": [
+            "2080992655152951452"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081181366100893951",
+        "created_at": "2026-07-26T00:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081181366100893951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065017960402669568",
+              "start": 3,
+              "username": "Juzi7ide"
+            },
+            {
+              "end": 30,
+              "id": "1194755806534586368",
+              "start": 14,
+              "username": "TaiwanFreedom89"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ti9gFMqXGQ",
+              "end": 57,
+              "expanded_url": "https://x.com/Juzi7ide/status/2080992655152951452/photo/1",
+              "media_key": "3_2080992640581939200",
+              "start": 34,
+              "url": "https://t.co/ti9gFMqXGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081181366100893951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080992655152951452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Juzi7ide: @TaiwanFreedom89 无言 https://t.co/ti9gFMqXGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 257,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1361
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T10:27:55.000Z",
+        "description": "骂人",
+        "id": "2065017960402669568",
+        "name": "Juzi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067983294965088256/wMg8pK5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 30,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "Juzi7ide",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-13T23:16:08.000Z",
+        "description": "Memes & News about Taiwan from an Australian perspective. Follow on FB, same name & picture. \nOur Hashtag's #TWFreedom89 \nRetweets ≠ endorsements. \n#NAFO #TAFO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 108,
+                "tag": "TWFreedom89"
+              },
+              {
+                "end": 153,
+                "start": 148,
+                "tag": "NAFO"
+              },
+              {
+                "end": 159,
+                "start": 154,
+                "tag": "TAFO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/taiwan_freedom",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/taiwan_freedom",
+                "start": 0,
+                "url": "https://t.co/vngNGFL8Fr"
+              }
+            ]
+          }
+        },
+        "id": "1194755806534586368",
+        "location": "Brisbane, Queensland",
+        "name": "Taiwan Freedom - 台灣自由",
+        "pinned_tweet_id": "1424670962218196995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1467149515668942850/_y8cR1GW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67067,
+          "following_count": 2498,
+          "like_count": 36014,
+          "listed_count": 349,
+          "media_count": 2767,
+          "tweet_count": 31049
+        },
+        "url": "https://t.co/vngNGFL8Fr",
+        "username": "TaiwanFreedom89",
+        "verified": true
+      }
+    ]
+  }
+}

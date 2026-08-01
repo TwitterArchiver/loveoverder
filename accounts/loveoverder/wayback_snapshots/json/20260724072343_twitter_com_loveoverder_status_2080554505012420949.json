@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080496392670466048"
+      ],
+      "media_source_tweet_id": [
+        "2080496405869920259"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080554505012420949",
+    "created_at": "2026-07-24T07:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080554505012420949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612280433064185859",
+          "start": 3,
+          "username": "c2F4F4F"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3FkQoqzAbr",
+          "end": 43,
+          "expanded_url": "https://x.com/c2F4F4F/status/2080496405869920259/photo/1",
+          "media_key": "3_2080496392670466048",
+          "start": 20,
+          "url": "https://t.co/3FkQoqzAbr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080554505012420949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080496405869920259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @c2F4F4F: 皮特都发话了 https://t.co/3FkQoqzAbr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_2080496392670466048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9ocjma0AAU-Vi.jpg",
+        "width": 1992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080496392670466048"
+          ]
+        },
+        "author_id": "1612280433064185859",
+        "conversation_id": "2080496405869920259",
+        "created_at": "2026-07-24T03:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080496405869920259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FkQoqzAbr",
+              "end": 30,
+              "expanded_url": "https://x.com/c2F4F4F/status/2080496405869920259/photo/1",
+              "media_key": "3_2080496392670466048",
+              "start": 7,
+              "url": "https://t.co/3FkQoqzAbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080496405869920259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "皮特都发话了 https://t.co/3FkQoqzAbr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080496392670466048"
+          ],
+          "media_source_tweet_id": [
+            "2080496405869920259"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080554505012420949",
+        "created_at": "2026-07-24T07:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080554505012420949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612280433064185859",
+              "start": 3,
+              "username": "c2F4F4F"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FkQoqzAbr",
+              "end": 43,
+              "expanded_url": "https://x.com/c2F4F4F/status/2080496405869920259/photo/1",
+              "media_key": "3_2080496392670466048",
+              "start": 20,
+              "url": "https://t.co/3FkQoqzAbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080554505012420949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080496405869920259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @c2F4F4F: 皮特都发话了 https://t.co/3FkQoqzAbr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 240,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1155
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 女 | 重抑中焦吃药中 |",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "孙笑川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 374,
+          "like_count": 9620,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 703
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": false
+      }
+    ]
+  }
+}

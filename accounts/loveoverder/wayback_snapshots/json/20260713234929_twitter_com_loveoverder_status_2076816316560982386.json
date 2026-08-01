@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076816316560982386",
+    "created_at": "2026-07-13T23:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T00:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076816316560982386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1939163714693013504",
+          "start": 3,
+          "username": "nuanyang688"
+        },
+        {
+          "end": 29,
+          "id": "1889498212429369344",
+          "start": 17,
+          "username": "chenrui2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076816316560982386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076662389626572864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nuanyang688: @chenrui2025 不亏就是赚🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076816316560982386",
+        "created_at": "2026-07-13T23:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076816316560982386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1939163714693013504",
+              "start": 3,
+              "username": "nuanyang688"
+            },
+            {
+              "end": 29,
+              "id": "1889498212429369344",
+              "start": 17,
+              "username": "chenrui2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076816316560982386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076662389626572864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nuanyang688: @chenrui2025 不亏就是赚🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939163714693013504",
+        "conversation_id": "2076650071857451497",
+        "created_at": "2026-07-13T13:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076662389626572864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1889498212429369344",
+              "start": 0,
+              "username": "chenrui2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076662389626572864",
+        "in_reply_to_user_id": "1889498212429369344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076650071857451497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenrui2025 不亏就是赚🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 158,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 554
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T03:27:40.000Z",
+        "description": "web3没有白走的路！踩的每一个坑都算数~\n\n初来乍到，请多指教",
+        "id": "1939163714693013504",
+        "name": "暖阳🔆++🐬TermMax",
+        "pinned_tweet_id": "2070155209024942525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048026436112703490/yZauMpma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3498,
+          "following_count": 3247,
+          "like_count": 13509,
+          "listed_count": 11,
+          "media_count": 352,
+          "tweet_count": 11117
+        },
+        "url": "",
+        "username": "nuanyang688",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-12T02:14:52.000Z",
+        "description": "做自己的kol。50万起步，探索交易的自由之路",
+        "id": "1889498212429369344",
+        "location": "HongKong",
+        "name": "陈瑞叔叔",
+        "pinned_tweet_id": "2059401284680388931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900823222989582336/ke7S_B8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 487,
+          "like_count": 1314,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1289
+        },
+        "url": "",
+        "username": "chenrui2025",
+        "verified": true
+      }
+    ]
+  }
+}

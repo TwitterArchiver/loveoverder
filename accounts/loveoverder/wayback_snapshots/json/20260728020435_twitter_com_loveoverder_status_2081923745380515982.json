@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081923745380515982",
+    "created_at": "2026-07-28T02:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081923745380515982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "200759534",
+          "start": 3,
+          "username": "WWTLitee"
+        },
+        {
+          "end": 23,
+          "id": "1080476780991963137",
+          "start": 14,
+          "username": "bitfool1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081923745380515982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081714872484778162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WWTLitee: @bitfool1 哥们执行力可以啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081923745380515982",
+        "created_at": "2026-07-28T02:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081923745380515982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "200759534",
+              "start": 3,
+              "username": "WWTLitee"
+            },
+            {
+              "end": 23,
+              "id": "1080476780991963137",
+              "start": 14,
+              "username": "bitfool1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081923745380515982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081714872484778162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WWTLitee: @bitfool1 哥们执行力可以啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "200759534",
+        "conversation_id": "2081597847120875742",
+        "created_at": "2026-07-27T12:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081714872484778162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1080476780991963137",
+              "start": 0,
+              "username": "bitfool1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081714872484778162",
+        "in_reply_to_user_id": "1080476780991963137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 799,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081597847120875742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitfool1 哥们执行力可以啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 282,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1599
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-10T04:57:17.000Z",
+        "description": "沉迷于 vibe coding 的币圈咸鱼\n\n每天高强度学习写代码中\n\n插件，脚本，游戏，啥都写\n\n冲！\n\nDM for Collab \nTg：https://t.co/7VG8yQSuDg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Unclecow1",
+                "end": 95,
+                "expanded_url": "http://t.me/Unclecow1",
+                "start": 72,
+                "url": "https://t.co/7VG8yQSuDg"
+              }
+            ]
+          }
+        },
+        "id": "200759534",
+        "name": "奶牛叔",
+        "pinned_tweet_id": "2081593072656552429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654760796000518145/8QaUrPLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68408,
+          "following_count": 4875,
+          "like_count": 83259,
+          "listed_count": 776,
+          "media_count": 4080,
+          "tweet_count": 86097
+        },
+        "url": "",
+        "username": "WWTLitee",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-02T14:51:53.000Z",
+        "description": "Crypto职业投资人、AI投研。 自诩为傻，独立观点。",
+        "id": "1080476780991963137",
+        "location": "全球走",
+        "name": "比特傻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934977318348578816/fVgEaK65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128465,
+          "following_count": 1242,
+          "like_count": 238,
+          "listed_count": 1972,
+          "media_count": 3493,
+          "tweet_count": 16344
+        },
+        "url": "",
+        "username": "bitfool1",
+        "verified": true
+      }
+    ]
+  }
+}

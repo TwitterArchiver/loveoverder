@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073752649208582144",
+        "3_2073752711594655744"
+      ],
+      "media_source_tweet_id": [
+        "2080683172514427151",
+        "2080683172514427151"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080890847319736454",
+    "created_at": "2026-07-25T05:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080890847319736454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3165209270",
+          "start": 3,
+          "username": "artindetails"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vEdmZSc2oY",
+          "end": 64,
+          "expanded_url": "https://x.com/artindetails/status/2080683172514427151/video/1",
+          "media_key": "13_2073752649208582144",
+          "start": 41,
+          "url": "https://t.co/vEdmZSc2oY"
+        },
+        {
+          "display_url": "pic.x.com/vEdmZSc2oY",
+          "end": 64,
+          "expanded_url": "https://x.com/artindetails/status/2080683172514427151/video/1",
+          "media_key": "3_2073752711594655744",
+          "start": 41,
+          "url": "https://t.co/vEdmZSc2oY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080890847319736454",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5653
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080683172514427151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @artindetails: found the perfect spot https://t.co/vEdmZSc2oY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5600,
+        "height": 1280,
+        "media_key": "13_2073752649208582144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073752649208582144/img/lEymdjh3pG_OtruO.jpg",
+        "public_metrics": {
+          "view_count": 216178
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073752649208582144/vid/avc1/320x568/FearFx_mxraNOijI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073752649208582144/vid/avc1/480x852/dYrTeBelGW-_4WWK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073752649208582144/vid/avc1/720x1280/0oUSYHd6x7ZwPrLP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073752649208582144/pl/joV-FqdCqfQXyJ8c.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2073752711594655744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdzGp6aQAATnBp.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073752649208582144",
+            "3_2073752711594655744"
+          ]
+        },
+        "author_id": "3165209270",
+        "conversation_id": "2080683172514427151",
+        "created_at": "2026-07-24T15:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080683172514427151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vEdmZSc2oY",
+              "end": 46,
+              "expanded_url": "https://x.com/artindetails/status/2080683172514427151/video/1",
+              "media_key": "13_2073752649208582144",
+              "start": 23,
+              "url": "https://t.co/vEdmZSc2oY"
+            },
+            {
+              "display_url": "pic.x.com/vEdmZSc2oY",
+              "end": 46,
+              "expanded_url": "https://x.com/artindetails/status/2080683172514427151/video/1",
+              "media_key": "3_2073752711594655744",
+              "start": 23,
+              "url": "https://t.co/vEdmZSc2oY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080683172514427151",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1240,
+          "impression_count": 522963,
+          "like_count": 44817,
+          "quote_count": 94,
+          "reply_count": 48,
+          "retweet_count": 5653
+        },
+        "reply_settings": "everyone",
+        "text": "found the perfect spot https://t.co/vEdmZSc2oY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073752649208582144",
+            "3_2073752711594655744"
+          ],
+          "media_source_tweet_id": [
+            "2080683172514427151",
+            "2080683172514427151"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080890847319736454",
+        "created_at": "2026-07-25T05:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080890847319736454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3165209270",
+              "start": 3,
+              "username": "artindetails"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vEdmZSc2oY",
+              "end": 64,
+              "expanded_url": "https://x.com/artindetails/status/2080683172514427151/video/1",
+              "media_key": "13_2073752649208582144",
+              "start": 41,
+              "url": "https://t.co/vEdmZSc2oY"
+            },
+            {
+              "display_url": "pic.x.com/vEdmZSc2oY",
+              "end": 64,
+              "expanded_url": "https://x.com/artindetails/status/2080683172514427151/video/1",
+              "media_key": "3_2073752711594655744",
+              "start": 41,
+              "url": "https://t.co/vEdmZSc2oY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080890847319736454",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5653
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080683172514427151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @artindetails: found the perfect spot https://t.co/vEdmZSc2oY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 252,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1307
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-20T11:00:08.000Z",
+        "description": "— Dedicated to the seekers. ☾ @artindetaiIs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "artindetaiIs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/artindetails",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/artindetails",
+                "start": 0,
+                "url": "https://t.co/zRjbVdaeod"
+              }
+            ]
+          }
+        },
+        "id": "3165209270",
+        "location": "dm for promo",
+        "name": "ᅠ",
+        "pinned_tweet_id": "2058462505077227903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544503030531248128/HqjYjqEp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840550,
+          "following_count": 48,
+          "like_count": 31629,
+          "listed_count": 3830,
+          "media_count": 7961,
+          "tweet_count": 10710
+        },
+        "url": "https://t.co/zRjbVdaeod",
+        "username": "artindetails",
+        "verified": true
+      }
+    ]
+  }
+}

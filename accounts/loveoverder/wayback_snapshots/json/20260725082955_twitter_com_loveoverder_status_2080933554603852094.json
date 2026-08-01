@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080620792233267200",
+        "3_2080620804673576960"
+      ],
+      "media_source_tweet_id": [
+        "2080639140522037743",
+        "2080639140522037743"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080933554603852094",
+    "created_at": "2026-07-25T08:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080933554603852094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "839794170688479232",
+          "start": 3,
+          "username": "culAnimal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PmjNzssfj0",
+          "end": 38,
+          "expanded_url": "https://x.com/culAnimal/status/2080639140522037743/video/1",
+          "media_key": "13_2080620792233267200",
+          "start": 15,
+          "url": "https://t.co/PmjNzssfj0"
+        },
+        {
+          "display_url": "pic.x.com/PmjNzssfj0",
+          "end": 38,
+          "expanded_url": "https://x.com/culAnimal/status/2080639140522037743/video/1",
+          "media_key": "3_2080620804673576960",
+          "start": 15,
+          "url": "https://t.co/PmjNzssfj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080933554603852094",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1293
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080639140522037743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @culAnimal: https://t.co/PmjNzssfj0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2233,
+        "height": 960,
+        "media_key": "13_2080620792233267200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080620792233267200/img/PCujWCL8ifBMo7vx.jpg",
+        "public_metrics": {
+          "view_count": 40673
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080620792233267200/vid/avc1/320x426/H8Jnb8twid8kNND2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080620792233267200/vid/avc1/480x640/GieQgEdLjT4es4kg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080620792233267200/vid/avc1/720x960/rUSmeiqAk8u6sr5Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080620792233267200/pl/N6NoijJLHO9cHYB7.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1208,
+        "media_key": "3_2080620804673576960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_ZmSbbIAAl2Wc.jpg",
+        "width": 908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080620792233267200",
+            "3_2080620804673576960"
+          ]
+        },
+        "author_id": "839794170688479232",
+        "conversation_id": "2080639140522037743",
+        "created_at": "2026-07-24T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080639140522037743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmjNzssfj0",
+              "end": 23,
+              "expanded_url": "https://x.com/culAnimal/status/2080639140522037743/video/1",
+              "media_key": "13_2080620792233267200",
+              "start": 0,
+              "url": "https://t.co/PmjNzssfj0"
+            },
+            {
+              "display_url": "pic.x.com/PmjNzssfj0",
+              "end": 23,
+              "expanded_url": "https://x.com/culAnimal/status/2080639140522037743/video/1",
+              "media_key": "3_2080620804673576960",
+              "start": 0,
+              "url": "https://t.co/PmjNzssfj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080639140522037743",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1162,
+          "impression_count": 121541,
+          "like_count": 10496,
+          "quote_count": 64,
+          "reply_count": 12,
+          "retweet_count": 1293
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PmjNzssfj0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080620792233267200",
+            "3_2080620804673576960"
+          ],
+          "media_source_tweet_id": [
+            "2080639140522037743",
+            "2080639140522037743"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080933554603852094",
+        "created_at": "2026-07-25T08:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080933554603852094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "839794170688479232",
+              "start": 3,
+              "username": "culAnimal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmjNzssfj0",
+              "end": 38,
+              "expanded_url": "https://x.com/culAnimal/status/2080639140522037743/video/1",
+              "media_key": "13_2080620792233267200",
+              "start": 15,
+              "url": "https://t.co/PmjNzssfj0"
+            },
+            {
+              "display_url": "pic.x.com/PmjNzssfj0",
+              "end": 38,
+              "expanded_url": "https://x.com/culAnimal/status/2080639140522037743/video/1",
+              "media_key": "3_2080620804673576960",
+              "start": 15,
+              "url": "https://t.co/PmjNzssfj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080933554603852094",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1293
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080639140522037743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @culAnimal: https://t.co/PmjNzssfj0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 255,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1330
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-09T11:05:07.000Z",
+        "description": "🐾 Daily adorable kittens\nBringing smiles from around the world.\nEvery kitten deserves love ❤️\n 🐾 Daily cute kittens\n❤️ Follow for daily smiles",
+        "id": "839794170688479232",
+        "name": "CatsFriends",
+        "pinned_tweet_id": "2076622674902585673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909780544701026304/ugvYV8Ry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7979,
+          "following_count": 7809,
+          "like_count": 3169,
+          "listed_count": 15,
+          "media_count": 13794,
+          "tweet_count": 17701
+        },
+        "url": "",
+        "username": "culAnimal",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081504858150981632"
+      ],
+      "media_source_tweet_id": [
+        "2081504862466981955"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081716883490041903",
+    "created_at": "2026-07-27T12:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081716883490041903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1350649182374268928",
+          "start": 3,
+          "username": "rei_chikitatwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RBnNTgd4xs",
+          "end": 43,
+          "expanded_url": "https://x.com/rei_chikitatwt/status/2081504862466981955/photo/1",
+          "media_key": "3_2081504858150981632",
+          "start": 20,
+          "url": "https://t.co/RBnNTgd4xs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081716883490041903",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 310
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081504862466981955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rei_chikitatwt: https://t.co/RBnNTgd4xs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_2081504858150981632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOL9o-RW0AAQw8U.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081504858150981632"
+          ]
+        },
+        "author_id": "1350649182374268928",
+        "conversation_id": "2081504862466981955",
+        "created_at": "2026-07-26T22:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T23:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081504862466981955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RBnNTgd4xs",
+              "end": 23,
+              "expanded_url": "https://x.com/rei_chikitatwt/status/2081504862466981955/photo/1",
+              "media_key": "3_2081504858150981632",
+              "start": 0,
+              "url": "https://t.co/RBnNTgd4xs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081504862466981955",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 365,
+          "impression_count": 27744,
+          "like_count": 3065,
+          "quote_count": 21,
+          "reply_count": 4,
+          "retweet_count": 310
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RBnNTgd4xs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081504858150981632"
+          ],
+          "media_source_tweet_id": [
+            "2081504862466981955"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081716883490041903",
+        "created_at": "2026-07-27T12:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081716883490041903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1350649182374268928",
+              "start": 3,
+              "username": "rei_chikitatwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RBnNTgd4xs",
+              "end": 43,
+              "expanded_url": "https://x.com/rei_chikitatwt/status/2081504862466981955/photo/1",
+              "media_key": "3_2081504858150981632",
+              "start": 20,
+              "url": "https://t.co/RBnNTgd4xs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081716883490041903",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 310
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081504862466981955",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rei_chikitatwt: https://t.co/RBnNTgd4xs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 258,
+          "like_count": 725,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1504
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-17T03:40:52.000Z",
+        "description": "chikitaposting",
+        "id": "1350649182374268928",
+        "location": "Rei 🩵",
+        "name": "noru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047046089644154880/jdjT1Iul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816,
+          "following_count": 175,
+          "like_count": 33950,
+          "listed_count": 10,
+          "media_count": 1838,
+          "tweet_count": 5141
+        },
+        "url": "",
+        "username": "rei_chikitatwt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081781456100073472"
+      ],
+      "media_source_tweet_id": [
+        "2081781460151726173"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081926324407681150",
+    "created_at": "2026-07-28T02:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081926324407681150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2080716216281272320",
+          "start": 3,
+          "username": "ImRightProbably"
+        },
+        {
+          "end": 28,
+          "id": "1071484733543079936",
+          "start": 21,
+          "username": "Kalshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hqja9t4O2A",
+          "end": 74,
+          "expanded_url": "https://x.com/ImRightProbably/status/2081781460151726173/photo/1",
+          "media_key": "3_2081781456100073472",
+          "start": 51,
+          "url": "https://t.co/Hqja9t4O2A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081926324407681150",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081781460151726173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ImRightProbably: @Kalshi Tale of two Americas: https://t.co/Hqja9t4O2A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 889,
+        "media_key": "3_2081781456100073472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOP5NF7XIAAo8jP.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081781456100073472"
+          ]
+        },
+        "author_id": "2080716216281272320",
+        "conversation_id": "2081776627676336247",
+        "created_at": "2026-07-27T16:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081781460151726173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1071484733543079936",
+              "start": 0,
+              "username": "Kalshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hqja9t4O2A",
+              "end": 53,
+              "expanded_url": "https://x.com/ImRightProbably/status/2081781460151726173/photo/1",
+              "media_key": "3_2081781456100073472",
+              "start": 30,
+              "url": "https://t.co/Hqja9t4O2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081781460151726173",
+        "in_reply_to_user_id": "1071484733543079936",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10170,
+          "like_count": 226,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081776627676336247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kalshi Tale of two Americas: https://t.co/Hqja9t4O2A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081781456100073472"
+          ],
+          "media_source_tweet_id": [
+            "2081781460151726173"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081926324407681150",
+        "created_at": "2026-07-28T02:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081926324407681150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2080716216281272320",
+              "start": 3,
+              "username": "ImRightProbably"
+            },
+            {
+              "end": 28,
+              "id": "1071484733543079936",
+              "start": 21,
+              "username": "Kalshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hqja9t4O2A",
+              "end": 74,
+              "expanded_url": "https://x.com/ImRightProbably/status/2081781460151726173/photo/1",
+              "media_key": "3_2081781456100073472",
+              "start": 51,
+              "url": "https://t.co/Hqja9t4O2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081926324407681150",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081781460151726173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ImRightProbably: @Kalshi Tale of two Americas: https://t.co/Hqja9t4O2A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 282,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1607
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-24T18:08:09.000Z",
+        "description": "Posting thoughts that should've stayed in my drafts. 50% humor 50% questionable life choices.",
+        "id": "2080716216281272320",
+        "name": "I'm Right, Probably",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080717835228037121/UCsWwv15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 18,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "ImRightProbably",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-08T19:20:42.000Z",
+        "description": "Trade on anything.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kalshi.com/x",
+                "end": 23,
+                "expanded_url": "https://kalshi.com/x",
+                "start": 0,
+                "url": "https://t.co/UEGdJMRFFZ"
+              }
+            ]
+          }
+        },
+        "id": "1071484733543079936",
+        "location": "New York",
+        "name": "Kalshi",
+        "pinned_tweet_id": "2079947783482581406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061243841957502981/FZGJ4D6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440660,
+          "following_count": 1698,
+          "like_count": 11663,
+          "listed_count": 2801,
+          "media_count": 4616,
+          "tweet_count": 13654
+        },
+        "url": "https://t.co/UEGdJMRFFZ",
+        "username": "Kalshi",
+        "verified": true
+      }
+    ]
+  }
+}

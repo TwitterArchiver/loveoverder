@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081405111507857483",
+    "created_at": "2026-07-26T15:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081405111507857483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/geshito114514/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/geshito114514/status/2081313612375970300",
+          "start": 17,
+          "url": "https://t.co/SamwUxusSd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081405111507857483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081313612375970300",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "微微一笑很傾城，這才是最有魅力的 https://t.co/SamwUxusSd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1470,
+        "height": 240,
+        "media_key": "13_2081313596190113792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081313596190113792/img/RLpRj0RxKDHXGI6T.jpg",
+        "public_metrics": {
+          "view_count": 4909
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081313596190113792/vid/avc1/426x240/GfitpIJhT2LsCIMQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081313596190113792/pl/Z4AyEZtvYABa7vki.m3u8?tag=14"
+          }
+        ],
+        "width": 426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081405111507857483",
+        "created_at": "2026-07-26T15:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081405111507857483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/geshito114514/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/geshito114514/status/2081313612375970300",
+              "start": 17,
+              "url": "https://t.co/SamwUxusSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081405111507857483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081313612375970300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "微微一笑很傾城，這才是最有魅力的 https://t.co/SamwUxusSd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081313596190113792"
+          ]
+        },
+        "author_id": "2006920599092998146",
+        "conversation_id": "2081207532534878265",
+        "created_at": "2026-07-26T09:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081313612375970300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2069805112982384640",
+              "start": 0,
+              "username": "benio_outfit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZhDZ1sMLL",
+              "end": 37,
+              "expanded_url": "https://x.com/geshito114514/status/2081313612375970300/video/1",
+              "media_key": "13_2081313596190113792",
+              "start": 14,
+              "url": "https://t.co/1ZhDZ1sMLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081313612375970300",
+        "in_reply_to_user_id": "2069805112982384640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 31015,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081207532534878265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@benio_outfit https://t.co/1ZhDZ1sMLL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 253,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1399
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T02:49:02.000Z",
+        "description": "ネタツイに取り憑かれている",
+        "id": "2006920599092998146",
+        "name": "純夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029797335346335746/HVU199bt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 113,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "geshito114514",
+        "verified": false
+      }
+    ]
+  }
+}

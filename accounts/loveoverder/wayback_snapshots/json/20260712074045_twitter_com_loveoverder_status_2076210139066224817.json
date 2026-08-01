@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2075496457667543227",
+    "created_at": "2026-07-12T07:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T08:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076210139066224817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974420946045071360",
+          "start": 0,
+          "username": "sunny98398"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076210139066224817",
+    "in_reply_to_user_id": "1974420946045071360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075496457667543227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunny98398 這個該怎麼設置呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2075496457667543227",
+        "created_at": "2026-07-12T07:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076210139066224817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974420946045071360",
+              "start": 0,
+              "username": "sunny98398"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076210139066224817",
+        "in_reply_to_user_id": "1974420946045071360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075496457667543227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunny98398 這個該怎麼設置呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974420946045071360",
+        "conversation_id": "2075496457667543227",
+        "created_at": "2026-07-10T08:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075496457667543227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075496457667543227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯..我是不是該設置一下可以回覆的人 不然一堆人機 嗯 就很..麻煩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 22,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T10:27:10.000Z",
+        "description": "想跟大家互fo｜歡迎與我聊天 除了廣告其他基本不會拒絕 如果你的發言到令我感到不適我會選擇已讀不回 或是我會跟你跟你說明｜不定時出現與消失｜ 全友好LGBTQ+｜無立場｜無性別｜“想要救贖他人 逃離深淵 回到原本的軌道 順便拯救自己”",
+        "id": "1974420946045071360",
+        "name": "濪",
+        "pinned_tweet_id": "2038171627868070114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040996760517320704/yxiZJH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 86,
+          "like_count": 1203,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 702
+        },
+        "url": "",
+        "username": "sunny98398",
+        "verified": false
+      }
+    ]
+  }
+}

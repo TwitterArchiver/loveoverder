@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2082374930029805831",
+    "created_at": "2026-07-29T07:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082374930029805831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1919880534047756288",
+          "start": 3,
+          "username": "ill_nme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082374930029805831",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082319127885357370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ill_nme: 万バズありがとうございます🤩\nやり方‼️の前に宣伝‼️させてください！\n普段はヤニカス不良アイドルやってます\nめちゃくちゃゲラなのでよく笑います\n良かったらプロフィール開いて写真欄も見てってくださいね\n\nやり方↓\nアイビスペイントで写真を選択する… h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2082319117764476928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXiNHtbQAAHu1M.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2082374930029805831",
+        "created_at": "2026-07-29T07:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082374930029805831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1919880534047756288",
+              "start": 3,
+              "username": "ill_nme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082374930029805831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082319127885357370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ill_nme: 万バズありがとうございます🤩\nやり方‼️の前に宣伝‼️させてください！\n普段はヤニカス不良アイドルやってます\nめちゃくちゃゲラなのでよく笑います\n良かったらプロフィール開いて写真欄も見てってくださいね\n\nやり方↓\nアイビスペイントで写真を選択する… h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082319117764476928"
+          ]
+        },
+        "author_id": "1919880534047756288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2082138756015177987",
+        "created_at": "2026-07-29T04:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082319127885357370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OvKl5xHw7L",
+              "end": 147,
+              "expanded_url": "https://x.com/ill_nme/status/2082319127885357370/photo/1",
+              "media_key": "3_2082319117764476928",
+              "start": 124,
+              "url": "https://t.co/OvKl5xHw7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082319127885357370",
+        "in_reply_to_user_id": "1919880534047756288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "万バズありがとうございます🤩\nやり方‼️の前に宣伝‼️させてください！\n普段はヤニカス不良アイドルやってます\nめちゃくちゃゲラなのでよく笑います\n良かったらプロフィール開いて写真欄も見てってくださいね\n\nやり方↓\nアイビスペイントで写真を選択する\nレイヤーを2つ追加して写真のレイヤーを追加したレイヤーの間にいれる（透明→写真→透明）\nメガネのレンズをペンで塗りつぶす\nツールを開いてフィルターを押す\nスタイルのゴッドレイを選択\n画像上に出た☀️を動かすとｷﾞｭｲﾝｷﾞｭｲﾝ となります"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 7538,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082138756015177987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "万バズありがとうございます🤩\nやり方‼️の前に宣伝‼️させてください！\n普段はヤニカス不良アイドルやってます\nめちゃくちゃゲラなのでよく笑います\n良かったらプロフィール開いて写真欄も見てってくださいね\n\nやり方↓\nアイビスペイントで写真を選択する https://t.co/OvKl5xHw7L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 309,
+          "like_count": 907,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1827
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-06T22:23:05.000Z",
+        "description": "めっ！ 🦋 @me_info_ 🦋 のヤニカスブルー担当 🚬💙 チェキタグ/ #世界ノ終ワリハアイル様ト共ニ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 39,
+                "tag": "世界ノ終ワリハアイル様ト共ニ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "me_info_"
+              }
+            ]
+          }
+        },
+        "id": "1919880534047756288",
+        "name": "-I'll-",
+        "pinned_tweet_id": "2009990350031700323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069381149672275968/bJB9aApO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3352,
+          "following_count": 73,
+          "like_count": 11794,
+          "listed_count": 29,
+          "media_count": 433,
+          "tweet_count": 3034
+        },
+        "url": "",
+        "username": "ill_nme",
+        "verified": true
+      }
+    ]
+  }
+}

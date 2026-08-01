@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076832298927067136"
+      ],
+      "media_source_tweet_id": [
+        "2076981783049232624"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077373629311177141",
+    "created_at": "2026-07-15T12:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077373629311177141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1222813258194702336",
+          "start": 3,
+          "username": "dashen9999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FQwgYVe6ca",
+          "end": 55,
+          "expanded_url": "https://x.com/dashen9999/status/2076981783049232624/photo/1",
+          "media_key": "3_2076832298927067136",
+          "start": 32,
+          "url": "https://t.co/FQwgYVe6ca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077373629311177141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076981783049232624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dashen9999: 养过小猫就知道 爱不需要新鲜感 https://t.co/FQwgYVe6ca"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 518,
+        "media_key": "3_2076832298927067136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJj-OubEAAI1F8.png",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076832298927067136"
+          ],
+          "media_source_tweet_id": [
+            "2076981783049232624"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077373629311177141",
+        "created_at": "2026-07-15T12:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077373629311177141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1222813258194702336",
+              "start": 3,
+              "username": "dashen9999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQwgYVe6ca",
+              "end": 55,
+              "expanded_url": "https://x.com/dashen9999/status/2076981783049232624/photo/1",
+              "media_key": "3_2076832298927067136",
+              "start": 32,
+              "url": "https://t.co/FQwgYVe6ca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077373629311177141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076981783049232624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dashen9999: 养过小猫就知道 爱不需要新鲜感 https://t.co/FQwgYVe6ca"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076832298927067136"
+          ]
+        },
+        "author_id": "1222813258194702336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076981783049232624",
+        "created_at": "2026-07-14T10:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076981783049232624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQwgYVe6ca",
+              "end": 39,
+              "expanded_url": "https://x.com/dashen9999/status/2076981783049232624/photo/1",
+              "media_key": "3_2076832298927067136",
+              "start": 16,
+              "url": "https://t.co/FQwgYVe6ca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076981783049232624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 22584,
+          "like_count": 692,
+          "quote_count": 12,
+          "reply_count": 31,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "养过小猫就知道 爱不需要新鲜感 https://t.co/FQwgYVe6ca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 210,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 864
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-30T09:26:25.000Z",
+        "description": "我是小C。\nC++ 信息学奥赛教练，编程讲师，少儿编程资深专家。\n企业AI落地咨询、AIGC深度玩家。\n常驻讲台，偶尔经过食堂。\n致力于反努力机制下的AI知识传播与教育造物。",
+        "id": "1222813258194702336",
+        "location": "？？？→",
+        "name": "小C哈哈哈",
+        "pinned_tweet_id": "2043688478928777226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502280718426112/sN8rM9RU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8731,
+          "following_count": 355,
+          "like_count": 895,
+          "listed_count": 47,
+          "media_count": 872,
+          "tweet_count": 5482
+        },
+        "url": "",
+        "username": "dashen9999",
+        "verified": true
+      }
+    ]
+  }
+}

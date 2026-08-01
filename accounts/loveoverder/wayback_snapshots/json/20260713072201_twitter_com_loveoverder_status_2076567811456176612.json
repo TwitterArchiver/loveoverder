@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076322392381726720"
+      ],
+      "media_source_tweet_id": [
+        "2076322400086692039"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076567811456176612",
+    "created_at": "2026-07-13T07:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076567811456176612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KTKcOnyjSV",
+          "end": 50,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2076322400086692039/photo/1",
+          "media_key": "3_2076322392381726720",
+          "start": 27,
+          "url": "https://t.co/KTKcOnyjSV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076567811456176612",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076322400086692039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 搁这刷成就呢？ https://t.co/KTKcOnyjSV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2228,
+        "media_key": "3_2076322392381726720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCUNw0aIAAX8J9.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076322392381726720"
+          ],
+          "media_source_tweet_id": [
+            "2076322400086692039"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076567811456176612",
+        "created_at": "2026-07-13T07:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076567811456176612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KTKcOnyjSV",
+              "end": 50,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2076322400086692039/photo/1",
+              "media_key": "3_2076322392381726720",
+              "start": 27,
+              "url": "https://t.co/KTKcOnyjSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076567811456176612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076322400086692039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 搁这刷成就呢？ https://t.co/KTKcOnyjSV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076322392381726720"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2076322400086692039",
+        "created_at": "2026-07-12T15:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076322400086692039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KTKcOnyjSV",
+              "end": 31,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2076322400086692039/photo/1",
+              "media_key": "3_2076322392381726720",
+              "start": 8,
+              "url": "https://t.co/KTKcOnyjSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076322400086692039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 47188,
+          "like_count": 581,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "搁这刷成就呢？ https://t.co/KTKcOnyjSV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 123,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "蓝v互关必回｜私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95777,
+          "following_count": 1860,
+          "like_count": 6638,
+          "listed_count": 209,
+          "media_count": 291,
+          "tweet_count": 2845
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

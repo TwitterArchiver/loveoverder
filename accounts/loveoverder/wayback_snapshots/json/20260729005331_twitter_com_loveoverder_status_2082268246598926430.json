@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082038405681266688"
+      ],
+      "media_source_tweet_id": [
+        "2082038413457576427"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082268246598926430",
+    "created_at": "2026-07-29T00:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082268246598926430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981962777024679936",
+          "start": 3,
+          "username": "zhesee2003"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7xbjIriPxn",
+          "end": 54,
+          "expanded_url": "https://x.com/zhesee2003/status/2082038413457576427/photo/1",
+          "media_key": "3_2082038405681266688",
+          "start": 31,
+          "url": "https://t.co/7xbjIriPxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082268246598926430",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1308
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082038413457576427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhesee2003: 我有mommy issues https://t.co/7xbjIriPxn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2993,
+        "media_key": "3_2082038405681266688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTi5htaQAAiqSp.jpg",
+        "width": 1786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082038405681266688"
+          ]
+        },
+        "author_id": "1981962777024679936",
+        "conversation_id": "2082038413457576427",
+        "created_at": "2026-07-28T09:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082038413457576427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xbjIriPxn",
+              "end": 38,
+              "expanded_url": "https://x.com/zhesee2003/status/2082038413457576427/photo/1",
+              "media_key": "3_2082038405681266688",
+              "start": 15,
+              "url": "https://t.co/7xbjIriPxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082038413457576427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3173,
+          "impression_count": 140617,
+          "like_count": 18989,
+          "quote_count": 35,
+          "reply_count": 14,
+          "retweet_count": 1308
+        },
+        "reply_settings": "everyone",
+        "text": "我有mommy issues https://t.co/7xbjIriPxn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082038405681266688"
+          ],
+          "media_source_tweet_id": [
+            "2082038413457576427"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082268246598926430",
+        "created_at": "2026-07-29T00:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082268246598926430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981962777024679936",
+              "start": 3,
+              "username": "zhesee2003"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xbjIriPxn",
+              "end": 54,
+              "expanded_url": "https://x.com/zhesee2003/status/2082038413457576427/photo/1",
+              "media_key": "3_2082038405681266688",
+              "start": 31,
+              "url": "https://t.co/7xbjIriPxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082268246598926430",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1308
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082038413457576427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhesee2003: 我有mommy issues https://t.co/7xbjIriPxn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 299,
+          "like_count": 855,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1749
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T05:55:36.000Z",
+        "description": "",
+        "id": "1981962777024679936",
+        "name": "Zhe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028123133996331008/9it1oETE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12179,
+          "following_count": 20,
+          "like_count": 368,
+          "listed_count": 39,
+          "media_count": 137,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "zhesee2003",
+        "verified": false
+      }
+    ]
+  }
+}

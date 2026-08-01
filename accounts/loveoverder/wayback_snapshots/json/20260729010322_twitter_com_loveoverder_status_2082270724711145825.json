@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082082450256306176"
+      ],
+      "media_source_tweet_id": [
+        "2082082567520674042"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082270724711145825",
+    "created_at": "2026-07-29T01:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082270724711145825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1099264973430083585",
+          "start": 3,
+          "username": "Sprowlerty"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8qIUkrPUF8",
+          "end": 68,
+          "expanded_url": "https://x.com/Sprowlerty/status/2082082567520674042/video/1",
+          "media_key": "13_2082082450256306176",
+          "start": 45,
+          "url": "https://t.co/8qIUkrPUF8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082270724711145825",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082082567520674042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sprowlerty: shes got everything on sight https://t.co/8qIUkrPUF8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12994,
+        "height": 720,
+        "media_key": "13_2082082450256306176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082082450256306176/img/2CCpiW-QSnMdsa0i.jpg",
+        "public_metrics": {
+          "view_count": 6804
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082082450256306176/vid/avc1/480x270/dNyaWpD-8IqZnrys.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082082450256306176/vid/avc1/640x360/sSL052sZNTMphx6j.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082082450256306176/vid/avc1/1280x720/Xv92AG6gFplykCt1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082082450256306176/pl/bOOr7_tREPJLWkvM.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082082450256306176"
+          ]
+        },
+        "author_id": "1099264973430083585",
+        "conversation_id": "2082082567520674042",
+        "created_at": "2026-07-28T12:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082082567520674042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8qIUkrPUF8",
+              "end": 52,
+              "expanded_url": "https://x.com/Sprowlerty/status/2082082567520674042/video/1",
+              "media_key": "13_2082082450256306176",
+              "start": 29,
+              "url": "https://t.co/8qIUkrPUF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082082567520674042",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 11737,
+          "like_count": 554,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "shes got everything on sight https://t.co/8qIUkrPUF8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082082450256306176"
+          ],
+          "media_source_tweet_id": [
+            "2082082567520674042"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082270724711145825",
+        "created_at": "2026-07-29T01:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082270724711145825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1099264973430083585",
+              "start": 3,
+              "username": "Sprowlerty"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8qIUkrPUF8",
+              "end": 68,
+              "expanded_url": "https://x.com/Sprowlerty/status/2082082567520674042/video/1",
+              "media_key": "13_2082082450256306176",
+              "start": 45,
+              "url": "https://t.co/8qIUkrPUF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082270724711145825",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082082567520674042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sprowlerty: shes got everything on sight https://t.co/8qIUkrPUF8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 301,
+          "like_count": 858,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1765
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-23T11:09:27.000Z",
+        "description": "i love satori komeiji from touhou project. \n(banner by sir, @kouki_ht)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "kouki_ht"
+              }
+            ]
+          }
+        },
+        "id": "1099264973430083585",
+        "name": "Sprowli",
+        "pinned_tweet_id": "2014896863556862126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071577997896044546/hp0pV1FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 321,
+          "like_count": 32868,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 25302
+        },
+        "url": "",
+        "username": "Sprowlerty",
+        "verified": false
+      }
+    ]
+  }
+}

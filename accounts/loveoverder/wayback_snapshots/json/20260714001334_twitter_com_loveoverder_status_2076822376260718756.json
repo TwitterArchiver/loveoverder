@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076807460057489408"
+      ],
+      "media_source_tweet_id": [
+        "2076807675812413653"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076822376260718756",
+    "created_at": "2026-07-14T00:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076822376260718756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934766733237342209",
+          "start": 3,
+          "username": "Adrawta"
+        },
+        {
+          "end": 25,
+          "id": "2023940660961882112",
+          "start": 13,
+          "username": "TraderDDDDD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4qqWimGfBZ",
+          "end": 55,
+          "expanded_url": "https://x.com/Adrawta/status/2076807675812413653/photo/1",
+          "media_key": "3_2076807460057489408",
+          "start": 32,
+          "url": "https://t.co/4qqWimGfBZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076822376260718756",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076807675812413653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Adrawta: @TraderDDDDD 拆字大師😈 https://t.co/4qqWimGfBZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1142,
+        "media_key": "3_2076807460057489408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJNYauboAA3xcV.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076807460057489408"
+          ],
+          "media_source_tweet_id": [
+            "2076807675812413653"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076822376260718756",
+        "created_at": "2026-07-14T00:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076822376260718756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934766733237342209",
+              "start": 3,
+              "username": "Adrawta"
+            },
+            {
+              "end": 25,
+              "id": "2023940660961882112",
+              "start": 13,
+              "username": "TraderDDDDD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qqWimGfBZ",
+              "end": 55,
+              "expanded_url": "https://x.com/Adrawta/status/2076807675812413653/photo/1",
+              "media_key": "3_2076807460057489408",
+              "start": 32,
+              "url": "https://t.co/4qqWimGfBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076822376260718756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076807675812413653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Adrawta: @TraderDDDDD 拆字大師😈 https://t.co/4qqWimGfBZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076807460057489408"
+          ]
+        },
+        "author_id": "1934766733237342209",
+        "conversation_id": "2076692782291493155",
+        "created_at": "2026-07-13T23:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076807675812413653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023940660961882112",
+              "start": 0,
+              "username": "TraderDDDDD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qqWimGfBZ",
+              "end": 42,
+              "expanded_url": "https://x.com/Adrawta/status/2076807675812413653/photo/1",
+              "media_key": "3_2076807460057489408",
+              "start": 19,
+              "url": "https://t.co/4qqWimGfBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076807675812413653",
+        "in_reply_to_user_id": "2023940660961882112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076692782291493155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TraderDDDDD 拆字大師😈 https://t.co/4qqWimGfBZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 167,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T00:15:29.000Z",
+        "description": "technerd · speculator · dreamer/觀點大概是在玩抽象👀/dm open~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/z6v8G0CcWj"
+              }
+            ]
+          }
+        },
+        "id": "1934766733237342209",
+        "location": "Anywhere",
+        "name": "raw_data;🌙",
+        "pinned_tweet_id": "2070824856535327067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492271006023680/ImapTGJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 128,
+          "like_count": 3974,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1300
+        },
+        "url": "https://t.co/z6v8G0CcWj",
+        "username": "Adrawta",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T02:00:44.000Z",
+        "description": "📈 Focused on Crypto & Stocks | Technical Analysis & Cross-market Arbitrage\n💎 No group, no signals.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Trader.D-Cryp…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Trader.D-Crypto",
+                "start": 0,
+                "url": "https://t.co/GUD6Hyt3Th"
+              }
+            ]
+          }
+        },
+        "id": "2023940660961882112",
+        "location": "Japan / Tokyo",
+        "name": "Tader.D",
+        "pinned_tweet_id": "2058555034825335101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062004894438137856/jQrnzDR2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 149,
+          "like_count": 2175,
+          "listed_count": 5,
+          "media_count": 174,
+          "tweet_count": 1687
+        },
+        "url": "https://t.co/GUD6Hyt3Th",
+        "username": "TraderDDDDD",
+        "verified": true
+      }
+    ]
+  }
+}

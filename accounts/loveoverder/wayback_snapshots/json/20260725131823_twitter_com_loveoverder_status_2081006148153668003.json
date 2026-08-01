@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081006148153668003",
+    "created_at": "2026-07-25T13:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081006148153668003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1181029816163880960",
+          "start": 3,
+          "username": "coreykarthik"
+        },
+        {
+          "end": 27,
+          "id": "1133110690615418880",
+          "start": 18,
+          "username": "kimchi1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081006148153668003",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080059654864867383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coreykarthik: @kimchi1x anytime you think you're doing well in life this guy comes and posts outta nowhere"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081006148153668003",
+        "created_at": "2026-07-25T13:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081006148153668003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1181029816163880960",
+              "start": 3,
+              "username": "coreykarthik"
+            },
+            {
+              "end": 27,
+              "id": "1133110690615418880",
+              "start": 18,
+              "username": "kimchi1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081006148153668003",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080059654864867383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coreykarthik: @kimchi1x anytime you think you're doing well in life this guy comes and posts outta nowhere"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1181029816163880960",
+        "conversation_id": "2080050311725756531",
+        "created_at": "2026-07-22T22:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T23:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080059654864867383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1133110690615418880",
+              "start": 0,
+              "username": "kimchi1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080059654864867383",
+        "in_reply_to_user_id": "1133110690615418880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 55853,
+          "like_count": 398,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080050311725756531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kimchi1x anytime you think you're doing well in life this guy comes and posts outta nowhere"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 255,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1348
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-07T02:14:11.000Z",
+        "description": "",
+        "id": "1181029816163880960",
+        "name": "Corey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073140686841393152/7LbyT2_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 1741,
+          "like_count": 9358,
+          "listed_count": 11,
+          "media_count": 374,
+          "tweet_count": 5797
+        },
+        "url": "",
+        "username": "coreykarthik",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-27T20:40:15.000Z",
+        "description": "@pioneerfnf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "pioneerfnf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/claytonkimm/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/claytonkimm/",
+                "start": 0,
+                "url": "https://t.co/r2rrbAcqaE"
+              }
+            ]
+          }
+        },
+        "id": "1133110690615418880",
+        "location": "project kimchi ",
+        "name": "kimchi",
+        "pinned_tweet_id": "1777819490740490678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904376422090862592/jbFMUf3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50530,
+          "following_count": 385,
+          "like_count": 6518,
+          "listed_count": 157,
+          "media_count": 459,
+          "tweet_count": 2494
+        },
+        "url": "https://t.co/r2rrbAcqaE",
+        "username": "kimchi1x",
+        "verified": true
+      }
+    ]
+  }
+}

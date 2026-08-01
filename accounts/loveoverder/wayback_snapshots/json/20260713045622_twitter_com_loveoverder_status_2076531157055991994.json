@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076523231159402578",
+    "created_at": "2026-07-13T04:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076531157055991994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2065400061757145088",
+          "start": 0,
+          "username": "kuuki_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076531157055991994",
+    "in_reply_to_user_id": "2065400061757145088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076523231159402578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuuki_official 你是我女友😡😡😡😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2076523228206604288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFK38kaIAATN0O.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076523231159402578",
+        "created_at": "2026-07-13T04:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076531157055991994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2065400061757145088",
+              "start": 0,
+              "username": "kuuki_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076531157055991994",
+        "in_reply_to_user_id": "2065400061757145088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076523231159402578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuuki_official 你是我女友😡😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076523228206604288"
+          ]
+        },
+        "author_id": "2065400061757145088",
+        "conversation_id": "2076523231159402578",
+        "created_at": "2026-07-13T04:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076523231159402578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oggkhKIk40",
+              "end": 53,
+              "expanded_url": "https://x.com/kuuki_official/status/2076523231159402578/photo/1",
+              "media_key": "3_2076523228206604288",
+              "start": 30,
+              "url": "https://t.co/oggkhKIk40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076523231159402578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱美国人看人真准\n那个朱家是住家hostfamily\n😋😋 https://t.co/oggkhKIk40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 92,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T11:46:22.000Z",
+        "description": "⟡ ✞ nonbinary ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡⋆overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\nThank you for following",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuuki.space",
+                "end": 23,
+                "expanded_url": "http://kuuki.space",
+                "start": 0,
+                "url": "https://t.co/BkphdXWekS"
+              }
+            ]
+          }
+        },
+        "id": "2065400061757145088",
+        "location": " ＩＮＴＥＲＮＥＴ ",
+        "name": "✟ kuuki ✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065401435404320768/lniCS-cU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 85,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/BkphdXWekS",
+        "username": "kuuki_official",
+        "verified": false
+      }
+    ]
+  }
+}

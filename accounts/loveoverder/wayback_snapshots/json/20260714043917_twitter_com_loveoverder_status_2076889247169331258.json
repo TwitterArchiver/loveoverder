@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076600663182868480"
+      ],
+      "media_source_tweet_id": [
+        "2076600751728828637"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076889247169331258",
+    "created_at": "2026-07-14T04:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076889247169331258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677709211705409536",
+          "start": 3,
+          "username": "Rain669966"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sgxkVU95o9",
+          "end": 44,
+          "expanded_url": "https://x.com/Rain669966/status/2076600751728828637/video/1",
+          "media_key": "13_2076600663182868480",
+          "start": 21,
+          "url": "https://t.co/sgxkVU95o9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076889247169331258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076600751728828637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rain669966: jk小狗 https://t.co/sgxkVU95o9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19600,
+        "height": 720,
+        "media_key": "13_2076600663182868480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076600663182868480/img/ZJWrlsYP_VfFfko-.jpg",
+        "public_metrics": {
+          "view_count": 51254
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076600663182868480/vid/avc1/480x270/G9DuUXVvfc5IvohD.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076600663182868480/vid/avc1/640x360/-H-5jpm7FqRwvvj3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076600663182868480/vid/avc1/1280x720/25vvwyGofS6g4MTO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076600663182868480/pl/iDs54bjqrtHQKWJE.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076600663182868480"
+          ],
+          "media_source_tweet_id": [
+            "2076600751728828637"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076889247169331258",
+        "created_at": "2026-07-14T04:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076889247169331258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677709211705409536",
+              "start": 3,
+              "username": "Rain669966"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sgxkVU95o9",
+              "end": 44,
+              "expanded_url": "https://x.com/Rain669966/status/2076600751728828637/video/1",
+              "media_key": "13_2076600663182868480",
+              "start": 21,
+              "url": "https://t.co/sgxkVU95o9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076889247169331258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076600751728828637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rain669966: jk小狗 https://t.co/sgxkVU95o9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076600663182868480"
+          ]
+        },
+        "author_id": "1677709211705409536",
+        "conversation_id": "2076600751728828637",
+        "created_at": "2026-07-13T09:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076600751728828637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sgxkVU95o9",
+              "end": 28,
+              "expanded_url": "https://x.com/Rain669966/status/2076600751728828637/video/1",
+              "media_key": "13_2076600663182868480",
+              "start": 5,
+              "url": "https://t.co/sgxkVU95o9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076600751728828637",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 968,
+          "impression_count": 94235,
+          "like_count": 2977,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "jk小狗 https://t.co/sgxkVU95o9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 189,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 700
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T16:00:55.000Z",
+        "description": "#bdsm #Breathplay #latex\n小企鹅&小心超人\n\n发表内容均无真实暴力发生",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "bdsm"
+              },
+              {
+                "end": 17,
+                "start": 6,
+                "tag": "Breathplay"
+              },
+              {
+                "end": 24,
+                "start": 18,
+                "tag": "latex"
+              }
+            ]
+          }
+        },
+        "id": "1677709211705409536",
+        "name": "小企鹅",
+        "pinned_tweet_id": "2035723448266412273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795386801240358912/HOiAiYXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 653,
+          "like_count": 224,
+          "listed_count": 6,
+          "media_count": 15,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "Rain669966",
+        "verified": false
+      }
+    ]
+  }
+}

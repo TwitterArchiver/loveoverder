@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076572571374678105",
+    "created_at": "2026-07-13T07:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076572571374678105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NxyPureLand/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/NxyPureLand/status/2075043059252011378",
+          "start": 3,
+          "url": "https://t.co/NZkR0vMSzx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076572571374678105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075043059252011378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠 https://t.co/NZkR0vMSzx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 109300,
+        "height": 1280,
+        "media_key": "13_2075042688630738944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075042688630738944/img/b_bZOoQSgyhI2F-N.jpg",
+        "public_metrics": {
+          "view_count": 8278
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075042688630738944/vid/avc1/320x568/p5LyDMSn0qaROqXl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075042688630738944/vid/avc1/480x852/g_cMnI4iVIkz7AUy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075042688630738944/vid/avc1/720x1280/6QgLH3PJTyoQF-k0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075042688630738944/pl/5GOjCT-FE4owUHi7.m3u8?v=69c"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 179233,
+        "height": 1280,
+        "media_key": "13_2075042688630722560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075042688630722560/img/ph0ufSf3WjVo1IK1.jpg",
+        "public_metrics": {
+          "view_count": 1422
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075042688630722560/vid/avc1/320x568/FtkfylK_1kfXF5Ri.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075042688630722560/vid/avc1/480x852/KLfzo9aIDdDI5lvY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075042688630722560/vid/avc1/720x1280/dFZnnZAc9n0qjpQv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075042688630722560/pl/uPPJ0QWO80jQW3BG.m3u8?v=25c"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076572571374678105",
+        "created_at": "2026-07-13T07:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076572571374678105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NxyPureLand/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/NxyPureLand/status/2075043059252011378",
+              "start": 3,
+              "url": "https://t.co/NZkR0vMSzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076572571374678105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075043059252011378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠 https://t.co/NZkR0vMSzx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075042688630738944",
+            "13_2075042688630722560"
+          ]
+        },
+        "author_id": "1864398390",
+        "conversation_id": "2075043059252011378",
+        "created_at": "2026-07-09T02:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075043059252011378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Juwkz5PijW",
+              "end": 53,
+              "expanded_url": "https://x.com/NxyPureLand/status/2075043059252011378/video/1",
+              "media_key": "13_2075042688630738944",
+              "start": 30,
+              "url": "https://t.co/Juwkz5PijW"
+            },
+            {
+              "display_url": "pic.x.com/Juwkz5PijW",
+              "end": 53,
+              "expanded_url": "https://x.com/NxyPureLand/status/2075043059252011378/video/1",
+              "media_key": "13_2075042688630722560",
+              "start": 30,
+              "url": "https://t.co/Juwkz5PijW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075043059252011378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 27642,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰說小狼沒有付出！！咱不吃啞巴虧～～～🐺🐺🐺🐺❤️❤️❤️ https://t.co/Juwkz5PijW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 125,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-14T17:15:11.000Z",
+        "description": "@koichigo219  專注分享個人思想見解～熱衷於批判性思考與社會文化剖析～探討哲學～人文與心理學～偏愛深度思辨～擅長解構現象、分析人性！本人格屬性 ENTP～崇尚理性與自由思考～樂於與智識碰撞～有共同興趣的高知朋友～歡迎交流探討！【我的頻道是吸引和我認知想法一致的人而創建的～】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "koichigo219"
+              }
+            ]
+          }
+        },
+        "id": "1864398390",
+        "name": "嫩小瑶的极乐净土",
+        "pinned_tweet_id": "2017148939603259518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886295326166020096/zMQbSHId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17073,
+          "following_count": 28,
+          "like_count": 161,
+          "listed_count": 5,
+          "media_count": 358,
+          "tweet_count": 807
+        },
+        "url": "",
+        "username": "NxyPureLand",
+        "verified": false
+      }
+    ]
+  }
+}

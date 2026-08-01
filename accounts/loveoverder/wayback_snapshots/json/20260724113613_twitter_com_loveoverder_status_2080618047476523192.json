@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080618047476523192",
+    "created_at": "2026-07-24T11:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080618047476523192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "998544695134306304",
+          "start": 3,
+          "username": "SwlTBI6wasKYuV6"
+        },
+        {
+          "end": 34,
+          "id": "1417051195089166345",
+          "start": 21,
+          "username": "mama00007777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080618047476523192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080513855994888441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SwlTBI6wasKYuV6: @mama00007777 AIでも良いんや\nそこに愛があれば\nいい物語や"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080618047476523192",
+        "created_at": "2026-07-24T11:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080618047476523192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "998544695134306304",
+              "start": 3,
+              "username": "SwlTBI6wasKYuV6"
+            },
+            {
+              "end": 34,
+              "id": "1417051195089166345",
+              "start": 21,
+              "username": "mama00007777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080618047476523192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080513855994888441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SwlTBI6wasKYuV6: @mama00007777 AIでも良いんや\nそこに愛があれば\nいい物語や"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "998544695134306304",
+        "conversation_id": "2080240890048889296",
+        "created_at": "2026-07-24T04:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080513855994888441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1417051195089166345",
+              "start": 0,
+              "username": "mama00007777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080513855994888441",
+        "in_reply_to_user_id": "1417051195089166345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 163371,
+          "like_count": 1024,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080240890048889296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mama00007777 AIでも良いんや\nそこに愛があれば\nいい物語や"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 242,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1173
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-21T12:43:02.000Z",
+        "description": "",
+        "id": "998544695134306304",
+        "name": "さばたろう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1207586541964410881/E8844KO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 174,
+          "like_count": 23370,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 811
+        },
+        "url": "",
+        "username": "SwlTBI6wasKYuV6",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T09:18:41.000Z",
+        "description": "無宗教.支持政党なし：愛しか勝たん「国の偉大さと道徳的発展は、その国における動物のあつかい方でわかる」 “The greatness of a nation and its moral progress can be judged by the way its animals are treated.”",
+        "id": "1417051195089166345",
+        "location": "日本　地球　今　",
+        "name": "【公式】🍡ふくママ🍡(アニマル専門西洋レイキヒーラーバカボンママなのだ)",
+        "pinned_tweet_id": "1658387918174707713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596667456835137536/m0EylzpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41337,
+          "following_count": 8586,
+          "like_count": 246457,
+          "listed_count": 51,
+          "media_count": 16330,
+          "tweet_count": 163952
+        },
+        "url": "",
+        "username": "mama00007777",
+        "verified": true
+      }
+    ]
+  }
+}

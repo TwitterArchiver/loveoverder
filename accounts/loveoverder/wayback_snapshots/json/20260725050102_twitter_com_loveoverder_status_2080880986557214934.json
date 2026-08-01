@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080623498918273024"
+      ],
+      "media_source_tweet_id": [
+        "2080623559320416281"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080880986557214934",
+    "created_at": "2026-07-25T05:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080880986557214934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "764827340744429568",
+          "start": 3,
+          "username": "minminxmxm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dUsSMFYIFr",
+          "end": 78,
+          "expanded_url": "https://x.com/minminxmxm/status/2080623559320416281/video/1",
+          "media_key": "13_2080623498918273024",
+          "start": 55,
+          "url": "https://t.co/dUsSMFYIFr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080880986557214934",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080623559320416281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @minminxmxm: マネキン人形のようなスタイルだからミニワンピ1枚だけでも映える素晴らしい…… https://t.co/dUsSMFYIFr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 87000,
+        "height": 1920,
+        "media_key": "13_2080623498918273024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080623498918273024/img/FIi_itRftm65caQs.jpg",
+        "public_metrics": {
+          "view_count": 54594
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080623498918273024/vid/avc1/480x852/sHghO-uzqgUv8DFw.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080623498918273024/vid/avc1/320x568/etBRH48ETHh_BbiY.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080623498918273024/vid/avc1/1080x1920/YSjL39Ij5JuUxz0r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080623498918273024/pl/84r92qfZWUl6U4kw.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080623498918273024/vid/avc1/720x1280/s6Nwkd95YZH4ld8l.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080623498918273024"
+          ]
+        },
+        "author_id": "764827340744429568",
+        "conversation_id": "2080623559320416281",
+        "created_at": "2026-07-24T11:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080623559320416281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUsSMFYIFr",
+              "end": 62,
+              "expanded_url": "https://x.com/minminxmxm/status/2080623559320416281/video/1",
+              "media_key": "13_2080623498918273024",
+              "start": 39,
+              "url": "https://t.co/dUsSMFYIFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080623559320416281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 105535,
+          "like_count": 1014,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "マネキン人形のようなスタイルだからミニワンピ1枚だけでも映える素晴らしい…… https://t.co/dUsSMFYIFr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080623498918273024"
+          ],
+          "media_source_tweet_id": [
+            "2080623559320416281"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080880986557214934",
+        "created_at": "2026-07-25T05:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080880986557214934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "764827340744429568",
+              "start": 3,
+              "username": "minminxmxm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUsSMFYIFr",
+              "end": 78,
+              "expanded_url": "https://x.com/minminxmxm/status/2080623559320416281/video/1",
+              "media_key": "13_2080623498918273024",
+              "start": 55,
+              "url": "https://t.co/dUsSMFYIFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080880986557214934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080623559320416281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @minminxmxm: マネキン人形のようなスタイルだからミニワンピ1枚だけでも映える素晴らしい…… https://t.co/dUsSMFYIFr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 251,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1289
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T14:13:42.000Z",
+        "description": "韓国アイドルを愛する美容オタク",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/shop/minminxmx…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/shop/minminxmxm?ref_=cm_sw_r_cp_ud_aipsfshop_NOJAD0LBKGDML1VMHWNE",
+                "start": 0,
+                "url": "https://t.co/T1IwIHdfDw"
+              }
+            ]
+          }
+        },
+        "id": "764827340744429568",
+        "name": "白玉粉さん。",
+        "pinned_tweet_id": "2025157410881462285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1310193452722737153/Xiswywuw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94138,
+          "following_count": 179,
+          "like_count": 10769,
+          "listed_count": 408,
+          "media_count": 2082,
+          "tweet_count": 6076
+        },
+        "url": "https://t.co/T1IwIHdfDw",
+        "username": "minminxmxm",
+        "verified": true
+      }
+    ]
+  }
+}

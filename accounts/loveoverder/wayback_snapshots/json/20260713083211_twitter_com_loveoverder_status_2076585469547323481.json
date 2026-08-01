@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076269453592199168"
+      ],
+      "media_source_tweet_id": [
+        "2076271708294856859"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2076585469547323481",
+    "created_at": "2026-07-13T08:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T09:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076585469547323481"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "まどマギ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1901475236123672576",
+          "start": 3,
+          "username": "ffffff_kirika"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2mQhlo0rY2",
+          "end": 61,
+          "expanded_url": "https://x.com/ffffff_kirika/status/2076271708294856859/photo/1",
+          "media_key": "3_2076269453592199168",
+          "start": 38,
+          "url": "https://t.co/2mQhlo0rY2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076585469547323481",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076271708294856859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ffffff_kirika: 🩷＋⚫️＋🩵＋🔴＜2🟡\n\n#まどマギ https://t.co/2mQhlo0rY2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 584,
+        "media_key": "3_2076269453592199168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBkEUdbgAAvYOy.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076269453592199168"
+          ],
+          "media_source_tweet_id": [
+            "2076271708294856859"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2076585469547323481",
+        "created_at": "2026-07-13T08:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076585469547323481"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "まどマギ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1901475236123672576",
+              "start": 3,
+              "username": "ffffff_kirika"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mQhlo0rY2",
+              "end": 61,
+              "expanded_url": "https://x.com/ffffff_kirika/status/2076271708294856859/photo/1",
+              "media_key": "3_2076269453592199168",
+              "start": 38,
+              "url": "https://t.co/2mQhlo0rY2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076585469547323481",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076271708294856859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ffffff_kirika: 🩷＋⚫️＋🩵＋🔴＜2🟡\n\n#まどマギ https://t.co/2mQhlo0rY2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076269453592199168"
+          ]
+        },
+        "author_id": "1901475236123672576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2076271708294856859",
+        "created_at": "2026-07-12T11:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076271708294856859"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "まどマギ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mQhlo0rY2",
+              "end": 42,
+              "expanded_url": "https://x.com/ffffff_kirika/status/2076271708294856859/photo/1",
+              "media_key": "3_2076269453592199168",
+              "start": 19,
+              "url": "https://t.co/2mQhlo0rY2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076271708294856859",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 18046,
+          "like_count": 888,
+          "quote_count": 11,
+          "reply_count": 3,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "🩷＋⚫️＋🩵＋🔴＜2🟡\n\n#まどマギ https://t.co/2mQhlo0rY2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 132,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 480
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T03:26:53.000Z",
+        "description": "まどマギが好きです\n\n@eisMcX75C615280←サブ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "eisMcX75C615280"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/tadakana3",
+                "end": 23,
+                "expanded_url": "https://lit.link/tadakana3",
+                "start": 0,
+                "url": "https://t.co/E3WgHsKk4e"
+              }
+            ]
+          }
+        },
+        "id": "1901475236123672576",
+        "name": "ただかな",
+        "pinned_tweet_id": "2076193336462131530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974983208572948480/w28RSuT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 460,
+          "like_count": 9904,
+          "listed_count": 2,
+          "media_count": 294,
+          "tweet_count": 5229
+        },
+        "url": "https://t.co/E3WgHsKk4e",
+        "username": "ffffff_kirika",
+        "verified": false
+      }
+    ]
+  }
+}

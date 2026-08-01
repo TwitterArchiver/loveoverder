@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076880801829183803",
+    "created_at": "2026-07-14T04:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076880801829183803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1730392865216385024",
+          "start": 3,
+          "username": "tutu_ds3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076880801829183803",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1069
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076695673919988159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tutu_ds3: Fui al kiosco a comprar Ibuprofeno y cuando pregunto si tenía me dijeron que le quedaba uno, y justo la señora de delante dic…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9766,
+        "height": 536,
+        "media_key": "13_2076361350326935552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076361350326935552/img/fIteVFHsUXiQXTcW.jpg",
+        "public_metrics": {
+          "view_count": 798856
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076361350326935552/vid/avc1/362x270/6Pj6yiii1mBcCVRa.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076361350326935552/vid/avc1/482x360/g9sLn1ghxF2SWPPT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076361350326935552/vid/avc1/720x536/3kzRXdi1VmRRAzCl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076361350326935552/pl/rjqDnhnAdnY9Bn-O.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076880801829183803",
+        "created_at": "2026-07-14T04:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076880801829183803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1730392865216385024",
+              "start": 3,
+              "username": "tutu_ds3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076880801829183803",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1069
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076695673919988159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tutu_ds3: Fui al kiosco a comprar Ibuprofeno y cuando pregunto si tenía me dijeron que le quedaba uno, y justo la señora de delante dic…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076361350326935552"
+          ],
+          "media_source_tweet_id": [
+            "2076361369796972838"
+          ]
+        },
+        "author_id": "1730392865216385024",
+        "conversation_id": "2076695673919988159",
+        "created_at": "2026-07-13T15:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076695673919988159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmI8u9dBba",
+              "end": 188,
+              "expanded_url": "https://x.com/Laura_arma_ni/status/2076361369796972838/video/1",
+              "media_key": "13_2076361350326935552",
+              "start": 165,
+              "url": "https://t.co/GmI8u9dBba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076695673919988159",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1068,
+          "impression_count": 742415,
+          "like_count": 89551,
+          "quote_count": 56,
+          "reply_count": 68,
+          "retweet_count": 1069
+        },
+        "reply_settings": "everyone",
+        "text": "Fui al kiosco a comprar Ibuprofeno y cuando pregunto si tenía me dijeron que le quedaba uno, y justo la señora de delante dice \"a cierto también dame un Ibuprofeno\"\nhttps://t.co/GmI8u9dBba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 189,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 689
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T01:06:40.000Z",
+        "description": "🏎️",
+        "id": "1730392865216385024",
+        "name": "Marx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040978560585003008/1rHBRcIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2935,
+          "following_count": 2057,
+          "like_count": 19412,
+          "listed_count": 3,
+          "media_count": 1021,
+          "tweet_count": 4037
+        },
+        "url": "",
+        "username": "tutu_ds3",
+        "verified": false
+      }
+    ]
+  }
+}

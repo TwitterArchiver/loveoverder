@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2077657479396426030",
+    "created_at": "2026-07-16T07:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T08:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077657479396426030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1624370752446435330",
+          "start": 3,
+          "username": "Jizhengguang"
+        },
+        {
+          "end": 29,
+          "id": "1924702997831155713",
+          "start": 18,
+          "username": "blmario669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077657479396426030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077588439873233230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @Jizhengguang: @blmario669 我可没提这事，就是好奇问问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2077657479396426030",
+        "created_at": "2026-07-16T07:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077657479396426030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1624370752446435330",
+              "start": 3,
+              "username": "Jizhengguang"
+            },
+            {
+              "end": 29,
+              "id": "1924702997831155713",
+              "start": 18,
+              "username": "blmario669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077657479396426030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077588439873233230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @Jizhengguang: @blmario669 我可没提这事，就是好奇问问"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624370752446435330",
+        "conversation_id": "2077587462105497879",
+        "created_at": "2026-07-16T02:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077588439873233230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1924702997831155713",
+              "start": 0,
+              "username": "blmario669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077588439873233230",
+        "in_reply_to_user_id": "1924702997831155713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 812,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077588290551812110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "@blmario669 我可没提这事，就是好奇问问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 209,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 878
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T11:32:59.000Z",
+        "description": "择一业谋食养命，等一运扭转乾坤。请大家多多关照｜KOL接广告就上Tutti，单子多、价格高、结算快！传送门：https://t.co/e4RdcKYPsV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tutti.so/join?ref=RMCVEN",
+                "end": 77,
+                "expanded_url": "https://tutti.so/join?ref=RMCVEN",
+                "start": 54,
+                "url": "https://t.co/e4RdcKYPsV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/jizhengguang_X",
+                "end": 23,
+                "expanded_url": "https://t.me/jizhengguang_X",
+                "start": 0,
+                "url": "https://t.co/GxDg84Qzfn"
+              }
+            ]
+          }
+        },
+        "id": "1624370752446435330",
+        "location": "商务合作",
+        "name": "纪正光｜狗宝真帅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943558324709994498/Hzof_L6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35292,
+          "following_count": 3638,
+          "like_count": 72526,
+          "listed_count": 242,
+          "media_count": 2183,
+          "tweet_count": 45488
+        },
+        "url": "https://t.co/GxDg84Qzfn",
+        "username": "Jizhengguang",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-20T05:45:45.000Z",
+        "description": "9 年老韭菜 🧑🌾｜17 年入场加密市场的老幕后烂笔头子 ✍️｜Web3 数字游民 🌍｜ Berachain 社区大使 🐻｜AI 中毒用户 & 探索者 🤖｜接 PR、媒体商务稿、宣发 📢｜商务合作 TG https://t.co/5nEPstgwY3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/blmario",
+                "end": 125,
+                "expanded_url": "https://t.me/blmario",
+                "start": 102,
+                "url": "https://t.co/5nEPstgwY3"
+              }
+            ]
+          }
+        },
+        "id": "1924702997831155713",
+        "name": "黑色马里奥｜买美股上币安",
+        "pinned_tweet_id": "2052227049688031539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065352608118923265/fRe9d3yX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2837,
+          "following_count": 1560,
+          "like_count": 14468,
+          "listed_count": 12,
+          "media_count": 179,
+          "tweet_count": 8931
+        },
+        "url": "",
+        "username": "blmario669",
+        "verified": true
+      }
+    ]
+  }
+}

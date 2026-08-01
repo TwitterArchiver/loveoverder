@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076409862536278016"
+      ],
+      "media_source_tweet_id": [
+        "2076409868957749382"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076861988798656880",
+    "created_at": "2026-07-14T02:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076861988798656880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2056182018640130048",
+          "start": 3,
+          "username": "alborser"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iGBUfAbQKm",
+          "end": 63,
+          "expanded_url": "https://x.com/alborser/status/2076409868957749382/photo/1",
+          "media_key": "3_2076409862536278016",
+          "start": 40,
+          "url": "https://t.co/iGBUfAbQKm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076861988798656880",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8376
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076409868957749382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alborser: lo admito, no sé consolar https://t.co/iGBUfAbQKm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 612,
+        "media_key": "3_2076409862536278016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNDjxMiXsAAN1Sw.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076409862536278016"
+          ],
+          "media_source_tweet_id": [
+            "2076409868957749382"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076861988798656880",
+        "created_at": "2026-07-14T02:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076861988798656880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2056182018640130048",
+              "start": 3,
+              "username": "alborser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGBUfAbQKm",
+              "end": 63,
+              "expanded_url": "https://x.com/alborser/status/2076409868957749382/photo/1",
+              "media_key": "3_2076409862536278016",
+              "start": 40,
+              "url": "https://t.co/iGBUfAbQKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076861988798656880",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8376
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076409868957749382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alborser: lo admito, no sé consolar https://t.co/iGBUfAbQKm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076409862536278016"
+          ]
+        },
+        "author_id": "2056182018640130048",
+        "conversation_id": "2076409868957749382",
+        "created_at": "2026-07-12T20:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076409868957749382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGBUfAbQKm",
+              "end": 49,
+              "expanded_url": "https://x.com/alborser/status/2076409868957749382/photo/1",
+              "media_key": "3_2076409862536278016",
+              "start": 26,
+              "url": "https://t.co/iGBUfAbQKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076409868957749382",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1434,
+          "impression_count": 569566,
+          "like_count": 51516,
+          "quote_count": 226,
+          "reply_count": 90,
+          "retweet_count": 8373
+        },
+        "reply_settings": "everyone",
+        "text": "lo admito, no sé consolar https://t.co/iGBUfAbQKm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 183,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 639
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T01:16:30.000Z",
+        "description": "des fragments de souvenirs écrits au milieu de l’écho mélancolique de vieilles-photographies. archivo/s, ⟡✉️ presencia alegórica.",
+        "id": "2056182018640130048",
+        "location": "balada clásica 𝄞⟢, una flor. ",
+        "name": "ossiel,",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075290373748858880/5YO0r2nk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 801,
+          "like_count": 3312,
+          "listed_count": 26,
+          "media_count": 17,
+          "tweet_count": 1851
+        },
+        "url": "",
+        "username": "alborser",
+        "verified": false
+      }
+    ]
+  }
+}

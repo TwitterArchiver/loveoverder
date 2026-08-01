@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2076293002205462528"
+      ],
+      "media_source_tweet_id": [
+        "2076293035424354322"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076470898476114332",
+    "created_at": "2026-07-13T00:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076470898476114332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "259611996",
+          "start": 3,
+          "username": "bearliu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0c1uxNBxFv",
+          "end": 73,
+          "expanded_url": "https://x.com/bearliu/status/2076293035424354322/video/1",
+          "media_key": "7_2076293002205462528",
+          "start": 50,
+          "url": "https://t.co/0c1uxNBxFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076470898476114332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076293035424354322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bearliu: 印度送信小哥已经变成了庖丁解牛式的送信神技了。有没有美团小哥可以比一下？ https://t.co/0c1uxNBxFv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26500,
+        "height": 1280,
+        "media_key": "7_2076293002205462528",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076293002205462528/pu/img/pHW8fIDcWJJk7J36.jpg",
+        "public_metrics": {
+          "view_count": 22520
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076293002205462528/pu/vid/avc1/320x568/S6lSGW8x_HAnT_Yy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076293002205462528/pu/vid/avc1/480x852/af600-xK3qqZd3xo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076293002205462528/pu/vid/avc1/720x1280/TV3U4CgfWXAK7Ac2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076293002205462528/pu/pl/PbVsCFAIMqh-mKhc.m3u8?tag=12&v=334"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076293002205462528"
+          ],
+          "media_source_tweet_id": [
+            "2076293035424354322"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076470898476114332",
+        "created_at": "2026-07-13T00:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076470898476114332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "259611996",
+              "start": 3,
+              "username": "bearliu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0c1uxNBxFv",
+              "end": 73,
+              "expanded_url": "https://x.com/bearliu/status/2076293035424354322/video/1",
+              "media_key": "7_2076293002205462528",
+              "start": 50,
+              "url": "https://t.co/0c1uxNBxFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076470898476114332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076293035424354322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bearliu: 印度送信小哥已经变成了庖丁解牛式的送信神技了。有没有美团小哥可以比一下？ https://t.co/0c1uxNBxFv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076293002205462528"
+          ]
+        },
+        "author_id": "259611996",
+        "conversation_id": "2076293035424354322",
+        "created_at": "2026-07-12T13:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076293035424354322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0c1uxNBxFv",
+              "end": 60,
+              "expanded_url": "https://x.com/bearliu/status/2076293035424354322/video/1",
+              "media_key": "7_2076293002205462528",
+              "start": 37,
+              "url": "https://t.co/0c1uxNBxFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076293035424354322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 40769,
+          "like_count": 127,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "印度送信小哥已经变成了庖丁解牛式的送信神技了。有没有美团小哥可以比一下？ https://t.co/0c1uxNBxFv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 73,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-02T06:53:54.000Z",
+        "description": "Product Designer, 10 year+ podcaster and author of 2 books. Love things around design, tech and productivity, cooking design at https://t.co/B71LwV0u14 ✍️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bearliu.com",
+                "end": 151,
+                "expanded_url": "https://bearliu.com",
+                "start": 128,
+                "url": "https://t.co/B71LwV0u14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bearliu.com",
+                "end": 23,
+                "expanded_url": "https://bearliu.com",
+                "start": 0,
+                "url": "https://t.co/B71LwV0u14"
+              }
+            ]
+          }
+        },
+        "id": "259611996",
+        "location": "Best product teardown here  👉",
+        "name": "Bear Liu",
+        "pinned_tweet_id": "2071099500958220459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/803996540696084480/Z-uk8--s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117665,
+          "following_count": 2725,
+          "like_count": 6150,
+          "listed_count": 724,
+          "media_count": 7401,
+          "tweet_count": 21606
+        },
+        "url": "https://t.co/B71LwV0u14",
+        "username": "bearliu",
+        "verified": true
+      }
+    ]
+  }
+}

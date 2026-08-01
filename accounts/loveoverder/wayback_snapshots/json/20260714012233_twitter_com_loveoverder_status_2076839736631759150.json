@@ -1,0 +1,640 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2076455875624284160"
+      ],
+      "media_source_tweet_id": [
+        "2076455912555040846"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1448580349374566401",
+          "name": "MAPPA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Meals",
+          "id": "1034860760093024257",
+          "name": "Meals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352163508600832",
+          "name": "Animation studios"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1448580349374566401",
+          "name": "MAPPA"
+        }
+      }
+    ],
+    "conversation_id": "2076839736631759150",
+    "created_at": "2026-07-14T01:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076839736631759150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704854094400327680",
+          "start": 3,
+          "username": "Gurren69420"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A3aV9x23o4",
+          "end": 77,
+          "expanded_url": "https://x.com/Gurren69420/status/2076455912555040846/video/1",
+          "media_key": "7_2076455875624284160",
+          "start": 54,
+          "url": "https://t.co/A3aV9x23o4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076839736631759150",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1791
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076455912555040846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gurren69420: Average MAPPA Employees Meal in 2020 https://t.co/A3aV9x23o4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24000,
+        "height": 720,
+        "media_key": "7_2076455875624284160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076455875624284160/pu/img/lYY0YocAQnHNXFbZ.jpg",
+        "public_metrics": {
+          "view_count": 278840
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076455875624284160/pu/vid/avc1/480x270/_zNLT4fxYHuWsTQe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076455875624284160/pu/vid/avc1/640x360/fd0bndCmVrE6O0ZO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076455875624284160/pu/vid/avc1/1280x720/DCi2qhviF3CwnzfC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076455875624284160/pu/pl/Ch8Vqs6zQ2AVC_EI.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076455875624284160"
+          ],
+          "media_source_tweet_id": [
+            "2076455912555040846"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1448580349374566401",
+              "name": "MAPPA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448580349374566401",
+              "name": "MAPPA"
+            }
+          }
+        ],
+        "conversation_id": "2076839736631759150",
+        "created_at": "2026-07-14T01:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076839736631759150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704854094400327680",
+              "start": 3,
+              "username": "Gurren69420"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A3aV9x23o4",
+              "end": 77,
+              "expanded_url": "https://x.com/Gurren69420/status/2076455912555040846/video/1",
+              "media_key": "7_2076455875624284160",
+              "start": 54,
+              "url": "https://t.co/A3aV9x23o4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076839736631759150",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1791
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076455912555040846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gurren69420: Average MAPPA Employees Meal in 2020 https://t.co/A3aV9x23o4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076455875624284160"
+          ]
+        },
+        "author_id": "1704854094400327680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1448580349374566401",
+              "name": "MAPPA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448580349374566401",
+              "name": "MAPPA"
+            }
+          }
+        ],
+        "conversation_id": "2076455912555040846",
+        "created_at": "2026-07-12T23:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T00:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076455912555040846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A3aV9x23o4",
+              "end": 60,
+              "expanded_url": "https://x.com/Gurren69420/status/2076455912555040846/video/1",
+              "media_key": "7_2076455875624284160",
+              "start": 37,
+              "url": "https://t.co/A3aV9x23o4"
+            },
+            {
+              "display_url": "x.com/alluregojos/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/alluregojos/status/2075962690670096815",
+              "start": 61,
+              "url": "https://t.co/flgV8MRFjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076455912555040846",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1556,
+          "impression_count": 761430,
+          "like_count": 32374,
+          "quote_count": 27,
+          "reply_count": 30,
+          "retweet_count": 1794
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075962690670096815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Average MAPPA Employees Meal in 2020 https://t.co/A3aV9x23o4 https://t.co/flgV8MRFjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 178,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 600
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-21T13:44:40.000Z",
+        "description": "Just a normal indian \nMostly Talks about Anime",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "myanimelist.net/animelist/Saur…",
+                "end": 23,
+                "expanded_url": "https://myanimelist.net/animelist/Sauron68420?view=list&status=2",
+                "start": 0,
+                "url": "https://t.co/lU90Hko4q1"
+              }
+            ]
+          }
+        },
+        "id": "1704854094400327680",
+        "name": "Sauron",
+        "pinned_tweet_id": "1981330564927099387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978495818111107072/utdvACYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 776,
+          "like_count": 41602,
+          "listed_count": 23,
+          "media_count": 4446,
+          "tweet_count": 20331
+        },
+        "url": "https://t.co/lU90Hko4q1",
+        "username": "Gurren69420",
+        "verified": false
+      }
+    ]
+  }
+}

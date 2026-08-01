@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076258341614227604",
+    "created_at": "2026-07-12T10:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076258341614227604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rx8964114514/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/rx8964114514/status/2076165703418425525",
+          "start": 12,
+          "url": "https://t.co/79inTfuHOH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076258341614227604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076165703418425525",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這個轉了會不會被條子找 https://t.co/79inTfuHOH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 205200,
+        "height": 1222,
+        "media_key": "13_2076165532861231104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076165532861231104/img/SnznyqbGMlDL8qBH.jpg",
+        "public_metrics": {
+          "view_count": 703
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076165532861231104/vid/avc1/320x542/yk_d8-0sgoctjVWp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076165532861231104/vid/avc1/480x814/j_5O75kKuwOLsBV8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076165532861231104/vid/avc1/720x1222/byu-nLInb9VrV1j7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076165532861231104/pl/AwKFk2kZTwZ9oujW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076258341614227604",
+        "created_at": "2026-07-12T10:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076258341614227604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rx8964114514/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/rx8964114514/status/2076165703418425525",
+              "start": 12,
+              "url": "https://t.co/79inTfuHOH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076258341614227604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076165703418425525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個轉了會不會被條子找 https://t.co/79inTfuHOH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076165532861231104"
+          ]
+        },
+        "author_id": "2045693110869495808",
+        "conversation_id": "2076146780732023103",
+        "created_at": "2026-07-12T04:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076165703418425525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1636244273245966343",
+              "start": 0,
+              "username": "JapanBanZaiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mhZZg1Zto9",
+              "end": 40,
+              "expanded_url": "https://x.com/rx8964114514/status/2076165703418425525/video/1",
+              "media_key": "13_2076165532861231104",
+              "start": 17,
+              "url": "https://t.co/mhZZg1Zto9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076165703418425525",
+        "in_reply_to_user_id": "1636244273245966343",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1385,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076146780732023103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JapanBanZaiLove https://t.co/mhZZg1Zto9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 40,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T02:37:20.000Z",
+        "description": "追悼 威尔逊·爱德华兹 Wilson Edwards （スイス生物学者）　\n＠2016vrscr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "2016vrscr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/2016vrscr?s=21…",
+                "end": 23,
+                "expanded_url": "https://x.com/2016vrscr?s=21&t=pPE-GzeWU9iSE6pTogZHJQ",
+                "start": 0,
+                "url": "https://t.co/TJzY7MBXl6"
+              }
+            ]
+          }
+        },
+        "id": "2045693110869495808",
+        "name": "RX8964プロパガンダム",
+        "pinned_tweet_id": "2046023567679394300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045693422649106432/KBNi-HbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 113,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 571,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/TJzY7MBXl6",
+        "username": "rx8964114514",
+        "verified": false
+      }
+    ]
+  }
+}

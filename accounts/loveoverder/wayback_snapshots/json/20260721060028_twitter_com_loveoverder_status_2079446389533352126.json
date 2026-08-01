@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079426579625865216"
+      ],
+      "media_source_tweet_id": [
+        "2079426588878475443"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2079446389533352126",
+    "created_at": "2026-07-21T06:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079446389533352126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442846065473032198",
+          "start": 3,
+          "username": "Goupenguin"
+        },
+        {
+          "end": 40,
+          "id": "18593555",
+          "start": 30,
+          "username": "Btc_kking"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nym2in52x1",
+          "end": 64,
+          "expanded_url": "https://x.com/Goupenguin/status/2079426588878475443/photo/1",
+          "media_key": "3_2079426579625865216",
+          "start": 41,
+          "url": "https://t.co/Nym2in52x1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079446389533352126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079426588878475443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Goupenguin: 哥，我们这样真能赚到钱吗？\n@Btc_kking https://t.co/Nym2in52x1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 794,
+        "media_key": "3_2079426579625865216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNubdPca8AAC8g5.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079426579625865216"
+          ]
+        },
+        "author_id": "1442846065473032198",
+        "conversation_id": "2079426588878475443",
+        "created_at": "2026-07-21T04:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079426588878475443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "18593555",
+              "start": 14,
+              "username": "Btc_kking"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nym2in52x1",
+              "end": 48,
+              "expanded_url": "https://x.com/Goupenguin/status/2079426588878475443/photo/1",
+              "media_key": "3_2079426579625865216",
+              "start": 25,
+              "url": "https://t.co/Nym2in52x1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079426588878475443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2560,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哥，我们这样真能赚到钱吗？\n@Btc_kking https://t.co/Nym2in52x1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079426579625865216"
+          ],
+          "media_source_tweet_id": [
+            "2079426588878475443"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2079446389533352126",
+        "created_at": "2026-07-21T06:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079446389533352126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442846065473032198",
+              "start": 3,
+              "username": "Goupenguin"
+            },
+            {
+              "end": 40,
+              "id": "18593555",
+              "start": 30,
+              "username": "Btc_kking"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nym2in52x1",
+              "end": 64,
+              "expanded_url": "https://x.com/Goupenguin/status/2079426588878475443/photo/1",
+              "media_key": "3_2079426579625865216",
+              "start": 41,
+              "url": "https://t.co/Nym2in52x1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079446389533352126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079426588878475443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Goupenguin: 哥，我们这样真能赚到钱吗？\n@Btc_kking https://t.co/Nym2in52x1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 211,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 908
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T13:38:13.000Z",
+        "description": "Ai | Talkshow | Crypto | 传统金融 | 进群私信\n魔法链接→https://t.co/Tt3zI2iNkj\n币安https://t.co/FS2FLFUZ8s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kfc50.vip",
+                "end": 65,
+                "expanded_url": "http://kfc50.vip",
+                "start": 42,
+                "url": "https://t.co/Tt3zI2iNkj"
+              },
+              {
+                "display_url": "binance.com/join?ref=K7778",
+                "end": 91,
+                "expanded_url": "https://www.binance.com/join?ref=K7778",
+                "start": 68,
+                "url": "https://t.co/FS2FLFUZ8s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kfc50.vip",
+                "end": 23,
+                "expanded_url": "http://kfc50.vip",
+                "start": 0,
+                "url": "https://t.co/Tt3zI2iNkj"
+              }
+            ]
+          }
+        },
+        "id": "1442846065473032198",
+        "location": "魔法链接都在这里→",
+        "name": "挖矿小企鹅｜进群私信",
+        "pinned_tweet_id": "2064322136496595297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071886388010569728/iz0dc3xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74791,
+          "following_count": 1895,
+          "like_count": 1203,
+          "listed_count": 1200,
+          "media_count": 4099,
+          "tweet_count": 10952
+        },
+        "url": "https://t.co/Tt3zI2iNkj",
+        "username": "Goupenguin",
+        "verified": true
+      },
+      {
+        "created_at": "2009-01-04T02:47:45.000Z",
+        "description": "八年交易老韭菜，20年玩微博见证从千到千万，币coin还有几个百倍实盘，目标实盘过亿。 \n进群请联系助理推特 @Linxu714\nQQ：1035572129",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Linxu714"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8199.one",
+                "end": 23,
+                "expanded_url": "http://8199.one",
+                "start": 0,
+                "url": "https://t.co/gsUbIlXAtI"
+              }
+            ]
+          }
+        },
+        "id": "18593555",
+        "name": "kking2020",
+        "pinned_tweet_id": "1981794254633758930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017982219109978112/N7uD-_Te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21448,
+          "following_count": 174,
+          "like_count": 2348,
+          "listed_count": 377,
+          "media_count": 449,
+          "tweet_count": 1448
+        },
+        "url": "https://t.co/gsUbIlXAtI",
+        "username": "Btc_kking",
+        "verified": true
+      }
+    ]
+  }
+}

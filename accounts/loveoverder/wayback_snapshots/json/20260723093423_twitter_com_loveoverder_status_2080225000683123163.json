@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2080125912876740608"
+      ],
+      "media_source_tweet_id": [
+        "2080125978043728281"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080225000683123163",
+    "created_at": "2026-07-23T09:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080225000683123163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1636262401405329408",
+          "start": 3,
+          "username": "BridgetRod36234"
+        },
+        {
+          "end": 36,
+          "id": "1260553941714186241",
+          "start": 21,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BGXKCbz5kl",
+          "end": 65,
+          "expanded_url": "https://x.com/BridgetRod36234/status/2080125978043728281/video/1",
+          "media_key": "7_2080125912876740608",
+          "start": 42,
+          "url": "https://t.co/BGXKCbz5kl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080225000683123163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080125978043728281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BridgetRod36234: @whyyoutouzhele 如出一辙 https://t.co/BGXKCbz5kl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72004,
+        "height": 720,
+        "media_key": "7_2080125912876740608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2080125912876740608/pu/img/WGv0fKUdAXe6Yyh4.jpg",
+        "public_metrics": {
+          "view_count": 54
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080125912876740608/pu/vid/avc1/480x270/EbC9txbMo7SgDoK7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080125912876740608/pu/vid/avc1/640x360/nhqrPi2tZabZlbR4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080125912876740608/pu/vid/avc1/1280x720/fzREirijWUQMmZEE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2080125912876740608/pu/pl/hrLrjgdzBG7YZyTm.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2080125912876740608"
+          ]
+        },
+        "author_id": "1636262401405329408",
+        "conversation_id": "2079843892422213958",
+        "created_at": "2026-07-23T03:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080125978043728281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGXKCbz5kl",
+              "end": 44,
+              "expanded_url": "https://x.com/BridgetRod36234/status/2080125978043728281/video/1",
+              "media_key": "7_2080125912876740608",
+              "start": 21,
+              "url": "https://t.co/BGXKCbz5kl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080125978043728281",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079843892422213958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 如出一辙 https://t.co/BGXKCbz5kl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2080125912876740608"
+          ],
+          "media_source_tweet_id": [
+            "2080125978043728281"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080225000683123163",
+        "created_at": "2026-07-23T09:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080225000683123163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1636262401405329408",
+              "start": 3,
+              "username": "BridgetRod36234"
+            },
+            {
+              "end": 36,
+              "id": "1260553941714186241",
+              "start": 21,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGXKCbz5kl",
+              "end": 65,
+              "expanded_url": "https://x.com/BridgetRod36234/status/2080125978043728281/video/1",
+              "media_key": "7_2080125912876740608",
+              "start": 42,
+              "url": "https://t.co/BGXKCbz5kl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080225000683123163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080125978043728281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BridgetRod36234: @whyyoutouzhele 如出一辙 https://t.co/BGXKCbz5kl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 229,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1102
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T07:05:55.000Z",
+        "description": "不开源的安全保护、隐私保护都是耍流氓",
+        "id": "1636262401405329408",
+        "name": "王志安卓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971579217583427584/_9vVv45b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 30,
+          "like_count": 3921,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 792
+        },
+        "url": "",
+        "username": "BridgetRod36234",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2078717699849630025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243467,
+          "following_count": 1079,
+          "like_count": 9808,
+          "listed_count": 8833,
+          "media_count": 50908,
+          "tweet_count": 58127
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

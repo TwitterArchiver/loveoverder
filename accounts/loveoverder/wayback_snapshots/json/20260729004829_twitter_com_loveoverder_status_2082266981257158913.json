@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082128230857965568"
+      ],
+      "media_source_tweet_id": [
+        "2082128268661235737"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082266981257158913",
+    "created_at": "2026-07-29T00:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082266981257158913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1342135083252105216",
+          "start": 3,
+          "username": "xixikawaii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yuqKBTpokM",
+          "end": 106,
+          "expanded_url": "https://x.com/xixikawaii/status/2082128268661235737/video/1",
+          "media_key": "13_2082128230857965568",
+          "start": 83,
+          "url": "https://t.co/yuqKBTpokM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082266981257158913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082128268661235737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xixikawaii: 我操，我说个事.... \n\n我居然已经10天没去迪士尼了🖐🏻😭🖐🏻\n\n我有罪😭我忏悔😭我愧对天地😭\n\n想念了... 我要回快乐老家😭 https://t.co/yuqKBTpokM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25143,
+        "height": 1280,
+        "media_key": "13_2082128230857965568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082128230857965568/img/QUtEJc8LB1Q_-eo9.jpg",
+        "public_metrics": {
+          "view_count": 6157
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082128230857965568/vid/avc1/320x568/dKAkdUn-djMkaill.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082128230857965568/vid/avc1/480x852/X3OsvRkmFFpOq0QY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082128230857965568/vid/avc1/720x1280/1_xMV85mOb2nIBp6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082128230857965568/pl/DLxuBCaH8gxS3oR5.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082128230857965568"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2082128268661235737",
+        "created_at": "2026-07-28T15:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082128268661235737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yuqKBTpokM",
+              "end": 90,
+              "expanded_url": "https://x.com/xixikawaii/status/2082128268661235737/video/1",
+              "media_key": "13_2082128230857965568",
+              "start": 67,
+              "url": "https://t.co/yuqKBTpokM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082128268661235737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64896,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我操，我说个事.... \n\n我居然已经10天没去迪士尼了🖐🏻😭🖐🏻\n\n我有罪😭我忏悔😭我愧对天地😭\n\n想念了... 我要回快乐老家😭 https://t.co/yuqKBTpokM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082128230857965568"
+          ],
+          "media_source_tweet_id": [
+            "2082128268661235737"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082266981257158913",
+        "created_at": "2026-07-29T00:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082266981257158913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1342135083252105216",
+              "start": 3,
+              "username": "xixikawaii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yuqKBTpokM",
+              "end": 106,
+              "expanded_url": "https://x.com/xixikawaii/status/2082128268661235737/video/1",
+              "media_key": "13_2082128230857965568",
+              "start": 83,
+              "url": "https://t.co/yuqKBTpokM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082266981257158913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082128268661235737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xixikawaii: 我操，我说个事.... \n\n我居然已经10天没去迪士尼了🖐🏻😭🖐🏻\n\n我有罪😭我忏悔😭我愧对天地😭\n\n想念了... 我要回快乐老家😭 https://t.co/yuqKBTpokM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 297,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1736
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "infp | 戒赌版（每天都要去迪士尼版）\n\n水手服 | cl一生推 | 分享欲极高 | 亮点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_QXw2uGWZ",
+                "start": 0,
+                "url": "https://t.co/p8Rr4RFzRt"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "location": "Meme Alpha 👉🏻",
+        "name": "汐",
+        "pinned_tweet_id": "2074172096805233082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081397697450496000/Lp1pngND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36824,
+          "following_count": 1189,
+          "like_count": 15354,
+          "listed_count": 448,
+          "media_count": 5049,
+          "tweet_count": 24991
+        },
+        "url": "https://t.co/p8Rr4RFzRt",
+        "username": "xixikawaii",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076625803979243521"
+      ],
+      "media_source_tweet_id": [
+        "2076625810073534721"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076878257077817436",
+    "created_at": "2026-07-14T03:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076878257077817436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1986095504128876544",
+          "start": 3,
+          "username": "aerisellesu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ydzca54MNV",
+          "end": 40,
+          "expanded_url": "https://x.com/aerisellesu/status/2076625810073534721/photo/1",
+          "media_key": "3_2076625803979243521",
+          "start": 17,
+          "url": "https://t.co/Ydzca54MNV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076878257077817436",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 998
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076625810073534721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aerisellesu: https://t.co/Ydzca54MNV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076625803979243521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGoKpGXwAEBkLk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076625803979243521"
+          ],
+          "media_source_tweet_id": [
+            "2076625810073534721"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076878257077817436",
+        "created_at": "2026-07-14T03:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076878257077817436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1986095504128876544",
+              "start": 3,
+              "username": "aerisellesu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ydzca54MNV",
+              "end": 40,
+              "expanded_url": "https://x.com/aerisellesu/status/2076625810073534721/photo/1",
+              "media_key": "3_2076625803979243521",
+              "start": 17,
+              "url": "https://t.co/Ydzca54MNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076878257077817436",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 998
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076625810073534721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aerisellesu: https://t.co/Ydzca54MNV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076625803979243521"
+          ]
+        },
+        "author_id": "1986095504128876544",
+        "conversation_id": "2076625810073534721",
+        "created_at": "2026-07-13T11:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076625810073534721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ydzca54MNV",
+              "end": 23,
+              "expanded_url": "https://x.com/aerisellesu/status/2076625810073534721/photo/1",
+              "media_key": "3_2076625803979243521",
+              "start": 0,
+              "url": "https://t.co/Ydzca54MNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076625810073534721",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 238,
+          "impression_count": 46905,
+          "like_count": 6740,
+          "quote_count": 19,
+          "reply_count": 4,
+          "retweet_count": 998
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ydzca54MNV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 188,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 682
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T15:37:35.000Z",
+        "description": "fan account for aerichandesu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arab.org",
+                "end": 23,
+                "expanded_url": "http://arab.org",
+                "start": 0,
+                "url": "https://t.co/Q1yXXmPMoy"
+              }
+            ]
+          }
+        },
+        "id": "1986095504128876544",
+        "name": "۠",
+        "pinned_tweet_id": "2073548036148494636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063547948818964480/uKHSqID8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 22,
+          "like_count": 1460,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/Q1yXXmPMoy",
+        "username": "aerisellesu",
+        "verified": false
+      }
+    ]
+  }
+}

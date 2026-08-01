@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081064528712990720"
+      ],
+      "media_source_tweet_id": [
+        "2081065077789368523"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2081331182588080448",
+    "created_at": "2026-07-26T10:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081331182588080448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1685886562251243520",
+          "start": 3,
+          "username": "animeclipzzzzzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9fVI2xDJmV",
+          "end": 78,
+          "expanded_url": "https://x.com/animeclipzzzzzz/status/2081065077789368523/video/1",
+          "media_key": "13_2081064528712990720",
+          "start": 55,
+          "url": "https://t.co/9fVI2xDJmV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081331182588080448",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1152
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081065077789368523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animeclipzzzzzz: I LOVE WHEN ANIME OPENING DO THIS https://t.co/9fVI2xDJmV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75166,
+        "height": 2160,
+        "media_key": "13_2081064528712990720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081064528712990720/img/Qdlwty6vsOoYL8-x.jpg",
+        "public_metrics": {
+          "view_count": 557089
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081064528712990720/vid/avc1/480x360/-RvUoxrJUKkIu04I.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081064528712990720/vid/avc1/360x270/lMsw9D6ntKK5aDQO.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081064528712990720/vid/avc1/2880x2160/W3dukBHjG-oR8U20.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081064528712990720/pl/h4O_gvGbrCJudBp4.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081064528712990720/vid/avc1/1440x1080/pWPclvtq3Cuo66Xk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081064528712990720/vid/avc1/960x720/tkJVDaafQP2Q1qaf.mp4"
+          }
+        ],
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081064528712990720"
+          ]
+        },
+        "author_id": "1685886562251243520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2081065077789368523",
+        "created_at": "2026-07-25T17:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081065077789368523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9fVI2xDJmV",
+              "end": 57,
+              "expanded_url": "https://x.com/animeclipzzzzzz/status/2081065077789368523/video/1",
+              "media_key": "13_2081064528712990720",
+              "start": 34,
+              "url": "https://t.co/9fVI2xDJmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081065077789368523",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3184,
+          "impression_count": 1120772,
+          "like_count": 12773,
+          "quote_count": 39,
+          "reply_count": 40,
+          "retweet_count": 1152
+        },
+        "reply_settings": "everyone",
+        "text": "I LOVE WHEN ANIME OPENING DO THIS https://t.co/9fVI2xDJmV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081064528712990720"
+          ],
+          "media_source_tweet_id": [
+            "2081065077789368523"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2081331182588080448",
+        "created_at": "2026-07-26T10:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081331182588080448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1685886562251243520",
+              "start": 3,
+              "username": "animeclipzzzzzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9fVI2xDJmV",
+              "end": 78,
+              "expanded_url": "https://x.com/animeclipzzzzzz/status/2081065077789368523/video/1",
+              "media_key": "13_2081064528712990720",
+              "start": 55,
+              "url": "https://t.co/9fVI2xDJmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081331182588080448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1152
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081065077789368523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animeclipzzzzzz: I LOVE WHEN ANIME OPENING DO THIS https://t.co/9fVI2xDJmV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 256,
+          "like_count": 662,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1375
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T05:34:36.000Z",
+        "description": "Daily Anime Content",
+        "id": "1685886562251243520",
+        "name": "Anime Clips",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079568837155131392/f6lCfTo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 693,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "animeclipzzzzzz",
+        "verified": true
+      }
+    ]
+  }
+}

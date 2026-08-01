@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076477713154736128"
+      ],
+      "media_source_tweet_id": [
+        "2076537857850659023"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076824057484554555",
+    "created_at": "2026-07-14T00:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076824057484554555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1664742004423794688",
+          "start": 3,
+          "username": "rwayne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LlhDW7Nt2w",
+          "end": 46,
+          "expanded_url": "https://x.com/rwayne/status/2076537857850659023/photo/1",
+          "media_key": "3_2076477713154736128",
+          "start": 23,
+          "url": "https://t.co/LlhDW7Nt2w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076824057484554555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076537857850659023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rwayne: 导师不回复我了怎么办 https://t.co/LlhDW7Nt2w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2076477713154736128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEhenyagAAB0A_.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076477713154736128"
+          ],
+          "media_source_tweet_id": [
+            "2076537857850659023"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076824057484554555",
+        "created_at": "2026-07-14T00:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076824057484554555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1664742004423794688",
+              "start": 3,
+              "username": "rwayne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LlhDW7Nt2w",
+              "end": 46,
+              "expanded_url": "https://x.com/rwayne/status/2076537857850659023/photo/1",
+              "media_key": "3_2076477713154736128",
+              "start": 23,
+              "url": "https://t.co/LlhDW7Nt2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076824057484554555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076537857850659023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rwayne: 导师不回复我了怎么办 https://t.co/LlhDW7Nt2w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076477713154736128"
+          ]
+        },
+        "author_id": "1664742004423794688",
+        "conversation_id": "2076537857850659023",
+        "created_at": "2026-07-13T05:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076537857850659023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LlhDW7Nt2w",
+              "end": 34,
+              "expanded_url": "https://x.com/rwayne/status/2076537857850659023/photo/1",
+              "media_key": "3_2076477713154736128",
+              "start": 11,
+              "url": "https://t.co/LlhDW7Nt2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076537857850659023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 282772,
+          "like_count": 1997,
+          "quote_count": 1,
+          "reply_count": 187,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "导师不回复我了怎么办 https://t.co/LlhDW7Nt2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 170,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "医学，经济学与人工智能交叉领域段子手研究员🤡\n我的科研Skill：rw-research-skill\n发段子是因为科研很压抑了...😅",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2075929073818243308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52548,
+          "following_count": 783,
+          "like_count": 38905,
+          "listed_count": 271,
+          "media_count": 6094,
+          "tweet_count": 20558
+        },
+        "url": "",
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,619 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222535168",
+          "name": "Online Services - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1433089902787252225",
+          "name": "TVer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1433089902787252225",
+          "name": "TVer"
+        }
+      }
+    ],
+    "conversation_id": "2076579654044188998",
+    "created_at": "2026-07-13T08:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T09:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076579654044188998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1461615319928213508",
+          "start": 3,
+          "username": "anime_chiikawa"
+        }
+      ],
+      "urls": [
+        {
+          "description": "※この動画は7月17日（金）の7時59分に配信を終了します【放送情報】・フジテレビ系列「めざましテレビ」(5:25～9:00）に...",
+          "display_url": "youtu.be/mNoL1MQ3aVE",
+          "end": 122,
+          "expanded_url": "https://youtu.be/mNoL1MQ3aVE",
+          "start": 99,
+          "status": 200,
+          "title": "【公式】『ちいかわ』第359話「あくむ⑪」※1週間限定配信＜7/17 (金)AM7:59まで＞",
+          "unwound_url": "https://www.youtube.com/watch?v=mNoL1MQ3aVE&feature=youtu.be",
+          "url": "https://t.co/woD3AgjBzV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076579654044188998",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 661
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075505305673236640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anime_chiikawa: 【✨1週間限定見逃し配信中✨】\n\n第359話「あくむ⑪」\n\nちいかわ、ドキドキ！夢で見た大きな手を思い出しながら、ハチワレの家に着いて…\n\n▼YouTube\nhttps://t.co/woD3AgjBzV\n\n▼TVer\nhttps://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2075085494678114304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwvQ1za0AABvb0.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1433089902787252225",
+              "name": "TVer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433089902787252225",
+              "name": "TVer"
+            }
+          }
+        ],
+        "conversation_id": "2076579654044188998",
+        "created_at": "2026-07-13T08:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076579654044188998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1461615319928213508",
+              "start": 3,
+              "username": "anime_chiikawa"
+            }
+          ],
+          "urls": [
+            {
+              "description": "※この動画は7月17日（金）の7時59分に配信を終了します【放送情報】・フジテレビ系列「めざましテレビ」(5:25～9:00）に...",
+              "display_url": "youtu.be/mNoL1MQ3aVE",
+              "end": 122,
+              "expanded_url": "https://youtu.be/mNoL1MQ3aVE",
+              "start": 99,
+              "status": 200,
+              "title": "【公式】『ちいかわ』第359話「あくむ⑪」※1週間限定配信＜7/17 (金)AM7:59まで＞",
+              "unwound_url": "https://www.youtube.com/watch?v=mNoL1MQ3aVE&feature=youtu.be",
+              "url": "https://t.co/woD3AgjBzV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076579654044188998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 661
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075505305673236640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anime_chiikawa: 【✨1週間限定見逃し配信中✨】\n\n第359話「あくむ⑪」\n\nちいかわ、ドキドキ！夢で見た大きな手を思い出しながら、ハチワレの家に着いて…\n\n▼YouTube\nhttps://t.co/woD3AgjBzV\n\n▼TVer\nhttps://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075085494678114304"
+          ]
+        },
+        "author_id": "1461615319928213508",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1433089902787252225",
+              "name": "TVer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433089902787252225",
+              "name": "TVer"
+            }
+          }
+        ],
+        "conversation_id": "2075505305673236640",
+        "created_at": "2026-07-10T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075505305673236640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 136,
+              "tag": "ちいかわ"
+            },
+            {
+              "end": 150,
+              "start": 142,
+              "tag": "アニメちいかわ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "※この動画は7月17日（金）の7時59分に配信を終了します【放送情報】・フジテレビ系列「めざましテレビ」(5:25～9:00）に...",
+              "display_url": "youtu.be/mNoL1MQ3aVE",
+              "end": 102,
+              "expanded_url": "https://youtu.be/mNoL1MQ3aVE",
+              "start": 79,
+              "status": 200,
+              "title": "【公式】『ちいかわ』第359話「あくむ⑪」※1週間限定配信＜7/17 (金)AM7:59まで＞",
+              "unwound_url": "https://www.youtube.com/watch?v=mNoL1MQ3aVE&feature=youtu.be",
+              "url": "https://t.co/woD3AgjBzV"
+            },
+            {
+              "description": "「ちいかわ」を無料で見るならTVer（ティーバー）！【なんか小さくてかわいいやつ】通称「ちいかわ」たちが送る楽しくて、ちょっぴり切ない物語。 時には辛いことで泣いちゃうけれど「ちいかわ」の周りにはやさしい友達や個性豊かなキャラクターがたくさん！ イラストレーター・ナガノによる大人気マンガ「ちいかわ」のアニメが始まります！！TVerにあるテレビ番組はすべて無料で配信！最新話から過去人気番組まで動画見放題！",
+              "display_url": "tver.jp/series/sr3lsg7…",
+              "end": 133,
+              "expanded_url": "https://tver.jp/series/sr3lsg7nv7",
+              "images": [
+                {
+                  "height": 540,
+                  "url": "https://pbs.twimg.com/news_img/2072968661766184960/b2IgGoF4?format=jpg&name=orig",
+                  "width": 960
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072968661766184960/b2IgGoF4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 110,
+              "status": 200,
+              "title": "ちいかわ｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
+              "unwound_url": "https://tver.jp/series/sr3lsg7nv7",
+              "url": "https://t.co/1BMGNtnVOw"
+            },
+            {
+              "display_url": "pic.x.com/5w9lgQjr8a",
+              "end": 174,
+              "expanded_url": "https://x.com/anime_chiikawa/status/2075505305673236640/photo/1",
+              "media_key": "3_2075085494678114304",
+              "start": 151,
+              "url": "https://t.co/5w9lgQjr8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075505305673236640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 679285,
+          "like_count": 7821,
+          "quote_count": 14,
+          "reply_count": 24,
+          "retweet_count": 660
+        },
+        "reply_settings": "everyone",
+        "text": "【✨1週間限定見逃し配信中✨】\n\n第359話「あくむ⑪」\n\nちいかわ、ドキドキ！夢で見た大きな手を思い出しながら、ハチワレの家に着いて…\n\n▼YouTube\nhttps://t.co/woD3AgjBzV\n\n▼TVer\nhttps://t.co/1BMGNtnVOw \n\n#ちいかわ\n#アニメちいかわ https://t.co/5w9lgQjr8a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 129,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-19T08:40:39.000Z",
+        "description": "アニメ『ちいかわ』公式アカウント。フジテレビ系列「めざましテレビ」内にて毎週火曜日・金曜日の7時36分ごろ放送！各話放送後（8時00分〜）、YouTube、FOD、TVerにて1週間限定見逃し配信中！「#ちいかわ占い」も毎日6時58分より放送中♪ #アニメちいかわ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 108,
+                "start": 101,
+                "tag": "ちいかわ占い"
+              },
+              {
+                "end": 132,
+                "start": 124,
+                "tag": "アニメちいかわ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anime-chiikawa.jp",
+                "end": 23,
+                "expanded_url": "https://www.anime-chiikawa.jp/",
+                "start": 0,
+                "url": "https://t.co/IjTHqZcFdO"
+              }
+            ]
+          }
+        },
+        "id": "1461615319928213508",
+        "name": "『ちいかわ』アニメ公式",
+        "pinned_tweet_id": "2075358084273229901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653907933170905088/MeFsJx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663590,
+          "following_count": 9,
+          "like_count": 55,
+          "listed_count": 2764,
+          "media_count": 3121,
+          "tweet_count": 3749
+        },
+        "url": "https://t.co/IjTHqZcFdO",
+        "username": "anime_chiikawa",
+        "verified": true
+      }
+    ]
+  }
+}

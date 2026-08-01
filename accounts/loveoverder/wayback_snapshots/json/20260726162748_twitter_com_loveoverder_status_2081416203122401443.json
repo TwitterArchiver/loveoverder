@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081416203122401443",
+    "created_at": "2026-07-26T16:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081416203122401443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1676484342821040129",
+          "start": 3,
+          "username": "BTCBruce1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081416203122401443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081228925469114665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BTCBruce1: 别关，我收购"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081416203122401443",
+        "created_at": "2026-07-26T16:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081416203122401443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1676484342821040129",
+              "start": 3,
+              "username": "BTCBruce1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081416203122401443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081228925469114665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BTCBruce1: 别关，我收购"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676484342821040129",
+        "conversation_id": "2081228925469114665",
+        "created_at": "2026-07-26T04:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081228925469114665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bitmart_zh/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/bitmart_zh/status/2081197569200328900",
+              "start": 7,
+              "url": "https://t.co/y6Orzck45b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081228925469114665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 156040,
+          "like_count": 340,
+          "quote_count": 32,
+          "reply_count": 230,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081197569200328900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别关，我收购 https://t.co/y6Orzck45b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 254,
+          "like_count": 691,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1424
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T06:53:18.000Z",
+        "description": "Bitcoin miner \nBuilding MSX\nCo-founder of MMEETT AI",
+        "id": "1676484342821040129",
+        "location": "Los Angeles, CA",
+        "name": "Bruce J",
+        "pinned_tweet_id": "2077924110231880028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006972166689140737/UeFhvX1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174207,
+          "following_count": 1288,
+          "like_count": 20880,
+          "listed_count": 1474,
+          "media_count": 1524,
+          "tweet_count": 14034
+        },
+        "url": "",
+        "username": "BTCBruce1",
+        "verified": true
+      }
+    ]
+  }
+}

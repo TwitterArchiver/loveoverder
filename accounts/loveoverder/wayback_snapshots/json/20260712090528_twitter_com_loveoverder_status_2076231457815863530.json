@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075926641289609216"
+      ],
+      "media_source_tweet_id": [
+        "2075926650210889730"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076231457815863530",
+    "created_at": "2026-07-12T09:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T10:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076231457815863530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2060945493195116549",
+          "start": 3,
+          "username": "buzhimingdeyiai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0xAfhlNubn",
+          "end": 44,
+          "expanded_url": "https://x.com/buzhimingdeyiai/status/2075926650210889730/photo/1",
+          "media_key": "3_2075926641289609216",
+          "start": 21,
+          "url": "https://t.co/0xAfhlNubn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076231457815863530",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075926650210889730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @buzhimingdeyiai: https://t.co/0xAfhlNubn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 978,
+        "media_key": "3_2075926641289609216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8sSBHWQAA5OkU.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075926641289609216"
+          ],
+          "media_source_tweet_id": [
+            "2075926650210889730"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076231457815863530",
+        "created_at": "2026-07-12T09:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076231457815863530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2060945493195116549",
+              "start": 3,
+              "username": "buzhimingdeyiai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0xAfhlNubn",
+              "end": 44,
+              "expanded_url": "https://x.com/buzhimingdeyiai/status/2075926650210889730/photo/1",
+              "media_key": "3_2075926641289609216",
+              "start": 21,
+              "url": "https://t.co/0xAfhlNubn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076231457815863530",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075926650210889730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @buzhimingdeyiai: https://t.co/0xAfhlNubn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075926641289609216"
+          ]
+        },
+        "author_id": "2060945493195116549",
+        "conversation_id": "2075926650210889730",
+        "created_at": "2026-07-11T12:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075926650210889730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0xAfhlNubn",
+              "end": 23,
+              "expanded_url": "https://x.com/buzhimingdeyiai/status/2075926650210889730/photo/1",
+              "media_key": "3_2075926641289609216",
+              "start": 0,
+              "url": "https://t.co/0xAfhlNubn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075926650210889730",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6723,
+          "like_count": 185,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0xAfhlNubn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 30,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T04:47:23.000Z",
+        "description": "可能认识？❌见证，没有任何立场｜10年的幼稚小孩｜友🏳️‍⚧️🏳️‍🌈｜可互fo｜日常推号｜偶尔精神病发作｜不喜欢请回避拉黑|座右铭:不知道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/buzhimingdeyia…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/buzhimingdeyiai1",
+                "start": 0,
+                "url": "https://t.co/ulViwEzGUF"
+              }
+            ]
+          }
+        },
+        "id": "2060945493195116549",
+        "location": "Cape Morris Jesup",
+        "name": "小翌不是翌🍥🎊🎉🍟",
+        "pinned_tweet_id": "2063522560889798739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061034067236163590/TKRptDyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 199,
+          "like_count": 2424,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/ulViwEzGUF",
+        "username": "buzhimingdeyiai",
+        "verified": true
+      }
+    ]
+  }
+}

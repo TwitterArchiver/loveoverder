@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076411941216817152"
+      ],
+      "media_source_tweet_id": [
+        "2076501914855051627"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1453815198800773120",
+          "name": "My Melody"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1453815198800773120",
+          "name": "My Melody"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1453815198800773120",
+          "name": "My Melody"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sanrio (サンリオ)",
+          "id": "1038116841485303808",
+          "name": "Sanrio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453815198800773120",
+          "name": "My Melody"
+        }
+      }
+    ],
+    "conversation_id": "2076571786523848716",
+    "created_at": "2026-07-13T07:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076571786523848716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "156515147",
+          "start": 3,
+          "username": "Melody_Mariland"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IzY5fTEvpu",
+          "end": 53,
+          "expanded_url": "https://x.com/Melody_Mariland/status/2076501914855051627/photo/1",
+          "media_key": "3_2076411941216817152",
+          "start": 30,
+          "url": "https://t.co/IzY5fTEvpu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076571786523848716",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 957
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076501914855051627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Melody_Mariland: それ　ないす～♡ https://t.co/IzY5fTEvpu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2076411941216817152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNDlqMObkAAk3tK.png",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076411941216817152"
+          ],
+          "media_source_tweet_id": [
+            "2076501914855051627"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          }
+        ],
+        "conversation_id": "2076571786523848716",
+        "created_at": "2026-07-13T07:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076571786523848716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "156515147",
+              "start": 3,
+              "username": "Melody_Mariland"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IzY5fTEvpu",
+              "end": 53,
+              "expanded_url": "https://x.com/Melody_Mariland/status/2076501914855051627/photo/1",
+              "media_key": "3_2076411941216817152",
+              "start": 30,
+              "url": "https://t.co/IzY5fTEvpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076571786523848716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 957
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076501914855051627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Melody_Mariland: それ　ないす～♡ https://t.co/IzY5fTEvpu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076411941216817152"
+          ]
+        },
+        "author_id": "156515147",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453815198800773120",
+              "name": "My Melody"
+            }
+          }
+        ],
+        "conversation_id": "2076501914855051627",
+        "created_at": "2026-07-13T03:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076501914855051627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IzY5fTEvpu",
+              "end": 32,
+              "expanded_url": "https://x.com/Melody_Mariland/status/2076501914855051627/photo/1",
+              "media_key": "3_2076411941216817152",
+              "start": 9,
+              "url": "https://t.co/IzY5fTEvpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076501914855051627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 90463,
+          "like_count": 6408,
+          "quote_count": 36,
+          "reply_count": 50,
+          "retweet_count": 954
+        },
+        "reply_settings": "everyone",
+        "text": "それ　ないす～♡ https://t.co/IzY5fTEvpu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 124,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-17T04:10:39.000Z",
+        "description": "マイメロディはすなおで明るい女のコ♪誕生日は1月18日。マイメロディのように自分の気持ちにすなおな生き方 #マイメロな生き方 #好きにすなおに生きてみる もチェックしてね♡ サンリオソーシャルメディアポリシー→https://t.co/ZRRGCwt4KF",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 53,
+                "tag": "マイメロな生き方"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "tag": "好きにすなおに生きてみる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sanrio.co.jp/social/policy/",
+                "end": 128,
+                "expanded_url": "http://sanrio.co.jp/social/policy/",
+                "start": 105,
+                "url": "https://t.co/ZRRGCwt4KF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanrio.lnky.jp/XXbQcbI",
+                "end": 23,
+                "expanded_url": "https://sanrio.lnky.jp/XXbQcbI",
+                "start": 0,
+                "url": "https://t.co/vOC3juhXEC"
+              }
+            ]
+          }
+        },
+        "id": "156515147",
+        "location": "マリーランド",
+        "name": "マイメロディ【公式】",
+        "pinned_tweet_id": "2072153268306972747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008737098367700992/rcpBYaT-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791682,
+          "following_count": 4188,
+          "like_count": 1273,
+          "listed_count": 4234,
+          "media_count": 5320,
+          "tweet_count": 5858
+        },
+        "url": "https://t.co/vOC3juhXEC",
+        "username": "Melody_Mariland",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2079516191283102138",
+    "created_at": "2026-07-21T10:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T11:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079516191283102138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442846065473032198",
+          "start": 3,
+          "username": "Goupenguin"
+        },
+        {
+          "end": 26,
+          "id": "1589272961235619840",
+          "start": 16,
+          "username": "xtony1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079516191283102138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079512455529836936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Goupenguin: @xtony1314 托尼老师，太压抑了，太压抑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2079516191283102138",
+        "created_at": "2026-07-21T10:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079516191283102138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442846065473032198",
+              "start": 3,
+              "username": "Goupenguin"
+            },
+            {
+              "end": 26,
+              "id": "1589272961235619840",
+              "start": 16,
+              "username": "xtony1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079516191283102138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079512455529836936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Goupenguin: @xtony1314 托尼老师，太压抑了，太压抑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442846065473032198",
+        "conversation_id": "2079415571444289598",
+        "created_at": "2026-07-21T10:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079512455529836936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589272961235619840",
+              "start": 0,
+              "username": "xtony1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079512455529836936",
+        "in_reply_to_user_id": "1589272961235619840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079415571444289598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xtony1314 托尼老师，太压抑了，太压抑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 215,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 957
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T13:38:13.000Z",
+        "description": "Ai | Talkshow | Crypto | 传统金融 | 进群私信\n魔法链接→https://t.co/Tt3zI2iNkj\n币安https://t.co/FS2FLFUZ8s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kfc50.vip",
+                "end": 65,
+                "expanded_url": "http://kfc50.vip",
+                "start": 42,
+                "url": "https://t.co/Tt3zI2iNkj"
+              },
+              {
+                "display_url": "binance.com/join?ref=K7778",
+                "end": 91,
+                "expanded_url": "https://www.binance.com/join?ref=K7778",
+                "start": 68,
+                "url": "https://t.co/FS2FLFUZ8s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kfc50.vip",
+                "end": 23,
+                "expanded_url": "http://kfc50.vip",
+                "start": 0,
+                "url": "https://t.co/Tt3zI2iNkj"
+              }
+            ]
+          }
+        },
+        "id": "1442846065473032198",
+        "location": "魔法链接都在这里→",
+        "name": "挖矿小企鹅｜进群私信",
+        "pinned_tweet_id": "2064322136496595297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071886388010569728/iz0dc3xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74803,
+          "following_count": 1895,
+          "like_count": 1204,
+          "listed_count": 1200,
+          "media_count": 4101,
+          "tweet_count": 10960
+        },
+        "url": "https://t.co/Tt3zI2iNkj",
+        "username": "Goupenguin",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-06T15:06:27.000Z",
+        "description": "Zen Family Office联合创始人\n独立交易员 | 干学创始人 | 抽象艺术家\n历史成绩：实盘 5W➡️5000W ，2.5年1000倍收益率\n#Binance 币安交易，安全稳定，拥抱web3，就在币安：\nhttps://t.co/YaGEmixfJS",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 77,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/join?ref=RXZ4V…",
+                "end": 132,
+                "expanded_url": "http://binance.com/join?ref=RXZ4VBCK",
+                "start": 109,
+                "url": "https://t.co/YaGEmixfJS"
+              }
+            ]
+          }
+        },
+        "id": "1589272961235619840",
+        "location": "Telegram: @TonyTraderKing",
+        "name": "逍遥XTony",
+        "pinned_tweet_id": "2060200998715711709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055962742474092544/OGL1hvtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112654,
+          "following_count": 271,
+          "like_count": 247,
+          "listed_count": 1555,
+          "media_count": 721,
+          "tweet_count": 2105
+        },
+        "url": "",
+        "username": "xtony1314",
+        "verified": true
+      }
+    ]
+  }
+}

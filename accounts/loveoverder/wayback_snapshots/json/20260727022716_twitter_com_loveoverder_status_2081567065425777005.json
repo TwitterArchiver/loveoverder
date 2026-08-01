@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081559805383036928"
+      ],
+      "media_source_tweet_id": [
+        "2081559811519361153"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081567065425777005",
+    "created_at": "2026-07-27T02:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081567065425777005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1727476428239781889",
+          "start": 3,
+          "username": "aranha889"
+        },
+        {
+          "end": 25,
+          "id": "1622066398368243712",
+          "start": 15,
+          "username": "sexytwerp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Db0or9tKBm",
+          "end": 49,
+          "expanded_url": "https://x.com/aranha889/status/2081559811519361153/photo/1",
+          "media_key": "3_2081559805383036928",
+          "start": 26,
+          "url": "https://t.co/Db0or9tKBm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081567065425777005",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081559811519361153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aranha889: @sexytwerp https://t.co/Db0or9tKBm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 606,
+        "media_key": "3_2081559805383036928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMvnUqWUAA4hng.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081559805383036928"
+          ]
+        },
+        "author_id": "1727476428239781889",
+        "conversation_id": "2081513765758177334",
+        "created_at": "2026-07-27T01:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081559811519361153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1622066398368243712",
+              "start": 0,
+              "username": "sexytwerp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Db0or9tKBm",
+              "end": 34,
+              "expanded_url": "https://x.com/aranha889/status/2081559811519361153/photo/1",
+              "media_key": "3_2081559805383036928",
+              "start": 11,
+              "url": "https://t.co/Db0or9tKBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081559811519361153",
+        "in_reply_to_user_id": "1622066398368243712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1458,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081513765758177334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sexytwerp https://t.co/Db0or9tKBm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081559805383036928"
+          ],
+          "media_source_tweet_id": [
+            "2081559811519361153"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081567065425777005",
+        "created_at": "2026-07-27T02:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081567065425777005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1727476428239781889",
+              "start": 3,
+              "username": "aranha889"
+            },
+            {
+              "end": 25,
+              "id": "1622066398368243712",
+              "start": 15,
+              "username": "sexytwerp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Db0or9tKBm",
+              "end": 49,
+              "expanded_url": "https://x.com/aranha889/status/2081559811519361153/photo/1",
+              "media_key": "3_2081559805383036928",
+              "start": 26,
+              "url": "https://t.co/Db0or9tKBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081567065425777005",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081559811519361153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aranha889: @sexytwerp https://t.co/Db0or9tKBm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 256,
+          "like_count": 697,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1451
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T23:58:06.000Z",
+        "description": "",
+        "id": "1727476428239781889",
+        "location": "Quinto dos Inferno",
+        "name": "Patolino o mago🏴‍☠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061834516910497792/Pl1X0qZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 21,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 445,
+          "tweet_count": 1001
+        },
+        "url": "",
+        "username": "aranha889",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:55:50.000Z",
+        "description": "life could be dream...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "she-her.com",
+                "end": 23,
+                "expanded_url": "http://she-her.com",
+                "start": 0,
+                "url": "https://t.co/tFAm54Zrdv"
+              }
+            ]
+          }
+        },
+        "id": "1622066398368243712",
+        "location": "Portland, OR",
+        "name": "kelsey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822083120163684353/dRq5kNli_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4504,
+          "following_count": 2300,
+          "like_count": 324935,
+          "listed_count": 7,
+          "media_count": 2812,
+          "tweet_count": 22227
+        },
+        "url": "https://t.co/tFAm54Zrdv",
+        "username": "sexytwerp",
+        "verified": false
+      }
+    ]
+  }
+}

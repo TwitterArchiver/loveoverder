@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079482359809024000"
+      ],
+      "media_source_tweet_id": [
+        "2079482367912312853"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2079518558346993705",
+    "created_at": "2026-07-21T10:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T11:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079518558346993705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442846065473032198",
+          "start": 3,
+          "username": "Goupenguin"
+        },
+        {
+          "end": 26,
+          "id": "1405826789927182337",
+          "start": 16,
+          "username": "Bqlsj2023"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FvnQvkKMFf",
+          "end": 50,
+          "expanded_url": "https://x.com/Goupenguin/status/2079482367912312853/photo/1",
+          "media_key": "3_2079482359809024000",
+          "start": 27,
+          "url": "https://t.co/FvnQvkKMFf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079518558346993705",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079482367912312853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Goupenguin: @Bqlsj2023 https://t.co/FvnQvkKMFf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1261,
+        "media_key": "3_2079482359809024000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvOME0boAAuGLu.jpg",
+        "width": 1247
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079482359809024000"
+          ]
+        },
+        "author_id": "1442846065473032198",
+        "conversation_id": "2079477689178808505",
+        "created_at": "2026-07-21T08:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079482367912312853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1405826789927182337",
+              "start": 0,
+              "username": "Bqlsj2023"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FvnQvkKMFf",
+              "end": 34,
+              "expanded_url": "https://x.com/Goupenguin/status/2079482367912312853/photo/1",
+              "media_key": "3_2079482359809024000",
+              "start": 11,
+              "url": "https://t.co/FvnQvkKMFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079482367912312853",
+        "in_reply_to_user_id": "1405826789927182337",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 800,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079477689178808505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bqlsj2023 https://t.co/FvnQvkKMFf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079482359809024000"
+          ],
+          "media_source_tweet_id": [
+            "2079482367912312853"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2079518558346993705",
+        "created_at": "2026-07-21T10:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079518558346993705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442846065473032198",
+              "start": 3,
+              "username": "Goupenguin"
+            },
+            {
+              "end": 26,
+              "id": "1405826789927182337",
+              "start": 16,
+              "username": "Bqlsj2023"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FvnQvkKMFf",
+              "end": 50,
+              "expanded_url": "https://x.com/Goupenguin/status/2079482367912312853/photo/1",
+              "media_key": "3_2079482359809024000",
+              "start": 27,
+              "url": "https://t.co/FvnQvkKMFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079518558346993705",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079482367912312853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Goupenguin: @Bqlsj2023 https://t.co/FvnQvkKMFf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 215,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 965
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T13:38:13.000Z",
+        "description": "Ai | Talkshow | Crypto | 传统金融 | 进群私信\n魔法链接→https://t.co/Tt3zI2iNkj\n币安https://t.co/FS2FLFUZ8s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kfc50.vip",
+                "end": 65,
+                "expanded_url": "http://kfc50.vip",
+                "start": 42,
+                "url": "https://t.co/Tt3zI2iNkj"
+              },
+              {
+                "display_url": "binance.com/join?ref=K7778",
+                "end": 91,
+                "expanded_url": "https://www.binance.com/join?ref=K7778",
+                "start": 68,
+                "url": "https://t.co/FS2FLFUZ8s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kfc50.vip",
+                "end": 23,
+                "expanded_url": "http://kfc50.vip",
+                "start": 0,
+                "url": "https://t.co/Tt3zI2iNkj"
+              }
+            ]
+          }
+        },
+        "id": "1442846065473032198",
+        "location": "魔法链接都在这里→",
+        "name": "挖矿小企鹅｜进群私信",
+        "pinned_tweet_id": "2064322136496595297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071886388010569728/iz0dc3xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74786,
+          "following_count": 1895,
+          "like_count": 1204,
+          "listed_count": 1200,
+          "media_count": 4101,
+          "tweet_count": 10960
+        },
+        "url": "https://t.co/Tt3zI2iNkj",
+        "username": "Goupenguin",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-18T09:56:45.000Z",
+        "description": "16年至今年资深币圈玩家，热衷于追寻热点 \n个人TG：@BQLSJ2023\nOK: https://t.co/ThcsyKrreA\nBN：https://t.co/f4o6v3FaZN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "BQLSJ2023"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "promooboost.com/join/BQLSJ",
+                "end": 65,
+                "expanded_url": "http://promooboost.com/join/BQLSJ",
+                "start": 42,
+                "url": "https://t.co/ThcsyKrreA"
+              },
+              {
+                "display_url": "bsmkweb.cc/register?ref=B…",
+                "end": 92,
+                "expanded_url": "http://bsmkweb.cc/register?ref=BQLSJ",
+                "start": 69,
+                "url": "https://t.co/f4o6v3FaZN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+8v98gQxMP98wZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+8v98gQxMP98wZTk9",
+                "start": 0,
+                "url": "https://t.co/xpkdXrL4bE"
+              }
+            ]
+          }
+        },
+        "id": "1405826789927182337",
+        "location": "日本",
+        "name": "币圈老司机🔶BNB",
+        "pinned_tweet_id": "2066460040467525654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896595804724359171/nvH8dGaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140523,
+          "following_count": 1954,
+          "like_count": 2727,
+          "listed_count": 1846,
+          "media_count": 6518,
+          "tweet_count": 24710
+        },
+        "url": "https://t.co/xpkdXrL4bE",
+        "username": "Bqlsj2023",
+        "verified": true
+      }
+    ]
+  }
+}

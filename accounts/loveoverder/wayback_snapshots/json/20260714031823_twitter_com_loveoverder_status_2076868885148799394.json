@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076736423122612224"
+      ],
+      "media_source_tweet_id": [
+        "2076736425454670101"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076868885148799394",
+    "created_at": "2026-07-14T03:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076868885148799394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1525509510495969280",
+          "start": 3,
+          "username": "WildComputers"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OdM04ewSEo",
+          "end": 42,
+          "expanded_url": "https://x.com/WildComputers/status/2076736425454670101/photo/1",
+          "media_key": "3_2076736423122612224",
+          "start": 19,
+          "url": "https://t.co/OdM04ewSEo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076868885148799394",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2047
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076736425454670101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WildComputers: https://t.co/OdM04ewSEo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1275,
+        "media_key": "3_2076736423122612224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIMxhhWsAAHi1Y.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076736423122612224"
+          ],
+          "media_source_tweet_id": [
+            "2076736425454670101"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076868885148799394",
+        "created_at": "2026-07-14T03:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076868885148799394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1525509510495969280",
+              "start": 3,
+              "username": "WildComputers"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OdM04ewSEo",
+              "end": 42,
+              "expanded_url": "https://x.com/WildComputers/status/2076736425454670101/photo/1",
+              "media_key": "3_2076736423122612224",
+              "start": 19,
+              "url": "https://t.co/OdM04ewSEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076868885148799394",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2047
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076736425454670101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WildComputers: https://t.co/OdM04ewSEo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076736423122612224"
+          ]
+        },
+        "author_id": "1525509510495969280",
+        "conversation_id": "2076736425454670101",
+        "created_at": "2026-07-13T18:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076736425454670101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OdM04ewSEo",
+              "end": 23,
+              "expanded_url": "https://x.com/WildComputers/status/2076736425454670101/photo/1",
+              "media_key": "3_2076736423122612224",
+              "start": 0,
+              "url": "https://t.co/OdM04ewSEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076736425454670101",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 492,
+          "impression_count": 369697,
+          "like_count": 12719,
+          "quote_count": 121,
+          "reply_count": 29,
+          "retweet_count": 2047
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OdM04ewSEo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 187,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T16:13:18.000Z",
+        "description": "computers | tech | gaming | @roobet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "roobet"
+              }
+            ]
+          }
+        },
+        "id": "1525509510495969280",
+        "name": "i like computers",
+        "pinned_tweet_id": "2075283455546708149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610804761397280770/TnWQVfxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334584,
+          "following_count": 27,
+          "like_count": 505,
+          "listed_count": 458,
+          "media_count": 3493,
+          "tweet_count": 3605
+        },
+        "url": "",
+        "username": "WildComputers",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082282295285960704"
+      ],
+      "media_source_tweet_id": [
+        "2082282303875858878"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082364663464120453",
+    "created_at": "2026-07-29T07:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082364663464120453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2062758646141054976",
+          "start": 3,
+          "username": "Chuiertu_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RJCzETwm9r",
+          "end": 42,
+          "expanded_url": "https://x.com/Chuiertu_chan/status/2082282303875858878/photo/1",
+          "media_key": "3_2082282295285960704",
+          "start": 19,
+          "url": "https://t.co/RJCzETwm9r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082364663464120453",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082282303875858878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chuiertu_chan: https://t.co/RJCzETwm9r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 677,
+        "media_key": "3_2082282295285960704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXAtxSa0AAutSx.jpg",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082282295285960704"
+          ]
+        },
+        "author_id": "2062758646141054976",
+        "conversation_id": "2082282303875858878",
+        "created_at": "2026-07-29T01:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082282303875858878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RJCzETwm9r",
+              "end": 23,
+              "expanded_url": "https://x.com/Chuiertu_chan/status/2082282303875858878/photo/1",
+              "media_key": "3_2082282295285960704",
+              "start": 0,
+              "url": "https://t.co/RJCzETwm9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082282303875858878",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RJCzETwm9r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082282295285960704"
+          ],
+          "media_source_tweet_id": [
+            "2082282303875858878"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082364663464120453",
+        "created_at": "2026-07-29T07:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082364663464120453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2062758646141054976",
+              "start": 3,
+              "username": "Chuiertu_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RJCzETwm9r",
+              "end": 42,
+              "expanded_url": "https://x.com/Chuiertu_chan/status/2082282303875858878/photo/1",
+              "media_key": "3_2082282295285960704",
+              "start": 19,
+              "url": "https://t.co/RJCzETwm9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082364663464120453",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082282303875858878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chuiertu_chan: https://t.co/RJCzETwm9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 307,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1808
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T04:50:25.000Z",
+        "description": "坏蛋世界。双子星@AkiraTT_chan \n互fo请私信呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "AkiraTT_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Chuiertu_chan",
+                "end": 23,
+                "expanded_url": "http://t.me/Chuiertu_chan",
+                "start": 0,
+                "url": "https://t.co/og70qcUDvV"
+              }
+            ]
+          }
+        },
+        "id": "2062758646141054976",
+        "name": "Akira_晓",
+        "pinned_tweet_id": "2076665457273180666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076663312704512000/9fIpz77U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 116,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 136
+        },
+        "url": "https://t.co/og70qcUDvV",
+        "username": "Chuiertu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

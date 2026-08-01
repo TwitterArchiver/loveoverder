@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080870355523231999",
+    "created_at": "2026-07-25T04:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080870355523231999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sephthreek/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/sephthreek/status/2080622301452652728",
+          "start": 2,
+          "url": "https://t.co/PchS1lG58C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080870355523231999",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080622301452652728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/PchS1lG58C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2080622224046714880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_a46AWcAAJVud.jpg",
+        "width": 1368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080870355523231999",
+        "created_at": "2026-07-25T04:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080870355523231999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sephthreek/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/sephthreek/status/2080622301452652728",
+              "start": 2,
+              "url": "https://t.co/PchS1lG58C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080870355523231999",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080622301452652728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/PchS1lG58C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080622224046714880"
+          ]
+        },
+        "author_id": "833315497798205442",
+        "conversation_id": "2080298261664215323",
+        "created_at": "2026-07-24T11:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080622301452652728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "83466368",
+              "start": 0,
+              "username": "ecb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1yNk85lHh",
+              "end": 52,
+              "expanded_url": "https://x.com/sephthreek/status/2080622301452652728/photo/1",
+              "media_key": "3_2080622224046714880",
+              "start": 29,
+              "url": "https://t.co/g1yNk85lHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080622301452652728",
+        "in_reply_to_user_id": "83466368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 12336,
+          "like_count": 338,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080298261664215323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ecb The only correct design https://t.co/g1yNk85lHh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 249,
+          "like_count": 622,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1259
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-19T14:01:11.000Z",
+        "description": "Pro Classical Liberalism\nAnti Socialism\nStudied economics & sociology\n\nFocused on \nMacro | Monetary Policy | Competition | Inflation | Bitcoin\n\nDefund the state",
+        "id": "833315497798205442",
+        "location": "Germany",
+        "name": "seph 3k",
+        "pinned_tweet_id": "1772876799829024960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955545585924124672/jtcpwjWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 1962,
+          "like_count": 34003,
+          "listed_count": 14,
+          "media_count": 5432,
+          "tweet_count": 36683
+        },
+        "url": "",
+        "username": "sephthreek",
+        "verified": true
+      }
+    ]
+  }
+}

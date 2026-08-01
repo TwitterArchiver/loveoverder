@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080656311537029120"
+      ],
+      "media_source_tweet_id": [
+        "2080656338804170775"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080887642938618275",
+    "created_at": "2026-07-25T05:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080887642938618275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1314978114712350723",
+          "start": 3,
+          "username": "gususta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xF3MY2BSfO",
+          "end": 110,
+          "expanded_url": "https://x.com/gususta/status/2080656338804170775/video/1",
+          "media_key": "13_2080656311537029120",
+          "start": 87,
+          "url": "https://t.co/xF3MY2BSfO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080887642938618275",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6223
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080656338804170775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gususta: birisi bana önemli bir şey anlatıyordur ama ben döner koltukta oturuyorum https://t.co/xF3MY2BSfO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10500,
+        "height": 496,
+        "media_key": "13_2080656311537029120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080656311537029120/img/V0dZUmjR9krChWXV.jpg",
+        "public_metrics": {
+          "view_count": 174458
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080656311537029120/vid/avc1/320x320/UMxwTSaYxnoO9HA1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080656311537029120/vid/avc1/494x496/RPy5jtKkuX0kw_rb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080656311537029120/pl/MdwTyrPzVHo_r8fI.m3u8?v=34a"
+          }
+        ],
+        "width": 494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080656311537029120"
+          ]
+        },
+        "author_id": "1314978114712350723",
+        "conversation_id": "2080656338804170775",
+        "created_at": "2026-07-24T14:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080656338804170775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xF3MY2BSfO",
+              "end": 97,
+              "expanded_url": "https://x.com/gususta/status/2080656338804170775/video/1",
+              "media_key": "13_2080656311537029120",
+              "start": 74,
+              "url": "https://t.co/xF3MY2BSfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080656338804170775",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 926,
+          "impression_count": 395738,
+          "like_count": 47228,
+          "quote_count": 219,
+          "reply_count": 33,
+          "retweet_count": 6223
+        },
+        "reply_settings": "everyone",
+        "text": "birisi bana önemli bir şey anlatıyordur ama ben döner koltukta oturuyorum https://t.co/xF3MY2BSfO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080656311537029120"
+          ],
+          "media_source_tweet_id": [
+            "2080656338804170775"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080887642938618275",
+        "created_at": "2026-07-25T05:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080887642938618275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1314978114712350723",
+              "start": 3,
+              "username": "gususta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xF3MY2BSfO",
+              "end": 110,
+              "expanded_url": "https://x.com/gususta/status/2080656338804170775/video/1",
+              "media_key": "13_2080656311537029120",
+              "start": 87,
+              "url": "https://t.co/xF3MY2BSfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080887642938618275",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6223
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080656338804170775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gususta: birisi bana önemli bir şey anlatıyordur ama ben döner koltukta oturuyorum https://t.co/xF3MY2BSfO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 251,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1298
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-10T17:16:34.000Z",
+        "description": "Aile Yerimiz Vardır",
+        "id": "1314978114712350723",
+        "name": "GusUsta",
+        "pinned_tweet_id": "2050269092502753577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074788373462487040/mnp3rAtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29031,
+          "following_count": 27197,
+          "like_count": 51089,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "gususta",
+        "verified": false
+      }
+    ]
+  }
+}

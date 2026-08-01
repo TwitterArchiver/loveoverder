@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076564809890595218",
+    "created_at": "2026-07-13T07:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076564809890595218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1720002363409469440",
+          "start": 3,
+          "username": "Priestess1878"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076564809890595218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076540714394263770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Priestess1878: 看富蛆变穷比吸大麻都爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076564809890595218",
+        "created_at": "2026-07-13T07:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076564809890595218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1720002363409469440",
+              "start": 3,
+              "username": "Priestess1878"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076564809890595218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076540714394263770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Priestess1878: 看富蛆变穷比吸大麻都爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720002363409469440",
+        "conversation_id": "2076540714394263770",
+        "created_at": "2026-07-13T05:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076540714394263770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/killthebadbloo…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/killthebadblood/status/2076506206743695626",
+              "start": 12,
+              "url": "https://t.co/7GjbElSq2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076540714394263770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076506206743695626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看富蛆变穷比吸大麻都爽 https://t.co/7GjbElSq2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 122,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-02T08:58:24.000Z",
+        "description": "嘚瑟： @shenqingsiwang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "shenqingsiwang"
+              }
+            ]
+          }
+        },
+        "id": "1720002363409469440",
+        "location": "Сыктывкар, Коми республика",
+        "name": "coooo🍥🍱🍣",
+        "pinned_tweet_id": "2075300410123038940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981428175016951808/BIxMboxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 459,
+          "like_count": 11384,
+          "listed_count": 2,
+          "media_count": 2198,
+          "tweet_count": 12810
+        },
+        "url": "",
+        "username": "Priestess1878",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075837721021419520"
+      ],
+      "media_source_tweet_id": [
+        "2075837725647774110"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076191767054155931",
+    "created_at": "2026-07-12T06:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076191767054155931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1427384347963928576",
+          "start": 3,
+          "username": "gatinarios"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZixETNc1ID",
+          "end": 82,
+          "expanded_url": "https://x.com/gatinarios/status/2075837725647774110/photo/1",
+          "media_key": "3_2075837721021419520",
+          "start": 59,
+          "url": "https://t.co/ZixETNc1ID"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076191767054155931",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9279
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075837725647774110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gatinarios: meu jeito de avisar que já quero ir embora https://t.co/ZixETNc1ID"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_2075837721021419520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7baLTWkAAv1vq.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075837721021419520"
+          ],
+          "media_source_tweet_id": [
+            "2075837725647774110"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076191767054155931",
+        "created_at": "2026-07-12T06:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076191767054155931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1427384347963928576",
+              "start": 3,
+              "username": "gatinarios"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZixETNc1ID",
+              "end": 82,
+              "expanded_url": "https://x.com/gatinarios/status/2075837725647774110/photo/1",
+              "media_key": "3_2075837721021419520",
+              "start": 59,
+              "url": "https://t.co/ZixETNc1ID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076191767054155931",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9279
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075837725647774110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gatinarios: meu jeito de avisar que já quero ir embora https://t.co/ZixETNc1ID"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075837721021419520"
+          ]
+        },
+        "author_id": "1427384347963928576",
+        "conversation_id": "2075837725647774110",
+        "created_at": "2026-07-11T07:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075837725647774110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZixETNc1ID",
+              "end": 66,
+              "expanded_url": "https://x.com/gatinarios/status/2075837725647774110/photo/1",
+              "media_key": "3_2075837721021419520",
+              "start": 43,
+              "url": "https://t.co/ZixETNc1ID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075837725647774110",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1343,
+          "impression_count": 384386,
+          "like_count": 45912,
+          "quote_count": 188,
+          "reply_count": 55,
+          "retweet_count": 9279
+        },
+        "reply_settings": "everyone",
+        "text": "meu jeito de avisar que já quero ir embora https://t.co/ZixETNc1ID"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 16,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-16T21:38:55.000Z",
+        "description": "🐈‍⬛ entra e cumprimenta os gatos! não são minhas imagens! eu te amo! 🐈",
+        "id": "1427384347963928576",
+        "location": "Brasil",
+        "name": "gatos fazendo gatices",
+        "pinned_tweet_id": "2076063883681300571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911285752526229504/M7vBupxF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839970,
+          "following_count": 65,
+          "like_count": 830,
+          "listed_count": 1548,
+          "media_count": 807,
+          "tweet_count": 1095
+        },
+        "url": "",
+        "username": "gatinarios",
+        "verified": true
+      }
+    ]
+  }
+}

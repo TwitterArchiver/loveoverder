@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080227063978701114",
+    "created_at": "2026-07-23T09:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080227063978701114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986388318293295104",
+          "start": 3,
+          "username": "holyhight"
+        },
+        {
+          "end": 27,
+          "id": "739948645",
+          "start": 15,
+          "username": "ChandlerGuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080227063978701114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080062572221563246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @holyhight: @ChandlerGuo 你老是喜欢说话不经过头发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080227063978701114",
+        "created_at": "2026-07-23T09:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080227063978701114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986388318293295104",
+              "start": 3,
+              "username": "holyhight"
+            },
+            {
+              "end": 27,
+              "id": "739948645",
+              "start": 15,
+              "username": "ChandlerGuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080227063978701114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080062572221563246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @holyhight: @ChandlerGuo 你老是喜欢说话不经过头发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986388318293295104",
+        "conversation_id": "2080041896353890486",
+        "created_at": "2026-07-22T22:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T23:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080062572221563246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "739948645",
+              "start": 0,
+              "username": "ChandlerGuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080062572221563246",
+        "in_reply_to_user_id": "739948645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6410,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080041896353890486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChandlerGuo 你老是喜欢说话不经过头发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 231,
+          "like_count": 515,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1109
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T11:01:25.000Z",
+        "description": "holyhigh",
+        "id": "1986388318293295104",
+        "name": "Holyhigh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057768128755666944/4jW3vDbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 72,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "holyhight",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-06T05:53:22.000Z",
+        "description": "bitcoin will $500000 in next 4 years 我微信号13935402564 我没有小号 所有QQ 钉钉 X私信 让你投资USDT的都是诈骗 见到直接举报",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chandler_guo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chandler_guo",
+                "start": 0,
+                "url": "https://t.co/kHjWoeC5gt"
+              }
+            ]
+          }
+        },
+        "id": "739948645",
+        "location": "Los Gatos, CA",
+        "name": "ChandlerGuo 郭宏才 宝二爷",
+        "pinned_tweet_id": "2076187289764745717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589141652198694912/tweqsURL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224336,
+          "following_count": 3083,
+          "like_count": 91,
+          "listed_count": 1284,
+          "media_count": 2371,
+          "tweet_count": 5660
+        },
+        "url": "https://t.co/kHjWoeC5gt",
+        "username": "ChandlerGuo",
+        "verified": true
+      }
+    ]
+  }
+}

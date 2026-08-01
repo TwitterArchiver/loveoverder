@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080653402762248192"
+      ],
+      "media_source_tweet_id": [
+        "2080805730471280933"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080900649957707829",
+    "created_at": "2026-07-25T06:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080900649957707829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1473166885516906496",
+          "start": 3,
+          "username": "madaomoshiroi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s79OGUtlxW",
+          "end": 65,
+          "expanded_url": "https://x.com/madaomoshiroi/status/2080805730471280933/video/1",
+          "media_key": "13_2080653402762248192",
+          "start": 42,
+          "url": "https://t.co/s79OGUtlxW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080900649957707829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1464
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080805730471280933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madaomoshiroi: 生まれてすぐ同士の子犬と子猫が出会った結果… https://t.co/s79OGUtlxW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99706,
+        "height": 720,
+        "media_key": "13_2080653402762248192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080653402762248192/img/_yKzPzqgpsNZC51P.jpg",
+        "public_metrics": {
+          "view_count": 270670
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080653402762248192/vid/avc1/480x270/gDFBmsGZWJeqA_vT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080653402762248192/vid/avc1/640x360/J1dPErZZTqYtMWPD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080653402762248192/vid/avc1/1280x720/xTitkkJmEDBOo2rU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080653402762248192/pl/2vT9LSFYtJEkN81r.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080653402762248192"
+          ]
+        },
+        "author_id": "1473166885516906496",
+        "conversation_id": "2080805730471280933",
+        "created_at": "2026-07-25T00:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T01:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080805730471280933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s79OGUtlxW",
+              "end": 46,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2080805730471280933/video/1",
+              "media_key": "13_2080653402762248192",
+              "start": 23,
+              "url": "https://t.co/s79OGUtlxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080805730471280933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1424,
+          "impression_count": 555978,
+          "like_count": 9651,
+          "quote_count": 138,
+          "reply_count": 19,
+          "retweet_count": 1473
+        },
+        "reply_settings": "everyone",
+        "text": "生まれてすぐ同士の子犬と子猫が出会った結果… https://t.co/s79OGUtlxW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080653402762248192"
+          ],
+          "media_source_tweet_id": [
+            "2080805730471280933"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080900649957707829",
+        "created_at": "2026-07-25T06:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080900649957707829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1473166885516906496",
+              "start": 3,
+              "username": "madaomoshiroi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s79OGUtlxW",
+              "end": 65,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2080805730471280933/video/1",
+              "media_key": "13_2080653402762248192",
+              "start": 42,
+              "url": "https://t.co/s79OGUtlxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080900649957707829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1464
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080805730471280933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madaomoshiroi: 生まれてすぐ同士の子犬と子猫が出会った結果… https://t.co/s79OGUtlxW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 252,
+          "like_count": 634,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1315
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T05:42:16.000Z",
+        "description": "まだ面白いものを引用しています。",
+        "id": "1473166885516906496",
+        "location": "採用→👍",
+        "name": "まだ面白い",
+        "pinned_tweet_id": "1821032266757283910",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331144,
+          "following_count": 0,
+          "like_count": 4550,
+          "listed_count": 524,
+          "media_count": 9632,
+          "tweet_count": 9774
+        },
+        "url": "",
+        "username": "madaomoshiroi",
+        "verified": true
+      }
+    ]
+  }
+}

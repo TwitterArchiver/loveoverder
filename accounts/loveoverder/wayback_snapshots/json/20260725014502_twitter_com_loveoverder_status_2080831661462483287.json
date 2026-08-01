@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080831661462483287",
+    "created_at": "2026-07-25T01:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T02:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080831661462483287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1655432762596405248",
+          "start": 3,
+          "username": "laowu3677"
+        },
+        {
+          "end": 26,
+          "id": "1323413840235696130",
+          "start": 15,
+          "username": "0xmagnolia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080831661462483287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080573108092878856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laowu3677: @0xmagnolia 很牛逼啊  功成身退"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080831661462483287",
+        "created_at": "2026-07-25T01:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080831661462483287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1655432762596405248",
+              "start": 3,
+              "username": "laowu3677"
+            },
+            {
+              "end": 26,
+              "id": "1323413840235696130",
+              "start": 15,
+              "username": "0xmagnolia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080831661462483287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080573108092878856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laowu3677: @0xmagnolia 很牛逼啊  功成身退"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655432762596405248",
+        "conversation_id": "2080562038448017509",
+        "created_at": "2026-07-24T08:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080573108092878856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1323413840235696130",
+              "start": 0,
+              "username": "0xmagnolia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080573108092878856",
+        "in_reply_to_user_id": "1323413840235696130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16065,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080569718919069893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xmagnolia 很牛逼啊  功成身退"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 244,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1213
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T04:41:57.000Z",
+        "description": "04年大专生丨不是矩阵丨账号主要是分享自己的所见所闻丨从0走向自由勇闯加密丨爱吹牛逼丨个人wx：wu17772丨📩合作请私信/DM for collab丨所有推文内容均不构成投资建议",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/laowuzq3",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/laowuzq3",
+                "start": 0,
+                "url": "https://t.co/v2VcFhRyNP"
+              }
+            ]
+          }
+        },
+        "id": "1655432762596405248",
+        "name": "Web3老吴",
+        "pinned_tweet_id": "2026558617588215932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038650441668730880/n67FjiCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34311,
+          "following_count": 4446,
+          "like_count": 36344,
+          "listed_count": 102,
+          "media_count": 2315,
+          "tweet_count": 37857
+        },
+        "url": "https://t.co/v2VcFhRyNP",
+        "username": "laowu3677",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-02T23:57:12.000Z",
+        "description": "ᴍᴀᴋᴇ ᴀʟᴛᴄᴏɪɴs ɢʀᴇᴀᴛ ᴀɢᴀɪɴ！！!\nɪꜰ ʏᴏᴜ'ʀᴇ ʟᴏᴏᴋɪɴɢ ꜰᴏʀ ᴀʟᴘʜᴀ ᴏɴ ʙʟᴜᴇ ᴄʜɪᴘ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_0magnolia",
+                "start": 0,
+                "url": "https://t.co/mawMmeu89B"
+              }
+            ]
+          }
+        },
+        "id": "1323413840235696130",
+        "name": "magnolia",
+        "pinned_tweet_id": "1622516378078175233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876258001830711296/jC9nm_K5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65851,
+          "following_count": 3953,
+          "like_count": 14189,
+          "listed_count": 2456,
+          "media_count": 1254,
+          "tweet_count": 10348
+        },
+        "url": "https://t.co/mawMmeu89B",
+        "username": "0xmagnolia",
+        "verified": true
+      }
+    ]
+  }
+}

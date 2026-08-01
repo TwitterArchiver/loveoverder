@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076842126391074816"
+      ],
+      "media_source_tweet_id": [
+        "2076842266514292756"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076869890259214550",
+    "created_at": "2026-07-14T03:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076869890259214550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1752132484891033600",
+          "start": 3,
+          "username": "JapanMint_IAA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kJNTTlBrqF",
+          "end": 61,
+          "expanded_url": "https://x.com/JapanMint_IAA/status/2076842266514292756/video/1",
+          "media_key": "13_2076842126391074816",
+          "start": 38,
+          "url": "https://t.co/kJNTTlBrqF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076869890259214550",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3794
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076842266514292756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JapanMint_IAA: 久しぶりに1円を量産しています！！！ https://t.co/kJNTTlBrqF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19166,
+        "height": 1920,
+        "media_key": "13_2076842126391074816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076842126391074816/img/pkOrQOP-1VfYRer9.jpg",
+        "public_metrics": {
+          "view_count": 144672
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076842126391074816/vid/avc1/720x1280/RnDhtezlMDbYVJSo.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076842126391074816/vid/avc1/320x568/MaGnZ55ENumSsAEW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076842126391074816/vid/avc1/480x852/fGmN7LjYZh7ktf-7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076842126391074816/pl/gbmH8aRjcRFbuxH2.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076842126391074816/vid/avc1/1080x1920/jhoGl1jZTGtftSoG.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 19166,
+        "height": 1920,
+        "media_key": "13_2076842126391074816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076842126391074816/img/pkOrQOP-1VfYRer9.jpg",
+        "public_metrics": {
+          "view_count": 160601
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076842126391074816/vid/avc1/720x1280/RnDhtezlMDbYVJSo.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076842126391074816/vid/avc1/320x568/MaGnZ55ENumSsAEW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076842126391074816/vid/avc1/480x852/fGmN7LjYZh7ktf-7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076842126391074816/pl/gbmH8aRjcRFbuxH2.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076842126391074816/vid/avc1/1080x1920/jhoGl1jZTGtftSoG.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076842126391074816"
+          ],
+          "media_source_tweet_id": [
+            "2076842266514292756"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076869890259214550",
+        "created_at": "2026-07-14T03:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076869890259214550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1752132484891033600",
+              "start": 3,
+              "username": "JapanMint_IAA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kJNTTlBrqF",
+              "end": 61,
+              "expanded_url": "https://x.com/JapanMint_IAA/status/2076842266514292756/video/1",
+              "media_key": "13_2076842126391074816",
+              "start": 38,
+              "url": "https://t.co/kJNTTlBrqF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076869890259214550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3794
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076842266514292756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JapanMint_IAA: 久しぶりに1円を量産しています！！！ https://t.co/kJNTTlBrqF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076842126391074816"
+          ]
+        },
+        "author_id": "1752132484891033600",
+        "conversation_id": "2076842266514292756",
+        "created_at": "2026-07-14T01:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076842266514292756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kJNTTlBrqF",
+              "end": 42,
+              "expanded_url": "https://x.com/JapanMint_IAA/status/2076842266514292756/video/1",
+              "media_key": "13_2076842126391074816",
+              "start": 19,
+              "url": "https://t.co/kJNTTlBrqF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076842266514292756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 895,
+          "impression_count": 534986,
+          "like_count": 15461,
+          "quote_count": 360,
+          "reply_count": 178,
+          "retweet_count": 3752
+        },
+        "reply_settings": "everyone",
+        "text": "久しぶりに1円を量産しています！！！ https://t.co/kJNTTlBrqF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 187,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 666
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T00:53:19.000Z",
+        "description": "独立行政法人造幣局の公式アカウントです。造幣局ホームページに掲載する情報のほか、貨幣、金属工芸品の製造工程やイベントの様子など、さまざまな情報を発信していきます。【運用ポリシー】https://t.co/7BPLMlw9rN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mint.go.jp/caution_sns",
+                "end": 112,
+                "expanded_url": "https://www.mint.go.jp/caution_sns",
+                "start": 89,
+                "url": "https://t.co/7BPLMlw9rN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mint.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.mint.go.jp/",
+                "start": 0,
+                "url": "https://t.co/TTOoR4jOUO"
+              }
+            ]
+          }
+        },
+        "id": "1752132484891033600",
+        "name": "造幣局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752132992078856192/CDV9BF-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18920,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 100,
+          "media_count": 228,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/TTOoR4jOUO",
+        "username": "JapanMint_IAA",
+        "verified": true
+      }
+    ]
+  }
+}

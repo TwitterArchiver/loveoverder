@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075675568654139392",
+        "3_2075675587893452800"
+      ],
+      "media_source_tweet_id": [
+        "2075675755225186544",
+        "2075675755225186544"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2075919000903786914",
+    "created_at": "2026-07-11T12:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075919000903786914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "286697319",
+          "start": 3,
+          "username": "vicklangley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XvQON5j2QG",
+          "end": 83,
+          "expanded_url": "https://x.com/vicklangley/status/2075675755225186544/photo/1",
+          "media_key": "3_2075675568654139392",
+          "start": 60,
+          "url": "https://t.co/XvQON5j2QG"
+        },
+        {
+          "display_url": "pic.x.com/XvQON5j2QG",
+          "end": 83,
+          "expanded_url": "https://x.com/vicklangley/status/2075675755225186544/photo/1",
+          "media_key": "3_2075675587893452800",
+          "start": 60,
+          "url": "https://t.co/XvQON5j2QG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075919000903786914",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075675755225186544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vicklangley: minha Lain chegou e ela é mt lindinhaaaaaa https://t.co/XvQON5j2QG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1811,
+        "media_key": "3_2075675568654139392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5H7qqWQAAtOHb.jpg",
+        "width": 1019
+      },
+      {
+        "height": 1811,
+        "media_key": "3_2075675587893452800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5H8yVW4AAe087.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075675568654139392",
+            "3_2075675587893452800"
+          ],
+          "media_source_tweet_id": [
+            "2075675755225186544",
+            "2075675755225186544"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2075919000903786914",
+        "created_at": "2026-07-11T12:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075919000903786914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "286697319",
+              "start": 3,
+              "username": "vicklangley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvQON5j2QG",
+              "end": 83,
+              "expanded_url": "https://x.com/vicklangley/status/2075675755225186544/photo/1",
+              "media_key": "3_2075675568654139392",
+              "start": 60,
+              "url": "https://t.co/XvQON5j2QG"
+            },
+            {
+              "display_url": "pic.x.com/XvQON5j2QG",
+              "end": 83,
+              "expanded_url": "https://x.com/vicklangley/status/2075675755225186544/photo/1",
+              "media_key": "3_2075675587893452800",
+              "start": 60,
+              "url": "https://t.co/XvQON5j2QG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075919000903786914",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075675755225186544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vicklangley: minha Lain chegou e ela é mt lindinhaaaaaa https://t.co/XvQON5j2QG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075675568654139392",
+            "3_2075675587893452800"
+          ]
+        },
+        "author_id": "286697319",
+        "conversation_id": "2075675755225186544",
+        "created_at": "2026-07-10T20:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075675755225186544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvQON5j2QG",
+              "end": 66,
+              "expanded_url": "https://x.com/vicklangley/status/2075675755225186544/photo/1",
+              "media_key": "3_2075675568654139392",
+              "start": 43,
+              "url": "https://t.co/XvQON5j2QG"
+            },
+            {
+              "display_url": "pic.x.com/XvQON5j2QG",
+              "end": 66,
+              "expanded_url": "https://x.com/vicklangley/status/2075675755225186544/photo/1",
+              "media_key": "3_2075675587893452800",
+              "start": 43,
+              "url": "https://t.co/XvQON5j2QG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075675755225186544",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 12343,
+          "like_count": 697,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "minha Lain chegou e ela é mt lindinhaaaaaa https://t.co/XvQON5j2QG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-23T14:24:57.000Z",
+        "description": "Colecionando caracacos \n\n✦ Representante oficial Bandai Brasil\n✦ Embaixadora @nin_nin_game",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "nin_nin_game"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/vicklangley",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/vicklangley",
+                "start": 0,
+                "url": "https://t.co/p2RWYphezv"
+              }
+            ]
+          }
+        },
+        "id": "286697319",
+        "location": "Kazimierz, Ursus",
+        "name": "victorique",
+        "pinned_tweet_id": "2024664281438892064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069049123005706240/Mss206Xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5662,
+          "following_count": 1075,
+          "like_count": 159876,
+          "listed_count": 14,
+          "media_count": 3266,
+          "tweet_count": 41624
+        },
+        "url": "https://t.co/p2RWYphezv",
+        "username": "vicklangley",
+        "verified": false
+      }
+    ]
+  }
+}

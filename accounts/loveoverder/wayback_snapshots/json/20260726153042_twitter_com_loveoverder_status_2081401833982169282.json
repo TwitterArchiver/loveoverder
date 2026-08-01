@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081163734722994176"
+      ],
+      "media_source_tweet_id": [
+        "2081163768600396080"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2081401833982169282",
+    "created_at": "2026-07-26T15:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081401833982169282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1949915142507876352",
+          "start": 3,
+          "username": "AdamUnderstood"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I97a3ydWOZ",
+          "end": 63,
+          "expanded_url": "https://x.com/AdamUnderstood/status/2081163768600396080/video/1",
+          "media_key": "13_2081163734722994176",
+          "start": 40,
+          "url": "https://t.co/I97a3ydWOZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081401833982169282",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081163768600396080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AdamUnderstood: WiFi is back online https://t.co/I97a3ydWOZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10200,
+        "height": 1280,
+        "media_key": "13_2081163734722994176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081163734722994176/img/7O2TguLBqyeMElug.jpg",
+        "public_metrics": {
+          "view_count": 80262
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081163734722994176/vid/avc1/320x568/YHtUDwz1xeqlhR1o.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081163734722994176/vid/avc1/480x852/vc-wIh51XIv4Qeu2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081163734722994176/vid/avc1/720x1280/N4DcAcW9k7jT--oq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081163734722994176/pl/DHQDJAuglEP7kyG3.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081163734722994176"
+          ]
+        },
+        "author_id": "1949915142507876352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2081163768600396080",
+        "created_at": "2026-07-25T23:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081163768600396080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I97a3ydWOZ",
+              "end": 43,
+              "expanded_url": "https://x.com/AdamUnderstood/status/2081163768600396080/video/1",
+              "media_key": "13_2081163734722994176",
+              "start": 20,
+              "url": "https://t.co/I97a3ydWOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081163768600396080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 660,
+          "impression_count": 164124,
+          "like_count": 5879,
+          "quote_count": 10,
+          "reply_count": 45,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "WiFi is back online https://t.co/I97a3ydWOZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081163734722994176"
+          ],
+          "media_source_tweet_id": [
+            "2081163768600396080"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2081401833982169282",
+        "created_at": "2026-07-26T15:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081401833982169282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1949915142507876352",
+              "start": 3,
+              "username": "AdamUnderstood"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I97a3ydWOZ",
+              "end": 63,
+              "expanded_url": "https://x.com/AdamUnderstood/status/2081163768600396080/video/1",
+              "media_key": "13_2081163734722994176",
+              "start": 40,
+              "url": "https://t.co/I97a3ydWOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081401833982169282",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081163768600396080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AdamUnderstood: WiFi is back online https://t.co/I97a3ydWOZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 253,
+          "like_count": 670,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1393
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-28T19:29:42.000Z",
+        "description": "When you stand before God, you cannot say, \"But I was told by others to do thus.\" Or that, \"Virtue was not convenient at the time.\" This will not suffice",
+        "id": "1949915142507876352",
+        "location": "Somewhere Free",
+        "name": "ÅÐǍM țħę ŴĨŠÊ",
+        "pinned_tweet_id": "1997923805789065299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056159926242742273/o1YPQ9v5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 970,
+          "like_count": 39801,
+          "listed_count": 1,
+          "media_count": 2817,
+          "tweet_count": 12313
+        },
+        "url": "",
+        "username": "AdamUnderstood",
+        "verified": false
+      }
+    ]
+  }
+}

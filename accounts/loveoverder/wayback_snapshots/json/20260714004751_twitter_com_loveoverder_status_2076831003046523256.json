@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076631346768904192"
+      ],
+      "media_source_tweet_id": [
+        "2076631356654915838"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076831003046523256",
+    "created_at": "2026-07-14T00:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076831003046523256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1624378984002887683",
+          "start": 3,
+          "username": "co6_3g"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BZ86HJj3Ia",
+          "end": 35,
+          "expanded_url": "https://x.com/co6_3g/status/2076631356654915838/photo/1",
+          "media_key": "3_2076631346768904192",
+          "start": 12,
+          "url": "https://t.co/BZ86HJj3Ia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076831003046523256",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4021
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076631356654915838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @co6_3g: https://t.co/BZ86HJj3Ia"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2076631346768904192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGtNRmaAAAJPoA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076631346768904192"
+          ],
+          "media_source_tweet_id": [
+            "2076631356654915838"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076831003046523256",
+        "created_at": "2026-07-14T00:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076831003046523256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1624378984002887683",
+              "start": 3,
+              "username": "co6_3g"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZ86HJj3Ia",
+              "end": 35,
+              "expanded_url": "https://x.com/co6_3g/status/2076631356654915838/photo/1",
+              "media_key": "3_2076631346768904192",
+              "start": 12,
+              "url": "https://t.co/BZ86HJj3Ia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076831003046523256",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4021
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076631356654915838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @co6_3g: https://t.co/BZ86HJj3Ia"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076631346768904192"
+          ]
+        },
+        "author_id": "1624378984002887683",
+        "conversation_id": "2076631356654915838",
+        "created_at": "2026-07-13T11:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076631356654915838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZ86HJj3Ia",
+              "end": 23,
+              "expanded_url": "https://x.com/co6_3g/status/2076631356654915838/photo/1",
+              "media_key": "3_2076631346768904192",
+              "start": 0,
+              "url": "https://t.co/BZ86HJj3Ia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076631356654915838",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3018,
+          "impression_count": 224601,
+          "like_count": 28442,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 4020
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BZ86HJj3Ia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 173,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T12:06:02.000Z",
+        "description": "🎮 Do not use my artworks 転載使用AI学習禁止https://t.co/l22oSJ0g9U",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/84aikv0ot…",
+                "end": 58,
+                "expanded_url": "https://wavebox.me/wave/84aikv0otrav80h7/",
+                "start": 35,
+                "url": "https://t.co/l22oSJ0g9U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/_tyu",
+                "end": 23,
+                "expanded_url": "https://lit.link/_tyu",
+                "start": 0,
+                "url": "https://t.co/eBwLtACqdA"
+              }
+            ]
+          }
+        },
+        "id": "1624378984002887683",
+        "name": "ｯｭ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909176057451950080/fM5pWLLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39081,
+          "following_count": 68,
+          "like_count": 5990,
+          "listed_count": 161,
+          "media_count": 141,
+          "tweet_count": 1291
+        },
+        "url": "https://t.co/eBwLtACqdA",
+        "username": "co6_3g",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082315279976259584"
+      ],
+      "media_source_tweet_id": [
+        "2082315331180347789"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082358192689082654",
+    "created_at": "2026-07-29T06:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T07:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082358192689082654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1161275299",
+          "start": 3,
+          "username": "0xinggege"
+        },
+        {
+          "end": 26,
+          "id": "1482768180699439109",
+          "start": 15,
+          "username": "3ethtomoon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YwtR5uqGdK",
+          "end": 63,
+          "expanded_url": "https://x.com/0xinggege/status/2082315331180347789/photo/1",
+          "media_key": "3_2082315279976259584",
+          "start": 40,
+          "url": "https://t.co/YwtR5uqGdK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082358192689082654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082315331180347789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0xinggege: @3ethtomoon 🤣不是币圈有够烂的时候了 https://t.co/YwtR5uqGdK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 203,
+        "media_key": "3_2082315279976259584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXetu1aYAAaK3I.png",
+        "width": 668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082315279976259584"
+          ]
+        },
+        "author_id": "1161275299",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082272958102523994",
+        "created_at": "2026-07-29T04:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082315331180347789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1482768180699439109",
+              "start": 0,
+              "username": "3ethtomoon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YwtR5uqGdK",
+              "end": 48,
+              "expanded_url": "https://x.com/0xinggege/status/2082315331180347789/photo/1",
+              "media_key": "3_2082315279976259584",
+              "start": 25,
+              "url": "https://t.co/YwtR5uqGdK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082315331180347789",
+        "in_reply_to_user_id": "1482768180699439109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2370,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082272958102523994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ethtomoon 🤣不是币圈有够烂的时候了 https://t.co/YwtR5uqGdK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082315279976259584"
+          ],
+          "media_source_tweet_id": [
+            "2082315331180347789"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082358192689082654",
+        "created_at": "2026-07-29T06:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082358192689082654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1161275299",
+              "start": 3,
+              "username": "0xinggege"
+            },
+            {
+              "end": 26,
+              "id": "1482768180699439109",
+              "start": 15,
+              "username": "3ethtomoon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YwtR5uqGdK",
+              "end": 63,
+              "expanded_url": "https://x.com/0xinggege/status/2082315331180347789/photo/1",
+              "media_key": "3_2082315279976259584",
+              "start": 40,
+              "url": "https://t.co/YwtR5uqGdK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082358192689082654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082315331180347789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0xinggege: @3ethtomoon 🤣不是币圈有够烂的时候了 https://t.co/YwtR5uqGdK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 305,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1800
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-08T21:28:45.000Z",
+        "description": "一直在路上🥦\n交易使用Debot🤖 https://t.co/zbs0Iw6C9Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inv.debot.ai/r/212653",
+                "end": 41,
+                "expanded_url": "https://inv.debot.ai/r/212653",
+                "start": 18,
+                "url": "https://t.co/zbs0Iw6C9Z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oxinggege",
+                "end": 23,
+                "expanded_url": "https://t.me/Oxinggege",
+                "start": 0,
+                "url": "https://t.co/EqliXqLD9W"
+              }
+            ]
+          }
+        },
+        "id": "1161275299",
+        "location": "区块链",
+        "name": "星格格🥦",
+        "pinned_tweet_id": "1879408399366144215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041887266008920064/wLrbXVc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 474,
+          "like_count": 526,
+          "listed_count": 9,
+          "media_count": 130,
+          "tweet_count": 951
+        },
+        "url": "https://t.co/EqliXqLD9W",
+        "username": "0xinggege",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-16T17:34:18.000Z",
+        "description": "发推只是记录自己的操作 韭菜一枚",
+        "id": "1482768180699439109",
+        "name": "0xLeaf🍃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019595786217234432/2tg3QKh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24997,
+          "following_count": 487,
+          "like_count": 230,
+          "listed_count": 501,
+          "media_count": 105,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "3ethtomoon",
+        "verified": true
+      }
+    ]
+  }
+}

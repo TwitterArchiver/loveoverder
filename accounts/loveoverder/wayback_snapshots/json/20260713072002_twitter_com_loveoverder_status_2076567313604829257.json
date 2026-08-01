@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076537562701946880"
+      ],
+      "media_source_tweet_id": [
+        "2076537641731064223"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076567313604829257",
+    "created_at": "2026-07-13T07:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076567313604829257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1407556919712096257",
+          "start": 3,
+          "username": "Escapist_1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EnRHw5RKPu",
+          "end": 109,
+          "expanded_url": "https://x.com/Escapist_1/status/2076537641731064223/video/1",
+          "media_key": "13_2076537562701946880",
+          "start": 86,
+          "url": "https://t.co/EnRHw5RKPu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076567313604829257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076537641731064223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Escapist_1: 来嬉皮士发源地朝圣，嬉皮士们很开心地拉我一起跳舞敲鼓\n\n妈妈，我不想当现代人了呀，我想穿越回上个世纪和大家一起大散步一起飞一起宣扬爱与和平 https://t.co/EnRHw5RKPu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7128,
+        "height": 3840,
+        "media_key": "13_2076537562701946880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076537562701946880/img/DLjn15rPMV7isw8N.jpg",
+        "public_metrics": {
+          "view_count": 294
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076537562701946880/vid/avc1/480x852/9iaJ3SeXiwNK501L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076537562701946880/pl/HIe6sGzSh6lXRx8W.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076537562701946880/vid/avc1/720x1280/ykYsLdDg8qWaD4-l.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076537562701946880/vid/avc1/1080x1920/wWC_YvsL2xzoK9ve.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076537562701946880/vid/avc1/2160x3840/PnrP7KfjLnAkAZyo.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076537562701946880/vid/avc1/320x568/btUZQBc4JD0AwJUA.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076537562701946880"
+          ],
+          "media_source_tweet_id": [
+            "2076537641731064223"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076567313604829257",
+        "created_at": "2026-07-13T07:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076567313604829257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1407556919712096257",
+              "start": 3,
+              "username": "Escapist_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EnRHw5RKPu",
+              "end": 109,
+              "expanded_url": "https://x.com/Escapist_1/status/2076537641731064223/video/1",
+              "media_key": "13_2076537562701946880",
+              "start": 86,
+              "url": "https://t.co/EnRHw5RKPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076567313604829257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076537641731064223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Escapist_1: 来嬉皮士发源地朝圣，嬉皮士们很开心地拉我一起跳舞敲鼓\n\n妈妈，我不想当现代人了呀，我想穿越回上个世纪和大家一起大散步一起飞一起宣扬爱与和平 https://t.co/EnRHw5RKPu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076537562701946880"
+          ]
+        },
+        "author_id": "1407556919712096257",
+        "conversation_id": "2076537641731064223",
+        "created_at": "2026-07-13T05:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076537641731064223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EnRHw5RKPu",
+              "end": 93,
+              "expanded_url": "https://x.com/Escapist_1/status/2076537641731064223/video/1",
+              "media_key": "13_2076537562701946880",
+              "start": 70,
+              "url": "https://t.co/EnRHw5RKPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076537641731064223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1068,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来嬉皮士发源地朝圣，嬉皮士们很开心地拉我一起跳舞敲鼓\n\n妈妈，我不想当现代人了呀，我想穿越回上个世纪和大家一起大散步一起飞一起宣扬爱与和平 https://t.co/EnRHw5RKPu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 123,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 456
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T04:31:55.000Z",
+        "description": "随便发点什么 #人类观察研究 想拍点纪录片",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 7,
+                "tag": "人类观察研究"
+              }
+            ]
+          }
+        },
+        "id": "1407556919712096257",
+        "location": "HD 140283恒星",
+        "name": "Escapist",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985567912334409731/Hx4R_X4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42886,
+          "following_count": 1607,
+          "like_count": 4938,
+          "listed_count": 211,
+          "media_count": 438,
+          "tweet_count": 5757
+        },
+        "url": "",
+        "username": "Escapist_1",
+        "verified": false
+      }
+    ]
+  }
+}

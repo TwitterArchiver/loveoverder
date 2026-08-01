@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082008278238892032"
+      ],
+      "media_source_tweet_id": [
+        "2082008287198036184"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082267773322047842",
+    "created_at": "2026-07-29T00:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082267773322047842"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 19,
+          "tag": "メリ蓮"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2077018890908082176",
+          "start": 3,
+          "username": "Arster_114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NxKOmNcuxT",
+          "end": 47,
+          "expanded_url": "https://x.com/Arster_114514/status/2082008287198036184/photo/1",
+          "media_key": "3_2082008278238892032",
+          "start": 24,
+          "url": "https://t.co/NxKOmNcuxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082267773322047842",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 502
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082008287198036184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Arster_114514: #メリ蓮 https://t.co/NxKOmNcuxT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2082008278238892032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTHf4PaEAANmQD.jpg",
+        "width": 2420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082008278238892032"
+          ]
+        },
+        "author_id": "2077018890908082176",
+        "conversation_id": "2082008287198036184",
+        "created_at": "2026-07-28T07:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082008287198036184"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "メリ蓮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxKOmNcuxT",
+              "end": 28,
+              "expanded_url": "https://x.com/Arster_114514/status/2082008287198036184/photo/1",
+              "media_key": "3_2082008278238892032",
+              "start": 5,
+              "url": "https://t.co/NxKOmNcuxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082008287198036184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 543,
+          "impression_count": 40245,
+          "like_count": 4316,
+          "quote_count": 18,
+          "reply_count": 8,
+          "retweet_count": 502
+        },
+        "reply_settings": "everyone",
+        "text": "#メリ蓮 https://t.co/NxKOmNcuxT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082008278238892032"
+          ],
+          "media_source_tweet_id": [
+            "2082008287198036184"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082267773322047842",
+        "created_at": "2026-07-29T00:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082267773322047842"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "メリ蓮"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2077018890908082176",
+              "start": 3,
+              "username": "Arster_114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxKOmNcuxT",
+              "end": 47,
+              "expanded_url": "https://x.com/Arster_114514/status/2082008287198036184/photo/1",
+              "media_key": "3_2082008278238892032",
+              "start": 24,
+              "url": "https://t.co/NxKOmNcuxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082267773322047842",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 502
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082008287198036184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Arster_114514: #メリ蓮 https://t.co/NxKOmNcuxT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 298,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1743
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-14T13:15:27.000Z",
+        "description": "大号@114514Arster被封力，，，\nメリ蓮左右固定洁癖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "114514Arster"
+              }
+            ]
+          }
+        },
+        "id": "2077018890908082176",
+        "location": "Dr.Latency粉丝协会",
+        "name": "セキエイ2号",
+        "pinned_tweet_id": "2077020902152405170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078744145880072192/CVwvNYVz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 12,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "Arster_114514",
+        "verified": false
+      }
+    ]
+  }
+}

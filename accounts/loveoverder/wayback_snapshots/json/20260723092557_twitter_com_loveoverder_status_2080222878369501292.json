@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080222878369501292",
+    "created_at": "2026-07-23T09:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080222878369501292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2051569757573480448",
+          "start": 3,
+          "username": "KiwiSeraphina"
+        },
+        {
+          "end": 30,
+          "id": "2044284872366178304",
+          "start": 19,
+          "username": "Mypotato_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080222878369501292",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080133465563951457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiwiSeraphina: @Mypotato_o 必须是穿三角蓝白胖次的男娘🙏🙏🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080222878369501292",
+        "created_at": "2026-07-23T09:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080222878369501292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2051569757573480448",
+              "start": 3,
+              "username": "KiwiSeraphina"
+            },
+            {
+              "end": 30,
+              "id": "2044284872366178304",
+              "start": 19,
+              "username": "Mypotato_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080222878369501292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080133465563951457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiwiSeraphina: @Mypotato_o 必须是穿三角蓝白胖次的男娘🙏🙏🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051569757573480448",
+        "conversation_id": "2079955101192474957",
+        "created_at": "2026-07-23T03:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080133465563951457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044284872366178304",
+              "start": 0,
+              "username": "Mypotato_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080133465563951457",
+        "in_reply_to_user_id": "2044284872366178304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1932,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079955101192474957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mypotato_o 必须是穿三角蓝白胖次的男娘🙏🙏🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 228,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1095
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T07:49:02.000Z",
+        "description": "TRANS RIGHTS丨LGBTQ RIGHTS 🏳️‍🌈丨05♍丨叫我猕猴桃🥝/Sera丨femdom丨pegging 丨4i丨Languages: 🇳🇿/🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seraphinakiwi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seraphinakiwi",
+                "start": 0,
+                "url": "https://t.co/DqHlmN4GgX"
+              }
+            ]
+          }
+        },
+        "id": "2051569757573480448",
+        "location": "New Zealand / 沈阳",
+        "name": "Seraphina🥝",
+        "pinned_tweet_id": "2067199925679772045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051598032165376000/BGQtIs4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 171,
+          "like_count": 2906,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/DqHlmN4GgX",
+        "username": "KiwiSeraphina",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T05:23:15.000Z",
+        "description": "一些关于我的",
+        "id": "2044284872366178304",
+        "location": "谁的心里",
+        "name": "钰",
+        "pinned_tweet_id": "2059117799289581738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044285660995928064/000bqF8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 2,
+          "like_count": 386,
+          "listed_count": 6,
+          "media_count": 44,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "Mypotato_o",
+        "verified": false
+      }
+    ]
+  }
+}

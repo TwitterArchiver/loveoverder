@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081421257057406976",
+        "3_2081421257053253632",
+        "3_2081421257061670912",
+        "3_2081421257065857024"
+      ],
+      "media_source_tweet_id": [
+        "2081421263042675067",
+        "2081421263042675067",
+        "2081421263042675067",
+        "2081421263042675067"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081714768126328942",
+    "created_at": "2026-07-27T12:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081714768126328942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1243157929441628162",
+          "start": 3,
+          "username": "thing_gog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XNw22Idt4r",
+          "end": 61,
+          "expanded_url": "https://x.com/thing_gog/status/2081421263042675067/photo/1",
+          "media_key": "3_2081421257057406976",
+          "start": 38,
+          "url": "https://t.co/XNw22Idt4r"
+        },
+        {
+          "display_url": "pic.x.com/XNw22Idt4r",
+          "end": 61,
+          "expanded_url": "https://x.com/thing_gog/status/2081421263042675067/photo/1",
+          "media_key": "3_2081421257053253632",
+          "start": 38,
+          "url": "https://t.co/XNw22Idt4r"
+        },
+        {
+          "display_url": "pic.x.com/XNw22Idt4r",
+          "end": 61,
+          "expanded_url": "https://x.com/thing_gog/status/2081421263042675067/photo/1",
+          "media_key": "3_2081421257061670912",
+          "start": 38,
+          "url": "https://t.co/XNw22Idt4r"
+        },
+        {
+          "display_url": "pic.x.com/XNw22Idt4r",
+          "end": 61,
+          "expanded_url": "https://x.com/thing_gog/status/2081421263042675067/photo/1",
+          "media_key": "3_2081421257065857024",
+          "start": 38,
+          "url": "https://t.co/XNw22Idt4r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081714768126328942",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2497
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081421263042675067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thing_gog: 카리나가 게임캐릭터 같을 때.. 진짜같음 https://t.co/XNw22Idt4r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_2081421257057406976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKxmv7akAA6rUb.jpg",
+        "width": 968
+      },
+      {
+        "height": 1472,
+        "media_key": "3_2081421257053253632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKxmv6bMAAeqep.jpg",
+        "width": 1104
+      },
+      {
+        "height": 1281,
+        "media_key": "3_2081421257061670912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKxmv8boAAaS1I.jpg",
+        "width": 960
+      },
+      {
+        "height": 1799,
+        "media_key": "3_2081421257065857024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKxmv9bgAAYC47.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081421257057406976",
+            "3_2081421257053253632",
+            "3_2081421257061670912",
+            "3_2081421257065857024"
+          ]
+        },
+        "author_id": "1243157929441628162",
+        "conversation_id": "2081421263042675067",
+        "created_at": "2026-07-26T16:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081421263042675067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XNw22Idt4r",
+              "end": 46,
+              "expanded_url": "https://x.com/thing_gog/status/2081421263042675067/photo/1",
+              "media_key": "3_2081421257057406976",
+              "start": 23,
+              "url": "https://t.co/XNw22Idt4r"
+            },
+            {
+              "display_url": "pic.x.com/XNw22Idt4r",
+              "end": 46,
+              "expanded_url": "https://x.com/thing_gog/status/2081421263042675067/photo/1",
+              "media_key": "3_2081421257053253632",
+              "start": 23,
+              "url": "https://t.co/XNw22Idt4r"
+            },
+            {
+              "display_url": "pic.x.com/XNw22Idt4r",
+              "end": 46,
+              "expanded_url": "https://x.com/thing_gog/status/2081421263042675067/photo/1",
+              "media_key": "3_2081421257061670912",
+              "start": 23,
+              "url": "https://t.co/XNw22Idt4r"
+            },
+            {
+              "display_url": "pic.x.com/XNw22Idt4r",
+              "end": 46,
+              "expanded_url": "https://x.com/thing_gog/status/2081421263042675067/photo/1",
+              "media_key": "3_2081421257065857024",
+              "start": 23,
+              "url": "https://t.co/XNw22Idt4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081421263042675067",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1524,
+          "impression_count": 430697,
+          "like_count": 16017,
+          "quote_count": 141,
+          "reply_count": 8,
+          "retweet_count": 2496
+        },
+        "reply_settings": "everyone",
+        "text": "카리나가 게임캐릭터 같을 때.. 진짜같음 https://t.co/XNw22Idt4r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081421257057406976",
+            "3_2081421257053253632",
+            "3_2081421257061670912",
+            "3_2081421257065857024"
+          ],
+          "media_source_tweet_id": [
+            "2081421263042675067",
+            "2081421263042675067",
+            "2081421263042675067",
+            "2081421263042675067"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081714768126328942",
+        "created_at": "2026-07-27T12:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081714768126328942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1243157929441628162",
+              "start": 3,
+              "username": "thing_gog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XNw22Idt4r",
+              "end": 61,
+              "expanded_url": "https://x.com/thing_gog/status/2081421263042675067/photo/1",
+              "media_key": "3_2081421257057406976",
+              "start": 38,
+              "url": "https://t.co/XNw22Idt4r"
+            },
+            {
+              "display_url": "pic.x.com/XNw22Idt4r",
+              "end": 61,
+              "expanded_url": "https://x.com/thing_gog/status/2081421263042675067/photo/1",
+              "media_key": "3_2081421257053253632",
+              "start": 38,
+              "url": "https://t.co/XNw22Idt4r"
+            },
+            {
+              "display_url": "pic.x.com/XNw22Idt4r",
+              "end": 61,
+              "expanded_url": "https://x.com/thing_gog/status/2081421263042675067/photo/1",
+              "media_key": "3_2081421257061670912",
+              "start": 38,
+              "url": "https://t.co/XNw22Idt4r"
+            },
+            {
+              "display_url": "pic.x.com/XNw22Idt4r",
+              "end": 61,
+              "expanded_url": "https://x.com/thing_gog/status/2081421263042675067/photo/1",
+              "media_key": "3_2081421257065857024",
+              "start": 38,
+              "url": "https://t.co/XNw22Idt4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081714768126328942",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2497
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081421263042675067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thing_gog: 카리나가 게임캐릭터 같을 때.. 진짜같음 https://t.co/XNw22Idt4r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 258,
+          "like_count": 711,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1490
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-26T12:49:38.000Z",
+        "description": "thing thing thing . . . .",
+        "id": "1243157929441628162",
+        "name": "gog",
+        "pinned_tweet_id": "1354459704550961156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024933941095137281/IEBCgPs2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290821,
+          "following_count": 33,
+          "like_count": 76,
+          "listed_count": 214,
+          "media_count": 70,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "thing_gog",
+        "verified": false
+      }
+    ]
+  }
+}

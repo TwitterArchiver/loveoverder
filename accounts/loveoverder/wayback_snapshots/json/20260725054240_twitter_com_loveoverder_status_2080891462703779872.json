@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080891462703779872",
+    "created_at": "2026-07-25T05:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080891462703779872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1901592724698181632",
+          "start": 3,
+          "username": "Nkq6yLXJWr64871"
+        },
+        {
+          "end": 37,
+          "id": "1314038906174701568",
+          "start": 21,
+          "username": "AnastasiaAlder1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080891462703779872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080826277225750939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nkq6yLXJWr64871: @AnastasiaAlder1 裤子自掉的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080891462703779872",
+        "created_at": "2026-07-25T05:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080891462703779872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1901592724698181632",
+              "start": 3,
+              "username": "Nkq6yLXJWr64871"
+            },
+            {
+              "end": 37,
+              "id": "1314038906174701568",
+              "start": 21,
+              "username": "AnastasiaAlder1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080891462703779872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080826277225750939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nkq6yLXJWr64871: @AnastasiaAlder1 裤子自掉的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901592724698181632",
+        "conversation_id": "2080605995840254113",
+        "created_at": "2026-07-25T01:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080826277225750939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1314038906174701568",
+              "start": 0,
+              "username": "AnastasiaAlder1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080826277225750939",
+        "in_reply_to_user_id": "1314038906174701568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 841,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080605995840254113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnastasiaAlder1 裤子自掉的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 252,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1309
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T11:13:42.000Z",
+        "description": "",
+        "id": "1901592724698181632",
+        "name": "Asuka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901593261946630144/-r8oFmGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "Nkq6yLXJWr64871",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-08T03:04:33.000Z",
+        "description": "`_____我主号 @octopus81672642",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "octopus81672642"
+              }
+            ]
+          }
+        },
+        "id": "1314038906174701568",
+        "location": "5.7km",
+        "name": "小辣椒",
+        "pinned_tweet_id": "2080377627693719574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080377315897585664/PpcVbHl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "AnastasiaAlder1",
+        "verified": false
+      }
+    ]
+  }
+}

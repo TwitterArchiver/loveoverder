@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082358225979257242",
+    "created_at": "2026-07-29T06:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T07:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082358225979257242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1102448132703559681",
+          "start": 3,
+          "username": "094551YY"
+        },
+        {
+          "end": 25,
+          "id": "1482768180699439109",
+          "start": 14,
+          "username": "3ethtomoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082358225979257242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082333292721004869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @094551YY: @3ethtomoon 不用焦虑\n中国的社会\n一天挣20-30快都可以生活\n这个时代的生活成本极低\n只需要控制欲望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082358225979257242",
+        "created_at": "2026-07-29T06:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082358225979257242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1102448132703559681",
+              "start": 3,
+              "username": "094551YY"
+            },
+            {
+              "end": 25,
+              "id": "1482768180699439109",
+              "start": 14,
+              "username": "3ethtomoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082358225979257242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082333292721004869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @094551YY: @3ethtomoon 不用焦虑\n中国的社会\n一天挣20-30快都可以生活\n这个时代的生活成本极低\n只需要控制欲望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1102448132703559681",
+        "conversation_id": "2082272958102523994",
+        "created_at": "2026-07-29T05:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082333292721004869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1482768180699439109",
+              "start": 0,
+              "username": "3ethtomoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082333292721004869",
+        "in_reply_to_user_id": "1482768180699439109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 622,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082272958102523994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ethtomoon 不用焦虑\n中国的社会\n一天挣20-30快都可以生活\n这个时代的生活成本极低\n只需要控制欲望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 305,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1801
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-04T05:58:12.000Z",
+        "description": "The Odds Player.\n专注（Box Office /streaming data/Poker）\n🔮在二元售卖梦想 | Fixed-Odds Financial Trading",
+        "id": "1102448132703559681",
+        "name": "0x亮晶晶(Box Office trader)",
+        "pinned_tweet_id": "2064364432948674833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998301156683198466/mNQvNuiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 2077,
+          "like_count": 3604,
+          "listed_count": 10,
+          "media_count": 211,
+          "tweet_count": 3155
+        },
+        "url": "",
+        "username": "094551YY",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-16T17:34:18.000Z",
+        "description": "发推只是记录自己的操作 韭菜一枚",
+        "id": "1482768180699439109",
+        "name": "0xLeaf🍃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019595786217234432/2tg3QKh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24997,
+          "following_count": 487,
+          "like_count": 230,
+          "listed_count": 501,
+          "media_count": 105,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "3ethtomoon",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081015887323336704"
+      ],
+      "media_source_tweet_id": [
+        "2081016000129216773"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081092837337403481",
+    "created_at": "2026-07-25T19:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T20:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081092837337403481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721895937357004800",
+          "start": 3,
+          "username": "Strf_9040C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bKOOCQhrqH",
+          "end": 50,
+          "expanded_url": "https://x.com/Strf_9040C/status/2081016000129216773/video/1",
+          "media_key": "13_2081015887323336704",
+          "start": 27,
+          "url": "https://t.co/bKOOCQhrqH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081092837337403481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081016000129216773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Strf_9040C: 波兰人的宝马。，兑、 https://t.co/bKOOCQhrqH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10866,
+        "height": 720,
+        "media_key": "13_2081015887323336704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081015887323336704/img/4y0JI3goCCHnXHI0.jpg",
+        "public_metrics": {
+          "view_count": 45
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081015887323336704/vid/avc1/346x270/xDq0HW9z6BvlY43Q.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081015887323336704/vid/avc1/462x360/7nj9YRQ5vqtszSxY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081015887323336704/vid/avc1/924x720/UwO4gaub_BhEcM7S.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081015887323336704/pl/dRmG9NbBEA-vjjQ9.m3u8?tag=14"
+          }
+        ],
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081015887323336704"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2081016000129216773",
+        "created_at": "2026-07-25T13:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081016000129216773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKOOCQhrqH",
+              "end": 34,
+              "expanded_url": "https://x.com/Strf_9040C/status/2081016000129216773/video/1",
+              "media_key": "13_2081015887323336704",
+              "start": 11,
+              "url": "https://t.co/bKOOCQhrqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081016000129216773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 116,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "波兰人的宝马。，兑、 https://t.co/bKOOCQhrqH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081015887323336704"
+          ],
+          "media_source_tweet_id": [
+            "2081016000129216773"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081092837337403481",
+        "created_at": "2026-07-25T19:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081092837337403481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721895937357004800",
+              "start": 3,
+              "username": "Strf_9040C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKOOCQhrqH",
+              "end": 50,
+              "expanded_url": "https://x.com/Strf_9040C/status/2081016000129216773/video/1",
+              "media_key": "13_2081015887323336704",
+              "start": 27,
+              "url": "https://t.co/bKOOCQhrqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081092837337403481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081016000129216773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Strf_9040C: 波兰人的宝马。，兑、 https://t.co/bKOOCQhrqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 257,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1349
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 2480,
+          "like_count": 14282,
+          "listed_count": 2,
+          "media_count": 672,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

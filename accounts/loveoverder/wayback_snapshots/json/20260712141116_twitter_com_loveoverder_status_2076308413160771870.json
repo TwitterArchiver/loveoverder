@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076308413160771870",
+    "created_at": "2026-07-12T14:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076308413160771870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1780258071799066624",
+          "start": 3,
+          "username": "chimu_meat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076308413160771870",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 221
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076153276337406409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chimu_meat: 이거 자연인가요? 아니면 시술로 만든건가요ㅜㅜㅜ 진쩌 급함 상어이빨 가지고 싶어"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076308413160771870",
+        "created_at": "2026-07-12T14:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076308413160771870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1780258071799066624",
+              "start": 3,
+              "username": "chimu_meat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076308413160771870",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 221
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076153276337406409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chimu_meat: 이거 자연인가요? 아니면 시술로 만든건가요ㅜㅜㅜ 진쩌 급함 상어이빨 가지고 싶어"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780258071799066624",
+        "conversation_id": "2076153276337406409",
+        "created_at": "2026-07-12T03:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076153276337406409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zerocha_sub/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/zerocha_sub/status/2075791320002748745",
+              "start": 45,
+              "url": "https://t.co/TJXKPCE8t2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076153276337406409",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1025,
+          "impression_count": 2200145,
+          "like_count": 5555,
+          "quote_count": 556,
+          "reply_count": 74,
+          "retweet_count": 219
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075791320002748745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "이거 자연인가요? 아니면 시술로 만든건가요ㅜㅜㅜ 진쩌 급함 상어이빨 가지고 싶어 https://t.co/TJXKPCE8t2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 61,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 182
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T15:33:04.000Z",
+        "description": "선생님의 애완 쥐…ᘛ⁐̤ᕐᐷ | #초코치무 | ♥︎: @d7mldx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "초코치무"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 30,
+                "username": "d7mldx"
+              }
+            ]
+          }
+        },
+        "id": "1780258071799066624",
+        "location": "🐀",
+        "name": "血む",
+        "pinned_tweet_id": "2074425981591588937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056134878421553152/g2hySQCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 180,
+          "like_count": 2883,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 1927
+        },
+        "url": "",
+        "username": "chimu_meat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076484659274555473",
+    "created_at": "2026-07-13T01:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T02:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076484659274555473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1633052579562414082",
+          "start": 3,
+          "username": "xiaoshi168"
+        },
+        {
+          "end": 29,
+          "id": "1461650068075806722",
+          "start": 16,
+          "username": "Reboottttttt"
+        },
+        {
+          "end": 42,
+          "id": "1670846516624494592",
+          "start": 30,
+          "username": "NancyDubey_"
+        },
+        {
+          "end": 57,
+          "id": "1186965083424903168",
+          "start": 43,
+          "username": "robintown_xyz"
+        },
+        {
+          "end": 68,
+          "id": "4917456893",
+          "start": 58,
+          "username": "anonchain"
+        },
+        {
+          "end": 79,
+          "id": "104303798",
+          "start": 69,
+          "username": "zjbrenner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076484659274555473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076452844228780308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoshi168: @Reboottttttt @NancyDubey_ @robintown_xyz @anonchain @zjbrenner 先上车再研究"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076484659274555473",
+        "created_at": "2026-07-13T01:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076484659274555473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1633052579562414082",
+              "start": 3,
+              "username": "xiaoshi168"
+            },
+            {
+              "end": 29,
+              "id": "1461650068075806722",
+              "start": 16,
+              "username": "Reboottttttt"
+            },
+            {
+              "end": 42,
+              "id": "1670846516624494592",
+              "start": 30,
+              "username": "NancyDubey_"
+            },
+            {
+              "end": 57,
+              "id": "1186965083424903168",
+              "start": 43,
+              "username": "robintown_xyz"
+            },
+            {
+              "end": 68,
+              "id": "4917456893",
+              "start": 58,
+              "username": "anonchain"
+            },
+            {
+              "end": 79,
+              "id": "104303798",
+              "start": 69,
+              "username": "zjbrenner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076484659274555473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076452844228780308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoshi168: @Reboottttttt @NancyDubey_ @robintown_xyz @anonchain @zjbrenner 先上车再研究"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633052579562414082",
+        "conversation_id": "2076423089693593666",
+        "created_at": "2026-07-12T23:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T00:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076452844228780308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1461650068075806722",
+              "start": 0,
+              "username": "Reboottttttt"
+            },
+            {
+              "end": 26,
+              "id": "1670846516624494592",
+              "start": 14,
+              "username": "NancyDubey_"
+            },
+            {
+              "end": 41,
+              "id": "1186965083424903168",
+              "start": 27,
+              "username": "robintown_xyz"
+            },
+            {
+              "end": 52,
+              "id": "4917456893",
+              "start": 42,
+              "username": "anonchain"
+            },
+            {
+              "end": 63,
+              "id": "104303798",
+              "start": 53,
+              "username": "zjbrenner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076452844228780308",
+        "in_reply_to_user_id": "1461650068075806722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076423089693593666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reboottttttt @NancyDubey_ @robintown_xyz @anonchain @zjbrenner 先上车再研究"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 77,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T10:31:04.000Z",
+        "description": "外卖小哥",
+        "id": "1633052579562414082",
+        "name": "小哥送不快",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073424135989194752/x9-87RCM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 1158,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "xiaoshi168",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-19T10:58:33.000Z",
+        "description": "Co-Founder @ArcadyWeb3 Ambassador  @arbitrum \n今年专注Ai 美股 打新 定投BTC \n商务联系:dc:reboot7454 TG:@Reboot7454\n推特当朋友圈发的 别乱买 盈亏自负 爹妈们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "ArcadyWeb3"
+              },
+              {
+                "end": 44,
+                "start": 35,
+                "username": "arbitrum"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Reboot7454"
+              }
+            ]
+          }
+        },
+        "id": "1461650068075806722",
+        "name": "Reboot.Btc",
+        "pinned_tweet_id": "1961645050993189163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045007928537817088/jJOzirj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22884,
+          "following_count": 11334,
+          "like_count": 60641,
+          "listed_count": 295,
+          "media_count": 2343,
+          "tweet_count": 115217
+        },
+        "url": "",
+        "username": "Reboottttttt",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-19T17:30:42.000Z",
+        "description": "Building @robintown_xyz for people on Robinhood.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "robintown_xyz"
+              }
+            ]
+          }
+        },
+        "id": "1670846516624494592",
+        "location": "On-chain",
+        "name": "Nancy Dubey 🪶",
+        "pinned_tweet_id": "2076237023007195421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830979994404675584/cc7AbCHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 1254,
+          "like_count": 3680,
+          "listed_count": 5,
+          "media_count": 948,
+          "tweet_count": 2541
+        },
+        "url": "",
+        "username": "NancyDubey_",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-23T11:18:57.000Z",
+        "description": "A town for all Robinhood\n\nTelegram support : https://t.co/wVvw7BvlbR\n\nmayor @nancydubey_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "nancydubey_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/robintown4663",
+                "end": 68,
+                "expanded_url": "https://t.me/robintown4663",
+                "start": 45,
+                "url": "https://t.co/wVvw7BvlbR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "robintown.xyz",
+                "end": 23,
+                "expanded_url": "http://robintown.xyz",
+                "start": 0,
+                "url": "https://t.co/brSIJILYM3"
+              }
+            ]
+          }
+        },
+        "id": "1186965083424903168",
+        "name": "Robintown",
+        "pinned_tweet_id": "2076065954929459395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075927500631556096/IhLbfhei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 1,
+          "like_count": 84,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/brSIJILYM3",
+        "username": "robintown_xyz",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-16T03:48:15.000Z",
+        "description": "Punk 5034 ✱ BAYC 2786 ✱ Nakamigos Coded ✱ Milady World Order ✱ Controversial Node in the Ethereum Network ✱ @okx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 108,
+                "username": "okx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "husher.io/@anon",
+                "end": 23,
+                "expanded_url": "https://husher.io/@anon",
+                "start": 0,
+                "url": "https://t.co/Dm7eItnlzJ"
+              }
+            ]
+          }
+        },
+        "id": "4917456893",
+        "location": "Purgatory",
+        "name": "anon",
+        "pinned_tweet_id": "1827054303908868300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073891191012130816/NoU1KDJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90235,
+          "following_count": 11438,
+          "like_count": 269053,
+          "listed_count": 994,
+          "media_count": 13588,
+          "tweet_count": 142033
+        },
+        "url": "https://t.co/Dm7eItnlzJ",
+        "username": "anonchain",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-12T23:16:55.000Z",
+        "description": "Product Marketing @opensea | Prev. @rally_xyz (acquired), marketing @genentech , @dukeu mba | NYC | All views are my own",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "opensea"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "rally_xyz"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "genentech"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "username": "dukeu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/zacharybren…",
+                "end": 23,
+                "expanded_url": "https://www.linkedin.com/in/zacharybrenner/",
+                "start": 0,
+                "url": "https://t.co/F4IvPh5ylt"
+              }
+            ]
+          }
+        },
+        "id": "104303798",
+        "location": "New York City",
+        "name": "Zack Brenner",
+        "pinned_tweet_id": "1942590858114785624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826248149662339072/bAIrFfHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22422,
+          "following_count": 8989,
+          "like_count": 119743,
+          "listed_count": 296,
+          "media_count": 1246,
+          "tweet_count": 25329
+        },
+        "url": "https://t.co/F4IvPh5ylt",
+        "username": "zjbrenner",
+        "verified": true
+      }
+    ]
+  }
+}

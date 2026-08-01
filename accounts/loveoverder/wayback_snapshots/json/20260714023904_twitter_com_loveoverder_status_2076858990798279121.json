@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076760818159362048"
+      ],
+      "media_source_tweet_id": [
+        "2076760825243615441"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076858990798279121",
+    "created_at": "2026-07-14T02:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076858990798279121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "895374256929951745",
+          "start": 3,
+          "username": "1aurarose"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zPd4gpqqM3",
+          "end": 46,
+          "expanded_url": "https://x.com/1aurarose/status/2076760825243615441/photo/1",
+          "media_key": "3_2076760818159362048",
+          "start": 23,
+          "url": "https://t.co/zPd4gpqqM3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076858990798279121",
+    "lang": "nl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2400
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076760825243615441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1aurarose: haaland https://t.co/zPd4gpqqM3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2076760818159362048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIi9gHWoAAayvs.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076760818159362048"
+          ],
+          "media_source_tweet_id": [
+            "2076760825243615441"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076858990798279121",
+        "created_at": "2026-07-14T02:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076858990798279121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "895374256929951745",
+              "start": 3,
+              "username": "1aurarose"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPd4gpqqM3",
+              "end": 46,
+              "expanded_url": "https://x.com/1aurarose/status/2076760825243615441/photo/1",
+              "media_key": "3_2076760818159362048",
+              "start": 23,
+              "url": "https://t.co/zPd4gpqqM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076858990798279121",
+        "lang": "nl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2400
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076760825243615441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1aurarose: haaland https://t.co/zPd4gpqqM3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076760818159362048"
+          ]
+        },
+        "author_id": "895374256929951745",
+        "conversation_id": "2076760825243615441",
+        "created_at": "2026-07-13T20:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T21:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076760825243615441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPd4gpqqM3",
+              "end": 31,
+              "expanded_url": "https://x.com/1aurarose/status/2076760825243615441/photo/1",
+              "media_key": "3_2076760818159362048",
+              "start": 8,
+              "url": "https://t.co/zPd4gpqqM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076760825243615441",
+        "lang": "nl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 562,
+          "impression_count": 253403,
+          "like_count": 37326,
+          "quote_count": 20,
+          "reply_count": 28,
+          "retweet_count": 2396
+        },
+        "reply_settings": "everyone",
+        "text": "haaland https://t.co/zPd4gpqqM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 183,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 629
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-09T20:00:32.000Z",
+        "description": "amateur comedian",
+        "id": "895374256929951745",
+        "name": "laura 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "pinned_tweet_id": "2072346391196876909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062162272126988288/OPgQ177F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20431,
+          "following_count": 1167,
+          "like_count": 329284,
+          "listed_count": 71,
+          "media_count": 7917,
+          "tweet_count": 53740
+        },
+        "url": "",
+        "username": "1aurarose",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080455218496462848"
+      ],
+      "media_source_tweet_id": [
+        "2080455305343770674"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10043872889",
+          "name": "Hunter X Hunter"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1268927285739941888",
+          "name": "Hunter × Hunter"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1268927285739941888",
+          "name": "Hunter × Hunter"
+        }
+      }
+    ],
+    "conversation_id": "2080632398975508707",
+    "created_at": "2026-07-24T12:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080632398975508707"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 12,
+          "tag": "hxh"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1248607320990347265",
+          "start": 3,
+          "username": "AGZAMx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7fT5QFLh9i",
+          "end": 40,
+          "expanded_url": "https://x.com/AGZAMx/status/2080455305343770674/video/1",
+          "media_key": "13_2080455218496462848",
+          "start": 17,
+          "url": "https://t.co/7fT5QFLh9i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080632398975508707",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3409
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080455305343770674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AGZAMx: #hxh https://t.co/7fT5QFLh9i"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10333,
+        "height": 720,
+        "media_key": "13_2080455218496462848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080455218496462848/img/IqkaEUtZkVirfkvi.jpg",
+        "public_metrics": {
+          "view_count": 217323
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080455218496462848/vid/avc1/360x270/wKlq7xq-4mFPCWPa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080455218496462848/vid/avc1/480x360/L54OzajrO33Iw8cB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080455218496462848/vid/avc1/960x720/bdQ__MPR4P-osZuC.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080455218496462848/pl/pIOJKpcheHCMjnvU.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080455218496462848"
+          ]
+        },
+        "author_id": "1248607320990347265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043872889",
+              "name": "Hunter X Hunter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1268927285739941888",
+              "name": "Hunter × Hunter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1268927285739941888",
+              "name": "Hunter × Hunter"
+            }
+          }
+        ],
+        "conversation_id": "2080455305343770674",
+        "created_at": "2026-07-24T00:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080455305343770674"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "hxh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fT5QFLh9i",
+              "end": 28,
+              "expanded_url": "https://x.com/AGZAMx/status/2080455305343770674/video/1",
+              "media_key": "13_2080455218496462848",
+              "start": 5,
+              "url": "https://t.co/7fT5QFLh9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080455305343770674",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3314,
+          "impression_count": 535761,
+          "like_count": 26251,
+          "quote_count": 74,
+          "reply_count": 18,
+          "retweet_count": 3409
+        },
+        "reply_settings": "everyone",
+        "text": "#hxh https://t.co/7fT5QFLh9i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080455218496462848"
+          ],
+          "media_source_tweet_id": [
+            "2080455305343770674"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043872889",
+              "name": "Hunter X Hunter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1268927285739941888",
+              "name": "Hunter × Hunter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1268927285739941888",
+              "name": "Hunter × Hunter"
+            }
+          }
+        ],
+        "conversation_id": "2080632398975508707",
+        "created_at": "2026-07-24T12:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080632398975508707"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "hxh"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1248607320990347265",
+              "start": 3,
+              "username": "AGZAMx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fT5QFLh9i",
+              "end": 40,
+              "expanded_url": "https://x.com/AGZAMx/status/2080455305343770674/video/1",
+              "media_key": "13_2080455218496462848",
+              "start": 17,
+              "url": "https://t.co/7fT5QFLh9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080632398975508707",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3409
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080455305343770674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AGZAMx: #hxh https://t.co/7fT5QFLh9i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 241,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1177
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T13:43:09.000Z",
+        "description": "﴿قَالَ لَا تَخَافَا ۖ إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَىٰ﴾",
+        "id": "1248607320990347265",
+        "location": "In someone's heart 🧡.",
+        "name": "AGHILAS",
+        "pinned_tweet_id": "2020159316863365284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079986866212777984/xrPugNkF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18423,
+          "following_count": 273,
+          "like_count": 54924,
+          "listed_count": 2,
+          "media_count": 3092,
+          "tweet_count": 11300
+        },
+        "url": "",
+        "username": "AGZAMx",
+        "verified": false
+      }
+    ]
+  }
+}

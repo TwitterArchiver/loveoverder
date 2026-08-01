@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076848802045304979",
+    "created_at": "2026-07-14T01:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076848802045304979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Erling/status/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Erling/status/2076752932486156482",
+          "start": 10,
+          "url": "https://t.co/PztIFTeIpp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076848802045304979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076752932486156482",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這一身我羨慕了說是 https://t.co/PztIFTeIpp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1709,
+        "media_key": "3_2076752926253387776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIbyIeWEAA8AmO.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076848802045304979",
+        "created_at": "2026-07-14T01:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076848802045304979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Erling/status/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Erling/status/2076752932486156482",
+              "start": 10,
+              "url": "https://t.co/PztIFTeIpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076848802045304979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076752932486156482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這一身我羨慕了說是 https://t.co/PztIFTeIpp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076752926253387776"
+          ]
+        },
+        "author_id": "2157651508",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226228154195968",
+              "name": "Norway"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2059337548200087553",
+              "name": "World Cup 2026"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "827325580764815361",
+              "name": "Erling Haaland"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2076752932486156482",
+        "created_at": "2026-07-13T19:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076752932486156482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IwMhgv0CAb",
+              "end": 46,
+              "expanded_url": "https://x.com/Erling/status/2076752932486156482/photo/1",
+              "media_key": "3_2076752926253387776",
+              "start": 23,
+              "url": "https://t.co/IwMhgv0CAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076752932486156482",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8048,
+          "impression_count": 7140754,
+          "like_count": 436411,
+          "quote_count": 2199,
+          "reply_count": 5623,
+          "retweet_count": 23902
+        },
+        "reply_settings": "everyone",
+        "text": "It followed me home 🦝🤣 https://t.co/IwMhgv0CAb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 179,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-28T19:57:26.000Z",
+        "description": "Every morning you have two choices: Continue to sleep with your dreams or wake up and chase them 💪🏻 / @mancity 🇳🇴 @nff_landslag ⚽️ @nikefootball",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "mancity"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "nff_landslag"
+              },
+              {
+                "end": 144,
+                "start": 131,
+                "username": "nikefootball"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/erling.haaland",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/erling.haaland",
+                "start": 0,
+                "url": "https://t.co/BFZg0mEfkW"
+              }
+            ]
+          }
+        },
+        "id": "2157651508",
+        "name": "Erling Haaland",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074161543499960320/2BwDXDfO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13143116,
+          "following_count": 11,
+          "like_count": 261,
+          "listed_count": 2588,
+          "media_count": 772,
+          "tweet_count": 1022
+        },
+        "url": "https://t.co/BFZg0mEfkW",
+        "username": "Erling",
+        "verified": true
+      }
+    ]
+  }
+}

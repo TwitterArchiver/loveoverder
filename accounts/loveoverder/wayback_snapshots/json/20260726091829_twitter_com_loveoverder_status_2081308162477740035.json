@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2081233113615626240"
+      ],
+      "media_source_tweet_id": [
+        "2081233132141916442"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2081308162477740035",
+    "created_at": "2026-07-26T09:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T10:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081308162477740035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "412997648",
+          "start": 3,
+          "username": "hardestgifs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4vyiwEFNIu",
+          "end": 40,
+          "expanded_url": "https://x.com/hardestgifs/status/2081233132141916442/photo/1",
+          "media_key": "16_2081233113615626240",
+          "start": 17,
+          "url": "https://t.co/4vyiwEFNIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081308162477740035",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3527
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081233132141916442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hardestgifs: https://t.co/4vyiwEFNIu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "16_2081233113615626240",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOIGfW_W8AAa7KE.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOIGfW_W8AAa7KE.mp4"
+          }
+        ],
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2081233113615626240"
+          ]
+        },
+        "author_id": "412997648",
+        "conversation_id": "2081233132141916442",
+        "created_at": "2026-07-26T04:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081233132141916442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vyiwEFNIu",
+              "end": 23,
+              "expanded_url": "https://x.com/hardestgifs/status/2081233132141916442/photo/1",
+              "media_key": "16_2081233113615626240",
+              "start": 0,
+              "url": "https://t.co/4vyiwEFNIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081233132141916442",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2267,
+          "impression_count": 498399,
+          "like_count": 17583,
+          "quote_count": 246,
+          "reply_count": 58,
+          "retweet_count": 3527
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4vyiwEFNIu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2081233113615626240"
+          ],
+          "media_source_tweet_id": [
+            "2081233132141916442"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081308162477740035",
+        "created_at": "2026-07-26T09:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081308162477740035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "412997648",
+              "start": 3,
+              "username": "hardestgifs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vyiwEFNIu",
+              "end": 40,
+              "expanded_url": "https://x.com/hardestgifs/status/2081233132141916442/photo/1",
+              "media_key": "16_2081233113615626240",
+              "start": 17,
+              "url": "https://t.co/4vyiwEFNIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081308162477740035",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3527
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081233132141916442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hardestgifs: https://t.co/4vyiwEFNIu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 256,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1364
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-15T11:12:13.000Z",
+        "description": "just for fun",
+        "id": "412997648",
+        "location": "the world",
+        "name": "Hardest GIFs 🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640140330/breakdance_normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4195,
+          "following_count": 12,
+          "like_count": 642,
+          "listed_count": 12,
+          "media_count": 159,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "hardestgifs",
+        "verified": false
+      }
+    ]
+  }
+}

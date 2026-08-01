@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2076468173256396800"
+      ],
+      "media_source_tweet_id": [
+        "2076468193733046336"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076558242583638096",
+    "created_at": "2026-07-13T06:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076558242583638096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1991522065078456320",
+          "start": 3,
+          "username": "lqng289463"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fu9DMXRxQ1",
+          "end": 52,
+          "expanded_url": "https://x.com/lqng289463/status/2076468193733046336/video/1",
+          "media_key": "7_2076468173256396800",
+          "start": 29,
+          "url": "https://t.co/Fu9DMXRxQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076558242583638096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076468193733046336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lqng289463: 我妈执着于让小猫叫我姐姐 https://t.co/Fu9DMXRxQ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4733,
+        "height": 1280,
+        "media_key": "7_2076468173256396800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076468173256396800/pu/img/IQ-PV5dQBXpm34Bx.jpg",
+        "public_metrics": {
+          "view_count": 90
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076468173256396800/pu/vid/avc1/320x568/gcImSi9zqeOludTE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076468173256396800/pu/vid/avc1/480x852/GDGgV5aNpK4hXikz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076468173256396800/pu/vid/avc1/720x1280/i-8azz0KQbd7Y6KE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076468173256396800/pu/pl/4RrSpAnqcoMBWKaP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076468173256396800"
+          ],
+          "media_source_tweet_id": [
+            "2076468193733046336"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076558242583638096",
+        "created_at": "2026-07-13T06:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076558242583638096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1991522065078456320",
+              "start": 3,
+              "username": "lqng289463"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fu9DMXRxQ1",
+              "end": 52,
+              "expanded_url": "https://x.com/lqng289463/status/2076468193733046336/video/1",
+              "media_key": "7_2076468173256396800",
+              "start": 29,
+              "url": "https://t.co/Fu9DMXRxQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076558242583638096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076468193733046336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lqng289463: 我妈执着于让小猫叫我姐姐 https://t.co/Fu9DMXRxQ1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076468173256396800"
+          ]
+        },
+        "author_id": "1991522065078456320",
+        "conversation_id": "2076468193733046336",
+        "created_at": "2026-07-13T00:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076468193733046336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fu9DMXRxQ1",
+              "end": 36,
+              "expanded_url": "https://x.com/lqng289463/status/2076468193733046336/video/1",
+              "media_key": "7_2076468173256396800",
+              "start": 13,
+              "url": "https://t.co/Fu9DMXRxQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076468193733046336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈执着于让小猫叫我姐姐 https://t.co/Fu9DMXRxQ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 121,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T15:00:50.000Z",
+        "description": "祝愿你真快乐真心真意的",
+        "id": "1991522065078456320",
+        "name": "胡萝卜🌟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054747770297167872/zjc7J323_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2696,
+          "following_count": 133,
+          "like_count": 39501,
+          "listed_count": 8,
+          "media_count": 128,
+          "tweet_count": 1042
+        },
+        "url": "",
+        "username": "lqng289463",
+        "verified": false
+      }
+    ]
+  }
+}

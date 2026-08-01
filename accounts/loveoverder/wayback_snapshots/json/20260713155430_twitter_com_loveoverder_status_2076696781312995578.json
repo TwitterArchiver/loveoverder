@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076696781312995578",
+    "created_at": "2026-07-13T15:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076696781312995578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1589272961235619840",
+          "start": 3,
+          "username": "xtony1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076696781312995578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076682725302673674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xtony1314: 短期有死人，长期缺棺材，永远有人死。时间会证明棺模块。🤌🤌🤌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076696781312995578",
+        "created_at": "2026-07-13T15:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076696781312995578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589272961235619840",
+              "start": 3,
+              "username": "xtony1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076696781312995578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076682725302673674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xtony1314: 短期有死人，长期缺棺材，永远有人死。时间会证明棺模块。🤌🤌🤌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589272961235619840",
+        "conversation_id": "2076682725302673674",
+        "created_at": "2026-07-13T14:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076682725302673674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076682725302673674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10677,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "短期有死人，长期缺棺材，永远有人死。时间会证明棺模块。🤌🤌🤌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 153,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 546
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T15:06:27.000Z",
+        "description": "独立交易员 | 干学创始人 | 抽象艺术家\n历史成绩：实盘 5W➡️5000W ，2.5年1000倍收益率\n#Binance 币安交易，安全稳定，拥抱web3，就在币安：\nhttps://t.co/YaGEmixfJS",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 54,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/join?ref=RXZ4V…",
+                "end": 109,
+                "expanded_url": "http://binance.com/join?ref=RXZ4VBCK",
+                "start": 86,
+                "url": "https://t.co/YaGEmixfJS"
+              }
+            ]
+          }
+        },
+        "id": "1589272961235619840",
+        "location": "Telegram: @TonyTraderKing",
+        "name": "逍遥XTony",
+        "pinned_tweet_id": "2060200998715711709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055962742474092544/OGL1hvtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103687,
+          "following_count": 268,
+          "like_count": 229,
+          "listed_count": 1433,
+          "media_count": 669,
+          "tweet_count": 1994
+        },
+        "url": "",
+        "username": "xtony1314",
+        "verified": true
+      }
+    ]
+  }
+}

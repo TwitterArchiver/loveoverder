@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080416599316496384"
+      ],
+      "media_source_tweet_id": [
+        "2080416895828664645"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081738324730110308",
+    "created_at": "2026-07-27T13:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081738324730110308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1727787373046456320",
+          "start": 3,
+          "username": "hey_launer"
+        },
+        {
+          "end": 29,
+          "id": "1498754418",
+          "start": 16,
+          "username": "JoseValdezSV"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/42V4qlRVdz",
+          "end": 137,
+          "expanded_url": "https://x.com/hey_launer/status/2080416895828664645/photo/1",
+          "media_key": "3_2080416599316496384",
+          "start": 114,
+          "url": "https://t.co/42V4qlRVdz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081738324730110308",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 691
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080416895828664645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hey_launer: @JoseValdezSV La ONU, ONG, DDHH Y LA IZQUIERDA viendo como están viviendo en paz los salvadoreños https://t.co/42V4qlRVdz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2080416599316496384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8f3-MWAAA30YW.jpg",
+        "width": 1480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080416599316496384"
+          ]
+        },
+        "author_id": "1727787373046456320",
+        "conversation_id": "2080332731607654655",
+        "created_at": "2026-07-23T22:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T23:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080416895828664645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1498754418",
+              "start": 0,
+              "username": "JoseValdezSV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/42V4qlRVdz",
+              "end": 121,
+              "expanded_url": "https://x.com/hey_launer/status/2080416895828664645/photo/1",
+              "media_key": "3_2080416599316496384",
+              "start": 98,
+              "url": "https://t.co/42V4qlRVdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080416895828664645",
+        "in_reply_to_user_id": "1498754418",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 234771,
+          "like_count": 19681,
+          "quote_count": 8,
+          "reply_count": 34,
+          "retweet_count": 691
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080332731607654655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoseValdezSV La ONU, ONG, DDHH Y LA IZQUIERDA viendo como están viviendo en paz los salvadoreños https://t.co/42V4qlRVdz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080416599316496384"
+          ],
+          "media_source_tweet_id": [
+            "2080416895828664645"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081738324730110308",
+        "created_at": "2026-07-27T13:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081738324730110308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1727787373046456320",
+              "start": 3,
+              "username": "hey_launer"
+            },
+            {
+              "end": 29,
+              "id": "1498754418",
+              "start": 16,
+              "username": "JoseValdezSV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/42V4qlRVdz",
+              "end": 137,
+              "expanded_url": "https://x.com/hey_launer/status/2080416895828664645/photo/1",
+              "media_key": "3_2080416599316496384",
+              "start": 114,
+              "url": "https://t.co/42V4qlRVdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081738324730110308",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 691
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080416895828664645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hey_launer: @JoseValdezSV La ONU, ONG, DDHH Y LA IZQUIERDA viendo como están viviendo en paz los salvadoreños https://t.co/42V4qlRVdz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 268,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1538
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T20:33:32.000Z",
+        "description": "",
+        "id": "1727787373046456320",
+        "name": "Launer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819084422701879296/FJieH8Rb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 65,
+          "like_count": 813,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 552
+        },
+        "url": "",
+        "username": "hey_launer",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-10T16:59:07.000Z",
+        "description": "Futurism",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/JoseValdezSV",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/JoseValdezSV",
+                "start": 0,
+                "url": "https://t.co/RKHXFPxVQ7"
+              }
+            ]
+          }
+        },
+        "id": "1498754418",
+        "location": "El Salvador",
+        "name": "Jose Valdez 🇸🇻",
+        "pinned_tweet_id": "1111736628505128960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074948801534570496/oe8MVhcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120782,
+          "following_count": 4028,
+          "like_count": 28409,
+          "listed_count": 146,
+          "media_count": 13339,
+          "tweet_count": 65212
+        },
+        "url": "https://t.co/RKHXFPxVQ7",
+        "username": "JoseValdezSV",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067918284696236032"
+      ],
+      "media_source_tweet_id": [
+        "2067918365033922748"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080829860621271473",
+    "created_at": "2026-07-25T01:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T02:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080829860621271473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1965776821594497025",
+          "start": 3,
+          "username": "babykmj_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VsSbN1ljfU",
+          "end": 99,
+          "expanded_url": "https://x.com/247winty/status/2067918365033922748/video/1",
+          "media_key": "13_2067918284696236032",
+          "start": 76,
+          "url": "https://t.co/VsSbN1ljfU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080829860621271473",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 503
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080535592354345188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @babykmj_: i am physically mentally and emotionally weak for this woman  https://t.co/VsSbN1ljfU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2716,
+        "height": 3840,
+        "media_key": "13_2067918284696236032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067918284696236032/img/EiL1UXqSPBtwAecC.jpg",
+        "public_metrics": {
+          "view_count": 166608
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067918284696236032/vid/avc1/720x1280/NSswDHT34_RXZNNY.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067918284696236032/vid/avc1/320x568/WkGQt8jSYdkvgKYx.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067918284696236032/vid/avc1/1080x1920/dkUszBurnvraRaB9.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067918284696236032/vid/avc1/2160x3840/bYCRC6SUMbuzJQYf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067918284696236032/vid/avc1/480x852/lx0baNdQFpJZrchk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067918284696236032/pl/AAtBHc9F0628EIIz.m3u8"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067918284696236032"
+          ]
+        },
+        "author_id": "1670523174432419840",
+        "conversation_id": "2067918365033922748",
+        "created_at": "2026-06-19T10:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067918365033922748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2MaPhkqyZ9",
+              "end": 23,
+              "expanded_url": "https://x.com/247winty/status/2067918365033922748/video/1",
+              "media_key": "13_2067918284696236032",
+              "start": 0,
+              "url": "https://t.co/2MaPhkqyZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067918365033922748",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1158,
+          "impression_count": 333377,
+          "like_count": 5691,
+          "quote_count": 45,
+          "reply_count": 0,
+          "retweet_count": 882
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/2MaPhkqyZ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067918284696236032"
+          ],
+          "media_source_tweet_id": [
+            "2067918365033922748"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080829860621271473",
+        "created_at": "2026-07-25T01:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080829860621271473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965776821594497025",
+              "start": 3,
+              "username": "babykmj_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VsSbN1ljfU",
+              "end": 99,
+              "expanded_url": "https://x.com/247winty/status/2067918365033922748/video/1",
+              "media_key": "13_2067918284696236032",
+              "start": 76,
+              "url": "https://t.co/VsSbN1ljfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080829860621271473",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 503
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080535592354345188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @babykmj_: i am physically mentally and emotionally weak for this woman  https://t.co/VsSbN1ljfU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067918284696236032"
+          ],
+          "media_source_tweet_id": [
+            "2067918365033922748"
+          ]
+        },
+        "author_id": "1965776821594497025",
+        "conversation_id": "2080535592354345188",
+        "created_at": "2026-07-24T06:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080535592354345188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VsSbN1ljfU",
+              "end": 85,
+              "expanded_url": "https://x.com/247winty/status/2067918365033922748/video/1",
+              "media_key": "13_2067918284696236032",
+              "start": 62,
+              "url": "https://t.co/VsSbN1ljfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080535592354345188",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 691,
+          "impression_count": 40304,
+          "like_count": 4530,
+          "quote_count": 17,
+          "reply_count": 6,
+          "retweet_count": 503
+        },
+        "reply_settings": "following",
+        "text": "i am physically mentally and emotionally weak for this woman  https://t.co/VsSbN1ljfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 244,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1207
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T13:58:26.000Z",
+        "description": "like zip, i don’t care, i got #윈터 on my mind",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "윈터"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kmj.☆",
+                "end": 23,
+                "expanded_url": "http://kmj.xn--q3h",
+                "start": 0,
+                "url": "https://t.co/uU7QOBBdXx"
+              }
+            ]
+          }
+        },
+        "id": "1965776821594497025",
+        "location": "aespa ♡",
+        "name": "spidey ☻",
+        "pinned_tweet_id": "2066616039459242092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982779979147481088/K4pITl1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 416,
+          "like_count": 11619,
+          "listed_count": 1,
+          "media_count": 997,
+          "tweet_count": 3305
+        },
+        "url": "https://t.co/uU7QOBBdXx",
+        "username": "babykmj_",
+        "verified": false
+      }
+    ]
+  }
+}

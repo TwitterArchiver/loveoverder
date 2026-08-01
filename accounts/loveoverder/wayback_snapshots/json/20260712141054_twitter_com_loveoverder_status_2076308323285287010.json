@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076308323285287010",
+    "created_at": "2026-07-12T14:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076308323285287010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2035399031258800128",
+          "start": 3,
+          "username": "minochoww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076308323285287010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076190960464396772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minochoww: 人生最高の瞬間\n\n母親「鬱なら首吊れば？」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076308323285287010",
+        "created_at": "2026-07-12T14:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076308323285287010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2035399031258800128",
+              "start": 3,
+              "username": "minochoww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076308323285287010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076190960464396772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minochoww: 人生最高の瞬間\n\n母親「鬱なら首吊れば？」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035399031258800128",
+        "conversation_id": "2076190960464396772",
+        "created_at": "2026-07-12T06:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076190960464396772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076190960464396772",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 107065,
+          "like_count": 2246,
+          "quote_count": 19,
+          "reply_count": 12,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "人生最高の瞬間\n\n母親「鬱なら首吊れば？」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 61,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T16:52:23.000Z",
+        "description": "フォロバ100 面白かったらリポストしてくたわさい　\nTwitter初心者🔰　共同垢\n避難兼サブ垢→@myosde1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "myosde1"
+              }
+            ]
+          }
+        },
+        "id": "2035399031258800128",
+        "name": "あなう",
+        "pinned_tweet_id": "2075363319813493027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037941439611781120/p5vOPJff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 441,
+          "like_count": 6937,
+          "listed_count": 1,
+          "media_count": 323,
+          "tweet_count": 1379
+        },
+        "url": "",
+        "username": "minochoww",
+        "verified": false
+      }
+    ]
+  }
+}

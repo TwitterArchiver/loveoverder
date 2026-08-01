@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081973289195565056"
+      ],
+      "media_source_tweet_id": [
+        "2081973297114497457"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081997332003086666",
+    "created_at": "2026-07-28T06:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081997332003086666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wKSKQ9seIK",
+          "end": 81,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2081973297114497457/photo/1",
+          "media_key": "3_2081973289195565056",
+          "start": 58,
+          "url": "https://t.co/wKSKQ9seIK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081997332003086666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081973297114497457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 现在，由于日元贬值和电脑硬件涨价，\n御坂妹妹克隆体已经比配一台电脑便宜了： https://t.co/wKSKQ9seIK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1796,
+        "media_key": "3_2081973289195565056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSnrP5acAAaw1F.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081973289195565056"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2081973297114497457",
+        "created_at": "2026-07-28T05:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081973297114497457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKSKQ9seIK",
+              "end": 61,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2081973297114497457/photo/1",
+              "media_key": "3_2081973289195565056",
+              "start": 38,
+              "url": "https://t.co/wKSKQ9seIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081973297114497457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4411,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "现在，由于日元贬值和电脑硬件涨价，\n御坂妹妹克隆体已经比配一台电脑便宜了： https://t.co/wKSKQ9seIK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081973289195565056"
+          ],
+          "media_source_tweet_id": [
+            "2081973297114497457"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081997332003086666",
+        "created_at": "2026-07-28T06:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081997332003086666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKSKQ9seIK",
+              "end": 81,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2081973297114497457/photo/1",
+              "media_key": "3_2081973289195565056",
+              "start": 58,
+              "url": "https://t.co/wKSKQ9seIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081997332003086666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081973297114497457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 现在，由于日元贬值和电脑硬件涨价，\n御坂妹妹克隆体已经比配一台电脑便宜了： https://t.co/wKSKQ9seIK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 286,
+          "like_count": 790,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1650
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12255,
+          "following_count": 879,
+          "like_count": 31823,
+          "listed_count": 20,
+          "media_count": 2281,
+          "tweet_count": 11139
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

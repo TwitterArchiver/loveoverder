@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075830379274211329",
+        "3_2075830458647232512"
+      ],
+      "media_source_tweet_id": [
+        "2075830694966931622",
+        "2075830694966931622"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076308749669785658",
+    "created_at": "2026-07-12T14:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076308749669785658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4848269835",
+          "start": 3,
+          "username": "_FORAB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A4s0pUY1xW",
+          "end": 101,
+          "expanded_url": "https://x.com/_FORAB/status/2075830694966931622/photo/1",
+          "media_key": "3_2075830379274211329",
+          "start": 78,
+          "url": "https://t.co/A4s0pUY1xW"
+        },
+        {
+          "display_url": "pic.x.com/A4s0pUY1xW",
+          "end": 101,
+          "expanded_url": "https://x.com/_FORAB/status/2075830694966931622/photo/1",
+          "media_key": "3_2075830458647232512",
+          "start": 78,
+          "url": "https://t.co/A4s0pUY1xW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076308749669785658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075830694966931622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_FORAB: 当一家外卖软件，为了降本增效裁掉人工客服，接入了 AI 大模型来代替客服之后。\n\n从此网友们发现了新的使用方式，关键是还不限额度。 https://t.co/A4s0pUY1xW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1380,
+        "media_key": "3_2075830379274211329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7Uu1KakAE6ldx.jpg",
+        "width": 1082
+      },
+      {
+        "height": 1422,
+        "media_key": "3_2075830458647232512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7Uzc2awAAL981.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075830379274211329",
+            "3_2075830458647232512"
+          ],
+          "media_source_tweet_id": [
+            "2075830694966931622",
+            "2075830694966931622"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076308749669785658",
+        "created_at": "2026-07-12T14:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076308749669785658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4848269835",
+              "start": 3,
+              "username": "_FORAB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A4s0pUY1xW",
+              "end": 101,
+              "expanded_url": "https://x.com/_FORAB/status/2075830694966931622/photo/1",
+              "media_key": "3_2075830379274211329",
+              "start": 78,
+              "url": "https://t.co/A4s0pUY1xW"
+            },
+            {
+              "display_url": "pic.x.com/A4s0pUY1xW",
+              "end": 101,
+              "expanded_url": "https://x.com/_FORAB/status/2075830694966931622/photo/1",
+              "media_key": "3_2075830458647232512",
+              "start": 78,
+              "url": "https://t.co/A4s0pUY1xW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076308749669785658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075830694966931622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_FORAB: 当一家外卖软件，为了降本增效裁掉人工客服，接入了 AI 大模型来代替客服之后。\n\n从此网友们发现了新的使用方式，关键是还不限额度。 https://t.co/A4s0pUY1xW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075830379274211329",
+            "3_2075830458647232512"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2075830694966931622",
+        "created_at": "2026-07-11T06:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075830694966931622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A4s0pUY1xW",
+              "end": 89,
+              "expanded_url": "https://x.com/_FORAB/status/2075830694966931622/photo/1",
+              "media_key": "3_2075830379274211329",
+              "start": 66,
+              "url": "https://t.co/A4s0pUY1xW"
+            },
+            {
+              "display_url": "pic.x.com/A4s0pUY1xW",
+              "end": 89,
+              "expanded_url": "https://x.com/_FORAB/status/2075830694966931622/photo/1",
+              "media_key": "3_2075830458647232512",
+              "start": 66,
+              "url": "https://t.co/A4s0pUY1xW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075830694966931622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 335,
+          "impression_count": 627853,
+          "like_count": 1426,
+          "quote_count": 32,
+          "reply_count": 512,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "当一家外卖软件，为了降本增效裁掉人工客服，接入了 AI 大模型来代替客服之后。\n\n从此网友们发现了新的使用方式，关键是还不限额度。 https://t.co/A4s0pUY1xW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 61,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131912,
+          "following_count": 634,
+          "like_count": 10383,
+          "listed_count": 2051,
+          "media_count": 4002,
+          "tweet_count": 15461
+        },
+        "url": "",
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

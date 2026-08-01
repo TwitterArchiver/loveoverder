@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2079755258415419830",
+    "created_at": "2026-07-22T02:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T03:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079755258415419830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1739391734491086848",
+          "start": 3,
+          "username": "IXXA00"
+        },
+        {
+          "end": 20,
+          "id": "307353701",
+          "start": 12,
+          "username": "askaiwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079755258415419830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079278915370221707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IXXA00: @askaiwy 潜伏二十年\n乡音在口不能言\n泪比味增咸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2079755258415419830",
+        "created_at": "2026-07-22T02:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079755258415419830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1739391734491086848",
+              "start": 3,
+              "username": "IXXA00"
+            },
+            {
+              "end": 20,
+              "id": "307353701",
+              "start": 12,
+              "username": "askaiwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079755258415419830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079278915370221707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IXXA00: @askaiwy 潜伏二十年\n乡音在口不能言\n泪比味增咸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2079127642419445798",
+        "created_at": "2026-07-20T18:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079278915370221707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "307353701",
+              "start": 0,
+              "username": "askaiwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079278915370221707",
+        "in_reply_to_user_id": "307353701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 73292,
+          "like_count": 1595,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079127642419445798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@askaiwy 潜伏二十年\n乡音在口不能言\n泪比味增咸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 219,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1010
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2048304380571746345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7527,
+          "following_count": 4540,
+          "like_count": 43458,
+          "listed_count": 18,
+          "media_count": 3181,
+          "tweet_count": 42920
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-29T13:51:12.000Z",
+        "description": "瓜田里上蹿下跳东奔西走的猹；牙尖嘴利古灵精怪的前白大褂 ；原教旨中医；🦋同号预防万一 @amamirkd小号专门抽空写中医药知识科普",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "amamirkd"
+              }
+            ]
+          }
+        },
+        "id": "307353701",
+        "location": "日本 神奈川",
+        "name": "飛鳥",
+        "pinned_tweet_id": "1788840262141374875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757782766920568832/Bs8jvrDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31124,
+          "following_count": 271,
+          "like_count": 97885,
+          "listed_count": 97,
+          "media_count": 8568,
+          "tweet_count": 24966
+        },
+        "url": "",
+        "username": "askaiwy",
+        "verified": true
+      }
+    ]
+  }
+}

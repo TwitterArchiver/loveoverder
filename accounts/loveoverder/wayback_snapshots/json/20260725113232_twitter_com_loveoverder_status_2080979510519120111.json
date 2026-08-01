@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080979510519120111",
+    "created_at": "2026-07-25T11:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080979510519120111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2068238959181004800",
+          "start": 3,
+          "username": "Johnyayazfgb"
+        },
+        {
+          "end": 30,
+          "id": "2039593513940074496",
+          "start": 18,
+          "username": "fen_bu47554"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080979510519120111",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080939808487063817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Johnyayazfgb: @fen_bu47554 给豆包整出幸福者退让了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080979510519120111",
+        "created_at": "2026-07-25T11:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080979510519120111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2068238959181004800",
+              "start": 3,
+              "username": "Johnyayazfgb"
+            },
+            {
+              "end": 30,
+              "id": "2039593513940074496",
+              "start": 18,
+              "username": "fen_bu47554"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080979510519120111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080939808487063817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Johnyayazfgb: @fen_bu47554 给豆包整出幸福者退让了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068238959181004800",
+        "conversation_id": "2080560731574227027",
+        "created_at": "2026-07-25T08:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080939808487063817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039593513940074496",
+              "start": 0,
+              "username": "fen_bu47554"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080939808487063817",
+        "in_reply_to_user_id": "2039593513940074496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9279,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080560731574227027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fen_bu47554 给豆包整出幸福者退让了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 255,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1344
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T07:46:58.000Z",
+        "description": "",
+        "id": "2068238959181004800",
+        "name": "John yaya",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "Johnyayazfgb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T06:39:42.000Z",
+        "description": "喜欢啥发啥",
+        "id": "2039593513940074496",
+        "location": "首尔",
+        "name": "不分开",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080935252944646144/B_APk8i6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 20,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "fen_bu47554",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068563952192401408"
+      ],
+      "media_source_tweet_id": [
+        "2076622674982559867"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076833204229796206",
+    "created_at": "2026-07-14T00:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076833204229796206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1195690400280760321",
+          "start": 3,
+          "username": "tannokasa3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BUnwxgFXWc",
+          "end": 52,
+          "expanded_url": "https://x.com/tannokasa3/status/2076622674982559867/video/1",
+          "media_key": "13_2068563952192401408",
+          "start": 29,
+          "url": "https://t.co/BUnwxgFXWc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076833204229796206",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076622674982559867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tannokasa3: みんな歳を取りましたね😇 https://t.co/BUnwxgFXWc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58816,
+        "height": 960,
+        "media_key": "13_2068563952192401408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068563952192401408/img/uWgjugwoLpJ9dJjy.jpg",
+        "public_metrics": {
+          "view_count": 555802
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068563952192401408/vid/avc1/320x426/l4oX7xcWyxtDqc_W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068563952192401408/vid/avc1/480x640/YFwQ7gPdMDHasJ23.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068563952192401408/vid/avc1/720x960/h9gsy5_LfESccWqR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068563952192401408/pl/4zzeu3BSV-p1UCoL.m3u8?v=6e1"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068563952192401408"
+          ],
+          "media_source_tweet_id": [
+            "2076622674982559867"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076833204229796206",
+        "created_at": "2026-07-14T00:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076833204229796206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1195690400280760321",
+              "start": 3,
+              "username": "tannokasa3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BUnwxgFXWc",
+              "end": 52,
+              "expanded_url": "https://x.com/tannokasa3/status/2076622674982559867/video/1",
+              "media_key": "13_2068563952192401408",
+              "start": 29,
+              "url": "https://t.co/BUnwxgFXWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076833204229796206",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076622674982559867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tannokasa3: みんな歳を取りましたね😇 https://t.co/BUnwxgFXWc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068563952192401408"
+          ]
+        },
+        "author_id": "1195690400280760321",
+        "conversation_id": "2076622674982559867",
+        "created_at": "2026-07-13T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076622674982559867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BUnwxgFXWc",
+              "end": 36,
+              "expanded_url": "https://x.com/tannokasa3/status/2076622674982559867/video/1",
+              "media_key": "13_2068563952192401408",
+              "start": 13,
+              "url": "https://t.co/BUnwxgFXWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076622674982559867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1039,
+          "impression_count": 948224,
+          "like_count": 2915,
+          "quote_count": 42,
+          "reply_count": 65,
+          "retweet_count": 205
+        },
+        "reply_settings": "everyone",
+        "text": "みんな歳を取りましたね😇 https://t.co/BUnwxgFXWc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 174,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-16T13:09:51.000Z",
+        "description": "主に面白い物、珍しい物の動画を紹介しています✨\n 釣りとお酒が趣味の普通の会社員です🎣\n 🌈他のアカウントでも色々と紹介しています🌈\n @tannokasa4 ➡面白動画\n @tannokasa5 ➡日常ポスト\n @tannokasa6 ➡動物面白動画\n @tannokasa9 ➡動物癒し動画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "tannokasa4"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "tannokasa5"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "tannokasa6"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "tannokasa9"
+              }
+            ]
+          }
+        },
+        "id": "1195690400280760321",
+        "name": "ヒロクライム🤣🤣🤣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625738120179363840/kApRMtRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75701,
+          "following_count": 30567,
+          "like_count": 177827,
+          "listed_count": 253,
+          "media_count": 27734,
+          "tweet_count": 138173
+        },
+        "url": "",
+        "username": "tannokasa3",
+        "verified": true
+      }
+    ]
+  }
+}

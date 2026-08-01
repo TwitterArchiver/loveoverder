@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082024048020570112"
+      ],
+      "media_source_tweet_id": [
+        "2082024057424245029"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082269913788649493",
+    "created_at": "2026-07-29T01:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082269913788649493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1885301875068829696",
+          "start": 3,
+          "username": "carl88187210579"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ncQWDlAi6E",
+          "end": 64,
+          "expanded_url": "https://x.com/carl88187210579/status/2082024057424245029/photo/1",
+          "media_key": "3_2082024048020570112",
+          "start": 41,
+          "url": "https://t.co/ncQWDlAi6E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082269913788649493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082024057424245029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carl88187210579: 周杰伦为什么年纪越大写的东西越幼稚🤔？ https://t.co/ncQWDlAi6E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 999,
+        "media_key": "3_2082024048020570112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTV1zQWQAAMKXa.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082024048020570112"
+          ]
+        },
+        "author_id": "1885301875068829696",
+        "conversation_id": "2082024057424245029",
+        "created_at": "2026-07-28T08:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082024057424245029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncQWDlAi6E",
+              "end": 43,
+              "expanded_url": "https://x.com/carl88187210579/status/2082024057424245029/photo/1",
+              "media_key": "3_2082024048020570112",
+              "start": 20,
+              "url": "https://t.co/ncQWDlAi6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082024057424245029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 61059,
+          "like_count": 740,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "周杰伦为什么年纪越大写的东西越幼稚🤔？ https://t.co/ncQWDlAi6E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082024048020570112"
+          ],
+          "media_source_tweet_id": [
+            "2082024057424245029"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082269913788649493",
+        "created_at": "2026-07-29T01:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082269913788649493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1885301875068829696",
+              "start": 3,
+              "username": "carl88187210579"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncQWDlAi6E",
+              "end": 64,
+              "expanded_url": "https://x.com/carl88187210579/status/2082024057424245029/photo/1",
+              "media_key": "3_2082024048020570112",
+              "start": 41,
+              "url": "https://t.co/ncQWDlAi6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082269913788649493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082024057424245029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @carl88187210579: 周杰伦为什么年纪越大写的东西越幼稚🤔？ https://t.co/ncQWDlAi6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 301,
+          "like_count": 856,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1759
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T12:19:37.000Z",
+        "description": "BTC | Altcoins Market Insights • Narratives • Opportunities DYOR\n\n告别杠杆博弈，坚定现货囤币路线\n\n6万+区间持续定投，稳步冲0.5枚BTC",
+        "id": "1885301875068829696",
+        "location": "Nigeria",
+        "name": "卡尔",
+        "pinned_tweet_id": "2069011334776197570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911428702367301632/A_iyLl-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5977,
+          "following_count": 4430,
+          "like_count": 9043,
+          "listed_count": 19,
+          "media_count": 1257,
+          "tweet_count": 27486
+        },
+        "url": "",
+        "username": "carl88187210579",
+        "verified": true
+      }
+    ]
+  }
+}

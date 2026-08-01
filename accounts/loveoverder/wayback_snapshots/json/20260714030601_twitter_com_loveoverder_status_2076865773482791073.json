@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076790549055766528"
+      ],
+      "media_source_tweet_id": [
+        "2076790557389869313"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076865773482791073",
+    "created_at": "2026-07-14T03:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076865773482791073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987196010616279040",
+          "start": 3,
+          "username": "Ni7NiA7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3KD2ngDi1c",
+          "end": 36,
+          "expanded_url": "https://x.com/Ni7NiA7/status/2076790557389869313/photo/1",
+          "media_key": "3_2076790549055766528",
+          "start": 13,
+          "url": "https://t.co/3KD2ngDi1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076865773482791073",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 489
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076790557389869313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ni7NiA7: https://t.co/3KD2ngDi1c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1442,
+        "media_key": "3_2076790549055766528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNI-AEVbgAAi2w7.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076790549055766528"
+          ],
+          "media_source_tweet_id": [
+            "2076790557389869313"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076865773482791073",
+        "created_at": "2026-07-14T03:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076865773482791073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987196010616279040",
+              "start": 3,
+              "username": "Ni7NiA7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KD2ngDi1c",
+              "end": 36,
+              "expanded_url": "https://x.com/Ni7NiA7/status/2076790557389869313/photo/1",
+              "media_key": "3_2076790549055766528",
+              "start": 13,
+              "url": "https://t.co/3KD2ngDi1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076865773482791073",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 489
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076790557389869313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ni7NiA7: https://t.co/3KD2ngDi1c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076790549055766528"
+          ]
+        },
+        "author_id": "1987196010616279040",
+        "conversation_id": "2076790557389869313",
+        "created_at": "2026-07-13T22:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T23:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076790557389869313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KD2ngDi1c",
+              "end": 23,
+              "expanded_url": "https://x.com/Ni7NiA7/status/2076790557389869313/photo/1",
+              "media_key": "3_2076790549055766528",
+              "start": 0,
+              "url": "https://t.co/3KD2ngDi1c"
+            },
+            {
+              "display_url": "x.com/erling/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/erling/status/2076752932486156482",
+              "start": 24,
+              "url": "https://t.co/bp3b2iDBlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076790557389869313",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 52048,
+          "like_count": 6260,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 489
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076752932486156482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/3KD2ngDi1c https://t.co/bp3b2iDBlr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 185,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 649
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T16:31:13.000Z",
+        "description": "-今から推(押)せば古参になれる-(Image : All rights reserved) skeb:https://t.co/AMRDT3XJaA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Ni7NiA7",
+                "end": 75,
+                "expanded_url": "https://skeb.jp/@Ni7NiA7",
+                "start": 52,
+                "url": "https://t.co/AMRDT3XJaA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@ni7nia7?_r=1&…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@ni7nia7?_r=1&_t=ZS-96AGd0PegM8",
+                "start": 0,
+                "url": "https://t.co/y34w2PRWQD"
+              }
+            ]
+          }
+        },
+        "id": "1987196010616279040",
+        "location": "無断転載 使用 模写 模倣 トレス AI 禁止",
+        "name": "Ni7@Skeb◎",
+        "pinned_tweet_id": "2046168837289312594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012636772094644225/DlcicNMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6315,
+          "following_count": 6,
+          "like_count": 2237,
+          "listed_count": 17,
+          "media_count": 402,
+          "tweet_count": 966
+        },
+        "url": "https://t.co/y34w2PRWQD",
+        "username": "Ni7NiA7",
+        "verified": true
+      }
+    ]
+  }
+}

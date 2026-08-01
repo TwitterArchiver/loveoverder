@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074418301573201920"
+      ],
+      "media_source_tweet_id": [
+        "2074418382229610537"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076873852014236093",
+    "created_at": "2026-07-14T03:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076873852014236093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "976300108643033088",
+          "start": 3,
+          "username": "termenzo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rQ8F7q5Hsu",
+          "end": 115,
+          "expanded_url": "https://x.com/hemenkudururum/status/2074418382229610537/video/1",
+          "media_key": "13_2074418301573201920",
+          "start": 92,
+          "url": "https://t.co/rQ8F7q5Hsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076873852014236093",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2958
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076807932767850511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @termenzo: Cuando entras a un kiosco y queres probar el delay de la cámara de seguridad  https://t.co/rQ8F7q5Hsu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33899,
+        "height": 610,
+        "media_key": "13_2074418301573201920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074418301573201920/img/7aBfdFBq-_ebTLv3.jpg",
+        "public_metrics": {
+          "view_count": 501596
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074418301573201920/vid/avc1/376x270/ZarA2Y13LwmHccZy.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074418301573201920/vid/avc1/502x360/ojAxa0xfHn3O3FEY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074418301573201920/vid/avc1/852x610/vNJIozY4dDS98ihR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074418301573201920/pl/zEPWA1M1QWOyThcK.m3u8?v=cfc"
+          }
+        ],
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074418301573201920"
+          ],
+          "media_source_tweet_id": [
+            "2074418382229610537"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076873852014236093",
+        "created_at": "2026-07-14T03:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076873852014236093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "976300108643033088",
+              "start": 3,
+              "username": "termenzo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQ8F7q5Hsu",
+              "end": 115,
+              "expanded_url": "https://x.com/hemenkudururum/status/2074418382229610537/video/1",
+              "media_key": "13_2074418301573201920",
+              "start": 92,
+              "url": "https://t.co/rQ8F7q5Hsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076873852014236093",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2958
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076807932767850511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @termenzo: Cuando entras a un kiosco y queres probar el delay de la cámara de seguridad  https://t.co/rQ8F7q5Hsu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074418301573201920"
+          ],
+          "media_source_tweet_id": [
+            "2074418382229610537"
+          ]
+        },
+        "author_id": "976300108643033088",
+        "conversation_id": "2076807932767850511",
+        "created_at": "2026-07-13T23:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076807932767850511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQ8F7q5Hsu",
+              "end": 101,
+              "expanded_url": "https://x.com/hemenkudururum/status/2074418382229610537/video/1",
+              "media_key": "13_2074418301573201920",
+              "start": 78,
+              "url": "https://t.co/rQ8F7q5Hsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076807932767850511",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1595,
+          "impression_count": 327538,
+          "like_count": 38670,
+          "quote_count": 39,
+          "reply_count": 48,
+          "retweet_count": 2958
+        },
+        "reply_settings": "everyone",
+        "text": "Cuando entras a un kiosco y queres probar el delay de la cámara de seguridad  https://t.co/rQ8F7q5Hsu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 187,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 674
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-21T03:30:59.000Z",
+        "description": "Hincha de River Plate. Sponsored by @rainbetcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "rainbetcom"
+              }
+            ]
+          }
+        },
+        "id": "976300108643033088",
+        "name": "termenzo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018821510064975872/HPnV7qQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76084,
+          "following_count": 911,
+          "like_count": 80688,
+          "listed_count": 105,
+          "media_count": 10097,
+          "tweet_count": 39084
+        },
+        "url": "",
+        "username": "termenzo",
+        "verified": true
+      }
+    ]
+  }
+}

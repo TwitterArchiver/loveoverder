@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076295705073955248",
+    "created_at": "2026-07-12T13:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076295705073955248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DreamStars53/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/DreamStars53/status/2076225676332372208",
+          "start": 6,
+          "url": "https://t.co/gq6Px10R8d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076295705073955248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076225676332372208",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈 https://t.co/gq6Px10R8d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076295705073955248",
+        "created_at": "2026-07-12T13:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076295705073955248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DreamStars53/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/DreamStars53/status/2076225676332372208",
+              "start": 6,
+              "url": "https://t.co/gq6Px10R8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076295705073955248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076225676332372208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈 https://t.co/gq6Px10R8d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352201285752115201",
+        "conversation_id": "2076168813083857386",
+        "created_at": "2026-07-12T08:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076225676332372208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1611010295257862146",
+              "start": 0,
+              "username": "RainyTail320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076225676332372208",
+        "in_reply_to_user_id": "1611010295257862146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 33534,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076168813083857386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainyTail320 老大，我看不像是情趣，这是纯电啊😦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 53,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 152
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T10:28:34.000Z",
+        "description": "远方的你，我亲爱的陌生人，我们能否重逢？",
+        "id": "1352201285752115201",
+        "location": "在你心里么么哒😘",
+        "name": "梦幻星辰",
+        "pinned_tweet_id": "1696525473692709300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996957506216644608/-QQGYwA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 2810,
+          "like_count": 48689,
+          "listed_count": 6,
+          "media_count": 6,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "DreamStars53",
+        "verified": false
+      }
+    ]
+  }
+}

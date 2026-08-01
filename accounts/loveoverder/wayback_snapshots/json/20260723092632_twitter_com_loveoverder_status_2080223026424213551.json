@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079875789450080256"
+      ],
+      "media_source_tweet_id": [
+        "2079875808458609107"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080223026424213551",
+    "created_at": "2026-07-23T09:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080223026424213551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1603970359912325121",
+          "start": 3,
+          "username": "zoroyeski"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iW2vWOAfRg",
+          "end": 43,
+          "expanded_url": "https://x.com/zoroyeski/status/2079875808458609107/video/1",
+          "media_key": "13_2079875789450080256",
+          "start": 20,
+          "url": "https://t.co/iW2vWOAfRg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080223026424213551",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1091
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079875808458609107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zoroyeski: ヤニネコ https://t.co/iW2vWOAfRg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12807,
+        "height": 576,
+        "media_key": "13_2079875789450080256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079875789450080256/img/3X6Z_LkJJQDFlCrv.jpg",
+        "public_metrics": {
+          "view_count": 297633
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079875789450080256/vid/avc1/480x270/Iq3E94N8TzYrwBiG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079875789450080256/vid/avc1/640x360/VHkK9K3U3q442-td.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079875789450080256/vid/avc1/1024x576/csEi_u-5D2IkDh2I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079875789450080256/pl/Gfha1tC2vfPUbJFM.m3u8"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079875789450080256"
+          ]
+        },
+        "author_id": "1603970359912325121",
+        "conversation_id": "2079875808458609107",
+        "created_at": "2026-07-22T10:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079875808458609107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iW2vWOAfRg",
+              "end": 28,
+              "expanded_url": "https://x.com/zoroyeski/status/2079875808458609107/video/1",
+              "media_key": "13_2079875789450080256",
+              "start": 5,
+              "url": "https://t.co/iW2vWOAfRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079875808458609107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1814,
+          "impression_count": 617773,
+          "like_count": 8372,
+          "quote_count": 27,
+          "reply_count": 12,
+          "retweet_count": 1091
+        },
+        "reply_settings": "everyone",
+        "text": "ヤニネコ https://t.co/iW2vWOAfRg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079875789450080256"
+          ],
+          "media_source_tweet_id": [
+            "2079875808458609107"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080223026424213551",
+        "created_at": "2026-07-23T09:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080223026424213551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1603970359912325121",
+              "start": 3,
+              "username": "zoroyeski"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iW2vWOAfRg",
+              "end": 43,
+              "expanded_url": "https://x.com/zoroyeski/status/2079875808458609107/video/1",
+              "media_key": "13_2079875789450080256",
+              "start": 20,
+              "url": "https://t.co/iW2vWOAfRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080223026424213551",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1091
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079875808458609107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zoroyeski: ヤニネコ https://t.co/iW2vWOAfRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 228,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1099
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T04:28:41.000Z",
+        "description": "ゲームとか編集よくしてます。上野によくいるから上野です。anime-loving American",
+        "id": "1603970359912325121",
+        "location": "日本 東京",
+        "name": "上野",
+        "pinned_tweet_id": "2035350393685963016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724058909399236608/BqG2hkug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12631,
+          "following_count": 31,
+          "like_count": 75,
+          "listed_count": 33,
+          "media_count": 73,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "zoroyeski",
+        "verified": false
+      }
+    ]
+  }
+}

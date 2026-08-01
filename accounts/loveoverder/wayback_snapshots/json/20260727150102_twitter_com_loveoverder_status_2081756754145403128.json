@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081756754145403128",
+    "created_at": "2026-07-27T15:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081756754145403128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1729156148341907456",
+          "start": 3,
+          "username": "dollistaresatu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081756754145403128",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3059
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081465986642034760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dollistaresatu: 고양이한테 갑자기 말걸면\n웅?\n이라 대답할때가 있는데\n너무너무 사랑스러움"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081756754145403128",
+        "created_at": "2026-07-27T15:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081756754145403128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1729156148341907456",
+              "start": 3,
+              "username": "dollistaresatu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081756754145403128",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3059
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081465986642034760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dollistaresatu: 고양이한테 갑자기 말걸면\n웅?\n이라 대답할때가 있는데\n너무너무 사랑스러움"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729156148341907456",
+        "conversation_id": "2081465986642034760",
+        "created_at": "2026-07-26T19:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T20:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081465986642034760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081465986642034760",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 277,
+          "impression_count": 221831,
+          "like_count": 8891,
+          "quote_count": 241,
+          "reply_count": 1,
+          "retweet_count": 3062
+        },
+        "reply_settings": "everyone",
+        "text": "고양이한테 갑자기 말걸면\n웅?\n이라 대답할때가 있는데\n너무너무 사랑스러움"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 277,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1571
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T15:12:23.000Z",
+        "description": "없어🪼(이건 해파리야).",
+        "id": "1729156148341907456",
+        "location": "100rt 넘으면 뮤트해요",
+        "name": "돌리스타",
+        "pinned_tweet_id": "2075066572067283363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978477188803620864/fh302RAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 246,
+          "like_count": 39577,
+          "listed_count": 6,
+          "media_count": 2732,
+          "tweet_count": 39795
+        },
+        "url": "",
+        "username": "dollistaresatu",
+        "verified": false
+      }
+    ]
+  }
+}

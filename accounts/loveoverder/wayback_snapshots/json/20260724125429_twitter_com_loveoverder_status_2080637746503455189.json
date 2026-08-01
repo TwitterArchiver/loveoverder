@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2080637722004512768"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080303483199345051",
+    "created_at": "2026-07-24T12:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080637746503455189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2052771960225243136",
+          "start": 0,
+          "username": "pillsandblood"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T83c14pDuC",
+          "end": 41,
+          "expanded_url": "https://x.com/loveoverder/status/2080637746503455189/video/1",
+          "media_key": "7_2080637722004512768",
+          "start": 18,
+          "url": "https://t.co/T83c14pDuC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080637746503455189",
+    "in_reply_to_user_id": "2052771960225243136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080303483199345051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pillsandblood 耍起 https://t.co/T83c14pDuC"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2080303483199345051].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2080303483199345051",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2080303483199345051"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37523,
+        "height": 848,
+        "media_key": "7_2080637722004512768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2080637722004512768/pu/img/-DYiX427zhSDwAI7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080637722004512768/pu/vid/avc1/320x564/2V44OSb8b42uW13f.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080637722004512768/pu/vid/avc1/480x848/nI7FneXSHFgrfLnN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2080637722004512768/pu/pl/pVU38x2GuKMg-mRn.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2080637722004512768"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080303483199345051",
+        "created_at": "2026-07-24T12:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080637746503455189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2052771960225243136",
+              "start": 0,
+              "username": "pillsandblood"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T83c14pDuC",
+              "end": 41,
+              "expanded_url": "https://x.com/loveoverder/status/2080637746503455189/video/1",
+              "media_key": "7_2080637722004512768",
+              "start": 18,
+              "url": "https://t.co/T83c14pDuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080637746503455189",
+        "in_reply_to_user_id": "2052771960225243136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080303483199345051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pillsandblood 耍起 https://t.co/T83c14pDuC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 242,
+          "like_count": 571,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1185
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T15:28:41.000Z",
+        "description": "",
+        "id": "2052771960225243136",
+        "name": "Lizard King",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052772785924325377/dHgDDj-E_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 127,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "pillsandblood",
+        "verified": false
+      }
+    ]
+  }
+}

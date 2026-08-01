@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079871835089629184"
+      ],
+      "media_source_tweet_id": [
+        "2079871900595937781"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080633340965818797",
+    "created_at": "2026-07-24T12:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080633340965818797"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "胡锦涛"
+        },
+        {
+          "end": 53,
+          "start": 48,
+          "tag": "拉萨之虎"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "涛哥"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065780013841170432",
+          "start": 3,
+          "username": "DavidLeeut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lnlGFYfuXd",
+          "end": 81,
+          "expanded_url": "https://x.com/DavidLeeut/status/2079871900595937781/video/1",
+          "media_key": "13_2079871835089629184",
+          "start": 58,
+          "url": "https://t.co/lnlGFYfuXd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080633340965818797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 462
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079871900595937781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DavidLeeut: 胡锦涛拉萨之虎的由来。\n迅速果断的镇压吧，锦涛同志！\n#胡锦涛 #拉萨之虎 #涛哥 https://t.co/lnlGFYfuXd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 109157,
+        "height": 720,
+        "media_key": "13_2079871835089629184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079871835089629184/img/6YKrgthWvdU0Z47T.jpg",
+        "public_metrics": {
+          "view_count": 953860
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079871835089629184/vid/avc1/360x270/EYnOyrnRa2T_2xFW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079871835089629184/vid/avc1/480x360/MoYqXtgpIhcVDW7C.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079871835089629184/vid/avc1/960x720/FsKuq6FcmdHjNwxu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079871835089629184/pl/OA3mtXDte3Rjlcgo.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079871835089629184"
+          ]
+        },
+        "author_id": "2065780013841170432",
+        "conversation_id": "2079871900595937781",
+        "created_at": "2026-07-22T10:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079871900595937781"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "胡锦涛"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "拉萨之虎"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "涛哥"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lnlGFYfuXd",
+              "end": 65,
+              "expanded_url": "https://x.com/DavidLeeut/status/2079871900595937781/video/1",
+              "media_key": "13_2079871835089629184",
+              "start": 42,
+              "url": "https://t.co/lnlGFYfuXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079871900595937781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3652,
+          "impression_count": 1432505,
+          "like_count": 9653,
+          "quote_count": 24,
+          "reply_count": 808,
+          "retweet_count": 462
+        },
+        "reply_settings": "everyone",
+        "text": "胡锦涛拉萨之虎的由来。\n迅速果断的镇压吧，锦涛同志！\n#胡锦涛 #拉萨之虎 #涛哥 https://t.co/lnlGFYfuXd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079871835089629184"
+          ],
+          "media_source_tweet_id": [
+            "2079871900595937781"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080633340965818797",
+        "created_at": "2026-07-24T12:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080633340965818797"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "胡锦涛"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "拉萨之虎"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "涛哥"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065780013841170432",
+              "start": 3,
+              "username": "DavidLeeut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lnlGFYfuXd",
+              "end": 81,
+              "expanded_url": "https://x.com/DavidLeeut/status/2079871900595937781/video/1",
+              "media_key": "13_2079871835089629184",
+              "start": 58,
+              "url": "https://t.co/lnlGFYfuXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080633340965818797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 462
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079871900595937781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DavidLeeut: 胡锦涛拉萨之虎的由来。\n迅速果断的镇压吧，锦涛同志！\n#胡锦涛 #拉萨之虎 #涛哥 https://t.co/lnlGFYfuXd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 241,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1182
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T12:55:45.000Z",
+        "description": "“让世界好一点，让氛围轻松一些，让干旱许久的土地下场热烈的雨。”\n建制改革—左翼自由二象性，温和派，杂圈享受者，厌恶支黑粉蛆与其他极端思想，尊重每个人，也请尊重自己，明天会更好\n小号: @purplerates114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 93,
+                "username": "purplerates114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.un.org/zh/?utm_source…",
+                "end": 23,
+                "expanded_url": "https://news.un.org/zh/?utm_source=chatgpt.com",
+                "start": 0,
+                "url": "https://t.co/G3XBMt37Ru"
+              }
+            ]
+          }
+        },
+        "id": "2065780013841170432",
+        "location": "白宫总统府桌子下",
+        "name": "旧金山紫薯",
+        "pinned_tweet_id": "2080171949146415196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079876802605203456/V4Gw40N8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 237,
+          "like_count": 5228,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 725
+        },
+        "url": "https://t.co/G3XBMt37Ru",
+        "username": "DavidLeeut",
+        "verified": false
+      }
+    ]
+  }
+}

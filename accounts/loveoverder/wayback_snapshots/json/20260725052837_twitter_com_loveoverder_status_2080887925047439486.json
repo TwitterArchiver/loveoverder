@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080887925047439486",
+    "created_at": "2026-07-25T05:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080887925047439486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "476199422",
+          "start": 3,
+          "username": "awkwardgoogle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080887925047439486",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1619
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080704879140405747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @awkwardgoogle: Kitten suddenly wakes up, realizes she’s safe in her owner’s arms, mumbles something, and quickly falls back asleep. htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20300,
+        "height": 1144,
+        "media_key": "13_2080704818834804736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080704818834804736/img/_25WliY6xBKThkAS.jpg",
+        "public_metrics": {
+          "view_count": 298481
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080704818834804736/vid/avc1/320x508/OwXUQFpJr4HmoG10.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080704818834804736/vid/avc1/480x762/g8x6_Pg_Xx1jS0Ap.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080704818834804736/vid/avc1/720x1144/XM8FtTNMc10vZP-g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080704818834804736/pl/Y4yP6MZSqubxkoeS.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080887925047439486",
+        "created_at": "2026-07-25T05:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080887925047439486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "476199422",
+              "start": 3,
+              "username": "awkwardgoogle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080887925047439486",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1619
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080704879140405747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @awkwardgoogle: Kitten suddenly wakes up, realizes she’s safe in her owner’s arms, mumbles something, and quickly falls back asleep. htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080704818834804736"
+          ]
+        },
+        "author_id": "476199422",
+        "conversation_id": "2080704879140405747",
+        "created_at": "2026-07-24T17:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080704879140405747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lYCfHnGVvk",
+              "end": 140,
+              "expanded_url": "https://x.com/awkwardgoogle/status/2080704879140405747/video/1",
+              "media_key": "13_2080704818834804736",
+              "start": 117,
+              "url": "https://t.co/lYCfHnGVvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080704879140405747",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1776,
+          "impression_count": 550306,
+          "like_count": 23291,
+          "quote_count": 45,
+          "reply_count": 93,
+          "retweet_count": 1619
+        },
+        "reply_settings": "everyone",
+        "text": "Kitten suddenly wakes up, realizes she’s safe in her owner’s arms, mumbles something, and quickly falls back asleep. https://t.co/lYCfHnGVvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 251,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1301
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-27T21:43:58.000Z",
+        "description": "Posting interesting things from all corners of the internet. sponsored by @rainbetcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "rainbetcom"
+              }
+            ]
+          }
+        },
+        "id": "476199422",
+        "name": "Interesting things",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843285954473164800/87Vfzdg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3983313,
+          "following_count": 125,
+          "like_count": 83,
+          "listed_count": 10675,
+          "media_count": 15177,
+          "tweet_count": 15280
+        },
+        "url": "",
+        "username": "awkwardgoogle",
+        "verified": true
+      }
+    ]
+  }
+}

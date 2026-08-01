@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076681010750828840",
+    "created_at": "2026-07-13T14:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T15:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076681010750828840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2043978653227212801",
+          "start": 3,
+          "username": "astrangecat0"
+        },
+        {
+          "end": 34,
+          "id": "1346243470198005761",
+          "start": 18,
+          "username": "CryptoApprenti1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076681010750828840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076607540574699620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @astrangecat0: @CryptoApprenti1 自己选的杠杆怪谁呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076681010750828840",
+        "created_at": "2026-07-13T14:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076681010750828840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2043978653227212801",
+              "start": 3,
+              "username": "astrangecat0"
+            },
+            {
+              "end": 34,
+              "id": "1346243470198005761",
+              "start": 18,
+              "username": "CryptoApprenti1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076681010750828840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076607540574699620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @astrangecat0: @CryptoApprenti1 自己选的杠杆怪谁呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043978653227212801",
+        "conversation_id": "2076600919509365060",
+        "created_at": "2026-07-13T09:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076607540574699620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1346243470198005761",
+              "start": 0,
+              "username": "CryptoApprenti1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076607540574699620",
+        "in_reply_to_user_id": "1346243470198005761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 538,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076600919509365060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptoApprenti1 自己选的杠杆怪谁呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 150,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T09:04:35.000Z",
+        "description": "一只奇怪的猫，有可能出现在任何地方",
+        "id": "2043978653227212801",
+        "name": "奇怪的猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062143410992300032/G9G3DlEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 2964,
+          "like_count": 873,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 10666
+        },
+        "url": "",
+        "username": "astrangecat0",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-04T23:53:59.000Z",
+        "description": "Founder of Block Infinity, Poker player, Trader, Chinese whale, @drhashclub , #Binance: 币安一键注册 https://t.co/ArBe7G26sn",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "Binance"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "drhashclub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/npdqx2",
+                "end": 118,
+                "expanded_url": "http://reurl.cc/npdqx2",
+                "start": 95,
+                "url": "https://t.co/ArBe7G26sn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cryptoapprenti1.xyz",
+                "end": 23,
+                "expanded_url": "http://cryptoapprenti1.xyz",
+                "start": 0,
+                "url": "https://t.co/MXpByYHYqP"
+              }
+            ]
+          }
+        },
+        "id": "1346243470198005761",
+        "location": "t.me/DrHashCall",
+        "name": "Dr.Hash“Wesley”",
+        "pinned_tweet_id": "1780225093987455444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773897198918651904/aSDYiSAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187170,
+          "following_count": 1375,
+          "like_count": 2832,
+          "listed_count": 1375,
+          "media_count": 4482,
+          "tweet_count": 14627
+        },
+        "url": "https://t.co/MXpByYHYqP",
+        "username": "CryptoApprenti1",
+        "verified": true
+      }
+    ]
+  }
+}

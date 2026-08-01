@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079853323910602752"
+      ],
+      "media_source_tweet_id": [
+        "2079853363001196869"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2080224259939672494",
+    "created_at": "2026-07-23T09:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080224259939672494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935968236132352000",
+          "start": 3,
+          "username": "m__nmnn_"
+        },
+        {
+          "end": 29,
+          "id": "1260553941714186241",
+          "start": 14,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p5IMjFZGnY",
+          "end": 53,
+          "expanded_url": "https://x.com/m__nmnn_/status/2079853363001196869/video/1",
+          "media_key": "13_2079853323910602752",
+          "start": 30,
+          "url": "https://t.co/p5IMjFZGnY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080224259939672494",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079853363001196869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @m__nmnn_: @whyyoutouzhele https://t.co/p5IMjFZGnY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 177539,
+        "height": 960,
+        "media_key": "13_2079853323910602752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079853323910602752/img/3uIh7wesxn0gHvU4.jpg",
+        "public_metrics": {
+          "view_count": 1127
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079853323910602752/vid/avc1/320x564/UKXpV6Pqy7JdARPp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079853323910602752/vid/avc1/480x846/Bo3SRSGAVWDDWiQH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079853323910602752/vid/avc1/544x960/NV4S7iahi9eo8n7M.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079853323910602752/pl/miuB6-m7Z73KSA-3.m3u8?v=e72"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079853323910602752"
+          ]
+        },
+        "author_id": "1935968236132352000",
+        "conversation_id": "2079843892422213958",
+        "created_at": "2026-07-22T08:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079853363001196869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5IMjFZGnY",
+              "end": 39,
+              "expanded_url": "https://x.com/m__nmnn_/status/2079853363001196869/video/1",
+              "media_key": "13_2079853323910602752",
+              "start": 16,
+              "url": "https://t.co/p5IMjFZGnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079853363001196869",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2371,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079843892422213958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele https://t.co/p5IMjFZGnY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079853323910602752"
+          ],
+          "media_source_tweet_id": [
+            "2079853363001196869"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080224259939672494",
+        "created_at": "2026-07-23T09:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080224259939672494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935968236132352000",
+              "start": 3,
+              "username": "m__nmnn_"
+            },
+            {
+              "end": 29,
+              "id": "1260553941714186241",
+              "start": 14,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5IMjFZGnY",
+              "end": 53,
+              "expanded_url": "https://x.com/m__nmnn_/status/2079853363001196869/video/1",
+              "media_key": "13_2079853323910602752",
+              "start": 30,
+              "url": "https://t.co/p5IMjFZGnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080224259939672494",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079853363001196869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @m__nmnn_: @whyyoutouzhele https://t.co/p5IMjFZGnY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 229,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1101
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T07:49:37.000Z",
+        "description": "虐貓虐狗殺貓殺狗不得好死轉世成蛆！！！祖宗十八代墳被刨家產敗光光，遊街示眾被亂棍打死老爹被斷命根子無後無嗣債台高築",
+        "id": "1935968236132352000",
+        "name": "語",
+        "pinned_tweet_id": "1981319925156499503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991504889776893952/cY8i1-dt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 53,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 346,
+          "tweet_count": 1689
+        },
+        "url": "",
+        "username": "m__nmnn_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2078717699849630025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243466,
+          "following_count": 1079,
+          "like_count": 9808,
+          "listed_count": 8833,
+          "media_count": 50908,
+          "tweet_count": 58127
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

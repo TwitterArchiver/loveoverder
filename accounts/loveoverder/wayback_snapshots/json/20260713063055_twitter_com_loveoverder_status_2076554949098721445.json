@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2076441283367956480"
+      ],
+      "media_source_tweet_id": [
+        "2076441295518859663"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076554949098721445",
+    "created_at": "2026-07-13T06:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076554949098721445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1527586768891125760",
+          "start": 3,
+          "username": "wangxizhiKYWYW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9CGxKO2PxW",
+          "end": 60,
+          "expanded_url": "https://x.com/wangxizhiKYWYW/status/2076441295518859663/video/1",
+          "media_key": "7_2076441283367956480",
+          "start": 37,
+          "url": "https://t.co/9CGxKO2PxW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076554949098721445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076441295518859663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wangxizhiKYWYW: 在没有AI的年代，我们有俄罗斯人 https://t.co/9CGxKO2PxW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6315,
+        "height": 480,
+        "media_key": "7_2076441283367956480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076441283367956480/pu/img/cwSfSWdHGGiQgwUd.jpg",
+        "public_metrics": {
+          "view_count": 4387
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076441283367956480/pu/vid/avc1/480x270/GCBaHHYX2kd-oFiT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076441283367956480/pu/vid/avc1/642x360/8mpq_9V-6fPrATKq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076441283367956480/pu/vid/avc1/856x480/rwQKoxLPObOow22H.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076441283367956480/pu/pl/FTkgidZnmKncxADM.m3u8?tag=12"
+          }
+        ],
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076441283367956480"
+          ],
+          "media_source_tweet_id": [
+            "2076441295518859663"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076554949098721445",
+        "created_at": "2026-07-13T06:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076554949098721445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1527586768891125760",
+              "start": 3,
+              "username": "wangxizhiKYWYW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9CGxKO2PxW",
+              "end": 60,
+              "expanded_url": "https://x.com/wangxizhiKYWYW/status/2076441295518859663/video/1",
+              "media_key": "7_2076441283367956480",
+              "start": 37,
+              "url": "https://t.co/9CGxKO2PxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076554949098721445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076441295518859663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wangxizhiKYWYW: 在没有AI的年代，我们有俄罗斯人 https://t.co/9CGxKO2PxW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076441283367956480"
+          ]
+        },
+        "author_id": "1527586768891125760",
+        "conversation_id": "2076441295518859663",
+        "created_at": "2026-07-12T22:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T23:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076441295518859663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9CGxKO2PxW",
+              "end": 40,
+              "expanded_url": "https://x.com/wangxizhiKYWYW/status/2076441295518859663/video/1",
+              "media_key": "7_2076441283367956480",
+              "start": 17,
+              "url": "https://t.co/9CGxKO2PxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076441295518859663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 10084,
+          "like_count": 146,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "在没有AI的年代，我们有俄罗斯人 https://t.co/9CGxKO2PxW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 114,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 436
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T09:47:40.000Z",
+        "description": "半文盲|\n我是回民见不得这个|\n为梁启超乐园而奋斗|\n学无止境|\n啊哈哈哈，我不识字|\n@wangzhixi_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "wangzhixi_1"
+              }
+            ]
+          }
+        },
+        "id": "1527586768891125760",
+        "location": "汉地",
+        "name": "怒尼威",
+        "pinned_tweet_id": "2040417016893636890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010168349041537025/dgUXtGIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 1029,
+          "like_count": 48956,
+          "listed_count": 5,
+          "media_count": 3791,
+          "tweet_count": 15275
+        },
+        "url": "",
+        "username": "wangxizhiKYWYW",
+        "verified": false
+      }
+    ]
+  }
+}

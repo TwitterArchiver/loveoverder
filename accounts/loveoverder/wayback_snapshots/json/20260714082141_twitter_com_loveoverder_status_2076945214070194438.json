@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016883450020794368"
+      ],
+      "media_source_tweet_id": [
+        "2016883457771856277"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076945214070194438",
+    "created_at": "2026-07-14T08:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T09:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076945214070194438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2739080844",
+          "start": 3,
+          "username": "hazenlee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eOtQ7sqKyQ",
+          "end": 54,
+          "expanded_url": "https://x.com/hazenlee/status/2016883457771856277/photo/1",
+          "media_key": "3_2016883450020794368",
+          "start": 31,
+          "url": "https://t.co/eOtQ7sqKyQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076945214070194438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016883457771856277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hazenlee: 这些残暴的欢愉，终将以残暴结束。 https://t.co/eOtQ7sqKyQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 336,
+        "media_key": "3_2016883450020794368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1oz9fakAA4HPx.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016883450020794368"
+          ],
+          "media_source_tweet_id": [
+            "2016883457771856277"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076945214070194438",
+        "created_at": "2026-07-14T08:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076945214070194438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2739080844",
+              "start": 3,
+              "username": "hazenlee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOtQ7sqKyQ",
+              "end": 54,
+              "expanded_url": "https://x.com/hazenlee/status/2016883457771856277/photo/1",
+              "media_key": "3_2016883450020794368",
+              "start": 31,
+              "url": "https://t.co/eOtQ7sqKyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076945214070194438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016883457771856277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hazenlee: 这些残暴的欢愉，终将以残暴结束。 https://t.co/eOtQ7sqKyQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016883450020794368"
+          ]
+        },
+        "author_id": "2739080844",
+        "conversation_id": "2016883457771856277",
+        "created_at": "2026-01-29T14:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T15:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016883457771856277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOtQ7sqKyQ",
+              "end": 40,
+              "expanded_url": "https://x.com/hazenlee/status/2016883457771856277/photo/1",
+              "media_key": "3_2016883450020794368",
+              "start": 17,
+              "url": "https://t.co/eOtQ7sqKyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016883457771856277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 579181,
+          "like_count": 428,
+          "quote_count": 5,
+          "reply_count": 36,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "这些残暴的欢愉，终将以残暴结束。 https://t.co/eOtQ7sqKyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 196,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 759
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-17T05:47:55.000Z",
+        "description": "𝙀/𝘼𝙘𝙘｜十年加密𝙊𝙂｜伪𝙏𝙧𝙖𝙙𝙚𝙧，真𝙃𝙤𝙙𝙡𝙚𝙧｜长期信仰 ₿𝙏𝘾 + 𝘼𝙄 ｜致力于科技金融投资交易科普｜抽象派行为艺术大师｜牛熊转换趋势吹号手｜观点明确，拒绝马后炮、模棱两可｜有立场、有温度、有时效｜推文仅代表个人仓位，不构成投资建议，𝘿𝙔𝙊𝙍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hazenlee",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@hazenlee",
+                "start": 0,
+                "url": "https://t.co/1EwW72IIK3"
+              }
+            ]
+          }
+        },
+        "id": "2739080844",
+        "location": "距离你384400km 🌕 🚪520/999/1314",
+        "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "pinned_tweet_id": "2016883457771856277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71926,
+          "following_count": 3756,
+          "like_count": 46021,
+          "listed_count": 1062,
+          "media_count": 5236,
+          "tweet_count": 38695
+        },
+        "url": "https://t.co/1EwW72IIK3",
+        "username": "hazenlee",
+        "verified": true
+      }
+    ]
+  }
+}

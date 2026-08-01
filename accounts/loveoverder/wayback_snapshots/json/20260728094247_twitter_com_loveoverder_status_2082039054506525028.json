@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081881943898279936"
+      ],
+      "media_source_tweet_id": [
+        "2081881977641476570"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082039054506525028",
+    "created_at": "2026-07-28T09:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082039054506525028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1728473142543491072",
+          "start": 3,
+          "username": "SULLYOON_1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dy5cSc4L5O",
+          "end": 74,
+          "expanded_url": "https://x.com/SULLYOON_1/status/2081881977641476570/video/1",
+          "media_key": "13_2081881943898279936",
+          "start": 51,
+          "url": "https://t.co/dy5cSc4L5O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082039054506525028",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081881977641476570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SULLYOON_1: 愛犬のボミと戯れるソリュンさん、めちゃくちゃ愛おしい＿＿＿＿👼🏻🍀︎ https://t.co/dy5cSc4L5O"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6535,
+        "height": 1080,
+        "media_key": "13_2081881943898279936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081881943898279936/img/ZtswELpGiMQsPMUR.jpg",
+        "public_metrics": {
+          "view_count": 1957
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081881943898279936/vid/avc1/540x540/GveXeI05OZVyE9O-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081881943898279936/pl/B1VV23dLi_mlBdD2.m3u8"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081881943898279936/vid/avc1/1080x1080/fFkLjOEPrdzcw_mT.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081881943898279936/vid/avc1/320x320/kIOdoytsk6fkV6dV.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081881943898279936/vid/avc1/720x720/xy_Ym8FwjmLfkcYB.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081881943898279936"
+          ]
+        },
+        "author_id": "1728473142543491072",
+        "conversation_id": "2081881977641476570",
+        "created_at": "2026-07-27T23:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081881977641476570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dy5cSc4L5O",
+              "end": 58,
+              "expanded_url": "https://x.com/SULLYOON_1/status/2081881977641476570/video/1",
+              "media_key": "13_2081881943898279936",
+              "start": 35,
+              "url": "https://t.co/dy5cSc4L5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081881977641476570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 6108,
+          "like_count": 508,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "愛犬のボミと戯れるソリュンさん、めちゃくちゃ愛おしい＿＿＿＿👼🏻🍀︎ https://t.co/dy5cSc4L5O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081881943898279936"
+          ],
+          "media_source_tweet_id": [
+            "2081881977641476570"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082039054506525028",
+        "created_at": "2026-07-28T09:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082039054506525028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1728473142543491072",
+              "start": 3,
+              "username": "SULLYOON_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dy5cSc4L5O",
+              "end": 74,
+              "expanded_url": "https://x.com/SULLYOON_1/status/2081881977641476570/video/1",
+              "media_key": "13_2081881943898279936",
+              "start": 51,
+              "url": "https://t.co/dy5cSc4L5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082039054506525028",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081881977641476570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SULLYOON_1: 愛犬のボミと戯れるソリュンさん、めちゃくちゃ愛おしい＿＿＿＿👼🏻🍀︎ https://t.co/dy5cSc4L5O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 291,
+          "like_count": 815,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1697
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T17:58:10.000Z",
+        "description": "☘️앞으로도 계속 윤아를 사랑할게🍀︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/ja/sullyoon_1",
+                "end": 23,
+                "expanded_url": "https://mond.how/ja/sullyoon_1",
+                "start": 0,
+                "url": "https://t.co/0JQmpDI4o9"
+              }
+            ]
+          }
+        },
+        "id": "1728473142543491072",
+        "location": "설윤486",
+        "name": "Sora🦋",
+        "pinned_tweet_id": "2000118993072558389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818850511065694209/txw9Q4f2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10925,
+          "following_count": 249,
+          "like_count": 31678,
+          "listed_count": 55,
+          "media_count": 9486,
+          "tweet_count": 15783
+        },
+        "url": "https://t.co/0JQmpDI4o9",
+        "username": "SULLYOON_1",
+        "verified": true
+      }
+    ]
+  }
+}

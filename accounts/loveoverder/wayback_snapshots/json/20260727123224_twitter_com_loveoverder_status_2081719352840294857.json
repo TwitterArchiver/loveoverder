@@ -1,0 +1,758 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081670435473633280"
+      ],
+      "media_source_tweet_id": [
+        "2081670444856320311"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Brazilian 35th president.",
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Brazilian 35th president.",
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "38",
+          "name": "Political Race"
+        },
+        "entity": {
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Brazilian 35th president.",
+          "id": "862070591737675776",
+          "name": "Luiz Inácio \"Lula\" da Silva"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+          "id": "1411038381841084418",
+          "name": "Brazil General Elections 2022"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1488973753274929152",
+          "name": "Political events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518940800985427968",
+          "name": "Brazil political events"
+        }
+      }
+    ],
+    "conversation_id": "2081719352840294857",
+    "created_at": "2026-07-27T12:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081719352840294857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1956098444113637376",
+          "start": 3,
+          "username": "buriiissu"
+        },
+        {
+          "end": 27,
+          "id": "2670726740",
+          "start": 15,
+          "username": "LulaOficial"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YIijx3nKoG",
+          "end": 58,
+          "expanded_url": "https://x.com/buriiissu/status/2081670444856320311/photo/1",
+          "media_key": "3_2081670435473633280",
+          "start": 35,
+          "url": "https://t.co/YIijx3nKoG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081719352840294857",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081670444856320311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @buriiissu: @LulaOficial É NÓIS https://t.co/YIijx3nKoG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2081670435473633280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOUO13WsAAtYxw.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081670435473633280"
+          ]
+        },
+        "author_id": "1956098444113637376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Brazilian 35th president.",
+              "id": "862070591737675776",
+              "name": "Luiz Inácio \"Lula\" da Silva"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Brazilian 35th president.",
+              "id": "862070591737675776",
+              "name": "Luiz Inácio \"Lula\" da Silva"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "38",
+              "name": "Political Race"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brazilian 35th president.",
+              "id": "862070591737675776",
+              "name": "Luiz Inácio \"Lula\" da Silva"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1455305940291375106",
+              "name": "Brazil politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1488973753274929152",
+              "name": "Political events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653237720625152",
+              "name": "Brazil political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518940800985427968",
+              "name": "Brazil political events"
+            }
+          }
+        ],
+        "conversation_id": "2081580214367244525",
+        "created_at": "2026-07-27T09:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081670444856320311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2670726740",
+              "start": 0,
+              "username": "LulaOficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIijx3nKoG",
+              "end": 43,
+              "expanded_url": "https://x.com/buriiissu/status/2081670444856320311/photo/1",
+              "media_key": "3_2081670435473633280",
+              "start": 20,
+              "url": "https://t.co/YIijx3nKoG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081670444856320311",
+        "in_reply_to_user_id": "2670726740",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3117,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081580214367244525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LulaOficial É NÓIS https://t.co/YIijx3nKoG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081670435473633280"
+          ],
+          "media_source_tweet_id": [
+            "2081670444856320311"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Brazilian 35th president.",
+              "id": "862070591737675776",
+              "name": "Luiz Inácio \"Lula\" da Silva"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Brazilian 35th president.",
+              "id": "862070591737675776",
+              "name": "Luiz Inácio \"Lula\" da Silva"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "38",
+              "name": "Political Race"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brazilian 35th president.",
+              "id": "862070591737675776",
+              "name": "Luiz Inácio \"Lula\" da Silva"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1455305940291375106",
+              "name": "Brazil politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1488973753274929152",
+              "name": "Political events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653237720625152",
+              "name": "Brazil political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518940800985427968",
+              "name": "Brazil political events"
+            }
+          }
+        ],
+        "conversation_id": "2081719352840294857",
+        "created_at": "2026-07-27T12:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081719352840294857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1956098444113637376",
+              "start": 3,
+              "username": "buriiissu"
+            },
+            {
+              "end": 27,
+              "id": "2670726740",
+              "start": 15,
+              "username": "LulaOficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIijx3nKoG",
+              "end": 58,
+              "expanded_url": "https://x.com/buriiissu/status/2081670444856320311/photo/1",
+              "media_key": "3_2081670435473633280",
+              "start": 35,
+              "url": "https://t.co/YIijx3nKoG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081719352840294857",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081670444856320311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @buriiissu: @LulaOficial É NÓIS https://t.co/YIijx3nKoG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 260,
+          "like_count": 734,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1516
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T21:00:08.000Z",
+        "description": "she/her ; 27 ; ♀️✊; TERFS DNFI ; you might see me occasionally fighting men here",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bl_iss",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@bl_iss",
+                "start": 0,
+                "url": "https://t.co/1WAfkM8Xef"
+              }
+            ]
+          }
+        },
+        "id": "1956098444113637376",
+        "location": "🇧🇷",
+        "name": "blß ⚢",
+        "pinned_tweet_id": "2027081893707927798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015774520817176576/Y0sDsnfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 176,
+          "like_count": 50626,
+          "listed_count": 1,
+          "media_count": 1906,
+          "tweet_count": 9469
+        },
+        "url": "https://t.co/1WAfkM8Xef",
+        "username": "buriiissu",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-22T21:36:50.000Z",
+        "description": "Filho da Dona Lindu, marido da @JanjaLula, presidente da República. Trabalhando para reconstruir o Brasil.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "JanjaLula"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lula.com.br/siga-o-lula/",
+                "end": 23,
+                "expanded_url": "https://lula.com.br/siga-o-lula/",
+                "start": 0,
+                "url": "https://t.co/FWDIwBcWRa"
+              }
+            ]
+          }
+        },
+        "id": "2670726740",
+        "location": "Brasília, Brasil",
+        "name": "Lula",
+        "pinned_tweet_id": "2081493305406210415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630217574100213762/SAMK-BnB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10537124,
+          "following_count": 2774,
+          "like_count": 16414,
+          "listed_count": 6203,
+          "media_count": 9453,
+          "tweet_count": 38344
+        },
+        "url": "https://t.co/FWDIwBcWRa",
+        "username": "LulaOficial",
+        "verified": true
+      }
+    ]
+  }
+}

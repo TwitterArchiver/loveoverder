@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074131789095071744"
+      ],
+      "media_source_tweet_id": [
+        "2074131798314176813"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076546516337262838",
+    "created_at": "2026-07-13T05:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076546516337262838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1978032792383709184",
+          "start": 3,
+          "username": "Sabrina8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JCgad06yGo",
+          "end": 40,
+          "expanded_url": "https://x.com/Sabrina8964/status/2074131798314176813/photo/1",
+          "media_key": "3_2074131789095071744",
+          "start": 17,
+          "url": "https://t.co/JCgad06yGo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076546516337262838",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074131798314176813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sabrina8964: https://t.co/JCgad06yGo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074131789095071744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjL33pbcAAGKIi.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074131789095071744"
+          ],
+          "media_source_tweet_id": [
+            "2074131798314176813"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076546516337262838",
+        "created_at": "2026-07-13T05:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076546516337262838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1978032792383709184",
+              "start": 3,
+              "username": "Sabrina8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JCgad06yGo",
+              "end": 40,
+              "expanded_url": "https://x.com/Sabrina8964/status/2074131798314176813/photo/1",
+              "media_key": "3_2074131789095071744",
+              "start": 17,
+              "url": "https://t.co/JCgad06yGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076546516337262838",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074131798314176813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sabrina8964: https://t.co/JCgad06yGo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074131789095071744"
+          ]
+        },
+        "author_id": "1978032792383709184",
+        "conversation_id": "2074131798314176813",
+        "created_at": "2026-07-06T14:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074131798314176813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JCgad06yGo",
+              "end": 23,
+              "expanded_url": "https://x.com/Sabrina8964/status/2074131798314176813/photo/1",
+              "media_key": "3_2074131789095071744",
+              "start": 0,
+              "url": "https://t.co/JCgad06yGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074131798314176813",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 118892,
+          "like_count": 1701,
+          "quote_count": 13,
+          "reply_count": 214,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JCgad06yGo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 106,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 415
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "迪哥和芭乐是一种处境",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "girledm.com",
+                "end": 23,
+                "expanded_url": "https://girledm.com",
+                "start": 0,
+                "url": "https://t.co/Wbnd5PNLGq"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "我要让所有虚伪的人都看清自己",
+        "name": "25岁永不停下",
+        "pinned_tweet_id": "2075770460957180066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076508785846181888/H2tYIb7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 411,
+          "like_count": 28449,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 5102
+        },
+        "url": "https://t.co/Wbnd5PNLGq",
+        "username": "Sabrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

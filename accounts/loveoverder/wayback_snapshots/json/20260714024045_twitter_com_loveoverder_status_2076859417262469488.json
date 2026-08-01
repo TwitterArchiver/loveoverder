@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076086505907298304"
+      ],
+      "media_source_tweet_id": [
+        "2076297776225206644"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076859417262469488",
+    "created_at": "2026-07-14T02:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076859417262469488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1178343413093191680",
+          "start": 3,
+          "username": "ZonasZero12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bqWwFWjEef",
+          "end": 96,
+          "expanded_url": "https://x.com/ZonasZero12/status/2076297776225206644/video/1",
+          "media_key": "13_2076086505907298304",
+          "start": 73,
+          "url": "https://t.co/bqWwFWjEef"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076859417262469488",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 215
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076297776225206644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZonasZero12: Sera el Mejor año de tu Vida Si no Ignoras al lobo bebe https://t.co/bqWwFWjEef"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10307,
+        "height": 1280,
+        "media_key": "13_2076086505907298304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076086505907298304/img/y1vwpcMyJaJjRjN6.jpg",
+        "public_metrics": {
+          "view_count": 37287
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076086505907298304/vid/avc1/320x568/-X95Ie8GRlsXMvRi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076086505907298304/vid/avc1/480x852/0tPcwbKuxJ1AJRh4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076086505907298304/vid/avc1/720x1280/9uJtkeItqBRL2d7i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076086505907298304/pl/E8Nh4amg7ApAjLCG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076086505907298304"
+          ],
+          "media_source_tweet_id": [
+            "2076297776225206644"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076859417262469488",
+        "created_at": "2026-07-14T02:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076859417262469488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1178343413093191680",
+              "start": 3,
+              "username": "ZonasZero12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bqWwFWjEef",
+              "end": 96,
+              "expanded_url": "https://x.com/ZonasZero12/status/2076297776225206644/video/1",
+              "media_key": "13_2076086505907298304",
+              "start": 73,
+              "url": "https://t.co/bqWwFWjEef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076859417262469488",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 215
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076297776225206644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZonasZero12: Sera el Mejor año de tu Vida Si no Ignoras al lobo bebe https://t.co/bqWwFWjEef"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076086505907298304"
+          ]
+        },
+        "author_id": "1178343413093191680",
+        "conversation_id": "2076297776225206644",
+        "created_at": "2026-07-12T13:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076297776225206644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bqWwFWjEef",
+              "end": 79,
+              "expanded_url": "https://x.com/ZonasZero12/status/2076297776225206644/video/1",
+              "media_key": "13_2076086505907298304",
+              "start": 56,
+              "url": "https://t.co/bqWwFWjEef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076297776225206644",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 108654,
+          "like_count": 11937,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "Sera el Mejor año de tu Vida Si no Ignoras al lobo bebe https://t.co/bqWwFWjEef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 183,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 633
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-29T16:19:05.000Z",
+        "description": "Cuenta dedicada al Entretenimiento y a los datos curiosos, si el lo que Buscas Síguenos.",
+        "id": "1178343413093191680",
+        "name": "Zona Zero",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797093884339646464/01MBZ73o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115429,
+          "following_count": 16,
+          "like_count": 5003,
+          "listed_count": 159,
+          "media_count": 615,
+          "tweet_count": 2572
+        },
+        "url": "",
+        "username": "ZonasZero12",
+        "verified": true
+      }
+    ]
+  }
+}

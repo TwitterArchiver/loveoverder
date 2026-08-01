@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082178628922818560"
+      ],
+      "media_source_tweet_id": [
+        "2082178634396447222"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2082408911945282029",
+    "created_at": "2026-07-29T10:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082408911945282029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1734985586740711424",
+          "start": 3,
+          "username": "StellarEvo187"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WE0I7q2h8x",
+          "end": 42,
+          "expanded_url": "https://x.com/StellarEvo187/status/2082178634396447222/photo/1",
+          "media_key": "3_2082178628922818560",
+          "start": 19,
+          "url": "https://t.co/WE0I7q2h8x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082408911945282029",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082178634396447222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StellarEvo187: https://t.co/WE0I7q2h8x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2082178628922818560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVibl_awAAxg8w.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082178628922818560"
+          ]
+        },
+        "author_id": "1734985586740711424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2082178634396447222",
+        "created_at": "2026-07-28T18:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082178634396447222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WE0I7q2h8x",
+              "end": 23,
+              "expanded_url": "https://x.com/StellarEvo187/status/2082178634396447222/photo/1",
+              "media_key": "3_2082178628922818560",
+              "start": 0,
+              "url": "https://t.co/WE0I7q2h8x"
+            },
+            {
+              "display_url": "x.com/dailytouhous/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/dailytouhous/status/2082118894316314961",
+              "start": 24,
+              "url": "https://t.co/n5pLo6YB4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082178634396447222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 12614,
+          "like_count": 733,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082118894316314961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/WE0I7q2h8x https://t.co/n5pLo6YB4O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082178628922818560"
+          ],
+          "media_source_tweet_id": [
+            "2082178634396447222"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2082408911945282029",
+        "created_at": "2026-07-29T10:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082408911945282029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1734985586740711424",
+              "start": 3,
+              "username": "StellarEvo187"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WE0I7q2h8x",
+              "end": 42,
+              "expanded_url": "https://x.com/StellarEvo187/status/2082178634396447222/photo/1",
+              "media_key": "3_2082178628922818560",
+              "start": 19,
+              "url": "https://t.co/WE0I7q2h8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082408911945282029",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082178634396447222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StellarEvo187: https://t.co/WE0I7q2h8x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 313,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1854
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T17:17:19.000Z",
+        "description": "Played Touhou once, didn't like it.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@stellarevolut…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@stellarevolution187",
+                "start": 0,
+                "url": "https://t.co/e6n5JmtCMw"
+              }
+            ]
+          }
+        },
+        "id": "1734985586740711424",
+        "location": "UFO",
+        "name": "LunatiK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956422552932532224/W7XbzASI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 120,
+          "like_count": 846,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 475
+        },
+        "url": "https://t.co/e6n5JmtCMw",
+        "username": "StellarEvo187",
+        "verified": true
+      }
+    ]
+  }
+}

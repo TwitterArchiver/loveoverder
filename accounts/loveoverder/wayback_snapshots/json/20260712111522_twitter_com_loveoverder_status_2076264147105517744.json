@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075930478486687744"
+      ],
+      "media_source_tweet_id": [
+        "2075930484639736158"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2076264147105517744",
+    "created_at": "2026-07-12T11:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076264147105517744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2070509531801817088",
+          "start": 3,
+          "username": "Yankakejiga"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1QOIvkmwdV",
+          "end": 81,
+          "expanded_url": "https://x.com/Yankakejiga/status/2075930484639736158/photo/1",
+          "media_key": "3_2075930478486687744",
+          "start": 58,
+          "url": "https://t.co/1QOIvkmwdV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076264147105517744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4634
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075930484639736158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yankakejiga: 病んでる時に描いた絵でいったらこれもだな\nリスカ跡を血小板ちゃんが治しにきてる絵 https://t.co/1QOIvkmwdV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075930478486687744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8vxXybEAA4a7h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075930478486687744"
+          ],
+          "media_source_tweet_id": [
+            "2075930484639736158"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2076264147105517744",
+        "created_at": "2026-07-12T11:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076264147105517744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2070509531801817088",
+              "start": 3,
+              "username": "Yankakejiga"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QOIvkmwdV",
+              "end": 81,
+              "expanded_url": "https://x.com/Yankakejiga/status/2075930484639736158/photo/1",
+              "media_key": "3_2075930478486687744",
+              "start": 58,
+              "url": "https://t.co/1QOIvkmwdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076264147105517744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4634
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075930484639736158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yankakejiga: 病んでる時に描いた絵でいったらこれもだな\nリスカ跡を血小板ちゃんが治しにきてる絵 https://t.co/1QOIvkmwdV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075930478486687744"
+          ]
+        },
+        "author_id": "2070509531801817088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2075930484639736158",
+        "created_at": "2026-07-11T13:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075930484639736158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QOIvkmwdV",
+              "end": 64,
+              "expanded_url": "https://x.com/Yankakejiga/status/2075930484639736158/photo/1",
+              "media_key": "3_2075930478486687744",
+              "start": 41,
+              "url": "https://t.co/1QOIvkmwdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075930484639736158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5222,
+          "impression_count": 959413,
+          "like_count": 63539,
+          "quote_count": 191,
+          "reply_count": 58,
+          "retweet_count": 4634
+        },
+        "reply_settings": "everyone",
+        "text": "病んでる時に描いた絵でいったらこれもだな\nリスカ跡を血小板ちゃんが治しにきてる絵 https://t.co/1QOIvkmwdV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 43,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T14:09:39.000Z",
+        "description": "",
+        "id": "2070509531801817088",
+        "name": "やんかけの鳥獣自我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070511542907609088/Y18r7R7p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 23,
+          "like_count": 68,
+          "listed_count": 5,
+          "media_count": 14,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "Yankakejiga",
+        "verified": false
+      }
+    ]
+  }
+}

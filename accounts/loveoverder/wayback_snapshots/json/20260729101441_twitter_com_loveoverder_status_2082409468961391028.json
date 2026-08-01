@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082143517753704448"
+      ],
+      "media_source_tweet_id": [
+        "2082143607524388906"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082409468961391028",
+    "created_at": "2026-07-29T10:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082409468961391028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990727295280328704",
+          "start": 3,
+          "username": "evangelionHQ"
+        },
+        {
+          "end": 35,
+          "id": "1533421462857469952",
+          "start": 25,
+          "username": "eliza_804"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QhIEtxefEO",
+          "end": 59,
+          "expanded_url": "https://x.com/evangelionHQ/status/2082143607524388906/photo/1",
+          "media_key": "3_2082143517753704448",
+          "start": 36,
+          "url": "https://t.co/QhIEtxefEO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082409468961391028",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 277
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082143607524388906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @evangelionHQ: art by @eliza_804 https://t.co/QhIEtxefEO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082143517753704448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVCf2sXgAAmXNo.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082143517753704448"
+          ]
+        },
+        "author_id": "1990727295280328704",
+        "conversation_id": "2082143607524388906",
+        "created_at": "2026-07-28T16:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082143607524388906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1533421462857469952",
+              "start": 7,
+              "username": "eliza_804"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhIEtxefEO",
+              "end": 41,
+              "expanded_url": "https://x.com/evangelionHQ/status/2082143607524388906/photo/1",
+              "media_key": "3_2082143517753704448",
+              "start": 18,
+              "url": "https://t.co/QhIEtxefEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082143607524388906",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 396,
+          "impression_count": 28431,
+          "like_count": 5083,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 277
+        },
+        "reply_settings": "everyone",
+        "text": "art by @eliza_804 https://t.co/QhIEtxefEO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082143517753704448"
+          ],
+          "media_source_tweet_id": [
+            "2082143607524388906"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082409468961391028",
+        "created_at": "2026-07-29T10:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082409468961391028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990727295280328704",
+              "start": 3,
+              "username": "evangelionHQ"
+            },
+            {
+              "end": 35,
+              "id": "1533421462857469952",
+              "start": 25,
+              "username": "eliza_804"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhIEtxefEO",
+              "end": 59,
+              "expanded_url": "https://x.com/evangelionHQ/status/2082143607524388906/photo/1",
+              "media_key": "3_2082143517753704448",
+              "start": 36,
+              "url": "https://t.co/QhIEtxefEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082409468961391028",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 277
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082143607524388906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @evangelionHQ: art by @eliza_804 https://t.co/QhIEtxefEO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 313,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1856
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T10:24:58.000Z",
+        "description": "at least, be human\nエヴァンゲリオン .ᐟ\nFan Page",
+        "id": "1990727295280328704",
+        "name": "Evangelion",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082138265151287296/FXhU8vwC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9659,
+          "following_count": 0,
+          "like_count": 238,
+          "listed_count": 26,
+          "media_count": 366,
+          "tweet_count": 376
+        },
+        "url": "",
+        "username": "evangelionHQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-05T12:12:31.000Z",
+        "description": "＝33 | illus | 中 | ENG | 日",
+        "id": "1533421462857469952",
+        "location": "dreamland",
+        "name": "Octopus33",
+        "pinned_tweet_id": "2054937854573158829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065646109180215296/3RxAOUDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54629,
+          "following_count": 516,
+          "like_count": 1839,
+          "listed_count": 356,
+          "media_count": 223,
+          "tweet_count": 1612
+        },
+        "url": "",
+        "username": "eliza_804",
+        "verified": false
+      }
+    ]
+  }
+}

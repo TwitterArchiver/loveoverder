@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076240896530825216"
+      ],
+      "media_source_tweet_id": [
+        "2076240908790767859"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076488951364559307",
+    "created_at": "2026-07-13T02:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076488951364559307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "__fanqie__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ejZYfrkruB",
+          "end": 39,
+          "expanded_url": "https://x.com/__fanqie__/status/2076240908790767859/photo/1",
+          "media_key": "3_2076240896530825216",
+          "start": 16,
+          "url": "https://t.co/ejZYfrkruB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076488951364559307",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076240908790767859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__fanqie__: https://t.co/ejZYfrkruB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1118,
+        "media_key": "3_2076240896530825216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBKGFHbwAASRSj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076240896530825216"
+          ],
+          "media_source_tweet_id": [
+            "2076240908790767859"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076488951364559307",
+        "created_at": "2026-07-13T02:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076488951364559307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejZYfrkruB",
+              "end": 39,
+              "expanded_url": "https://x.com/__fanqie__/status/2076240908790767859/photo/1",
+              "media_key": "3_2076240896530825216",
+              "start": 16,
+              "url": "https://t.co/ejZYfrkruB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076488951364559307",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076240908790767859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__fanqie__: https://t.co/ejZYfrkruB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076240896530825216"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2076240908790767859",
+        "created_at": "2026-07-12T09:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076240908790767859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejZYfrkruB",
+              "end": 23,
+              "expanded_url": "https://x.com/__fanqie__/status/2076240908790767859/photo/1",
+              "media_key": "3_2076240896530825216",
+              "start": 0,
+              "url": "https://t.co/ejZYfrkruB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076240908790767859",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 28152,
+          "like_count": 236,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ejZYfrkruB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 77,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 315
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2073341457092780489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10705,
+          "following_count": 2804,
+          "like_count": 1602,
+          "listed_count": 24,
+          "media_count": 2175,
+          "tweet_count": 10817
+        },
+        "url": "",
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

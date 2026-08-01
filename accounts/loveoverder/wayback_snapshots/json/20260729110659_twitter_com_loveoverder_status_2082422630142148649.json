@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082323529740230656"
+      ],
+      "media_source_tweet_id": [
+        "2082323540045693333"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082422630142148649",
+    "created_at": "2026-07-29T11:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082422630142148649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "967772103918284802",
+          "start": 3,
+          "username": "Meta8Mate"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9D2drNng9z",
+          "end": 88,
+          "expanded_url": "https://x.com/Meta8Mate/status/2082323540045693333/photo/1",
+          "media_key": "3_2082323529740230656",
+          "start": 65,
+          "url": "https://t.co/9D2drNng9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082422630142148649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082323540045693333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meta8Mate: 短期缺炸鸡，长期缺薯条，永远缺可乐！\n\n事到如今，最对不起的就是家人，现在买入可口可乐还来得及吗！ https://t.co/9D2drNng9z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1904,
+        "media_key": "3_2082323529740230656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXmN7maoAAHNEr.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082323529740230656"
+          ]
+        },
+        "author_id": "967772103918284802",
+        "conversation_id": "2082323540045693333",
+        "created_at": "2026-07-29T04:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082323540045693333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9D2drNng9z",
+              "end": 73,
+              "expanded_url": "https://x.com/Meta8Mate/status/2082323540045693333/photo/1",
+              "media_key": "3_2082323529740230656",
+              "start": 50,
+              "url": "https://t.co/9D2drNng9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082323540045693333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 33287,
+          "like_count": 139,
+          "quote_count": 1,
+          "reply_count": 54,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "短期缺炸鸡，长期缺薯条，永远缺可乐！\n\n事到如今，最对不起的就是家人，现在买入可口可乐还来得及吗！ https://t.co/9D2drNng9z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082323529740230656"
+          ],
+          "media_source_tweet_id": [
+            "2082323540045693333"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082422630142148649",
+        "created_at": "2026-07-29T11:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082422630142148649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "967772103918284802",
+              "start": 3,
+              "username": "Meta8Mate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9D2drNng9z",
+              "end": 88,
+              "expanded_url": "https://x.com/Meta8Mate/status/2082323540045693333/photo/1",
+              "media_key": "3_2082323529740230656",
+              "start": 65,
+              "url": "https://t.co/9D2drNng9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082422630142148649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082323540045693333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meta8Mate: 短期缺炸鸡，长期缺薯条，永远缺可乐！\n\n事到如今，最对不起的就是家人，现在买入可口可乐还来得及吗！ https://t.co/9D2drNng9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 315,
+          "like_count": 933,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1870
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-25T14:43:44.000Z",
+        "description": "猫本8年穿越牛熊Trader,\n杰尼社区官网https://t.co/Bauboal5ps\n微信Jieni177\nQ群217346456\n电报群 https://t.co/pbirntl05Z\n商务联系TG@Edward1886\n近3亿用户的共同选择，出入金安全，启程Web3，就在币安：\n币安20%返佣 https://t.co/DkcY3NrsDo  码JN188\n#Binance",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 193,
+                "start": 185,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "JN188.AI",
+                "end": 45,
+                "expanded_url": "http://JN188.AI",
+                "start": 22,
+                "url": "https://t.co/Bauboal5ps"
+              },
+              {
+                "display_url": "t.me/Jienibaby",
+                "end": 96,
+                "expanded_url": "http://t.me/Jienibaby",
+                "start": 73,
+                "url": "https://t.co/pbirntl05Z"
+              },
+              {
+                "display_url": "bit.ly/BNB188",
+                "end": 176,
+                "expanded_url": "http://bit.ly/BNB188",
+                "start": 153,
+                "url": "https://t.co/DkcY3NrsDo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jn188.ai",
+                "end": 23,
+                "expanded_url": "https://jn188.ai/",
+                "start": 0,
+                "url": "https://t.co/RaF0ft81gS"
+              }
+            ]
+          }
+        },
+        "id": "967772103918284802",
+        "location": "Melbourne, Victoria",
+        "name": "机灵的杰尼君🔶BNB",
+        "pinned_tweet_id": "1966494498768220630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530002268334223360/lwFqoY3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107998,
+          "following_count": 3216,
+          "like_count": 1776,
+          "listed_count": 1322,
+          "media_count": 11789,
+          "tweet_count": 37459
+        },
+        "url": "https://t.co/RaF0ft81gS",
+        "username": "Meta8Mate",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081675665791709184",
+        "3_2081675692161277952"
+      ],
+      "media_source_tweet_id": [
+        "2081696106375954434",
+        "2081696106375954434"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082024860881150047",
+    "created_at": "2026-07-28T08:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082024860881150047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "753424463560052736",
+          "start": 3,
+          "username": "AcervoCharts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MxDR5g0g43",
+          "end": 106,
+          "expanded_url": "https://x.com/AcervoCharts/status/2081696106375954434/photo/1",
+          "media_key": "3_2081675665791709184",
+          "start": 83,
+          "url": "https://t.co/MxDR5g0g43"
+        },
+        {
+          "display_url": "pic.x.com/MxDR5g0g43",
+          "end": 106,
+          "expanded_url": "https://x.com/AcervoCharts/status/2081696106375954434/photo/1",
+          "media_key": "3_2081675692161277952",
+          "start": 83,
+          "url": "https://t.co/MxDR5g0g43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082024860881150047",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3073
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081696106375954434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcervoCharts: Polícia faz sessão de fotos com seus novos cachorros recrutados. https://t.co/MxDR5g0g43"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_2081675665791709184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOY_SUW8AAf8gK.jpg",
+        "width": 629
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2081675692161277952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOZA0jWoAABV95.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081675665791709184",
+            "3_2081675692161277952"
+          ]
+        },
+        "author_id": "753424463560052736",
+        "conversation_id": "2081696106375954434",
+        "created_at": "2026-07-27T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081696106375954434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MxDR5g0g43",
+              "end": 88,
+              "expanded_url": "https://x.com/AcervoCharts/status/2081696106375954434/photo/1",
+              "media_key": "3_2081675665791709184",
+              "start": 65,
+              "url": "https://t.co/MxDR5g0g43"
+            },
+            {
+              "display_url": "pic.x.com/MxDR5g0g43",
+              "end": 88,
+              "expanded_url": "https://x.com/AcervoCharts/status/2081696106375954434/photo/1",
+              "media_key": "3_2081675692161277952",
+              "start": 65,
+              "url": "https://t.co/MxDR5g0g43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081696106375954434",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2621,
+          "impression_count": 747412,
+          "like_count": 55568,
+          "quote_count": 546,
+          "reply_count": 154,
+          "retweet_count": 3073
+        },
+        "reply_settings": "everyone",
+        "text": "Polícia faz sessão de fotos com seus novos cachorros recrutados. https://t.co/MxDR5g0g43"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081675665791709184",
+            "3_2081675692161277952"
+          ],
+          "media_source_tweet_id": [
+            "2081696106375954434",
+            "2081696106375954434"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082024860881150047",
+        "created_at": "2026-07-28T08:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082024860881150047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "753424463560052736",
+              "start": 3,
+              "username": "AcervoCharts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MxDR5g0g43",
+              "end": 106,
+              "expanded_url": "https://x.com/AcervoCharts/status/2081696106375954434/photo/1",
+              "media_key": "3_2081675665791709184",
+              "start": 83,
+              "url": "https://t.co/MxDR5g0g43"
+            },
+            {
+              "display_url": "pic.x.com/MxDR5g0g43",
+              "end": 106,
+              "expanded_url": "https://x.com/AcervoCharts/status/2081696106375954434/photo/1",
+              "media_key": "3_2081675692161277952",
+              "start": 83,
+              "url": "https://t.co/MxDR5g0g43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082024860881150047",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3073
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081696106375954434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcervoCharts: Polícia faz sessão de fotos com seus novos cachorros recrutados. https://t.co/MxDR5g0g43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 286,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1675
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-14T03:02:45.000Z",
+        "description": "Curiosidades, entretenimento e cultura pop.\n✉️ publi@portalacervo.com.br",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portalacervo.com.br",
+                "end": 23,
+                "expanded_url": "http://portalacervo.com.br",
+                "start": 0,
+                "url": "https://t.co/BICfVvadSo"
+              }
+            ]
+          }
+        },
+        "id": "753424463560052736",
+        "location": "Brasil",
+        "name": "ACERVO",
+        "pinned_tweet_id": "2081429339057664342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897105347287908352/g-209otg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230632,
+          "following_count": 7544,
+          "like_count": 26755,
+          "listed_count": 338,
+          "media_count": 14270,
+          "tweet_count": 15214
+        },
+        "url": "https://t.co/BICfVvadSo",
+        "username": "AcervoCharts",
+        "verified": true
+      }
+    ]
+  }
+}

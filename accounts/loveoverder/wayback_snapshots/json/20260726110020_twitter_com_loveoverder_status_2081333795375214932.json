@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about global finance and economies.",
+          "id": "847511168268644352",
+          "name": "Global Economy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2081333795375214932",
+    "created_at": "2026-07-26T11:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081333795375214932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "166793593",
+          "start": 3,
+          "username": "animetrends"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081333795375214932",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081111259076862248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animetrends: JAPÓN PREMIA IMPUESTOS CON COSPLAY\n\nEl gobierno japonés implementó una de las medidas fiscales más absurdas del mundo: rec…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2081111108727750656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOGXhvXWQAAlznA.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2081111239988518912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOGXpYWWoAApMh3.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2081333795375214932",
+        "created_at": "2026-07-26T11:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081333795375214932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "166793593",
+              "start": 3,
+              "username": "animetrends"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081333795375214932",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081111259076862248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animetrends: JAPÓN PREMIA IMPUESTOS CON COSPLAY\n\nEl gobierno japonés implementó una de las medidas fiscales más absurdas del mundo: rec…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081111108727750656",
+            "3_2081111239988518912"
+          ]
+        },
+        "author_id": "166793593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2081111259076862248",
+        "created_at": "2026-07-25T20:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T21:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081111259076862248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xFA20Ak7EE",
+              "end": 302,
+              "expanded_url": "https://x.com/animetrends/status/2081111259076862248/photo/1",
+              "media_key": "3_2081111108727750656",
+              "start": 279,
+              "url": "https://t.co/xFA20Ak7EE"
+            },
+            {
+              "display_url": "pic.x.com/xFA20Ak7EE",
+              "end": 302,
+              "expanded_url": "https://x.com/animetrends/status/2081111259076862248/photo/1",
+              "media_key": "3_2081111239988518912",
+              "start": 279,
+              "url": "https://t.co/xFA20Ak7EE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081111259076862248",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "JAPÓN PREMIA IMPUESTOS CON COSPLAY\n\nEl gobierno japonés implementó una de las medidas fiscales más absurdas del mundo: recompensar las contribuciones fiscales de los ciudadanos con experiencias profesionales de cosplay.\n\nA través de su sistema oficial de donaciones fiscales, el distrito de Toshima ofrece un paquete platino valorado en 530,000 yenes: a cambio de la contribución, el gobierno fabrica un traje a la medida de cualquier personaje de anime que elijas.\n\nEl premio incluye maquillaje profesional, estilistas, una sesión fotográfica de lujo y pases VIP para los mejores eventos otaku de la ciudad.\n\nLos otakus salvarán la economía."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 695,
+          "impression_count": 137737,
+          "like_count": 4271,
+          "quote_count": 74,
+          "reply_count": 48,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "JAPÓN PREMIA IMPUESTOS CON COSPLAY\n\nEl gobierno japonés implementó una de las medidas fiscales más absurdas del mundo: recompensar las contribuciones fiscales de los ciudadanos con experiencias profesionales de cosplay.\n\nA través de su sistema oficial de donaciones fiscales, el https://t.co/xFA20Ak7EE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 256,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1382
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-15T00:56:52.000Z",
+        "description": "Seguimos de cerca las tendencias del anime y la cultura japonesa.",
+        "id": "166793593",
+        "location": "Latinoamérica",
+        "name": "AnimeTrends",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003513482939867136/VilQZ22__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467134,
+          "following_count": 772,
+          "like_count": 348,
+          "listed_count": 968,
+          "media_count": 46253,
+          "tweet_count": 54657
+        },
+        "url": "",
+        "username": "animetrends",
+        "verified": true
+      }
+    ]
+  }
+}

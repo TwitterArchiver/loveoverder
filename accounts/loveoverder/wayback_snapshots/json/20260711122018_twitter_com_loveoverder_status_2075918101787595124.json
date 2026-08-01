@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075591764149452800"
+      ],
+      "media_source_tweet_id": [
+        "2075591772852679140"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2075918101787595124",
+    "created_at": "2026-07-11T12:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075918101787595124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1735728536827334657",
+          "start": 3,
+          "username": "SakurasakaRiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lO9fuieUiL",
+          "end": 47,
+          "expanded_url": "https://x.com/SakurasakaRiko/status/2075591772852679140/photo/1",
+          "media_key": "3_2075591764149452800",
+          "start": 24,
+          "url": "https://t.co/lO9fuieUiL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075918101787595124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075591772852679140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakurasakaRiko: 有烟？ https://t.co/lO9fuieUiL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_2075591764149452800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM37tmjawAAOKJY.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075591764149452800"
+          ],
+          "media_source_tweet_id": [
+            "2075591772852679140"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2075918101787595124",
+        "created_at": "2026-07-11T12:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075918101787595124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1735728536827334657",
+              "start": 3,
+              "username": "SakurasakaRiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lO9fuieUiL",
+              "end": 47,
+              "expanded_url": "https://x.com/SakurasakaRiko/status/2075591772852679140/photo/1",
+              "media_key": "3_2075591764149452800",
+              "start": 24,
+              "url": "https://t.co/lO9fuieUiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075918101787595124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075591772852679140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakurasakaRiko: 有烟？ https://t.co/lO9fuieUiL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075591764149452800"
+          ]
+        },
+        "author_id": "1735728536827334657",
+        "conversation_id": "2075591772852679140",
+        "created_at": "2026-07-10T14:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075591772852679140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lO9fuieUiL",
+              "end": 27,
+              "expanded_url": "https://x.com/SakurasakaRiko/status/2075591772852679140/photo/1",
+              "media_key": "3_2075591764149452800",
+              "start": 4,
+              "url": "https://t.co/lO9fuieUiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075591772852679140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 835,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有烟？ https://t.co/lO9fuieUiL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語🇯🇵/中文🇨🇳/EN🇺🇸🇬🇧 OK\n喜欢玩各种音游的普通玩家，数码设备爱好者\n前移动端音游公司总助｜PM｜周边主管｜赛事策划\n maimai 樱桃堇晓橙白熊华超檄辉将持有，真神持有\n你可以称呼我为riko或者璃子\n全球各地旅游中，偶尔发发酒店评价\n⬛️🟨⬛️🟪⬛️🟨⬛️🟪⬛️🟨⬛️",
+        "id": "1735728536827334657",
+        "location": "Tokyo",
+        "name": "樱坂璃子Riko",
+        "pinned_tweet_id": "2068052501732237657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063885823553191936/2yMWRrzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 677,
+          "like_count": 7635,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 2450
+        },
+        "url": "",
+        "username": "SakurasakaRiko",
+        "verified": true
+      }
+    ]
+  }
+}

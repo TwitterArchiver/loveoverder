@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080646782938390692",
+    "created_at": "2026-07-24T13:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080646782938390692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1440124592509566977",
+          "start": 3,
+          "username": "a_tassii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080646782938390692",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1481
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080296725294494032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a_tassii: Tem 2 dias que eu e meu namorado estamos CHORANDO de rir com esse vídeo, é o vídeo mais engraçado existente no mundo https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28723,
+        "height": 1024,
+        "media_key": "13_2080296697503137792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080296697503137792/img/jHpK0lUIaqw5ZFEx.jpg",
+        "public_metrics": {
+          "view_count": 1187079
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080296697503137792/vid/avc1/320x568/t0Khu86sQnDdJDYr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080296697503137792/vid/avc1/480x852/XrZqGkvtIZIXDcLC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080296697503137792/vid/avc1/576x1024/CTvpffkj83yq1waU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080296697503137792/pl/CJ4K2irv440jdeNN.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080646782938390692",
+        "created_at": "2026-07-24T13:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080646782938390692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1440124592509566977",
+              "start": 3,
+              "username": "a_tassii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080646782938390692",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1481
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080296725294494032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a_tassii: Tem 2 dias que eu e meu namorado estamos CHORANDO de rir com esse vídeo, é o vídeo mais engraçado existente no mundo https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080296697503137792"
+          ]
+        },
+        "author_id": "1440124592509566977",
+        "conversation_id": "2080296725294494032",
+        "created_at": "2026-07-23T14:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080296725294494032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z3VWWwV6nn",
+              "end": 140,
+              "expanded_url": "https://x.com/a_tassii/status/2080296725294494032/video/1",
+              "media_key": "13_2080296697503137792",
+              "start": 117,
+              "url": "https://t.co/Z3VWWwV6nn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080296725294494032",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6560,
+          "impression_count": 1910396,
+          "like_count": 38232,
+          "quote_count": 326,
+          "reply_count": 434,
+          "retweet_count": 1481
+        },
+        "reply_settings": "everyone",
+        "text": "Tem 2 dias que eu e meu namorado estamos CHORANDO de rir com esse vídeo, é o vídeo mais engraçado existente no mundo https://t.co/Z3VWWwV6nn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 242,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1188
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T01:24:15.000Z",
+        "description": "୧ ׅ𖥔 ۫ 🩷 . 𖧧 ࣪.❝💍★ .| baddie de alma | loatwt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/zztassi?igsh=b…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/zztassi?igsh=b25iNjF2aXkydWxr&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/Ursjzk0NmG"
+              }
+            ]
+          }
+        },
+        "id": "1440124592509566977",
+        "location": "Espírito Santo, Brasil",
+        "name": "𝒯assi stargirl",
+        "pinned_tweet_id": "2022416390360338655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040310899807035392/2G_FJGsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 448,
+          "like_count": 86095,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 5567
+        },
+        "url": "https://t.co/Ursjzk0NmG",
+        "username": "a_tassii",
+        "verified": false
+      }
+    ]
+  }
+}

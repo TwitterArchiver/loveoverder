@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2076636946286452736"
+      ],
+      "media_source_tweet_id": [
+        "2076637008857108954"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076867679789682936",
+    "created_at": "2026-07-14T03:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076867679789682936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1330796198538559490",
+          "start": 3,
+          "username": "Ming_vrc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3Yih4X1hDq",
+          "end": 41,
+          "expanded_url": "https://x.com/Ming_vrc/status/2076637008857108954/video/1",
+          "media_key": "7_2076636946286452736",
+          "start": 18,
+          "url": "https://t.co/3Yih4X1hDq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076867679789682936",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1419
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076637008857108954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ming_vrc: www https://t.co/3Yih4X1hDq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15046,
+        "height": 720,
+        "media_key": "7_2076636946286452736",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076636946286452736/pu/img/FYold8SNXqT0UAux.jpg",
+        "public_metrics": {
+          "view_count": 205352
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076636946286452736/pu/vid/avc1/480x270/lQxvHouMi07LkoNo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076636946286452736/pu/vid/avc1/640x360/3F6e0JuUOKTf-N_k.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076636946286452736/pu/vid/avc1/1280x720/flqRV0ML5-fTTcEN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076636946286452736/pu/pl/NCnKNNbm8TR4Vxka.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076636946286452736"
+          ],
+          "media_source_tweet_id": [
+            "2076637008857108954"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076867679789682936",
+        "created_at": "2026-07-14T03:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076867679789682936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1330796198538559490",
+              "start": 3,
+              "username": "Ming_vrc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Yih4X1hDq",
+              "end": 41,
+              "expanded_url": "https://x.com/Ming_vrc/status/2076637008857108954/video/1",
+              "media_key": "7_2076636946286452736",
+              "start": 18,
+              "url": "https://t.co/3Yih4X1hDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076867679789682936",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1419
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076637008857108954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ming_vrc: www https://t.co/3Yih4X1hDq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076636946286452736"
+          ]
+        },
+        "author_id": "1330796198538559490",
+        "conversation_id": "2076637008857108954",
+        "created_at": "2026-07-13T11:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076637008857108954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Yih4X1hDq",
+              "end": 27,
+              "expanded_url": "https://x.com/Ming_vrc/status/2076637008857108954/video/1",
+              "media_key": "7_2076636946286452736",
+              "start": 4,
+              "url": "https://t.co/3Yih4X1hDq"
+            },
+            {
+              "display_url": "x.com/hanawa_hinata/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/hanawa_hinata/status/2076498822050804045",
+              "start": 28,
+              "url": "https://t.co/n2DT4RtUaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076637008857108954",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2196,
+          "impression_count": 552301,
+          "like_count": 10590,
+          "quote_count": 20,
+          "reply_count": 12,
+          "retweet_count": 1419
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076498822050804045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "www https://t.co/3Yih4X1hDq https://t.co/n2DT4RtUaS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 186,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-23T08:52:01.000Z",
+        "description": "Vrchat:Ming-\n接模型委託 DM",
+        "id": "1330796198538559490",
+        "name": "Ming-",
+        "pinned_tweet_id": "1977456931230106092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988710211910336512/wwbrPty7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 765,
+          "like_count": 8581,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 1983
+        },
+        "url": "",
+        "username": "Ming_vrc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078675496112721920"
+      ],
+      "media_source_tweet_id": [
+        "2078675533534200153"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Huening Kai (휴닝 카이). Member of TXT",
+          "id": "1085290403597668352",
+          "name": "Huening Kai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Huening Kai (휴닝 카이). Member of TXT",
+          "id": "1085290403597668352",
+          "name": "Huening Kai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Huening Kai (휴닝 카이). Member of TXT",
+          "id": "1085290403597668352",
+          "name": "Huening Kai"
+        }
+      }
+    ],
+    "conversation_id": "2079471525904957814",
+    "created_at": "2026-07-21T07:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079471525904957814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1448651103600480263",
+          "start": 3,
+          "username": "Zzzpoodede"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pCMWHtPZc5",
+          "end": 63,
+          "expanded_url": "https://x.com/Zzzpoodede/status/2078675533534200153/video/1",
+          "media_key": "13_2078675496112721920",
+          "start": 40,
+          "url": "https://t.co/pCMWHtPZc5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079471525904957814",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16405
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078675533534200153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zzzpoodede: 학교 안 가니까 매일을 휴닝카이처럼 일어남 https://t.co/pCMWHtPZc5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24286,
+        "height": 506,
+        "media_key": "13_2078675496112721920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078675496112721920/img/K3zT-Iz6eGx15W7B.jpg",
+        "public_metrics": {
+          "view_count": 797351
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078675496112721920/vid/avc1/472x270/13PL_tJ7OUHm-QFf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078675496112721920/vid/avc1/630x360/qDWqo1qR9VXIBsb0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078675496112721920/vid/avc1/886x506/eIi34I3hglsC1beE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078675496112721920/pl/lbyr0lRP75P7DfQ6.m3u8?v=cfc"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078675496112721920"
+          ]
+        },
+        "author_id": "1448651103600480263",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Huening Kai (휴닝 카이). Member of TXT",
+              "id": "1085290403597668352",
+              "name": "Huening Kai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Huening Kai (휴닝 카이). Member of TXT",
+              "id": "1085290403597668352",
+              "name": "Huening Kai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Huening Kai (휴닝 카이). Member of TXT",
+              "id": "1085290403597668352",
+              "name": "Huening Kai"
+            }
+          }
+        ],
+        "conversation_id": "2078675533534200153",
+        "created_at": "2026-07-19T02:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078675533534200153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCMWHtPZc5",
+              "end": 47,
+              "expanded_url": "https://x.com/Zzzpoodede/status/2078675533534200153/video/1",
+              "media_key": "13_2078675496112721920",
+              "start": 24,
+              "url": "https://t.co/pCMWHtPZc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078675533534200153",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7349,
+          "impression_count": 3033348,
+          "like_count": 75372,
+          "quote_count": 1948,
+          "reply_count": 26,
+          "retweet_count": 16405
+        },
+        "reply_settings": "everyone",
+        "text": "학교 안 가니까 매일을 휴닝카이처럼 일어남 https://t.co/pCMWHtPZc5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078675496112721920"
+          ],
+          "media_source_tweet_id": [
+            "2078675533534200153"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Huening Kai (휴닝 카이). Member of TXT",
+              "id": "1085290403597668352",
+              "name": "Huening Kai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Huening Kai (휴닝 카이). Member of TXT",
+              "id": "1085290403597668352",
+              "name": "Huening Kai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Huening Kai (휴닝 카이). Member of TXT",
+              "id": "1085290403597668352",
+              "name": "Huening Kai"
+            }
+          }
+        ],
+        "conversation_id": "2079471525904957814",
+        "created_at": "2026-07-21T07:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079471525904957814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1448651103600480263",
+              "start": 3,
+              "username": "Zzzpoodede"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCMWHtPZc5",
+              "end": 63,
+              "expanded_url": "https://x.com/Zzzpoodede/status/2078675533534200153/video/1",
+              "media_key": "13_2078675496112721920",
+              "start": 40,
+              "url": "https://t.co/pCMWHtPZc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079471525904957814",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16405
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078675533534200153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zzzpoodede: 학교 안 가니까 매일을 휴닝카이처럼 일어남 https://t.co/pCMWHtPZc5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 214,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 948
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-14T14:05:24.000Z",
+        "description": "오타쿠 취향집합소",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/flybe",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/flybe",
+                "start": 0,
+                "url": "https://t.co/awsn0tOPJM"
+              }
+            ]
+          }
+        },
+        "id": "1448651103600480263",
+        "location": "구독합니다",
+        "name": "삼이",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061109217919201280/rUz7st61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11034,
+          "following_count": 160,
+          "like_count": 36192,
+          "listed_count": 17,
+          "media_count": 1336,
+          "tweet_count": 15421
+        },
+        "url": "https://t.co/awsn0tOPJM",
+        "username": "Zzzpoodede",
+        "verified": true
+      }
+    ]
+  }
+}

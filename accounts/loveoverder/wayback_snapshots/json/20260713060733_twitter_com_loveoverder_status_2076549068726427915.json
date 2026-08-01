@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076228402751643648"
+      ],
+      "media_source_tweet_id": [
+        "2076228409294807186"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076549068726427915",
+    "created_at": "2026-07-13T06:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076549068726427915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1313647919908745220",
+          "start": 3,
+          "username": "7i__g"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AKszAXzEr2",
+          "end": 34,
+          "expanded_url": "https://x.com/7i__g/status/2076228409294807186/photo/1",
+          "media_key": "3_2076228402751643648",
+          "start": 11,
+          "url": "https://t.co/AKszAXzEr2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076549068726427915",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 735
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076228409294807186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7i__g: https://t.co/AKszAXzEr2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2076228402751643648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNA-u2KWoAASz7A.jpg",
+        "width": 567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076228402751643648"
+          ],
+          "media_source_tweet_id": [
+            "2076228409294807186"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076549068726427915",
+        "created_at": "2026-07-13T06:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076549068726427915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1313647919908745220",
+              "start": 3,
+              "username": "7i__g"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AKszAXzEr2",
+              "end": 34,
+              "expanded_url": "https://x.com/7i__g/status/2076228409294807186/photo/1",
+              "media_key": "3_2076228402751643648",
+              "start": 11,
+              "url": "https://t.co/AKszAXzEr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076549068726427915",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 735
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076228409294807186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7i__g: https://t.co/AKszAXzEr2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076228402751643648"
+          ]
+        },
+        "author_id": "1313647919908745220",
+        "conversation_id": "2076228409294807186",
+        "created_at": "2026-07-12T08:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076228409294807186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AKszAXzEr2",
+              "end": 23,
+              "expanded_url": "https://x.com/7i__g/status/2076228409294807186/photo/1",
+              "media_key": "3_2076228402751643648",
+              "start": 0,
+              "url": "https://t.co/AKszAXzEr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076228409294807186",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 38288,
+          "like_count": 3663,
+          "quote_count": 16,
+          "reply_count": 7,
+          "retweet_count": 735
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AKszAXzEr2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 107,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T01:11:08.000Z",
+        "description": "˚ʚ ❀ ♡ ❀ .",
+        "id": "1313647919908745220",
+        "name": "ًً",
+        "pinned_tweet_id": "2058592279900586263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997969157204127744/A_-9ztr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28736,
+          "following_count": 119,
+          "like_count": 357839,
+          "listed_count": 48,
+          "media_count": 1263,
+          "tweet_count": 4856
+        },
+        "url": "",
+        "username": "7i__g",
+        "verified": true
+      }
+    ]
+  }
+}

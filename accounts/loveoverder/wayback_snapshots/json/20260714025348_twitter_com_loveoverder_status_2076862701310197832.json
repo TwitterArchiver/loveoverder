@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2009127985274929152"
+      ],
+      "media_source_tweet_id": [
+        "2009128039129731377"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076862701310197832",
+    "created_at": "2026-07-14T02:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076862701310197832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790917576366985217",
+          "start": 3,
+          "username": "ianpicts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Q4Jn2nJ13",
+          "end": 37,
+          "expanded_url": "https://x.com/ianpicts/status/2009128039129731377/video/1",
+          "media_key": "13_2009127985274929152",
+          "start": 14,
+          "url": "https://t.co/6Q4Jn2nJ13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076862701310197832",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5598
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009128039129731377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ianpicts: https://t.co/6Q4Jn2nJ13"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15416,
+        "height": 720,
+        "media_key": "13_2009127985274929152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009127985274929152/img/mvNX3-tpMhW4xOXY.jpg",
+        "public_metrics": {
+          "view_count": 253062
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009127985274929152/vid/avc1/360x270/8kaSZFZmYoqnFxoO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009127985274929152/vid/avc1/480x360/jBi_MDIidyUYMNN0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009127985274929152/vid/avc1/960x720/UHfeFhFUlKjZKdtF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009127985274929152/pl/s2bLAzVnsn2BiDu_.m3u8?v=12d"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009127985274929152"
+          ],
+          "media_source_tweet_id": [
+            "2009128039129731377"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076862701310197832",
+        "created_at": "2026-07-14T02:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076862701310197832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790917576366985217",
+              "start": 3,
+              "username": "ianpicts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Q4Jn2nJ13",
+              "end": 37,
+              "expanded_url": "https://x.com/ianpicts/status/2009128039129731377/video/1",
+              "media_key": "13_2009127985274929152",
+              "start": 14,
+              "url": "https://t.co/6Q4Jn2nJ13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076862701310197832",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5598
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009128039129731377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ianpicts: https://t.co/6Q4Jn2nJ13"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009127985274929152"
+          ]
+        },
+        "author_id": "1790917576366985217",
+        "conversation_id": "2009128039129731377",
+        "created_at": "2026-01-08T05:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T06:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009128039129731377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Q4Jn2nJ13",
+              "end": 23,
+              "expanded_url": "https://x.com/ianpicts/status/2009128039129731377/video/1",
+              "media_key": "13_2009127985274929152",
+              "start": 0,
+              "url": "https://t.co/6Q4Jn2nJ13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009128039129731377",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2466,
+          "impression_count": 721474,
+          "like_count": 27943,
+          "quote_count": 681,
+          "reply_count": 0,
+          "retweet_count": 5598
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/6Q4Jn2nJ13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 183,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 640
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T01:30:12.000Z",
+        "description": "ー for hearts2hearts' center #이안 ✦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "이안"
+              }
+            ]
+          }
+        },
+        "id": "1790917576366985217",
+        "location": "fan acc ♡",
+        "name": "ian pics",
+        "pinned_tweet_id": "2009128039129731377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069579888370003969/hSzCDR4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22311,
+          "following_count": 38,
+          "like_count": 26749,
+          "listed_count": 76,
+          "media_count": 2607,
+          "tweet_count": 3245
+        },
+        "url": "",
+        "username": "ianpicts",
+        "verified": true
+      }
+    ]
+  }
+}

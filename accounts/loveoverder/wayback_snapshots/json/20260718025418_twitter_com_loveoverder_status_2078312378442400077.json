@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077697294972133376"
+      ],
+      "media_source_tweet_id": [
+        "2077697303306228130"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Binance CEO.",
+          "id": "1603445515831545856",
+          "name": "Changpeng Zhao"
+        }
+      }
+    ],
+    "conversation_id": "2078312378442400077",
+    "created_at": "2026-07-18T02:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078312378442400077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2065623257315987456",
+          "start": 3,
+          "username": "Zhangxiaoyv2"
+        },
+        {
+          "end": 29,
+          "id": "902926941413453824",
+          "start": 18,
+          "username": "cz_binance"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zmLBjkfj8R",
+          "end": 69,
+          "expanded_url": "https://x.com/Zhangxiaoyv2/status/2077697303306228130/photo/1",
+          "media_key": "3_2077697294972133376",
+          "start": 46,
+          "url": "https://t.co/zmLBjkfj8R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078312378442400077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077697303306228130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zhangxiaoyv2: @cz_binance 看书就要纸质版的读起来才有感觉 https://t.co/zmLBjkfj8R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2077697294972133376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNV2roGaoAAOdeu.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077697294972133376"
+          ]
+        },
+        "author_id": "2065623257315987456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Binance CEO.",
+              "id": "1603445515831545856",
+              "name": "Changpeng Zhao"
+            }
+          }
+        ],
+        "conversation_id": "2077695009474629861",
+        "created_at": "2026-07-16T10:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077697303306228130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "902926941413453824",
+              "start": 0,
+              "username": "cz_binance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zmLBjkfj8R",
+              "end": 51,
+              "expanded_url": "https://x.com/Zhangxiaoyv2/status/2077697303306228130/photo/1",
+              "media_key": "3_2077697294972133376",
+              "start": 28,
+              "url": "https://t.co/zmLBjkfj8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077697303306228130",
+        "in_reply_to_user_id": "902926941413453824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2445,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077695009474629861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cz_binance 看书就要纸质版的读起来才有感觉 https://t.co/zmLBjkfj8R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077697294972133376"
+          ],
+          "media_source_tweet_id": [
+            "2077697303306228130"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Binance CEO.",
+              "id": "1603445515831545856",
+              "name": "Changpeng Zhao"
+            }
+          }
+        ],
+        "conversation_id": "2078312378442400077",
+        "created_at": "2026-07-18T02:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078312378442400077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2065623257315987456",
+              "start": 3,
+              "username": "Zhangxiaoyv2"
+            },
+            {
+              "end": 29,
+              "id": "902926941413453824",
+              "start": 18,
+              "username": "cz_binance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zmLBjkfj8R",
+              "end": 69,
+              "expanded_url": "https://x.com/Zhangxiaoyv2/status/2077697303306228130/photo/1",
+              "media_key": "3_2077697294972133376",
+              "start": 46,
+              "url": "https://t.co/zmLBjkfj8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078312378442400077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077697303306228130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zhangxiaoyv2: @cz_binance 看书就要纸质版的读起来才有感觉 https://t.co/zmLBjkfj8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 206,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T02:36:34.000Z",
+        "description": "大号 @web3laoA 被封\nBNB坚定持有者 | BSC忠实建设者 | meme超级爱好者 | 早期meme发掘者 | 频道分享交流者 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "web3laoA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zhuifei131419",
+                "end": 23,
+                "expanded_url": "https://t.me/zhuifei131419",
+                "start": 0,
+                "url": "https://t.co/0XjHukYrEz"
+              }
+            ]
+          }
+        },
+        "id": "2065623257315987456",
+        "name": "张小鱼🔶BNB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065624510200721408/IbsZuz6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 175,
+          "like_count": 948,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/0XjHukYrEz",
+        "username": "Zhangxiaoyv2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-30T16:12:13.000Z",
+        "description": "Buy the book (proceeds go to charity):\nEnglish: https://t.co/UxgYxYJ3NF\nChinese: https://t.co/ItFd8FEyuK \n\n@binance\n@BNBchain\n@YZiLabs\n@GiggleAcademy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 107,
+                "username": "binance"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "BNBchain"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "username": "YZiLabs"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "GiggleAcademy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "a.co/d/08NMxBOH",
+                "end": 71,
+                "expanded_url": "https://a.co/d/08NMxBOH",
+                "start": 48,
+                "url": "https://t.co/UxgYxYJ3NF"
+              },
+              {
+                "display_url": "a.co/d/01f7iQTn",
+                "end": 104,
+                "expanded_url": "https://a.co/d/01f7iQTn",
+                "start": 81,
+                "url": "https://t.co/ItFd8FEyuK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com",
+                "end": 23,
+                "expanded_url": "http://www.binance.com",
+                "start": 0,
+                "url": "https://t.co/zlvCSBIFGA"
+              }
+            ]
+          }
+        },
+        "id": "902926941413453824",
+        "name": "CZ 🔶 BNB",
+        "pinned_tweet_id": "2050391023034216808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041696316451909632/7K4xEnRE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11967550,
+          "following_count": 1284,
+          "like_count": 18126,
+          "listed_count": 40455,
+          "media_count": 979,
+          "tweet_count": 8958
+        },
+        "url": "https://t.co/zlvCSBIFGA",
+        "username": "cz_binance",
+        "verified": true
+      }
+    ]
+  }
+}

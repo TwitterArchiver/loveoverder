@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080644323834741244",
+    "created_at": "2026-07-24T13:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080644323834741244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MEJ50749/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/MEJ50749/status/2080305898757783671",
+          "start": 4,
+          "url": "https://t.co/Q0My9YJpRo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080644323834741244",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080305898757783671",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠？ https://t.co/Q0My9YJpRo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2080305878461509633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN67LK3a8AEwwWd.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080644323834741244",
+        "created_at": "2026-07-24T13:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080644323834741244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MEJ50749/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/MEJ50749/status/2080305898757783671",
+              "start": 4,
+              "url": "https://t.co/Q0My9YJpRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080644323834741244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080305898757783671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠？ https://t.co/Q0My9YJpRo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080305878461509633"
+          ]
+        },
+        "author_id": "233452656",
+        "conversation_id": "2080305898757783671",
+        "created_at": "2026-07-23T14:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080305898757783671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gPEQDSvujP",
+              "end": 31,
+              "expanded_url": "https://x.com/MEJ50749/status/2080305898757783671/photo/1",
+              "media_key": "3_2080305878461509633",
+              "start": 8,
+              "url": "https://t.co/gPEQDSvujP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080305898757783671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 286914,
+          "like_count": 400,
+          "quote_count": 3,
+          "reply_count": 379,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "颤抖吧，人类！ https://t.co/gPEQDSvujP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 242,
+          "like_count": 578,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1185
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-03T07:53:41.000Z",
+        "description": "投资笔记｜AI × Crypto × 全球资本趋势｜Tg:maomao50749\nDYOR | ALL FOR FREEDOM\n#Binance 你的数字货币购买平台，就是 #币安https://t.co/ObQd8Kaii7 \n@MEXCZH 大使｜注明来意V：mej50749",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 64,
+                "tag": "Binance"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 122,
+                "start": 115,
+                "username": "MEXCZH"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/join?ref=14789…",
+                "end": 113,
+                "expanded_url": "https://www.binance.com/join?ref=147893433",
+                "start": 90,
+                "url": "https://t.co/ObQd8Kaii7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "htx.com.hr/invite/zh-cn/1…",
+                "end": 23,
+                "expanded_url": "https://www.htx.com.hr/invite/zh-cn/1h?invite_code=xv3d7223",
+                "start": 0,
+                "url": "https://t.co/WAnwgXugJl"
+              }
+            ]
+          }
+        },
+        "id": "233452656",
+        "location": "Tokyo, Japan",
+        "name": "MEJ毛毛姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079399122767908864/akUE7-pD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81367,
+          "following_count": 10975,
+          "like_count": 29287,
+          "listed_count": 359,
+          "media_count": 4426,
+          "tweet_count": 65071
+        },
+        "url": "https://t.co/WAnwgXugJl",
+        "username": "MEJ50749",
+        "verified": true
+      }
+    ]
+  }
+}

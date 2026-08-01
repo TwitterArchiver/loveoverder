@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081350191534276608"
+      ],
+      "media_source_tweet_id": [
+        "2081350266406760745"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081568258000642227",
+    "created_at": "2026-07-27T02:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081568258000642227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1898185451900489728",
+          "start": 3,
+          "username": "CatMaaannn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g8lJlD5Szw",
+          "end": 60,
+          "expanded_url": "https://x.com/CatMaaannn/status/2081350266406760745/video/1",
+          "media_key": "13_2081350191534276608",
+          "start": 37,
+          "url": "https://t.co/g8lJlD5Szw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081568258000642227",
+    "lang": "ar",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 634
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081350266406760745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CatMaaannn: مناظر تسر الناظرين 💜 https://t.co/g8lJlD5Szw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61206,
+        "height": 1024,
+        "media_key": "13_2081350191534276608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081350191534276608/img/H6y51dZ2t9hf1W_E.jpg",
+        "public_metrics": {
+          "view_count": 40572
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081350191534276608/vid/avc1/320x568/AltjPIdTi3RoBS07.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081350191534276608/vid/avc1/480x852/w4I3GjsQNdXEKjRW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081350191534276608/vid/avc1/576x1024/W5QeDl3zRGpz4cUC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081350191534276608/pl/A-opNfB-U9oJ_AzR.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081350191534276608"
+          ]
+        },
+        "author_id": "1898185451900489728",
+        "conversation_id": "2081350266406760745",
+        "created_at": "2026-07-26T12:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081350266406760745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g8lJlD5Szw",
+              "end": 44,
+              "expanded_url": "https://x.com/CatMaaannn/status/2081350266406760745/video/1",
+              "media_key": "13_2081350191534276608",
+              "start": 21,
+              "url": "https://t.co/g8lJlD5Szw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081350266406760745",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 456,
+          "impression_count": 88167,
+          "like_count": 8124,
+          "quote_count": 16,
+          "reply_count": 29,
+          "retweet_count": 634
+        },
+        "reply_settings": "everyone",
+        "text": "مناظر تسر الناظرين 💜 https://t.co/g8lJlD5Szw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081350191534276608"
+          ],
+          "media_source_tweet_id": [
+            "2081350266406760745"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081568258000642227",
+        "created_at": "2026-07-27T02:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081568258000642227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1898185451900489728",
+              "start": 3,
+              "username": "CatMaaannn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g8lJlD5Szw",
+              "end": 60,
+              "expanded_url": "https://x.com/CatMaaannn/status/2081350266406760745/video/1",
+              "media_key": "13_2081350191534276608",
+              "start": 37,
+              "url": "https://t.co/g8lJlD5Szw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081568258000642227",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 634
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081350266406760745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CatMaaannn: مناظر تسر الناظرين 💜 https://t.co/g8lJlD5Szw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 257,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1464
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T01:34:26.000Z",
+        "description": "♊️| تقني | اكتب وأقتبس | تبنى لا تشتري |♊️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "snapchat.com/t/msrKAbHP",
+                "end": 23,
+                "expanded_url": "https://snapchat.com/t/msrKAbHP",
+                "start": 0,
+                "url": "https://t.co/xBKgK4wgA0"
+              }
+            ]
+          }
+        },
+        "id": "1898185451900489728",
+        "location": "Riyadh",
+        "name": "Cat Man",
+        "pinned_tweet_id": "2046644025407512843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898408599895916544/1LWQjHUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4946,
+          "following_count": 1365,
+          "like_count": 21113,
+          "listed_count": 5,
+          "media_count": 4390,
+          "tweet_count": 25702
+        },
+        "url": "https://t.co/xBKgK4wgA0",
+        "username": "CatMaaannn",
+        "verified": true
+      }
+    ]
+  }
+}

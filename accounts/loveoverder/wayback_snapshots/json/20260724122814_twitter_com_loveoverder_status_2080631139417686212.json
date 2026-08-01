@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2080329796991492096"
+      ],
+      "media_source_tweet_id": [
+        "2080330026398933318"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080631139417686212",
+    "created_at": "2026-07-24T12:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080631139417686212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1050810570570649601",
+          "start": 3,
+          "username": "ceciarmy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xkNjEmxxfF",
+          "end": 122,
+          "expanded_url": "https://x.com/ceciarmy/status/2080330026398933318/video/1",
+          "media_key": "7_2080329796991492096",
+          "start": 99,
+          "url": "https://t.co/xkNjEmxxfF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080631139417686212",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5179
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080330026398933318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ceciarmy: Un gatito se emociona al ver por primera vez al hermano gemelo de su fallecido dueño https://t.co/xkNjEmxxfF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46500,
+        "height": 1920,
+        "media_key": "7_2080329796991492096",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2080329796991492096/pu/img/h_8sugUiunBsBhzV.jpg",
+        "public_metrics": {
+          "view_count": 2790000
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080329796991492096/pu/vid/avc1/320x568/2Y6UIa_jw3LX6snF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080329796991492096/pu/vid/avc1/480x852/o9lMz5n7K6zidQKA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2080329796991492096/pu/vid/avc1/720x1280/JSrPZDjQnBAP16pb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2080329796991492096/pu/pl/s0ZpMGI7wL_xWyN7.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2080329796991492096"
+          ]
+        },
+        "author_id": "1050810570570649601",
+        "conversation_id": "2080330026398933318",
+        "created_at": "2026-07-23T16:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080330026398933318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkNjEmxxfF",
+              "end": 108,
+              "expanded_url": "https://x.com/ceciarmy/status/2080330026398933318/video/1",
+              "media_key": "7_2080329796991492096",
+              "start": 85,
+              "url": "https://t.co/xkNjEmxxfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080330026398933318",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11467,
+          "impression_count": 5081621,
+          "like_count": 121170,
+          "quote_count": 444,
+          "reply_count": 485,
+          "retweet_count": 5179
+        },
+        "reply_settings": "everyone",
+        "text": "Un gatito se emociona al ver por primera vez al hermano gemelo de su fallecido dueño https://t.co/xkNjEmxxfF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2080329796991492096"
+          ],
+          "media_source_tweet_id": [
+            "2080330026398933318"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080631139417686212",
+        "created_at": "2026-07-24T12:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080631139417686212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1050810570570649601",
+              "start": 3,
+              "username": "ceciarmy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkNjEmxxfF",
+              "end": 122,
+              "expanded_url": "https://x.com/ceciarmy/status/2080330026398933318/video/1",
+              "media_key": "7_2080329796991492096",
+              "start": 99,
+              "url": "https://t.co/xkNjEmxxfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080631139417686212",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5179
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080330026398933318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ceciarmy: Un gatito se emociona al ver por primera vez al hermano gemelo de su fallecido dueño https://t.co/xkNjEmxxfF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 241,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1176
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-12T18:08:57.000Z",
+        "description": "business@ceciarmy.com",
+        "id": "1050810570570649601",
+        "name": "ceciarmy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029487364909752322/VIqTXBpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670329,
+          "following_count": 0,
+          "like_count": 180,
+          "listed_count": 810,
+          "media_count": 4733,
+          "tweet_count": 4928
+        },
+        "url": "",
+        "username": "ceciarmy",
+        "verified": true
+      }
+    ]
+  }
+}

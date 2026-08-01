@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076318699695607906",
+    "created_at": "2026-07-12T14:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076318699695607906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1974745227681501184",
+          "start": 3,
+          "username": "yu_kiii27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076318699695607906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075980597105688959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yu_kiii27: 我好害怕那些主页特别凶的人 感觉光是点进去 就被甩了脸色 好难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076318699695607906",
+        "created_at": "2026-07-12T14:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076318699695607906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1974745227681501184",
+              "start": 3,
+              "username": "yu_kiii27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076318699695607906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075980597105688959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yu_kiii27: 我好害怕那些主页特别凶的人 感觉光是点进去 就被甩了脸色 好难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974745227681501184",
+        "conversation_id": "2075980597105688959",
+        "created_at": "2026-07-11T16:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075980597105688959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075980597105688959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2108,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好害怕那些主页特别凶的人 感觉光是点进去 就被甩了脸色 好难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 61,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T07:55:47.000Z",
+        "description": "宝宝们 你们来找我聊天呗 \n我这个是个人推 发着玩 不要攻击俺 我很脆弱",
+        "id": "1974745227681501184",
+        "name": "yu ki ii",
+        "pinned_tweet_id": "2075579502562853001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075570253237493760/DIdPrcWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 35,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "yu_kiii27",
+        "verified": false
+      }
+    ]
+  }
+}

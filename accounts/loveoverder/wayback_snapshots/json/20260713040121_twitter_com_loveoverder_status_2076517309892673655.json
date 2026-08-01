@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2075919732138754118",
+    "created_at": "2026-07-13T04:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076517309892673655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1564990471327215619",
+          "start": 0,
+          "username": "bisco91395061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076517309892673655",
+    "in_reply_to_user_id": "1564990471327215619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075919732138754118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bisco91395061 好可爱😱🥰😱🥰😱🥰😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2075919565071192064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8l2IJaEAAOcEa.jpg",
+        "width": 675
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2075919565130006528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8l2IXbgAA3E6U.jpg",
+        "width": 900
+      },
+      {
+        "height": 3060,
+        "media_key": "3_2075919697972011008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8l93PboAAinLB.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2075919732138754118",
+        "created_at": "2026-07-13T04:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076517309892673655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076517309892673655",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075919732138754118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 好可爱😱🥰😱🥰😱🥰😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075919565071192064",
+            "3_2075919565130006528",
+            "3_2075919697972011008"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2075919732138754118",
+        "created_at": "2026-07-11T12:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075919732138754118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9tlVjznIYz",
+              "end": 34,
+              "expanded_url": "https://x.com/bisco91395061/status/2075919732138754118/photo/1",
+              "media_key": "3_2075919565071192064",
+              "start": 11,
+              "url": "https://t.co/9tlVjznIYz"
+            },
+            {
+              "display_url": "pic.x.com/9tlVjznIYz",
+              "end": 34,
+              "expanded_url": "https://x.com/bisco91395061/status/2075919732138754118/photo/1",
+              "media_key": "3_2075919565130006528",
+              "start": 11,
+              "url": "https://t.co/9tlVjznIYz"
+            },
+            {
+              "display_url": "pic.x.com/9tlVjznIYz",
+              "end": 34,
+              "expanded_url": "https://x.com/bisco91395061/status/2075919732138754118/photo/1",
+              "media_key": "3_2075919697972011008",
+              "start": 11,
+              "url": "https://t.co/9tlVjznIYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075919732138754118",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1480,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3 days ago https://t.co/9tlVjznIYz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 85,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 365,
+          "like_count": 9205,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1838
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

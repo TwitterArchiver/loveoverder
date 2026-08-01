@@ -1,0 +1,611 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081829454670659585",
+        "3_2081829454658084864",
+        "3_2081829454930661376",
+        "3_2081829454679027712"
+      ],
+      "media_source_tweet_id": [
+        "2081829481203859731",
+        "2081829481203859731",
+        "2081829481203859731",
+        "2081829481203859731"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2082362783493177449",
+    "created_at": "2026-07-29T07:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082362783493177449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1846983689248583680",
+          "start": 3,
+          "username": "Y2K_DOTCOM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PSONaWLmMh",
+          "end": 77,
+          "expanded_url": "https://x.com/Y2K_DOTCOM/status/2081829481203859731/photo/1",
+          "media_key": "3_2081829454670659585",
+          "start": 54,
+          "url": "https://t.co/PSONaWLmMh"
+        },
+        {
+          "display_url": "pic.x.com/PSONaWLmMh",
+          "end": 77,
+          "expanded_url": "https://x.com/Y2K_DOTCOM/status/2081829481203859731/photo/1",
+          "media_key": "3_2081829454658084864",
+          "start": 54,
+          "url": "https://t.co/PSONaWLmMh"
+        },
+        {
+          "display_url": "pic.x.com/PSONaWLmMh",
+          "end": 77,
+          "expanded_url": "https://x.com/Y2K_DOTCOM/status/2081829481203859731/photo/1",
+          "media_key": "3_2081829454930661376",
+          "start": 54,
+          "url": "https://t.co/PSONaWLmMh"
+        },
+        {
+          "display_url": "pic.x.com/PSONaWLmMh",
+          "end": 77,
+          "expanded_url": "https://x.com/Y2K_DOTCOM/status/2081829481203859731/photo/1",
+          "media_key": "3_2081829454679027712",
+          "start": 54,
+          "url": "https://t.co/PSONaWLmMh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082362783493177449",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 671
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081829481203859731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y2K_DOTCOM: Rei Ayanami art by Yoshiyuki Sadamoto https://t.co/PSONaWLmMh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081829454670659585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQk2-iXAAElbrA.jpg",
+        "width": 1458
+      },
+      {
+        "height": 452,
+        "media_key": "3_2081829454658084864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQk2-fXIAAq-r6.jpg",
+        "width": 780
+      },
+      {
+        "height": 896,
+        "media_key": "3_2081829454930661376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQk2_gWUAAJseA.jpg",
+        "width": 1500
+      },
+      {
+        "height": 911,
+        "media_key": "3_2081829454679027712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQk2-kWsAAa8rJ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081829454670659585",
+            "3_2081829454658084864",
+            "3_2081829454930661376",
+            "3_2081829454679027712"
+          ]
+        },
+        "author_id": "1846983689248583680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2081829481203859731",
+        "created_at": "2026-07-27T19:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081829481203859731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSONaWLmMh",
+              "end": 61,
+              "expanded_url": "https://x.com/Y2K_DOTCOM/status/2081829481203859731/photo/1",
+              "media_key": "3_2081829454670659585",
+              "start": 38,
+              "url": "https://t.co/PSONaWLmMh"
+            },
+            {
+              "display_url": "pic.x.com/PSONaWLmMh",
+              "end": 61,
+              "expanded_url": "https://x.com/Y2K_DOTCOM/status/2081829481203859731/photo/1",
+              "media_key": "3_2081829454658084864",
+              "start": 38,
+              "url": "https://t.co/PSONaWLmMh"
+            },
+            {
+              "display_url": "pic.x.com/PSONaWLmMh",
+              "end": 61,
+              "expanded_url": "https://x.com/Y2K_DOTCOM/status/2081829481203859731/photo/1",
+              "media_key": "3_2081829454930661376",
+              "start": 38,
+              "url": "https://t.co/PSONaWLmMh"
+            },
+            {
+              "display_url": "pic.x.com/PSONaWLmMh",
+              "end": 61,
+              "expanded_url": "https://x.com/Y2K_DOTCOM/status/2081829481203859731/photo/1",
+              "media_key": "3_2081829454679027712",
+              "start": 38,
+              "url": "https://t.co/PSONaWLmMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081829481203859731",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1092,
+          "impression_count": 102071,
+          "like_count": 5836,
+          "quote_count": 16,
+          "reply_count": 7,
+          "retweet_count": 671
+        },
+        "reply_settings": "everyone",
+        "text": "Rei Ayanami art by Yoshiyuki Sadamoto https://t.co/PSONaWLmMh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081829454670659585",
+            "3_2081829454658084864",
+            "3_2081829454930661376",
+            "3_2081829454679027712"
+          ],
+          "media_source_tweet_id": [
+            "2081829481203859731",
+            "2081829481203859731",
+            "2081829481203859731",
+            "2081829481203859731"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2082362783493177449",
+        "created_at": "2026-07-29T07:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082362783493177449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1846983689248583680",
+              "start": 3,
+              "username": "Y2K_DOTCOM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSONaWLmMh",
+              "end": 77,
+              "expanded_url": "https://x.com/Y2K_DOTCOM/status/2081829481203859731/photo/1",
+              "media_key": "3_2081829454670659585",
+              "start": 54,
+              "url": "https://t.co/PSONaWLmMh"
+            },
+            {
+              "display_url": "pic.x.com/PSONaWLmMh",
+              "end": 77,
+              "expanded_url": "https://x.com/Y2K_DOTCOM/status/2081829481203859731/photo/1",
+              "media_key": "3_2081829454658084864",
+              "start": 54,
+              "url": "https://t.co/PSONaWLmMh"
+            },
+            {
+              "display_url": "pic.x.com/PSONaWLmMh",
+              "end": 77,
+              "expanded_url": "https://x.com/Y2K_DOTCOM/status/2081829481203859731/photo/1",
+              "media_key": "3_2081829454930661376",
+              "start": 54,
+              "url": "https://t.co/PSONaWLmMh"
+            },
+            {
+              "display_url": "pic.x.com/PSONaWLmMh",
+              "end": 77,
+              "expanded_url": "https://x.com/Y2K_DOTCOM/status/2081829481203859731/photo/1",
+              "media_key": "3_2081829454679027712",
+              "start": 54,
+              "url": "https://t.co/PSONaWLmMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082362783493177449",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 671
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081829481203859731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Y2K_DOTCOM: Rei Ayanami art by Yoshiyuki Sadamoto https://t.co/PSONaWLmMh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 305,
+          "like_count": 896,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1802
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T18:37:02.000Z",
+        "description": "Nostalgia Culture | Welcome to the Renaissance",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "y2kdotcom.xyz",
+                "end": 23,
+                "expanded_url": "http://y2kdotcom.xyz",
+                "start": 0,
+                "url": "https://t.co/p9khMHXqr8"
+              }
+            ]
+          }
+        },
+        "id": "1846983689248583680",
+        "location": "Y2K",
+        "name": "Dotcom📟🌐",
+        "pinned_tweet_id": "2081829481203859731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895699714982449152/fA074v4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20229,
+          "following_count": 3,
+          "like_count": 11377,
+          "listed_count": 77,
+          "media_count": 6565,
+          "tweet_count": 9026
+        },
+        "url": "https://t.co/p9khMHXqr8",
+        "username": "Y2K_DOTCOM",
+        "verified": true
+      }
+    ]
+  }
+}

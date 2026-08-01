@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080640109179981824"
+      ],
+      "media_source_tweet_id": [
+        "2080640502635102436"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080886633478701401",
+    "created_at": "2026-07-25T05:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080886633478701401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1757101213466673152",
+          "start": 3,
+          "username": "amazingthings_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QeidjOLbHc",
+          "end": 109,
+          "expanded_url": "https://x.com/amazingthings_/status/2080640502635102436/video/1",
+          "media_key": "13_2080640109179981824",
+          "start": 86,
+          "url": "https://t.co/QeidjOLbHc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080886633478701401",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1503
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080640502635102436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amazingthings_: An incredible wind-powered drummer made entirely from scrap metal https://t.co/QeidjOLbHc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15487,
+        "height": 1024,
+        "media_key": "13_2080640109179981824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080640109179981824/img/zJVCSmvgEX3z3Sqa.jpg",
+        "public_metrics": {
+          "view_count": 505560
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080640109179981824/vid/avc1/320x568/CuIzcsF7zgfRP9va.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080640109179981824/vid/avc1/480x852/QsFf4ID-sNW20oxo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080640109179981824/vid/avc1/576x1024/VhRoh7qQUDEqAG4k.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080640109179981824/pl/aIiOkWnnP18uwSLE.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080640109179981824"
+          ]
+        },
+        "author_id": "1757101213466673152",
+        "conversation_id": "2080640502635102436",
+        "created_at": "2026-07-24T13:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080640502635102436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeidjOLbHc",
+              "end": 89,
+              "expanded_url": "https://x.com/amazingthings_/status/2080640502635102436/video/1",
+              "media_key": "13_2080640109179981824",
+              "start": 66,
+              "url": "https://t.co/QeidjOLbHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080640502635102436",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2165,
+          "impression_count": 954952,
+          "like_count": 10449,
+          "quote_count": 95,
+          "reply_count": 105,
+          "retweet_count": 1506
+        },
+        "reply_settings": "everyone",
+        "text": "An incredible wind-powered drummer made entirely from scrap metal https://t.co/QeidjOLbHc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080640109179981824"
+          ],
+          "media_source_tweet_id": [
+            "2080640502635102436"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080886633478701401",
+        "created_at": "2026-07-25T05:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080886633478701401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1757101213466673152",
+              "start": 3,
+              "username": "amazingthings_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeidjOLbHc",
+              "end": 109,
+              "expanded_url": "https://x.com/amazingthings_/status/2080640502635102436/video/1",
+              "media_key": "13_2080640109179981824",
+              "start": 86,
+              "url": "https://t.co/QeidjOLbHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080886633478701401",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1503
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080640502635102436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amazingthings_: An incredible wind-powered drummer made entirely from scrap metal https://t.co/QeidjOLbHc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 251,
+          "like_count": 631,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1295
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T17:56:12.000Z",
+        "description": "Discovering beauty in places, people & moments\nhttps://t.co/iw1k4irMsv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/mr._potato",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/mr._potato",
+                "start": 47,
+                "url": "https://t.co/iw1k4irMsv"
+              }
+            ]
+          }
+        },
+        "id": "1757101213466673152",
+        "location": "Earth",
+        "name": "Amazing Things",
+        "pinned_tweet_id": "2080640502635102436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757104283898494976/rOJ3z3BE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23986,
+          "following_count": 92,
+          "like_count": 52509,
+          "listed_count": 155,
+          "media_count": 35703,
+          "tweet_count": 50630
+        },
+        "url": "",
+        "username": "amazingthings_",
+        "verified": true
+      }
+    ]
+  }
+}

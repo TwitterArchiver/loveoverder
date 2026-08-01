@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081334571296317440"
+      ],
+      "media_source_tweet_id": [
+        "2081334848980144515"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081406545016037853",
+    "created_at": "2026-07-26T15:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081406545016037853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1790319108875227136",
+          "start": 3,
+          "username": "needygirl_o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XxklS3Vlh5",
+          "end": 42,
+          "expanded_url": "https://x.com/needygirl_o/status/2081334848980144515/photo/1",
+          "media_key": "3_2081334571296317440",
+          "start": 19,
+          "url": "https://t.co/XxklS3Vlh5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081406545016037853",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1139
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081334848980144515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_o: 🤟 https://t.co/XxklS3Vlh5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2081334571296317440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJiw-TbYAACzDw.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081334571296317440"
+          ]
+        },
+        "author_id": "1790319108875227136",
+        "conversation_id": "2081334848980144515",
+        "created_at": "2026-07-26T11:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081334848980144515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XxklS3Vlh5",
+              "end": 25,
+              "expanded_url": "https://x.com/needygirl_o/status/2081334848980144515/photo/1",
+              "media_key": "3_2081334571296317440",
+              "start": 2,
+              "url": "https://t.co/XxklS3Vlh5"
+            },
+            {
+              "display_url": "x.com/x_angelkawaii_…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/x_angelkawaii_x/status/2081334464488046734",
+              "start": 26,
+              "url": "https://t.co/ksykQmcObO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081334848980144515",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 902,
+          "impression_count": 122269,
+          "like_count": 8215,
+          "quote_count": 47,
+          "reply_count": 9,
+          "retweet_count": 1139
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081334464488046734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤟 https://t.co/XxklS3Vlh5 https://t.co/ksykQmcObO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081334571296317440"
+          ],
+          "media_source_tweet_id": [
+            "2081334848980144515"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081406545016037853",
+        "created_at": "2026-07-26T15:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081406545016037853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790319108875227136",
+              "start": 3,
+              "username": "needygirl_o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XxklS3Vlh5",
+              "end": 42,
+              "expanded_url": "https://x.com/needygirl_o/status/2081334848980144515/photo/1",
+              "media_key": "3_2081334571296317440",
+              "start": 19,
+              "url": "https://t.co/XxklS3Vlh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081406545016037853",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1139
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081334848980144515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_o: 🤟 https://t.co/XxklS3Vlh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 254,
+          "like_count": 679,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1404
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T09:52:26.000Z",
+        "description": "最強配信者（インターネット・エンジェル）と暮らすADV「NEEDY GIRL OVERDOSE」（ニディガと呼ぶ人もいるよ！）の公式アカウントです。\nYouTube：https://t.co/BKpkQo5DFg\nお問い合わせ：https://t.co/nXwN8xhR49",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wssplayground",
+                "end": 106,
+                "expanded_url": "https://www.youtube.com/@wssplayground",
+                "start": 83,
+                "url": "https://t.co/BKpkQo5DFg"
+              },
+              {
+                "display_url": "angelkawaii.com",
+                "end": 137,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 114,
+                "url": "https://t.co/nXwN8xhR49"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 23,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 0,
+                "url": "https://t.co/M5DW5V8xeX"
+              }
+            ]
+          }
+        },
+        "id": "1790319108875227136",
+        "name": "NEEDY GIRL Official",
+        "pinned_tweet_id": "2071760635319230817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790321034090147840/ohWusD8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63516,
+          "following_count": 9,
+          "like_count": 35,
+          "listed_count": 74,
+          "media_count": 767,
+          "tweet_count": 1350
+        },
+        "url": "https://t.co/M5DW5V8xeX",
+        "username": "needygirl_o",
+        "verified": true
+      }
+    ]
+  }
+}

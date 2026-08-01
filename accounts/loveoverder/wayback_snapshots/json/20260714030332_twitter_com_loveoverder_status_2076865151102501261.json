@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076865151102501261",
+    "created_at": "2026-07-14T03:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076865151102501261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jockcult/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/jockcult/status/2076797709650944035",
+          "start": 3,
+          "url": "https://t.co/bbI85S4zAn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076865151102501261",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076797709650944035",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑暈 https://t.co/bbI85S4zAn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076865151102501261",
+        "created_at": "2026-07-14T03:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076865151102501261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jockcult/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/jockcult/status/2076797709650944035",
+              "start": 3,
+              "url": "https://t.co/bbI85S4zAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076865151102501261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076797709650944035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑暈 https://t.co/bbI85S4zAn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871319409764995072",
+        "conversation_id": "2076654687852417297",
+        "created_at": "2026-07-13T22:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T23:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076797709650944035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "960339501192302592",
+              "start": 0,
+              "username": "lerrykal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076797709650944035",
+        "in_reply_to_user_id": "960339501192302592",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7866,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076795746301444233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lerrykal Não, ontem na minha casa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 183,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 646
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T22:18:34.000Z",
+        "description": "Servindo atletas gostosos diariamente                                                      ✉️DM para creditos ou remoções",
+        "id": "1871319409764995072",
+        "name": "jockcult",
+        "pinned_tweet_id": "2076654687852417297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058240828540141568/x-InMS0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9121,
+          "following_count": 860,
+          "like_count": 3326,
+          "listed_count": 10,
+          "media_count": 190,
+          "tweet_count": 1722
+        },
+        "url": "",
+        "username": "jockcult",
+        "verified": true
+      }
+    ]
+  }
+}

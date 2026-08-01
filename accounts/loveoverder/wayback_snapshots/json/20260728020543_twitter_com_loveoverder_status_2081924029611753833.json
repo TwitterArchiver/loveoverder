@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080892920664891392"
+      ],
+      "media_source_tweet_id": [
+        "2080895459577704915"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081924029611753833",
+    "created_at": "2026-07-28T02:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081924029611753833"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 104,
+          "start": 98,
+          "tag": "中国人能飞"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "中国人"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "感觉至上"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678171777409875968",
+          "start": 3,
+          "username": "420420420CTL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lw3rzvBvHd",
+          "end": 139,
+          "expanded_url": "https://x.com/420420420CTL/status/2080895459577704915/video/1",
+          "media_key": "13_2080892920664891392",
+          "start": 116,
+          "url": "https://t.co/Lw3rzvBvHd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081924029611753833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080895459577704915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @420420420CTL: 中国人能飞✈️✈️Listen😎is✊😎CHINAAA!!! ✊i can fly 🚀🚀🚀中国人看见的转🇨🇳🇨🇳 不转的是日本人😡 中文就是飞🚁 黄皮肤才对 👍#中国人能飞 #中国人 #感觉至上 https://t.co/Lw3rzvBvHd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15665,
+        "height": 1080,
+        "media_key": "13_2080892920664891392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080892920664891392/img/wjFVSP4IAsZpfdlc.jpg",
+        "public_metrics": {
+          "view_count": 3296
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080892920664891392/vid/avc1/1280x720/NmUTlvTFdCoVLwyf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080892920664891392/pl/i6dlJ9MnMF6PwG02.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080892920664891392/vid/avc1/640x360/U8HdeZqRgv27Aw80.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080892920664891392/vid/avc1/480x270/xFh9sX_-N9Qlcv6L.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080892920664891392/vid/avc1/1920x1080/KU-VL-Wj99F6U_7T.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080892920664891392"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "conversation_id": "2080895459577704915",
+        "created_at": "2026-07-25T05:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080895459577704915"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 80,
+              "tag": "中国人能飞"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "中国人"
+            },
+            {
+              "end": 97,
+              "start": 92,
+              "tag": "感觉至上"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lw3rzvBvHd",
+              "end": 121,
+              "expanded_url": "https://x.com/420420420CTL/status/2080895459577704915/video/1",
+              "media_key": "13_2080892920664891392",
+              "start": 98,
+              "url": "https://t.co/Lw3rzvBvHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080895459577704915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8842,
+          "like_count": 111,
+          "quote_count": 6,
+          "reply_count": 13,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "中国人能飞✈️✈️Listen😎is✊😎CHINAAA!!! ✊i can fly 🚀🚀🚀中国人看见的转🇨🇳🇨🇳 不转的是日本人😡 中文就是飞🚁 黄皮肤才对 👍#中国人能飞 #中国人 #感觉至上 https://t.co/Lw3rzvBvHd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080892920664891392"
+          ],
+          "media_source_tweet_id": [
+            "2080895459577704915"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081924029611753833",
+        "created_at": "2026-07-28T02:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081924029611753833"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 98,
+              "tag": "中国人能飞"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "中国人"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "感觉至上"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678171777409875968",
+              "start": 3,
+              "username": "420420420CTL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lw3rzvBvHd",
+              "end": 139,
+              "expanded_url": "https://x.com/420420420CTL/status/2080895459577704915/video/1",
+              "media_key": "13_2080892920664891392",
+              "start": 116,
+              "url": "https://t.co/Lw3rzvBvHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081924029611753833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080895459577704915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @420420420CTL: 中国人能飞✈️✈️Listen😎is✊😎CHINAAA!!! ✊i can fly 🚀🚀🚀中国人看见的转🇨🇳🇨🇳 不转的是日本人😡 中文就是飞🚁 黄皮肤才对 👍#中国人能飞 #中国人 #感觉至上 https://t.co/Lw3rzvBvHd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 282,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1600
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "2056029691916713996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4763,
+          "following_count": 703,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1161
+        },
+        "url": "",
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076589171783999979",
+    "created_at": "2026-07-13T11:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T12:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076630471610618265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1315706812935487489",
+          "start": 0,
+          "username": "maigo_wakatake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076630471610618265",
+    "in_reply_to_user_id": "1315706812935487489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076589171783999979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigo_wakatake 笑的好难受，干涸哈哈哈哈這個笑哭我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076589171783999979",
+        "created_at": "2026-07-13T11:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076630471610618265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1315706812935487489",
+              "start": 0,
+              "username": "maigo_wakatake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076630471610618265",
+        "in_reply_to_user_id": "1315706812935487489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076589171783999979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigo_wakatake 笑的好难受，干涸哈哈哈哈這個笑哭我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315706812935487489",
+        "conversation_id": "2076589171783999979",
+        "created_at": "2026-07-13T08:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076589171783999979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyyzz151/statu…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/yyyzz151/status/2076297514928754705",
+              "start": 79,
+              "url": "https://t.co/otaqi2E5gy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076589171783999979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 960,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076297514928754705",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "几年前看过一个日本的女性向av然后里面有个男生脱下裤子之后内裤上写着NANJIREN。\n那一刻我的内心经历了十亿年的地质变迁和生物进化。一秒干涸原来是真的。 https://t.co/otaqi2E5gy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 138,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 510
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "Artefarita eksperimenta kuniklo. Used to be a Kitakari. 以及当然了我需要钱。",
+        "id": "1315706812935487489",
+        "location": "Ará Orún",
+        "name": "⌘",
+        "pinned_tweet_id": "2059613401626620381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 209,
+          "like_count": 3158,
+          "listed_count": 11,
+          "media_count": 2419,
+          "tweet_count": 21936
+        },
+        "url": "",
+        "username": "maigo_wakatake",
+        "verified": true
+      }
+    ]
+  }
+}

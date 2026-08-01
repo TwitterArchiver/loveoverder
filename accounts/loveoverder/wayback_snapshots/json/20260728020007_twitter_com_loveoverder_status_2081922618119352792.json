@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081922618119352792",
+    "created_at": "2026-07-28T02:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081922618119352792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1088549913619775489",
+          "start": 3,
+          "username": "iamfeyza_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081922618119352792",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 185
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081637808540729755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iamfeyza_: Geçenlerde şehir dışına çıktığımızda kedim tam da böyle olmuştu. Onu sakinleştirmek için ne yapacağımı şaşırdım. Hatta ölece…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14302,
+        "height": 576,
+        "media_key": "13_2080960484845486080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080960484845486080/img/gSZHskj6W4DZD4cX.jpg",
+        "public_metrics": {
+          "view_count": 1634290
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080960484845486080/vid/avc1/480x270/qhgKocZn60z_reHl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080960484845486080/vid/avc1/640x360/zjZH9Xt0ifLSOnXa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080960484845486080/vid/avc1/1024x576/J_GVkjhMH71EKHoG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080960484845486080/pl/NGFJg2WHmKZdX7FZ.m3u8?v=cfc"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081922618119352792",
+        "created_at": "2026-07-28T02:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081922618119352792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1088549913619775489",
+              "start": 3,
+              "username": "iamfeyza_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081922618119352792",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 185
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081637808540729755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iamfeyza_: Geçenlerde şehir dışına çıktığımızda kedim tam da böyle olmuştu. Onu sakinleştirmek için ne yapacağımı şaşırdım. Hatta ölece…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080960484845486080"
+          ],
+          "media_source_tweet_id": [
+            "2080960515807826021"
+          ]
+        },
+        "author_id": "1088549913619775489",
+        "conversation_id": "2081637808540729755",
+        "created_at": "2026-07-27T07:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081637808540729755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pdS39HKRgG",
+              "end": 247,
+              "expanded_url": "https://x.com/peteerr0/status/2080960515807826021/video/1",
+              "media_key": "13_2080960484845486080",
+              "start": 224,
+              "url": "https://t.co/pdS39HKRgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081637808540729755",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1430,
+          "impression_count": 2857685,
+          "like_count": 9616,
+          "quote_count": 72,
+          "reply_count": 296,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "Geçenlerde şehir dışına çıktığımızda kedim tam da böyle olmuştu. Onu sakinleştirmek için ne yapacağımı şaşırdım. Hatta ölecek korkusuyla baya bi ağladım. Çok korkunç birşey aslında. Kıyamam sana ben \n\n(kedisi olanlar anlar) https://t.co/pdS39HKRgG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 282,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1592
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-24T21:31:38.000Z",
+        "description": "depresif bir kuğu",
+        "id": "1088549913619775489",
+        "name": "feyza🦢",
+        "pinned_tweet_id": "1373980238795972608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053406060006797312/uQuBSRUa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 377,
+          "like_count": 29654,
+          "listed_count": 0,
+          "media_count": 1320,
+          "tweet_count": 12230
+        },
+        "url": "",
+        "username": "iamfeyza_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2080585111528243201"
+      ],
+      "media_source_tweet_id": [
+        "2080609688731955622"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080980070878056550",
+    "created_at": "2026-07-25T11:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080980070878056550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1130953003",
+          "start": 3,
+          "username": "GIFOOC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AezgqIAo1z",
+          "end": 35,
+          "expanded_url": "https://x.com/GIFOOC/status/2080609688731955622/photo/1",
+          "media_key": "16_2080585111528243201",
+          "start": 12,
+          "url": "https://t.co/AezgqIAo1z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080980070878056550",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080609688731955622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GIFOOC: https://t.co/AezgqIAo1z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2080585111528243201",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HN-5IrGbgAEp7ek.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HN-5IrGbgAEp7ek.mp4"
+          }
+        ],
+        "width": 382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2080585111528243201"
+          ]
+        },
+        "author_id": "1130953003",
+        "conversation_id": "2080609688731955622",
+        "created_at": "2026-07-24T11:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080609688731955622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AezgqIAo1z",
+              "end": 23,
+              "expanded_url": "https://x.com/GIFOOC/status/2080609688731955622/photo/1",
+              "media_key": "16_2080585111528243201",
+              "start": 0,
+              "url": "https://t.co/AezgqIAo1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080609688731955622",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3474,
+          "impression_count": 652636,
+          "like_count": 35625,
+          "quote_count": 248,
+          "reply_count": 98,
+          "retweet_count": 4167
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AezgqIAo1z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2080585111528243201"
+          ],
+          "media_source_tweet_id": [
+            "2080609688731955622"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080980070878056550",
+        "created_at": "2026-07-25T11:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080980070878056550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1130953003",
+              "start": 3,
+              "username": "GIFOOC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AezgqIAo1z",
+              "end": 35,
+              "expanded_url": "https://x.com/GIFOOC/status/2080609688731955622/photo/1",
+              "media_key": "16_2080585111528243201",
+              "start": 12,
+              "url": "https://t.co/AezgqIAo1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080980070878056550",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080609688731955622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GIFOOC: https://t.co/AezgqIAo1z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 255,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1345
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-29T12:42:39.000Z",
+        "description": "Best Source for Out of Context GIFs, Click that follow button for more laughters! || Runs by @7490",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 93,
+                "username": "7490"
+              }
+            ]
+          }
+        },
+        "id": "1130953003",
+        "name": "GIFs Out Of Context",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3179223956/d510c7c6437fcb0379da621893958b88_normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16988,
+          "following_count": 100,
+          "like_count": 729,
+          "listed_count": 18,
+          "media_count": 258,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "GIFOOC",
+        "verified": false
+      }
+    ]
+  }
+}

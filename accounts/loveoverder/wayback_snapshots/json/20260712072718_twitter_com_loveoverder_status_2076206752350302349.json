@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075998078663028737",
+        "3_2075998769833975808"
+      ],
+      "media_source_tweet_id": [
+        "2075998863153123457",
+        "2075998863153123457"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2076206752350302349",
+    "created_at": "2026-07-12T07:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T08:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076206752350302349"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 17,
+          "tag": "ayanamirei"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "957453366715596802",
+          "start": 3,
+          "username": "Tz_bard"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kM0TLEf9CQ",
+          "end": 52,
+          "expanded_url": "https://x.com/Tz_bard/status/2075998863153123457/photo/1",
+          "media_key": "3_2075998078663028737",
+          "start": 29,
+          "url": "https://t.co/kM0TLEf9CQ"
+        },
+        {
+          "display_url": "pic.x.com/kM0TLEf9CQ",
+          "end": 52,
+          "expanded_url": "https://x.com/Tz_bard/status/2075998863153123457/photo/1",
+          "media_key": "3_2075998769833975808",
+          "start": 29,
+          "url": "https://t.co/kM0TLEf9CQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076206752350302349",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9462
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075998863153123457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tz_bard: rei\n#ayanamirei https://t.co/kM0TLEf9CQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2075998078663028737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9tQOEacAEKK-d.jpg",
+        "width": 2866
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2075998769833975808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9t4c4aIAAE4hr.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075998078663028737",
+            "3_2075998769833975808"
+          ],
+          "media_source_tweet_id": [
+            "2075998863153123457",
+            "2075998863153123457"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2076206752350302349",
+        "created_at": "2026-07-12T07:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076206752350302349"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 17,
+              "tag": "ayanamirei"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "957453366715596802",
+              "start": 3,
+              "username": "Tz_bard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kM0TLEf9CQ",
+              "end": 52,
+              "expanded_url": "https://x.com/Tz_bard/status/2075998863153123457/photo/1",
+              "media_key": "3_2075998078663028737",
+              "start": 29,
+              "url": "https://t.co/kM0TLEf9CQ"
+            },
+            {
+              "display_url": "pic.x.com/kM0TLEf9CQ",
+              "end": 52,
+              "expanded_url": "https://x.com/Tz_bard/status/2075998863153123457/photo/1",
+              "media_key": "3_2075998769833975808",
+              "start": 29,
+              "url": "https://t.co/kM0TLEf9CQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076206752350302349",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9462
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075998863153123457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tz_bard: rei\n#ayanamirei https://t.co/kM0TLEf9CQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075998078663028737",
+            "3_2075998769833975808"
+          ]
+        },
+        "author_id": "957453366715596802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2075998863153123457",
+        "created_at": "2026-07-11T17:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075998863153123457"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 4,
+              "tag": "ayanamirei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kM0TLEf9CQ",
+              "end": 39,
+              "expanded_url": "https://x.com/Tz_bard/status/2075998863153123457/photo/1",
+              "media_key": "3_2075998078663028737",
+              "start": 16,
+              "url": "https://t.co/kM0TLEf9CQ"
+            },
+            {
+              "display_url": "pic.x.com/kM0TLEf9CQ",
+              "end": 39,
+              "expanded_url": "https://x.com/Tz_bard/status/2075998863153123457/photo/1",
+              "media_key": "3_2075998769833975808",
+              "start": 16,
+              "url": "https://t.co/kM0TLEf9CQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075998863153123457",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12876,
+          "impression_count": 1816890,
+          "like_count": 81966,
+          "quote_count": 248,
+          "reply_count": 106,
+          "retweet_count": 9462
+        },
+        "reply_settings": "everyone",
+        "text": "rei\n#ayanamirei https://t.co/kM0TLEf9CQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 21,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-28T03:20:46.000Z",
+        "description": "游戏从业者（game concept designer） 插画师（illustrator） EN/CH",
+        "id": "957453366715596802",
+        "location": "上海, 中华人民共和国",
+        "name": "屉子巴德TZ BARD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546664024502198274/Jv7yifJm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138926,
+          "following_count": 1852,
+          "like_count": 2813,
+          "listed_count": 1004,
+          "media_count": 159,
+          "tweet_count": 464
+        },
+        "url": "",
+        "username": "Tz_bard",
+        "verified": true
+      }
+    ]
+  }
+}

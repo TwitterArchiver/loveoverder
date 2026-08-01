@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076305510962463173",
+    "created_at": "2026-07-12T13:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076305510962463173"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jheioff/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/jheioff/status/2075882018001576234",
+          "start": 3,
+          "url": "https://t.co/iao1AZJTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076305510962463173",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075882018001576234",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑 https://t.co/iao1AZJTvT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076305510962463173",
+        "created_at": "2026-07-12T13:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076305510962463173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jheioff/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/jheioff/status/2075882018001576234",
+              "start": 3,
+              "url": "https://t.co/iao1AZJTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076305510962463173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075882018001576234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑 https://t.co/iao1AZJTvT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "219596293",
+        "conversation_id": "2075867395718037619",
+        "created_at": "2026-07-11T09:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075882018001576234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1521726436989898754",
+              "start": 0,
+              "username": "Gate_zh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075882018001576234",
+        "in_reply_to_user_id": "1521726436989898754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 17309,
+          "like_count": 275,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075867395718037619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gate_zh 整篇文章读下来可以总结成：如果再次出现用户在平台资金被盗，只能自认倒霉跟gate无关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 57,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-25T09:19:34.000Z",
+        "description": "尊贵的美股交易员",
+        "id": "219596293",
+        "location": "距离你4.2km",
+        "name": "第一美少女",
+        "pinned_tweet_id": "2075210950475669537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058739738044145665/2sVsCA8B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3579,
+          "following_count": 653,
+          "like_count": 184,
+          "listed_count": 8,
+          "media_count": 12,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "jheioff",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076283268903866368"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076283272083173802",
+    "created_at": "2026-07-12T12:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076283272083173802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Og1125iHfd",
+          "end": 51,
+          "expanded_url": "https://x.com/loveoverder/status/2076283272083173802/photo/1",
+          "media_key": "3_2076283268903866368",
+          "start": 28,
+          "url": "https://t.co/Og1125iHfd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076283272083173802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那個婊子看到了一定又罵我賠錢貨，但是我就是好愛我朋友！ https://t.co/Og1125iHfd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1972,
+        "media_key": "3_2076283268903866368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBwoegaEAAJMCy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076283268903866368"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076283272083173802",
+        "created_at": "2026-07-12T12:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076283272083173802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Og1125iHfd",
+              "end": 51,
+              "expanded_url": "https://x.com/loveoverder/status/2076283272083173802/photo/1",
+              "media_key": "3_2076283268903866368",
+              "start": 28,
+              "url": "https://t.co/Og1125iHfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076283272083173802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那個婊子看到了一定又罵我賠錢貨，但是我就是好愛我朋友！ https://t.co/Og1125iHfd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 50,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      }
+    ]
+  }
+}

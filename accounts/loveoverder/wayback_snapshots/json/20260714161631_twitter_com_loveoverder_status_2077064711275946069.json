@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2077064711275946069",
+    "created_at": "2026-07-14T16:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077064711275946069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1924613819986542594",
+          "start": 3,
+          "username": "di7787028866488"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077064711275946069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076887732560044117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @di7787028866488: 有些男的什么时候才能明白女生的性欲建立在安全感信任和爱上  不是你发张生殖器照片就会对你有欲望的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2077064711275946069",
+        "created_at": "2026-07-14T16:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077064711275946069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1924613819986542594",
+              "start": 3,
+              "username": "di7787028866488"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077064711275946069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076887732560044117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @di7787028866488: 有些男的什么时候才能明白女生的性欲建立在安全感信任和爱上  不是你发张生殖器照片就会对你有欲望的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924613819986542594",
+        "conversation_id": "2076887732560044117",
+        "created_at": "2026-07-14T04:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076887732560044117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076887732560044117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 42376,
+          "like_count": 538,
+          "quote_count": 2,
+          "reply_count": 112,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "有些男的什么时候才能明白女生的性欲建立在安全感信任和爱上  不是你发张生殖器照片就会对你有欲望的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 206,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 838
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T23:51:24.000Z",
+        "description": "💤",
+        "id": "1924613819986542594",
+        "location": "🚪52｜88｜520",
+        "name": "呆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035351565016629248/APzT__yO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 24,
+          "like_count": 226,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "di7787028866488",
+        "verified": false
+      }
+    ]
+  }
+}

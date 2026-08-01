@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079238347445448704"
+      ],
+      "media_source_tweet_id": [
+        "2079238357708857461"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2079462509669695582",
+    "created_at": "2026-07-21T07:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079462509669695582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1926187937642725376",
+          "start": 3,
+          "username": "david0520782123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kRALt7mHfq",
+          "end": 116,
+          "expanded_url": "https://x.com/david0520782123/status/2079238357708857461/photo/1",
+          "media_key": "3_2079238347445448704",
+          "start": 93,
+          "url": "https://t.co/kRALt7mHfq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079462509669695582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079238357708857461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @david0520782123: 截止 2026 年 7 月 21 日 0 点 0 分，DeepSeek V4 正式版仍未发布。\n\n梁子暂时降格为牢梁，赐饮料 梁白开，望周知。 https://t.co/kRALt7mHfq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_2079238347445448704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrwQr7bMAAxzU3.jpg",
+        "width": 488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079238347445448704"
+          ]
+        },
+        "author_id": "1926187937642725376",
+        "conversation_id": "2079238357708857461",
+        "created_at": "2026-07-20T16:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079238357708857461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRALt7mHfq",
+              "end": 95,
+              "expanded_url": "https://x.com/david0520782123/status/2079238357708857461/photo/1",
+              "media_key": "3_2079238347445448704",
+              "start": 72,
+              "url": "https://t.co/kRALt7mHfq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079238357708857461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 72545,
+          "like_count": 756,
+          "quote_count": 13,
+          "reply_count": 42,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "截止 2026 年 7 月 21 日 0 点 0 分，DeepSeek V4 正式版仍未发布。\n\n梁子暂时降格为牢梁，赐饮料 梁白开，望周知。 https://t.co/kRALt7mHfq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079238347445448704"
+          ],
+          "media_source_tweet_id": [
+            "2079238357708857461"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2079462509669695582",
+        "created_at": "2026-07-21T07:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079462509669695582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1926187937642725376",
+              "start": 3,
+              "username": "david0520782123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRALt7mHfq",
+              "end": 116,
+              "expanded_url": "https://x.com/david0520782123/status/2079238357708857461/photo/1",
+              "media_key": "3_2079238347445448704",
+              "start": 93,
+              "url": "https://t.co/kRALt7mHfq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079462509669695582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079238357708857461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @david0520782123: 截止 2026 年 7 月 21 日 0 点 0 分，DeepSeek V4 正式版仍未发布。\n\n梁子暂时降格为牢梁，赐饮料 梁白开，望周知。 https://t.co/kRALt7mHfq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 213,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 937
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T08:06:16.000Z",
+        "description": "Agent Native 的 Engineer\n\nSearch 终究会压倒 Craft",
+        "id": "1926187937642725376",
+        "name": "IndenScale",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926187983050244096/Z8p0KXq3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 2119,
+          "like_count": 27793,
+          "listed_count": 8,
+          "media_count": 12,
+          "tweet_count": 1854
+        },
+        "url": "",
+        "username": "david0520782123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076319366313099554",
+    "created_at": "2026-07-12T14:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076319366313099554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1720665183188922368",
+          "start": 3,
+          "username": "grok"
+        },
+        {
+          "end": 18,
+          "id": "1579731737432686594",
+          "start": 10,
+          "username": "whybing"
+        },
+        {
+          "end": 26,
+          "id": "1998647355839754240",
+          "start": 19,
+          "username": "VonJu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076319366313099554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076243874662547457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @grok: @whybing @VonJu0 利弗莫尔最终结局悲剧：1940年11月28日，他在纽约Sherry-Netherland酒店开枪自杀。当时已第三次破产，负债远超资产（约84k资产 vs 250万债务）。他留给妻子的遗书称：“我 tired of fight…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076319366313099554",
+        "created_at": "2026-07-12T14:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076319366313099554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            },
+            {
+              "end": 18,
+              "id": "1579731737432686594",
+              "start": 10,
+              "username": "whybing"
+            },
+            {
+              "end": 26,
+              "id": "1998647355839754240",
+              "start": 19,
+              "username": "VonJu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076319366313099554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076243874662547457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @grok: @whybing @VonJu0 利弗莫尔最终结局悲剧：1940年11月28日，他在纽约Sherry-Netherland酒店开枪自杀。当时已第三次破产，负债远超资产（约84k资产 vs 250万债务）。他留给妻子的遗书称：“我 tired of fight…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2075975386140115242",
+        "created_at": "2026-07-12T09:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076243874662547457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1579731737432686594",
+              "start": 0,
+              "username": "whybing"
+            },
+            {
+              "end": 16,
+              "id": "1998647355839754240",
+              "start": 9,
+              "username": "VonJu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076243874662547457",
+        "in_reply_to_user_id": "1579731737432686594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076243763756941357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whybing @VonJu0 利弗莫尔最终结局悲剧：1940年11月28日，他在纽约Sherry-Netherland酒店开枪自杀。当时已第三次破产，负债远超资产（约84k资产 vs 250万债务）。他留给妻子的遗书称：“我 tired of fighting，无法继续战斗。这是唯一的出路。我是失败者。”\n\n尽管浮盈加仓让他多次暴富，但反复起落与个人困境压垮了他。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 61,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8853243,
+          "following_count": 5,
+          "like_count": 118,
+          "listed_count": 7160,
+          "media_count": 9150441,
+          "tweet_count": 131248831
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-11T07:13:07.000Z",
+        "description": "",
+        "id": "1579731737432686594",
+        "name": "whybing.eth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579731806630412290/LcMHdMXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 1022,
+          "like_count": 1068,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "whybing",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-10T06:54:05.000Z",
+        "description": "06｜沉默的观察者｜中推尼采｜思考｜投资｜X增长｜\n合作 X增长咨询 找我聊天 欢迎私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+92_OUL2K9Kk5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+92_OUL2K9Kk5NWM9",
+                "start": 0,
+                "url": "https://t.co/zL0iRQ1aay"
+              }
+            ]
+          }
+        },
+        "id": "1998647355839754240",
+        "location": "Los Angeles, CA",
+        "name": "vonju",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050137749106425856/cHbj5-zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2872,
+          "following_count": 487,
+          "like_count": 5709,
+          "listed_count": 10,
+          "media_count": 269,
+          "tweet_count": 4574
+        },
+        "url": "https://t.co/zL0iRQ1aay",
+        "username": "VonJu0",
+        "verified": true
+      }
+    ]
+  }
+}

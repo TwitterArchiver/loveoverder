@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080571997252374529"
+      ],
+      "media_source_tweet_id": [
+        "2080572002331672942"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080933216152867316",
+    "created_at": "2026-07-25T08:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080933216152867316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "148334170",
+          "start": 3,
+          "username": "Iamryuji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/39FvzIcuK2",
+          "end": 37,
+          "expanded_url": "https://x.com/Iamryuji/status/2080572002331672942/photo/1",
+          "media_key": "3_2080571997252374529",
+          "start": 14,
+          "url": "https://t.co/39FvzIcuK2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080933216152867316",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1152
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080572002331672942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iamryuji: https://t.co/39FvzIcuK2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 325,
+        "media_key": "3_2080571997252374529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-tNUnaUAET20H.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080571997252374529"
+          ]
+        },
+        "author_id": "148334170",
+        "conversation_id": "2080572002331672942",
+        "created_at": "2026-07-24T08:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080572002331672942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39FvzIcuK2",
+              "end": 23,
+              "expanded_url": "https://x.com/Iamryuji/status/2080572002331672942/photo/1",
+              "media_key": "3_2080571997252374529",
+              "start": 0,
+              "url": "https://t.co/39FvzIcuK2"
+            },
+            {
+              "display_url": "x.com/yoojungmok/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yoojungmok/status/2080569776041251177",
+              "start": 24,
+              "url": "https://t.co/rKuMS77zt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080572002331672942",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 815,
+          "impression_count": 1540959,
+          "like_count": 20127,
+          "quote_count": 346,
+          "reply_count": 18,
+          "retweet_count": 1153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080569776041251177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/39FvzIcuK2 https://t.co/rKuMS77zt1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080571997252374529"
+          ],
+          "media_source_tweet_id": [
+            "2080572002331672942"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080933216152867316",
+        "created_at": "2026-07-25T08:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080933216152867316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "148334170",
+              "start": 3,
+              "username": "Iamryuji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/39FvzIcuK2",
+              "end": 37,
+              "expanded_url": "https://x.com/Iamryuji/status/2080572002331672942/photo/1",
+              "media_key": "3_2080571997252374529",
+              "start": 14,
+              "url": "https://t.co/39FvzIcuK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080933216152867316",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1152
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080572002331672942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iamryuji: https://t.co/39FvzIcuK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 255,
+          "like_count": 639,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1325
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-26T12:49:21.000Z",
+        "description": "깨물거야",
+        "id": "148334170",
+        "name": "깨물이",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971092667661438976/HlbKdm95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3027,
+          "following_count": 824,
+          "like_count": 9674,
+          "listed_count": 35,
+          "media_count": 1902,
+          "tweet_count": 13979
+        },
+        "url": "",
+        "username": "Iamryuji",
+        "verified": false
+      }
+    ]
+  }
+}

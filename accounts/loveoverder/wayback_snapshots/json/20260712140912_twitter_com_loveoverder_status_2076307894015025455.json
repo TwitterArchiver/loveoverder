@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076307894015025455",
+    "created_at": "2026-07-12T14:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076307894015025455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CryptoSociety4…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/CryptoSociety42/status/2075825910289461563",
+          "start": 6,
+          "url": "https://t.co/E9zXQqlYn6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076307894015025455",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075825910289461563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "十年了佛系 https://t.co/E9zXQqlYn6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1102,
+        "media_key": "3_2075825652935360512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7QbuLbAAA22mD.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076307894015025455",
+        "created_at": "2026-07-12T14:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076307894015025455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CryptoSociety4…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/CryptoSociety42/status/2075825910289461563",
+              "start": 6,
+              "url": "https://t.co/E9zXQqlYn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076307894015025455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075825910289461563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "十年了佛系 https://t.co/E9zXQqlYn6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075825652935360512"
+          ]
+        },
+        "author_id": "757429055130071040",
+        "conversation_id": "2075825910289461563",
+        "created_at": "2026-07-11T06:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075825910289461563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZZNAIcHdl",
+              "end": 41,
+              "expanded_url": "https://x.com/CryptoSociety42/status/2075825910289461563/photo/1",
+              "media_key": "3_2075825652935360512",
+              "start": 18,
+              "url": "https://t.co/BZZNAIcHdl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075825910289461563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 33443,
+          "like_count": 294,
+          "quote_count": 7,
+          "reply_count": 42,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "佛系炒币\n“我不入地狱，谁入地狱” https://t.co/BZZNAIcHdl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 61,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-25T04:15:33.000Z",
+        "description": "十年从业，难凉热血，¥900成本 $BTC 持有至今\nGrinder：2140 Labs/《加密通话》\n#Binance Square TOP 100 | 启程Web3 就在币安 |\nCrypto入口 OKX就够 https://t.co/bENs92IOB4",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 21,
+                "start": 17,
+                "tag": "BTC"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 52,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com",
+                "end": 130,
+                "expanded_url": "http://web3.okx.com",
+                "start": 107,
+                "url": "https://t.co/bENs92IOB4"
+              }
+            ]
+          }
+        },
+        "id": "757429055130071040",
+        "location": "新华门",
+        "name": "林克Clean",
+        "pinned_tweet_id": "2005951968792174973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011809557086089216/BIPsq_tB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27435,
+          "following_count": 816,
+          "like_count": 17211,
+          "listed_count": 251,
+          "media_count": 873,
+          "tweet_count": 9257
+        },
+        "url": "",
+        "username": "CryptoSociety42",
+        "verified": true
+      }
+    ]
+  }
+}

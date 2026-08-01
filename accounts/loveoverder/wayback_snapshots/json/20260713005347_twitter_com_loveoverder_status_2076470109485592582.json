@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "2076470109485592582",
+    "created_at": "2026-07-13T00:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076470109485592582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "80367796",
+          "start": 3,
+          "username": "KAI_YOU_ed"
+        }
+      ],
+      "urls": [
+        {
+          "description": "イラストレーター／アニメーション作家の米山舞さんが、個展「YONEYAMA MAI EXHIBITION “arc”」を京都 蔦屋書店で開催するる。本展は、2025年に銀座 蔦屋書店で開催された個展「arc」の京都巡回展。銀座でも展示された作品のほか、京都展のために制作された新作も多数展...",
+          "display_url": "kai-you.net/article/95925",
+          "end": 78,
+          "expanded_url": "https://kai-you.net/article/95925",
+          "start": 55,
+          "status": 200,
+          "title": "米山舞の個展「arc」が京都で開催 “制作過程”をコンセプトにした新作も展示",
+          "unwound_url": "https://kai-you.net/article/95925",
+          "url": "https://t.co/mPrUajRgnM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076470109485592582",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076214987744551022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KAI_YOU_ed: 米山舞の個展「arc」が京都で開催 “制作過程”をコンセプトにした新作も展示\nhttps://t.co/mPrUajRgnM\n\n多彩な領域で活動するイラストレーター／アニメーション作家の米山舞さん。2025年に銀座で開催された個展が京都 蔦屋書店…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2075523501000409088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM29oKgawAA1JWm.jpg",
+        "width": 1920
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2075523787500711936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2941zacAAzcT8.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2075523836406325248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM297r_a4AA0zKi.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2076470109485592582",
+        "created_at": "2026-07-13T00:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076470109485592582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "80367796",
+              "start": 3,
+              "username": "KAI_YOU_ed"
+            }
+          ],
+          "urls": [
+            {
+              "description": "イラストレーター／アニメーション作家の米山舞さんが、個展「YONEYAMA MAI EXHIBITION “arc”」を京都 蔦屋書店で開催するる。本展は、2025年に銀座 蔦屋書店で開催された個展「arc」の京都巡回展。銀座でも展示された作品のほか、京都展のために制作された新作も多数展...",
+              "display_url": "kai-you.net/article/95925",
+              "end": 78,
+              "expanded_url": "https://kai-you.net/article/95925",
+              "start": 55,
+              "status": 200,
+              "title": "米山舞の個展「arc」が京都で開催 “制作過程”をコンセプトにした新作も展示",
+              "unwound_url": "https://kai-you.net/article/95925",
+              "url": "https://t.co/mPrUajRgnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076470109485592582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076214987744551022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KAI_YOU_ed: 米山舞の個展「arc」が京都で開催 “制作過程”をコンセプトにした新作も展示\nhttps://t.co/mPrUajRgnM\n\n多彩な領域で活動するイラストレーター／アニメーション作家の米山舞さん。2025年に銀座で開催された個展が京都 蔦屋書店…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075523501000409088",
+            "3_2075523787500711936",
+            "3_2075523836406325248"
+          ]
+        },
+        "author_id": "80367796",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2076214987744551022",
+        "created_at": "2026-07-12T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076214987744551022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "イラストレーター／アニメーション作家の米山舞さんが、個展「YONEYAMA MAI EXHIBITION “arc”」を京都 蔦屋書店で開催するる。本展は、2025年に銀座 蔦屋書店で開催された個展「arc」の京都巡回展。銀座でも展示された作品のほか、京都展のために制作された新作も多数展...",
+              "display_url": "kai-you.net/article/95925",
+              "end": 62,
+              "expanded_url": "https://kai-you.net/article/95925",
+              "start": 39,
+              "status": 200,
+              "title": "米山舞の個展「arc」が京都で開催 “制作過程”をコンセプトにした新作も展示",
+              "unwound_url": "https://kai-you.net/article/95925",
+              "url": "https://t.co/mPrUajRgnM"
+            },
+            {
+              "display_url": "pic.x.com/nqjjILUfOb",
+              "end": 152,
+              "expanded_url": "https://x.com/KAI_YOU_ed/status/2076214987744551022/photo/1",
+              "media_key": "3_2075523501000409088",
+              "start": 129,
+              "url": "https://t.co/nqjjILUfOb"
+            },
+            {
+              "display_url": "pic.x.com/nqjjILUfOb",
+              "end": 152,
+              "expanded_url": "https://x.com/KAI_YOU_ed/status/2076214987744551022/photo/1",
+              "media_key": "3_2075523787500711936",
+              "start": 129,
+              "url": "https://t.co/nqjjILUfOb"
+            },
+            {
+              "display_url": "pic.x.com/nqjjILUfOb",
+              "end": 152,
+              "expanded_url": "https://x.com/KAI_YOU_ed/status/2076214987744551022/photo/1",
+              "media_key": "3_2075523836406325248",
+              "start": 129,
+              "url": "https://t.co/nqjjILUfOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076214987744551022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 48573,
+          "like_count": 400,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "米山舞の個展「arc」が京都で開催 “制作過程”をコンセプトにした新作も展示\nhttps://t.co/mPrUajRgnM\n\n多彩な領域で活動するイラストレーター／アニメーション作家の米山舞さん。2025年に銀座で開催された個展が京都 蔦屋書店にも巡回🌟 https://t.co/nqjjILUfOb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 73,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-06T18:21:39.000Z",
+        "description": "メディア「KAI-YOU」（https://t.co/LIycIgpJAG）公式アカウント｜文芸、音楽、情報技術、現代美術、VTuber／YouTuber、漫画、ゲーム、ヒップホップ、アニメ、ネット文化まで──ポップカルチャーの最新情報を発信しています｜気軽にリプライ下さい👍 | 運営: KAI-YOU inc.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kai-you.net",
+                "end": 37,
+                "expanded_url": "https://kai-you.net/",
+                "start": 14,
+                "url": "https://t.co/LIycIgpJAG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kai-you.co.jp",
+                "end": 23,
+                "expanded_url": "http://kai-you.co.jp/",
+                "start": 0,
+                "url": "https://t.co/149aQqlVwM"
+              }
+            ]
+          }
+        },
+        "id": "80367796",
+        "location": "POPisHere",
+        "name": "KAI-YOU（カイユウ）",
+        "pinned_tweet_id": "2075520412394643706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1488722198714265601/qc8W8t-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130255,
+          "following_count": 1999,
+          "like_count": 17654,
+          "listed_count": 898,
+          "media_count": 28131,
+          "tweet_count": 63668
+        },
+        "url": "https://t.co/149aQqlVwM",
+        "username": "KAI_YOU_ed",
+        "verified": true
+      }
+    ]
+  }
+}

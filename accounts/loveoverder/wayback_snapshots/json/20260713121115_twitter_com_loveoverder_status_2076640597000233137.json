@@ -1,0 +1,521 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292803509272760321",
+          "name": "Hyper Scape"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292803509272760321",
+          "name": "Hyper Scape"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899973419499548",
+          "name": "Battle royale games"
+        }
+      }
+    ],
+    "conversation_id": "2076640597000233137",
+    "created_at": "2026-07-13T12:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076640597000233137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1243398481571540998",
+          "start": 3,
+          "username": "bazz_news_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076640597000233137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1085
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076574357942624391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bazz_news_jp: 【ガチ天才現る】 🧠\n\n・教授が試験で「片面のみのカンペ持ち込み可」とルール設定\n\n・学生は紙を半回転させ繋いだ「メビウスの輪」を持参\n\n・メビウスの輪は数学的に表裏の区別がない“1つの面”を持つ特殊な形状\n\n・輪全体に微積分や物理の公式を書…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2076393089145438209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNDUg2yXAAEdabX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292803509272760321",
+              "name": "Hyper Scape"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292803509272760321",
+              "name": "Hyper Scape"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899973419499548",
+              "name": "Battle royale games"
+            }
+          }
+        ],
+        "conversation_id": "2076640597000233137",
+        "created_at": "2026-07-13T12:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076640597000233137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1243398481571540998",
+              "start": 3,
+              "username": "bazz_news_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076640597000233137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1085
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076574357942624391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bazz_news_jp: 【ガチ天才現る】 🧠\n\n・教授が試験で「片面のみのカンペ持ち込み可」とルール設定\n\n・学生は紙を半回転させ繋いだ「メビウスの輪」を持参\n\n・メビウスの輪は数学的に表裏の区別がない“1つの面”を持つ特殊な形状\n\n・輪全体に微積分や物理の公式を書…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076393089145438209"
+          ],
+          "media_source_tweet_id": [
+            "2076393092723216779"
+          ]
+        },
+        "author_id": "1243398481571540998",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292803509272760321",
+              "name": "Hyper Scape"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292803509272760321",
+              "name": "Hyper Scape"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899973419499548",
+              "name": "Battle royale games"
+            }
+          }
+        ],
+        "conversation_id": "2076574357942624391",
+        "created_at": "2026-07-13T07:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:47:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076574267437945196",
+          "2076574357942624391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ZrWN2Lhg4",
+              "end": 223,
+              "expanded_url": "https://x.com/mathladyhazel/status/2076393092723216779/photo/1",
+              "media_key": "3_2076393089145438209",
+              "start": 200,
+              "url": "https://t.co/4ZrWN2Lhg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076574357942624391",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/mathladyhazel/…",
+                "end": 223,
+                "expanded_url": "https://x.com/mathladyhazel/status/2076393092723216779/photo/1",
+                "start": 200,
+                "url": "https://t.co/4ZrWN2Lhg4"
+              }
+            ]
+          },
+          "text": "【ガチ天才現る】 🧠\n\n・教授が試験で「片面のみのカンペ持ち込み可」とルール設定\n\n・学生は紙を半回転させ繋いだ「メビウスの輪」を持参\n\n・メビウスの輪は数学的に表裏の区別がない“1つの面”を持つ特殊な形状\n\n・輪全体に微積分や物理の公式を書き込み、実質的に情報量を大幅増加\n\n・ルール上は「片面のみ」の条件を満たしており違反ではない\n\n・「ルールの穴を突いた天才」「教授も笑うしかない」と話題に\n\nhttps://t.co/4ZrWN2Lhg4"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1948,
+          "impression_count": 3392109,
+          "like_count": 20234,
+          "quote_count": 158,
+          "reply_count": 191,
+          "retweet_count": 1085
+        },
+        "reply_settings": "everyone",
+        "text": "【ガチ天才現る】 🧠\n\n・教授が試験で「片面のみのカンペ持ち込み可」とルール設定\n\n・学生は紙を半回転させ繋いだ「メビウスの輪」を持参\n\n・メビウスの輪は数学的に表裏の区別がない“1つの面”を持つ特殊な形状\n\n・輪全体に微積分や物理の公式を書き込み、実質的に情報量を大幅増加"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 145,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T04:44:40.000Z",
+        "description": "気になる話題を中心にピックアップ🔥\nネギ速はいろんな話題のまとめをリアルタイムで更新中です\nサイトはこちら👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "negisoku.com",
+                "end": 23,
+                "expanded_url": "http://www.negisoku.com/",
+                "start": 0,
+                "url": "https://t.co/e1rg9IJoJd"
+              }
+            ]
+          }
+        },
+        "id": "1243398481571540998",
+        "name": "まとめ速報ちゃん＠ネギ速",
+        "pinned_tweet_id": "2065061902234096000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043356403566571520/asMj0lU2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83749,
+          "following_count": 1,
+          "like_count": 18,
+          "listed_count": 223,
+          "media_count": 19,
+          "tweet_count": 118
+        },
+        "url": "https://t.co/e1rg9IJoJd",
+        "username": "bazz_news_jp",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082268278546948279",
+    "created_at": "2026-07-29T00:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082268278546948279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1652733611022635009",
+          "start": 3,
+          "username": "kingCrimson_09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082268278546948279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082186739427516902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kingCrimson_09: 吾心吾行澄如明镜，所作所为皆为正义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082268278546948279",
+        "created_at": "2026-07-29T00:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082268278546948279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1652733611022635009",
+              "start": 3,
+              "username": "kingCrimson_09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082268278546948279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082186739427516902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kingCrimson_09: 吾心吾行澄如明镜，所作所为皆为正义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652733611022635009",
+        "conversation_id": "2082186739427516902",
+        "created_at": "2026-07-28T19:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082186739427516902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082186739427516902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吾心吾行澄如明镜，所作所为皆为正义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 299,
+          "like_count": 855,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1750
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T17:56:40.000Z",
+        "description": "时间刻下墓志铭，剩下的只有结局",
+        "id": "1652733611022635009",
+        "location": "卡纳维拉尔角",
+        "name": "你是多首的怪物",
+        "pinned_tweet_id": "2081873380912038219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082077076212092928/U9Mlj7TB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 262,
+          "like_count": 566,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "kingCrimson_09",
+        "verified": false
+      }
+    ]
+  }
+}

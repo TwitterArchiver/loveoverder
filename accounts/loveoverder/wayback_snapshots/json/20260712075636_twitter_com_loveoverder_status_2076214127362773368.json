@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076214127362773368",
+    "created_at": "2026-07-12T07:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T08:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076214127362773368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Guangyao456/st…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/Guangyao456/status/2076070165666791788",
+          "start": 32,
+          "url": "https://t.co/Iu9WGIsiMP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076214127362773368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076070165666791788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尼古貓煙癮巨大，壓根沒性慾了吧。掌管性慾的應該是後面的性慾貓貓 https://t.co/Iu9WGIsiMP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076214127362773368",
+        "created_at": "2026-07-12T07:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076214127362773368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Guangyao456/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Guangyao456/status/2076070165666791788",
+              "start": 32,
+              "url": "https://t.co/Iu9WGIsiMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076214127362773368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076070165666791788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尼古貓煙癮巨大，壓根沒性慾了吧。掌管性慾的應該是後面的性慾貓貓 https://t.co/Iu9WGIsiMP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481662138296975360",
+        "conversation_id": "2075929666540425395",
+        "created_at": "2026-07-11T22:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T23:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076070165666791788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1697913281816432640",
+              "start": 0,
+              "username": "kiligulyanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076070165666791788",
+        "in_reply_to_user_id": "1697913281816432640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6587,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075929666540425395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiligulyanov 尼古喵可能压根就不知道这种职业，参考第一集房东撞见尼古喵换衣服时，尼古喵并没有展现出羞涩或是慌张，单纯在疑惑房租的问题，所以我怀疑在尼古喵的世界观中，根本就没有\"性\"这个概念。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 23,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-13T16:19:23.000Z",
+        "description": "",
+        "id": "1481662138296975360",
+        "location": "Kowloon City District",
+        "name": "KuAy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916432061852008449/aMZqSCOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 341,
+          "like_count": 1735,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "Guangyao456",
+        "verified": false
+      }
+    ]
+  }
+}

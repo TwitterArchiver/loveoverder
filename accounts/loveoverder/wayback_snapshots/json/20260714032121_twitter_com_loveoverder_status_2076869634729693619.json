@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076868943340589056"
+      ],
+      "media_source_tweet_id": [
+        "2076868946930868389"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076869634729693619",
+    "created_at": "2026-07-14T03:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076869634729693619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1888937797278658560",
+          "start": 3,
+          "username": "tmeii579201"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/56hocNyXkn",
+          "end": 40,
+          "expanded_url": "https://x.com/tmeii579201/status/2076868946930868389/photo/1",
+          "media_key": "3_2076868943340589056",
+          "start": 17,
+          "url": "https://t.co/56hocNyXkn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076869634729693619",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076868946930868389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tmeii579201: https://t.co/56hocNyXkn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1189,
+        "media_key": "3_2076868943340589056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKFTNzbUAAcc2t.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076868943340589056"
+          ],
+          "media_source_tweet_id": [
+            "2076868946930868389"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076869634729693619",
+        "created_at": "2026-07-14T03:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076869634729693619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1888937797278658560",
+              "start": 3,
+              "username": "tmeii579201"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/56hocNyXkn",
+              "end": 40,
+              "expanded_url": "https://x.com/tmeii579201/status/2076868946930868389/photo/1",
+              "media_key": "3_2076868943340589056",
+              "start": 17,
+              "url": "https://t.co/56hocNyXkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076869634729693619",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076868946930868389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tmeii579201: https://t.co/56hocNyXkn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076868943340589056"
+          ]
+        },
+        "author_id": "1888937797278658560",
+        "conversation_id": "2076868946930868389",
+        "created_at": "2026-07-14T03:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076868946930868389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/56hocNyXkn",
+              "end": 23,
+              "expanded_url": "https://x.com/tmeii579201/status/2076868946930868389/photo/1",
+              "media_key": "3_2076868943340589056",
+              "start": 0,
+              "url": "https://t.co/56hocNyXkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076868946930868389",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/56hocNyXkn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 187,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 664
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T13:07:33.000Z",
+        "description": "†昇天 ✞\n†昇天 ✞\n†昇天✞\n----------------------------",
+        "id": "1888937797278658560",
+        "location": "✞小天使请安⁺✟₊",
+        "name": "Cinthy🍥",
+        "pinned_tweet_id": "2056401752254247344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073260174660505600/Oe2THbEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 12,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "tmeii579201",
+        "verified": false
+      }
+    ]
+  }
+}

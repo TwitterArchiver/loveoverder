@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079250275005878272"
+      ],
+      "media_source_tweet_id": [
+        "2079250277862130036"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2079451383724732802",
+    "created_at": "2026-07-21T06:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079451383724732802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "910584755627859969",
+          "start": 3,
+          "username": "sixsixjay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TeQDLjiGWV",
+          "end": 73,
+          "expanded_url": "https://x.com/sixsixjay/status/2079250277862130036/photo/1",
+          "media_key": "3_2079250275005878272",
+          "start": 50,
+          "url": "https://t.co/TeQDLjiGWV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079451383724732802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079250277862130036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sixsixjay: 当我看到一张老电影的海报的时候，为什么脑海中蹦出来的是他俩。\n🙃🙃🙃 https://t.co/TeQDLjiGWV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1023,
+        "media_key": "3_2079250275005878272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNr7G9jb0AAHYNe.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079250275005878272"
+          ]
+        },
+        "author_id": "910584755627859969",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2079250277862130036",
+        "created_at": "2026-07-20T17:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079250277862130036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TeQDLjiGWV",
+              "end": 58,
+              "expanded_url": "https://x.com/sixsixjay/status/2079250277862130036/photo/1",
+              "media_key": "3_2079250275005878272",
+              "start": 35,
+              "url": "https://t.co/TeQDLjiGWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079250277862130036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 942,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我看到一张老电影的海报的时候，为什么脑海中蹦出来的是他俩。\n🙃🙃🙃 https://t.co/TeQDLjiGWV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079250275005878272"
+          ],
+          "media_source_tweet_id": [
+            "2079250277862130036"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2079451383724732802",
+        "created_at": "2026-07-21T06:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079451383724732802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "910584755627859969",
+              "start": 3,
+              "username": "sixsixjay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TeQDLjiGWV",
+              "end": 73,
+              "expanded_url": "https://x.com/sixsixjay/status/2079250277862130036/photo/1",
+              "media_key": "3_2079250275005878272",
+              "start": 50,
+              "url": "https://t.co/TeQDLjiGWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079451383724732802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079250277862130036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sixsixjay: 当我看到一张老电影的海报的时候，为什么脑海中蹦出来的是他俩。\n🙃🙃🙃 https://t.co/TeQDLjiGWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 213,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 921
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-20T19:21:38.000Z",
+        "description": "2017年入行crypto\n暴富过，归零过/已老实版/套牢小能手\n\n连续创业crypto/躺平玩游戏/想到啥说啥/街溜子版本/行业交流/我在人间凑数的日子",
+        "id": "910584755627859969",
+        "name": "Jay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892823280178122755/g-FOzAcI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 87,
+          "like_count": 782,
+          "listed_count": 8,
+          "media_count": 65,
+          "tweet_count": 844
+        },
+        "url": "",
+        "username": "sixsixjay",
+        "verified": true
+      }
+    ]
+  }
+}

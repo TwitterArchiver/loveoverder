@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080271608628076544"
+      ],
+      "media_source_tweet_id": [
+        "2080390997293646327"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080888302434177276",
+    "created_at": "2026-07-25T05:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080888302434177276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1845367053458472961",
+          "start": 3,
+          "username": "Catsworldtweet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fvWuFoEURS",
+          "end": 96,
+          "expanded_url": "https://x.com/Catsworldtweet/status/2080390997293646327/video/1",
+          "media_key": "13_2080271608628076544",
+          "start": 73,
+          "url": "https://t.co/fvWuFoEURS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080888302434177276",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3889
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080390997293646327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Catsworldtweet: the only abusive relationship i'm willing to accept. https://t.co/fvWuFoEURS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37151,
+        "height": 1024,
+        "media_key": "13_2080271608628076544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080271608628076544/img/knEqQqBCkNW_xfCM.jpg",
+        "public_metrics": {
+          "view_count": 223516
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080271608628076544/vid/avc1/320x568/Oz-J1o0bq059R7II.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080271608628076544/vid/avc1/480x852/MqU-8-0hNRshFlqb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080271608628076544/vid/avc1/576x1024/sQPABydeaug8uB0m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080271608628076544/pl/hTbbjdewRggagI_9.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080271608628076544"
+          ]
+        },
+        "author_id": "1845367053458472961",
+        "conversation_id": "2080390997293646327",
+        "created_at": "2026-07-23T20:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080390997293646327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvWuFoEURS",
+              "end": 76,
+              "expanded_url": "https://x.com/Catsworldtweet/status/2080390997293646327/video/1",
+              "media_key": "13_2080271608628076544",
+              "start": 53,
+              "url": "https://t.co/fvWuFoEURS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080390997293646327",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3364,
+          "impression_count": 590343,
+          "like_count": 34598,
+          "quote_count": 259,
+          "reply_count": 181,
+          "retweet_count": 3889
+        },
+        "reply_settings": "everyone",
+        "text": "the only abusive relationship i'm willing to accept. https://t.co/fvWuFoEURS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080271608628076544"
+          ],
+          "media_source_tweet_id": [
+            "2080390997293646327"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080888302434177276",
+        "created_at": "2026-07-25T05:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080888302434177276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1845367053458472961",
+              "start": 3,
+              "username": "Catsworldtweet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvWuFoEURS",
+              "end": 96,
+              "expanded_url": "https://x.com/Catsworldtweet/status/2080390997293646327/video/1",
+              "media_key": "13_2080271608628076544",
+              "start": 73,
+              "url": "https://t.co/fvWuFoEURS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080888302434177276",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3889
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080390997293646327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Catsworldtweet: the only abusive relationship i'm willing to accept. https://t.co/fvWuFoEURS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 251,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1302
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T07:33:08.000Z",
+        "description": "just the best collection of cat posts you will find on the internet.",
+        "id": "1845367053458472961",
+        "name": "Cats with aura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958780848221954048/mkqYv8f2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15286,
+          "following_count": 4238,
+          "like_count": 9,
+          "listed_count": 38,
+          "media_count": 5473,
+          "tweet_count": 5821
+        },
+        "url": "",
+        "username": "Catsworldtweet",
+        "verified": true
+      }
+    ]
+  }
+}

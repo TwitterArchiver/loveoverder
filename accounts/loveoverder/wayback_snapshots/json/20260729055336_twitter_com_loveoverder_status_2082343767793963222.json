@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082343767793963222",
+    "created_at": "2026-07-29T05:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082343767793963222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1431118332418273283",
+          "start": 3,
+          "username": "robertxyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082343767793963222",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12316
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082143547348668795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @robertxyo: agora vão passar a trair com homens"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082343767793963222",
+        "created_at": "2026-07-29T05:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082343767793963222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1431118332418273283",
+              "start": 3,
+              "username": "robertxyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082343767793963222",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12316
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082143547348668795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @robertxyo: agora vão passar a trair com homens"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431118332418273283",
+        "conversation_id": "2082143547348668795",
+        "created_at": "2026-07-28T16:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082143547348668795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acervocharts/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/acervocharts/status/2082103792363848036",
+              "start": 36,
+              "url": "https://t.co/BmAH7TiGXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082143547348668795",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1025,
+          "impression_count": 1504239,
+          "like_count": 161438,
+          "quote_count": 113,
+          "reply_count": 415,
+          "retweet_count": 12312
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082103792363848036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "agora vão passar a trair com homens https://t.co/BmAH7TiGXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 305,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1798
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T04:56:24.000Z",
+        "description": "cantor e compositor. 🇧🇷 🏳️‍🌈 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/robertxyo",
+                "end": 23,
+                "expanded_url": "http://instagram.com/robertxyo",
+                "start": 0,
+                "url": "https://t.co/MeYLVugePt"
+              }
+            ]
+          }
+        },
+        "id": "1431118332418273283",
+        "location": "Rio de Janeiro, Brasil",
+        "name": "robert",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894075681740365826/1zy2x_MR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58828,
+          "following_count": 51208,
+          "like_count": 21175,
+          "listed_count": 22,
+          "media_count": 3130,
+          "tweet_count": 21714
+        },
+        "url": "https://t.co/MeYLVugePt",
+        "username": "robertxyo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082058834064154624"
+      ],
+      "media_source_tweet_id": [
+        "2082058847527809381"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082268412001300880",
+    "created_at": "2026-07-29T00:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082268412001300880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1848735784058425346",
+          "start": 3,
+          "username": "Sabitamago"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/meISLDWVLE",
+          "end": 51,
+          "expanded_url": "https://x.com/Sabitamago/status/2082058847527809381/photo/1",
+          "media_key": "3_2082058834064154624",
+          "start": 28,
+          "url": "https://t.co/meISLDWVLE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082268412001300880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 565
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082058847527809381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sabitamago: 今日も一日お疲れ様です https://t.co/meISLDWVLE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2464,
+        "media_key": "3_2082058834064154624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT1enXboAAu9Lz.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082058834064154624"
+          ]
+        },
+        "author_id": "1848735784058425346",
+        "conversation_id": "2082058847527809381",
+        "created_at": "2026-07-28T11:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082058847527809381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/meISLDWVLE",
+              "end": 35,
+              "expanded_url": "https://x.com/Sabitamago/status/2082058847527809381/photo/1",
+              "media_key": "3_2082058834064154624",
+              "start": 12,
+              "url": "https://t.co/meISLDWVLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082058847527809381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 48701,
+          "like_count": 6400,
+          "quote_count": 9,
+          "reply_count": 40,
+          "retweet_count": 565
+        },
+        "reply_settings": "everyone",
+        "text": "今日も一日お疲れ様です https://t.co/meISLDWVLE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082058834064154624"
+          ],
+          "media_source_tweet_id": [
+            "2082058847527809381"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082268412001300880",
+        "created_at": "2026-07-29T00:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082268412001300880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1848735784058425346",
+              "start": 3,
+              "username": "Sabitamago"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/meISLDWVLE",
+              "end": 51,
+              "expanded_url": "https://x.com/Sabitamago/status/2082058847527809381/photo/1",
+              "media_key": "3_2082058834064154624",
+              "start": 28,
+              "url": "https://t.co/meISLDWVLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082268412001300880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 565
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082058847527809381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sabitamago: 今日も一日お疲れ様です https://t.co/meISLDWVLE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 299,
+          "like_count": 855,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1751
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T14:39:18.000Z",
+        "description": "AIアニメ、AIイラストを制作しています ■CPP Vidu Hailuo CapCut yapper Zopia Dreamina ■ Kling AI Elite Creator #AIart #AIanime",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "AIart"
+              },
+              {
+                "end": 107,
+                "start": 99,
+                "tag": "AIanime"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@SBT_AI",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@SBT_AI",
+                "start": 0,
+                "url": "https://t.co/JTBwQTZs9K"
+              }
+            ]
+          }
+        },
+        "id": "1848735784058425346",
+        "name": "錆たまご",
+        "pinned_tweet_id": "2073580119000768531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902689748721995776/nZYk3OZo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29167,
+          "following_count": 2485,
+          "like_count": 21082,
+          "listed_count": 193,
+          "media_count": 871,
+          "tweet_count": 12176
+        },
+        "url": "https://t.co/JTBwQTZs9K",
+        "username": "Sabitamago",
+        "verified": true
+      }
+    ]
+  }
+}

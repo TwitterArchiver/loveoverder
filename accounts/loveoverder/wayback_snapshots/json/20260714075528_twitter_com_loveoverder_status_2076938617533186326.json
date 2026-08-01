@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076779858751864832"
+      ],
+      "media_source_tweet_id": [
+        "2076780107549614422"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076938617533186326",
+    "created_at": "2026-07-14T07:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076938617533186326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1123605118174126080",
+          "start": 3,
+          "username": "CxxVen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HDhdHoXUbR",
+          "end": 64,
+          "expanded_url": "https://x.com/CxxVen/status/2076780107549614422/video/1",
+          "media_key": "13_2076779858751864832",
+          "start": 41,
+          "url": "https://t.co/HDhdHoXUbR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076938617533186326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076780107549614422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @CxxVen: 这才是人民的妈咪！ 这才是商 k 该有的样子。哈哈哈哈哈 https://t.co/HDhdHoXUbR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 87566,
+        "height": 1280,
+        "media_key": "13_2076779858751864832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076779858751864832/img/_dmNMhxsWpWzVEsq.jpg",
+        "public_metrics": {
+          "view_count": 259164
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076779858751864832/vid/avc1/320x568/OOjyJ2fHp3SpTPEk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076779858751864832/vid/avc1/480x852/ZeEsoR8XyBaWsIzR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076779858751864832/vid/avc1/720x1280/NJAHQq-MWCRImEbH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076779858751864832/pl/lobUhsuzj3q-bXHo.m3u8?v=1b2"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076779858751864832"
+          ],
+          "media_source_tweet_id": [
+            "2076780107549614422"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076938617533186326",
+        "created_at": "2026-07-14T07:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076938617533186326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1123605118174126080",
+              "start": 3,
+              "username": "CxxVen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDhdHoXUbR",
+              "end": 64,
+              "expanded_url": "https://x.com/CxxVen/status/2076780107549614422/video/1",
+              "media_key": "13_2076779858751864832",
+              "start": 41,
+              "url": "https://t.co/HDhdHoXUbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076938617533186326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076780107549614422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @CxxVen: 这才是人民的妈咪！ 这才是商 k 该有的样子。哈哈哈哈哈 https://t.co/HDhdHoXUbR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076779858751864832"
+          ]
+        },
+        "author_id": "1123605118174126080",
+        "conversation_id": "2076780107549614422",
+        "created_at": "2026-07-13T21:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T22:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076780107549614422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDhdHoXUbR",
+              "end": 52,
+              "expanded_url": "https://x.com/CxxVen/status/2076780107549614422/video/1",
+              "media_key": "13_2076779858751864832",
+              "start": 29,
+              "url": "https://t.co/HDhdHoXUbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076780107549614422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 531,
+          "impression_count": 369628,
+          "like_count": 1158,
+          "quote_count": 7,
+          "reply_count": 185,
+          "retweet_count": 67
+        },
+        "reply_settings": "other",
+        "text": "这才是人民的妈咪！ 这才是商 k 该有的样子。哈哈哈哈哈 https://t.co/HDhdHoXUbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 195,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 752
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-01T15:08:30.000Z",
+        "description": "查理－芒格信徒 ||| 电影爱好者 ||| 知识分享者。\n\n喜欢分享不为人知的好东西。\n\n觉得自己身处“无梯子”的自由天堂。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.comtesla.com",
+                "end": 23,
+                "expanded_url": "https://blog.comtesla.com/",
+                "start": 0,
+                "url": "https://t.co/PCq8laewvM"
+              }
+            ]
+          }
+        },
+        "id": "1123605118174126080",
+        "name": "B.Z.在下张三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039425171312791552/pmMzUi2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5026,
+          "following_count": 1410,
+          "like_count": 16554,
+          "listed_count": 22,
+          "media_count": 596,
+          "tweet_count": 6871
+        },
+        "url": "https://t.co/PCq8laewvM",
+        "username": "CxxVen",
+        "verified": true
+      }
+    ]
+  }
+}

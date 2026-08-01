@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076517844679115220",
+    "created_at": "2026-07-13T04:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076517844679115220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "42374434",
+          "start": 3,
+          "username": "XingDrift"
+        },
+        {
+          "end": 27,
+          "id": "1507631541303713793",
+          "start": 15,
+          "username": "xiaomustock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076517844679115220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076506717459034472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @XingDrift: @xiaomustock 一直抄 一直爽 很快就到火葬场"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076517844679115220",
+        "created_at": "2026-07-13T04:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076517844679115220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "42374434",
+              "start": 3,
+              "username": "XingDrift"
+            },
+            {
+              "end": 27,
+              "id": "1507631541303713793",
+              "start": 15,
+              "username": "xiaomustock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076517844679115220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076506717459034472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @XingDrift: @xiaomustock 一直抄 一直爽 很快就到火葬场"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "42374434",
+        "conversation_id": "2076493680870043957",
+        "created_at": "2026-07-13T03:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076506717459034472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507631541303713793",
+              "start": 0,
+              "username": "xiaomustock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076506717459034472",
+        "in_reply_to_user_id": "1507631541303713793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1187,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076493680870043957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "@xiaomustock 一直抄 一直爽 很快就到火葬场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 86,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-25T08:30:25.000Z",
+        "description": "#AI #SpaceX #II型文明 #星际流浪汉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "AI"
+              },
+              {
+                "end": 11,
+                "start": 4,
+                "tag": "SpaceX"
+              },
+              {
+                "end": 18,
+                "start": 12,
+                "tag": "II型文明"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "tag": "星际流浪汉"
+              }
+            ]
+          }
+        },
+        "id": "42374434",
+        "name": "星空流浪者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075135912930127872/zs_0vIRy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3894,
+          "following_count": 5185,
+          "like_count": 3581,
+          "listed_count": 10,
+          "media_count": 162,
+          "tweet_count": 1638
+        },
+        "url": "",
+        "username": "XingDrift",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-26T08:12:38.000Z",
+        "description": "一个自由的AI股票大宗期权纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不会私聊任何人不碰任何人资金-任何借我名义私聊或者推广或者收费或其他地方假借助理顾问也都是诈骗，谨防上当。 推特只用作自身投资笔记，悉知。",
+        "id": "1507631541303713793",
+        "location": "萨尔瓦多",
+        "name": "川沐｜Trumoo🐮",
+        "pinned_tweet_id": "2070042111026835547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276698,
+          "following_count": 519,
+          "like_count": 7280,
+          "listed_count": 4718,
+          "media_count": 5590,
+          "tweet_count": 12828
+        },
+        "url": "",
+        "username": "xiaomustock",
+        "verified": true
+      }
+    ]
+  }
+}

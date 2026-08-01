@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2064509662456860672"
+      ],
+      "media_source_tweet_id": [
+        "2064509729108545779"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080691711404306805",
+    "created_at": "2026-07-24T16:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080691711404306805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1343970749753778177",
+          "start": 3,
+          "username": "yjmist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aQ6RhsJnIY",
+          "end": 81,
+          "expanded_url": "https://x.com/oforaka/status/2064509729108545779/video/1",
+          "media_key": "13_2064509662456860672",
+          "start": 58,
+          "url": "https://t.co/aQ6RhsJnIY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080691711404306805",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2335
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080328799904747625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yjmist: i’d explode if karina looked at me like this  https://t.co/aQ6RhsJnIY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4633,
+        "height": 2880,
+        "media_key": "13_2064509662456860672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064509662456860672/img/xQgIx8Z01ByF5p7l.jpg",
+        "public_metrics": {
+          "view_count": 540973
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064509662456860672/pl/GJNmzJ97ik6zTJWV.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064509662456860672/vid/avc1/320x426/z-rBd-l1Fs4f61ax.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064509662456860672/vid/avc1/2160x2880/zhJjne9wWWxdkXje.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064509662456860672/vid/avc1/1080x1440/QoGoXkFGQeUMuRRc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064509662456860672/vid/avc1/480x640/WH78A0kY8qfqVTfp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064509662456860672/vid/avc1/720x960/gplMEU3-juBIexZP.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064509662456860672"
+          ]
+        },
+        "author_id": "1894320443013959681",
+        "conversation_id": "2064509729108545779",
+        "created_at": "2026-06-10T00:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064509729108545779"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "카리나"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pMpdtKsysf",
+              "end": 48,
+              "expanded_url": "https://x.com/oforaka/status/2064509729108545779/video/1",
+              "media_key": "13_2064509662456860672",
+              "start": 25,
+              "url": "https://t.co/pMpdtKsysf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064509729108545779",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3484,
+          "impression_count": 1547914,
+          "like_count": 30009,
+          "quote_count": 410,
+          "reply_count": 0,
+          "retweet_count": 5231
+        },
+        "reply_settings": "following",
+        "text": "260610 #카리나 오늘도 예뿌당 .. 💕 https://t.co/pMpdtKsysf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064509662456860672"
+          ],
+          "media_source_tweet_id": [
+            "2064509729108545779"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080691711404306805",
+        "created_at": "2026-07-24T16:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080691711404306805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1343970749753778177",
+              "start": 3,
+              "username": "yjmist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQ6RhsJnIY",
+              "end": 81,
+              "expanded_url": "https://x.com/oforaka/status/2064509729108545779/video/1",
+              "media_key": "13_2064509662456860672",
+              "start": 58,
+              "url": "https://t.co/aQ6RhsJnIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080691711404306805",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2335
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080328799904747625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yjmist: i’d explode if karina looked at me like this  https://t.co/aQ6RhsJnIY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064509662456860672"
+          ],
+          "media_source_tweet_id": [
+            "2064509729108545779"
+          ]
+        },
+        "author_id": "1343970749753778177",
+        "conversation_id": "2080328799904747625",
+        "created_at": "2026-07-23T16:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080328799904747625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQ6RhsJnIY",
+              "end": 69,
+              "expanded_url": "https://x.com/oforaka/status/2064509729108545779/video/1",
+              "media_key": "13_2064509662456860672",
+              "start": 46,
+              "url": "https://t.co/aQ6RhsJnIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080328799904747625",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2702,
+          "impression_count": 306554,
+          "like_count": 23686,
+          "quote_count": 91,
+          "reply_count": 23,
+          "retweet_count": 2335
+        },
+        "reply_settings": "everyone",
+        "text": "i’d explode if karina looked at me like this  https://t.co/aQ6RhsJnIY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 242,
+          "like_count": 584,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1191
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-29T17:22:58.000Z",
+        "description": "#1 karina fan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/aprilcat",
+                "end": 23,
+                "expanded_url": "http://rentry.co/aprilcat",
+                "start": 0,
+                "url": "https://t.co/Zg4ppEZ5f4"
+              }
+            ]
+          }
+        },
+        "id": "1343970749753778177",
+        "location": "23",
+        "name": "sarah",
+        "pinned_tweet_id": "1985892828812386584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070037551637807104/Tj7GK21n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4831,
+          "following_count": 385,
+          "like_count": 9910,
+          "listed_count": 10,
+          "media_count": 1358,
+          "tweet_count": 3438
+        },
+        "url": "https://t.co/Zg4ppEZ5f4",
+        "username": "yjmist",
+        "verified": false
+      }
+    ]
+  }
+}

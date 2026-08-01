@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076658718318490071",
+    "created_at": "2026-07-14T03:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076876963948724461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884951315639312384",
+          "start": 0,
+          "username": "majkibas"
+        },
+        {
+          "end": 22,
+          "id": "1460541073886003200",
+          "start": 10,
+          "username": "bambushonok"
+        },
+        {
+          "end": 33,
+          "id": "1283672799777886208",
+          "start": 23,
+          "username": "isaacrrr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076876963948724461",
+    "in_reply_to_user_id": "1884951315639312384",
+    "lang": "pl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076816091804799280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@majkibas @bambushonok @isaacrrr7 Ta fotografia jest naprawdę piękna."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076816085911760896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJVOgiWcAAsX3A.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076658718318490071",
+        "created_at": "2026-07-14T03:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076876963948724461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884951315639312384",
+              "start": 0,
+              "username": "majkibas"
+            },
+            {
+              "end": 22,
+              "id": "1460541073886003200",
+              "start": 10,
+              "username": "bambushonok"
+            },
+            {
+              "end": 33,
+              "id": "1283672799777886208",
+              "start": 23,
+              "username": "isaacrrr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076876963948724461",
+        "in_reply_to_user_id": "1884951315639312384",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076816091804799280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@majkibas @bambushonok @isaacrrr7 Ta fotografia jest naprawdę piękna."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076816085911760896"
+          ]
+        },
+        "author_id": "1884951315639312384",
+        "conversation_id": "2076658718318490071",
+        "created_at": "2026-07-13T23:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076816091804799280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1460541073886003200",
+              "start": 0,
+              "username": "bambushonok"
+            },
+            {
+              "end": 23,
+              "id": "1283672799777886208",
+              "start": 13,
+              "username": "isaacrrr7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yiWgGVNjIc",
+              "end": 103,
+              "expanded_url": "https://x.com/majkibas/status/2076816091804799280/photo/1",
+              "media_key": "3_2076816085911760896",
+              "start": 80,
+              "url": "https://t.co/yiWgGVNjIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076816091804799280",
+        "in_reply_to_user_id": "1460541073886003200",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 650,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076810203194962026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bambushonok @isaacrrr7 Telewizja z zasady kłamie. U nas jest wszystko tip top. https://t.co/yiWgGVNjIc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 187,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 678
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T13:06:52.000Z",
+        "description": "certified boogeyman",
+        "id": "1884951315639312384",
+        "location": "Sopot, Polska",
+        "name": "majkib",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075616966694289408/1giBynbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 81,
+          "like_count": 16202,
+          "listed_count": 21,
+          "media_count": 717,
+          "tweet_count": 24656
+        },
+        "url": "",
+        "username": "majkibas",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T09:32:00.000Z",
+        "description": "A Russian tenor guy who voices anime(fundub).\nWants to build an acting career. Very, very, very much loves cartoons and other interesting things...",
+        "id": "1460541073886003200",
+        "location": "Vladivostok, Russia",
+        "name": "Godwin Vask",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072464910861156352/yB5Gh-z-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 31,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "bambushonok",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T08:00:38.000Z",
+        "description": "Judío Argentino en Israel, 30 años.\nSígueme también en @isaacrrrr7.\nSiempre defendiendo a Israel y a Occidente.\nNo a Hamás. No a la invasión islámica.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "isaacrrrr7"
+              }
+            ]
+          }
+        },
+        "id": "1283672799777886208",
+        "location": "Israel",
+        "name": "Isaac",
+        "pinned_tweet_id": "2030605506356629834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776698744366305281/hicpNVAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265214,
+          "following_count": 4621,
+          "like_count": 235556,
+          "listed_count": 607,
+          "media_count": 77127,
+          "tweet_count": 142008
+        },
+        "url": "",
+        "username": "isaacrrr7",
+        "verified": true
+      }
+    ]
+  }
+}

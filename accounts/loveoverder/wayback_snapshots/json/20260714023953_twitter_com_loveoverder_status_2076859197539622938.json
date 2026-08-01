@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076859197539622938",
+    "created_at": "2026-07-14T02:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076859197539622938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1035629287913791488",
+          "start": 3,
+          "username": "FollaGansos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076859197539622938",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2946
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076676517640233068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FollaGansos: el cuerpo de la mujer es arte luego ves el cuerpo del hombre y parece un bidón de gasolina con pelos"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076859197539622938",
+        "created_at": "2026-07-14T02:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076859197539622938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1035629287913791488",
+              "start": 3,
+              "username": "FollaGansos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076859197539622938",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2946
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076676517640233068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FollaGansos: el cuerpo de la mujer es arte luego ves el cuerpo del hombre y parece un bidón de gasolina con pelos"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1035629287913791488",
+        "conversation_id": "2076676517640233068",
+        "created_at": "2026-07-13T14:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076676517640233068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arts_jpg/statu…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/arts_jpg/status/2074129165008413002",
+              "start": 101,
+              "url": "https://t.co/bB7nBH63GO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076676517640233068",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4356,
+          "impression_count": 1001592,
+          "like_count": 57419,
+          "quote_count": 138,
+          "reply_count": 343,
+          "retweet_count": 2946
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074129165008413002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "el cuerpo de la mujer es arte luego ves el cuerpo del hombre y parece un bidón de gasolina con pelos https://t.co/bB7nBH63GO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 183,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 631
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-31T20:43:58.000Z",
+        "description": "parodia @acariciagansos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "acariciagansos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MamografiasGratis.com",
+                "end": 23,
+                "expanded_url": "http://MamografiasGratis.com",
+                "start": 0,
+                "url": "https://t.co/YpfweNj1lY"
+              }
+            ]
+          }
+        },
+        "id": "1035629287913791488",
+        "location": "Caelid",
+        "name": ",",
+        "pinned_tweet_id": "2000602905607352332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068295630951194624/cbgYNay-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6718,
+          "following_count": 626,
+          "like_count": 83235,
+          "listed_count": 14,
+          "media_count": 8702,
+          "tweet_count": 79693
+        },
+        "url": "https://t.co/YpfweNj1lY",
+        "username": "FollaGansos",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076602124277051429",
+    "created_at": "2026-07-14T00:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076827570637816151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847463993881088003",
+          "start": 0,
+          "username": "DavidLin449854"
+        },
+        {
+          "end": 25,
+          "id": "1862503646925340672",
+          "start": 16,
+          "username": "jiaotuke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076827570637816151",
+    "in_reply_to_user_id": "1847463993881088003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076604603525894527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DavidLin449854 @jiaotuke 我靠這話很厲害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076602124277051429",
+        "created_at": "2026-07-14T00:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076827570637816151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847463993881088003",
+              "start": 0,
+              "username": "DavidLin449854"
+            },
+            {
+              "end": 25,
+              "id": "1862503646925340672",
+              "start": 16,
+              "username": "jiaotuke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076827570637816151",
+        "in_reply_to_user_id": "1847463993881088003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076604603525894527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DavidLin449854 @jiaotuke 我靠這話很厲害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847463993881088003",
+        "conversation_id": "2076602124277051429",
+        "created_at": "2026-07-13T09:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076604603525894527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1862503646925340672",
+              "start": 0,
+              "username": "jiaotuke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076604603525894527",
+        "in_reply_to_user_id": "1862503646925340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2432,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076602124277051429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaotuke 很多争论不是为了自由，而是在争谁应该承担更多😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 172,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 577
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T02:25:28.000Z",
+        "description": "🐑 一隻用AI探索未來的懶羊\n高爾夫行業從業者｜7年運動產業經驗\nAI 碎碎念× 商業創業 × 人生思考\nBuilding in public",
+        "id": "1847463993881088003",
+        "location": "Hong Kong",
+        "name": "懒羊进化论",
+        "pinned_tweet_id": "2074771280407286030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073957585691291648/9_-mUDqf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 1002,
+          "like_count": 478,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 1771
+        },
+        "url": "",
+        "username": "DavidLin449854",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-29T14:27:51.000Z",
+        "description": "06年985本 | 美股&CS方向 |专注社会观察 | 男性情感 | 八字子平派入门|每日输出观点与案例拆解|||深度好文在highlights里面哦！投资分享不构成建议",
+        "id": "1862503646925340672",
+        "name": "焦土客",
+        "pinned_tweet_id": "2068672933061448075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066435895906144256/RVJMPSxu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3642,
+          "following_count": 1514,
+          "like_count": 15639,
+          "listed_count": 7,
+          "media_count": 578,
+          "tweet_count": 11049
+        },
+        "url": "",
+        "username": "jiaotuke",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076171159989841920"
+      ],
+      "media_source_tweet_id": [
+        "2076171227522294005"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076473295919309031",
+    "created_at": "2026-07-13T01:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T02:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076473295919309031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1369635486638120963",
+          "start": 3,
+          "username": "mocmo_c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l3B19xKEO9",
+          "end": 36,
+          "expanded_url": "https://x.com/mocmo_c/status/2076171227522294005/video/1",
+          "media_key": "13_2076171159989841920",
+          "start": 13,
+          "url": "https://t.co/l3B19xKEO9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076473295919309031",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1479
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076171227522294005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mocmo_c: https://t.co/l3B19xKEO9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4650,
+        "height": 1280,
+        "media_key": "13_2076171159989841920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076171159989841920/img/997JKf1urzhxp2MU.jpg",
+        "public_metrics": {
+          "view_count": 84633
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076171159989841920/pl/1mdvYdQCkeOL3YKI.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076171159989841920/vid/avc1/540x540/oo0Cwi18-WH98aR9.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076171159989841920/vid/avc1/320x320/VHUrKWRg4pVo6bxc.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076171159989841920/vid/avc1/720x720/RuZNeCenMQ4f5-si.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076171159989841920/vid/avc1/1280x1280/zmkf3FwUJwy7U2Qh.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076171159989841920"
+          ],
+          "media_source_tweet_id": [
+            "2076171227522294005"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076473295919309031",
+        "created_at": "2026-07-13T01:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076473295919309031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1369635486638120963",
+              "start": 3,
+              "username": "mocmo_c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l3B19xKEO9",
+              "end": 36,
+              "expanded_url": "https://x.com/mocmo_c/status/2076171227522294005/video/1",
+              "media_key": "13_2076171159989841920",
+              "start": 13,
+              "url": "https://t.co/l3B19xKEO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076473295919309031",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1479
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076171227522294005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mocmo_c: https://t.co/l3B19xKEO9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076171159989841920"
+          ]
+        },
+        "author_id": "1369635486638120963",
+        "conversation_id": "2076171227522294005",
+        "created_at": "2026-07-12T05:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076171227522294005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l3B19xKEO9",
+              "end": 23,
+              "expanded_url": "https://x.com/mocmo_c/status/2076171227522294005/video/1",
+              "media_key": "13_2076171159989841920",
+              "start": 0,
+              "url": "https://t.co/l3B19xKEO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076171227522294005",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3064,
+          "impression_count": 232894,
+          "like_count": 27271,
+          "quote_count": 24,
+          "reply_count": 7,
+          "retweet_count": 1479
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/l3B19xKEO9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 74,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-10T13:06:20.000Z",
+        "description": "3Dをメインに色々なものを作っています☁\n｜ご依頼\nhttps://t.co/KP8ZSuND8y\n\n| shop\n -メイン https://t.co/8Hi73JzdoF\n -小物 https://t.co/n79r4F5oLr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mocmocnedoco.carrd.co/#commission",
+                "end": 49,
+                "expanded_url": "https://mocmocnedoco.carrd.co/#commission",
+                "start": 26,
+                "url": "https://t.co/KP8ZSuND8y"
+              },
+              {
+                "display_url": "mocmomo.booth.pm",
+                "end": 87,
+                "expanded_url": "http://mocmomo.booth.pm",
+                "start": 64,
+                "url": "https://t.co/8Hi73JzdoF"
+              },
+              {
+                "display_url": "tikasui.booth.pm",
+                "end": 116,
+                "expanded_url": "http://tikasui.booth.pm",
+                "start": 93,
+                "url": "https://t.co/n79r4F5oLr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocmocnedoco.carrd.co/#",
+                "end": 23,
+                "expanded_url": "https://mocmocnedoco.carrd.co/#",
+                "start": 0,
+                "url": "https://t.co/9JATkbnUY8"
+              }
+            ]
+          }
+        },
+        "id": "1369635486638120963",
+        "location": "h=貰い物",
+        "name": "ﾓｸﾓｸ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069017074979291136/-E-W4piT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11100,
+          "following_count": 431,
+          "like_count": 4549,
+          "listed_count": 86,
+          "media_count": 1373,
+          "tweet_count": 3570
+        },
+        "url": "https://t.co/9JATkbnUY8",
+        "username": "mocmo_c",
+        "verified": true
+      }
+    ]
+  }
+}

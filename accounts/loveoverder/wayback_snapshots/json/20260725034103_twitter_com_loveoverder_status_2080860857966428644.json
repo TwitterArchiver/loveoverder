@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080619297395953664"
+      ],
+      "media_source_tweet_id": [
+        "2080619303720923335"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080860857966428644",
+    "created_at": "2026-07-25T03:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080860857966428644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2033160782687731712",
+          "start": 3,
+          "username": "Shioochic_Xyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fxnh7K2SLR",
+          "end": 57,
+          "expanded_url": "https://x.com/Shioochic_Xyn/status/2080619303720923335/photo/1",
+          "media_key": "3_2080619297395953664",
+          "start": 34,
+          "url": "https://t.co/Fxnh7K2SLR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080860857966428644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080619303720923335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shioochic_Xyn: 尼古喵喵在张师面前还是太菜了 https://t.co/Fxnh7K2SLR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_2080619297395953664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_YOjYb0AAqfYg.jpg",
+        "width": 687
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080619297395953664"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2080619303720923335",
+        "created_at": "2026-07-24T11:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080619303720923335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fxnh7K2SLR",
+              "end": 38,
+              "expanded_url": "https://x.com/Shioochic_Xyn/status/2080619303720923335/photo/1",
+              "media_key": "3_2080619297395953664",
+              "start": 15,
+              "url": "https://t.co/Fxnh7K2SLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080619303720923335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8248,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "尼古喵喵在张师面前还是太菜了 https://t.co/Fxnh7K2SLR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080619297395953664"
+          ],
+          "media_source_tweet_id": [
+            "2080619303720923335"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080860857966428644",
+        "created_at": "2026-07-25T03:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080860857966428644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2033160782687731712",
+              "start": 3,
+              "username": "Shioochic_Xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fxnh7K2SLR",
+              "end": 57,
+              "expanded_url": "https://x.com/Shioochic_Xyn/status/2080619303720923335/photo/1",
+              "media_key": "3_2080619297395953664",
+              "start": 34,
+              "url": "https://t.co/Fxnh7K2SLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080860857966428644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080619303720923335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shioochic_Xyn: 尼古喵喵在张师面前还是太菜了 https://t.co/Fxnh7K2SLR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 245,
+          "like_count": 619,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1240
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友跨顺男@Whatasiger｜友男跨顺@WhitesugarC｜友情链接:https://t.co/iIABjp0PAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Whatasiger"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "WhitesugarC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 150,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 127,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4281,
+          "following_count": 2164,
+          "like_count": 8425,
+          "listed_count": 7,
+          "media_count": 1005,
+          "tweet_count": 6739
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081075827555340288"
+      ],
+      "media_source_tweet_id": [
+        "2081075865497034901"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081401691535237295",
+    "created_at": "2026-07-26T15:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081401691535237295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1293050722825768960",
+          "start": 3,
+          "username": "AKAGAMI__VOID"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t68St9vRxh",
+          "end": 84,
+          "expanded_url": "https://x.com/AKAGAMI__VOID/status/2081075865497034901/video/1",
+          "media_key": "13_2081075827555340288",
+          "start": 61,
+          "url": "https://t.co/t68St9vRxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081401691535237295",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 429
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081075865497034901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AKAGAMI__VOID: HXH 1999 version is a pure horror movie.. https://t.co/t68St9vRxh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64250,
+        "height": 720,
+        "media_key": "13_2081075827555340288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081075827555340288/img/KB4lhWbs9KfD_2LW.jpg",
+        "public_metrics": {
+          "view_count": 250746
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081075827555340288/vid/avc1/480x270/NgvjNbuafLbr03f-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081075827555340288/vid/avc1/640x360/LhFdpuBcyNdLmWTt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081075827555340288/vid/avc1/1280x720/R7ukX0b7Qhk8jv-A.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081075827555340288/pl/L8YDpaOhCm0K9Jjx.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081075827555340288"
+          ]
+        },
+        "author_id": "1293050722825768960",
+        "conversation_id": "2081075865497034901",
+        "created_at": "2026-07-25T17:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081075865497034901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t68St9vRxh",
+              "end": 65,
+              "expanded_url": "https://x.com/AKAGAMI__VOID/status/2081075865497034901/video/1",
+              "media_key": "13_2081075827555340288",
+              "start": 42,
+              "url": "https://t.co/t68St9vRxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081075865497034901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 989,
+          "impression_count": 482769,
+          "like_count": 4874,
+          "quote_count": 48,
+          "reply_count": 14,
+          "retweet_count": 429
+        },
+        "reply_settings": "everyone",
+        "text": "HXH 1999 version is a pure horror movie.. https://t.co/t68St9vRxh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081075827555340288"
+          ],
+          "media_source_tweet_id": [
+            "2081075865497034901"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081401691535237295",
+        "created_at": "2026-07-26T15:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081401691535237295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1293050722825768960",
+              "start": 3,
+              "username": "AKAGAMI__VOID"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t68St9vRxh",
+              "end": 84,
+              "expanded_url": "https://x.com/AKAGAMI__VOID/status/2081075865497034901/video/1",
+              "media_key": "13_2081075827555340288",
+              "start": 61,
+              "url": "https://t.co/t68St9vRxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081401691535237295",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 429
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081075865497034901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AKAGAMI__VOID: HXH 1999 version is a pure horror movie.. https://t.co/t68St9vRxh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 253,
+          "like_count": 670,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1391
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-11T05:05:06.000Z",
+        "description": "Daily Anime Posts\n#Jujutsukaisen | #ONEPIECE | #Detectiveconan | #Naruto | #Attackontitan | #Bleach | #Dragonball | #Anime",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 18,
+                "tag": "Jujutsukaisen"
+              },
+              {
+                "end": 44,
+                "start": 35,
+                "tag": "ONEPIECE"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "tag": "Detectiveconan"
+              },
+              {
+                "end": 72,
+                "start": 65,
+                "tag": "Naruto"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "tag": "Attackontitan"
+              },
+              {
+                "end": 99,
+                "start": 92,
+                "tag": "Bleach"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "tag": "Dragonball"
+              },
+              {
+                "end": 122,
+                "start": 116,
+                "tag": "Anime"
+              }
+            ]
+          }
+        },
+        "id": "1293050722825768960",
+        "location": "Doha, Qatar",
+        "name": "A7MED",
+        "pinned_tweet_id": "2081380290908377125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047477084214136832/WnE_0z5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10699,
+          "following_count": 896,
+          "like_count": 32256,
+          "listed_count": 14,
+          "media_count": 4369,
+          "tweet_count": 16079
+        },
+        "url": "",
+        "username": "AKAGAMI__VOID",
+        "verified": true
+      }
+    ]
+  }
+}

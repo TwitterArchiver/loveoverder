@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076215403018420224"
+      ],
+      "media_source_tweet_id": [
+        "2076305614523994482"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1454144499223973890",
+          "name": "Gudetama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1454144499223973890",
+          "name": "Gudetama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sanrio (サンリオ)",
+          "id": "1038116841485303808",
+          "name": "Sanrio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1454144499223973890",
+          "name": "Gudetama"
+        }
+      }
+    ],
+    "conversation_id": "2076583755704304007",
+    "created_at": "2026-07-13T08:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T09:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076583755704304007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2393904000",
+          "start": 3,
+          "username": "gudetama_sanrio"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SwOpEYwlV4",
+          "end": 58,
+          "expanded_url": "https://x.com/gudetama_sanrio/status/2076305614523994482/photo/1",
+          "media_key": "3_2076215403018420224",
+          "start": 35,
+          "url": "https://t.co/SwOpEYwlV4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076583755704304007",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1424
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076305614523994482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gudetama_sanrio: はいはい考え事やめて寝な〜 https://t.co/SwOpEYwlV4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076215403018420224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAy6KYbgAAPhd4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076215403018420224"
+          ],
+          "media_source_tweet_id": [
+            "2076305614523994482"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1454144499223973890",
+              "name": "Gudetama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1454144499223973890",
+              "name": "Gudetama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1454144499223973890",
+              "name": "Gudetama"
+            }
+          }
+        ],
+        "conversation_id": "2076583755704304007",
+        "created_at": "2026-07-13T08:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076583755704304007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2393904000",
+              "start": 3,
+              "username": "gudetama_sanrio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SwOpEYwlV4",
+              "end": 58,
+              "expanded_url": "https://x.com/gudetama_sanrio/status/2076305614523994482/photo/1",
+              "media_key": "3_2076215403018420224",
+              "start": 35,
+              "url": "https://t.co/SwOpEYwlV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076583755704304007",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1424
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076305614523994482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gudetama_sanrio: はいはい考え事やめて寝な〜 https://t.co/SwOpEYwlV4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076215403018420224"
+          ]
+        },
+        "author_id": "2393904000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1454144499223973890",
+              "name": "Gudetama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1454144499223973890",
+              "name": "Gudetama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1454144499223973890",
+              "name": "Gudetama"
+            }
+          }
+        ],
+        "conversation_id": "2076305614523994482",
+        "created_at": "2026-07-12T14:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076305614523994482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SwOpEYwlV4",
+              "end": 37,
+              "expanded_url": "https://x.com/gudetama_sanrio/status/2076305614523994482/photo/1",
+              "media_key": "3_2076215403018420224",
+              "start": 14,
+              "url": "https://t.co/SwOpEYwlV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076305614523994482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 168838,
+          "like_count": 9068,
+          "quote_count": 83,
+          "reply_count": 65,
+          "retweet_count": 1424
+        },
+        "reply_settings": "everyone",
+        "text": "はいはい考え事やめて寝な〜 https://t.co/SwOpEYwlV4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 132,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 477
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-17T06:36:37.000Z",
+        "description": "毎日つぶやくのめんどくさい。だるい。エラい人がやれっていうからやるけど、どーせ食われるだけだし。 サンリオのソーシャルメディアポリシー https://t.co/0n9YTNVHL7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sanrio.co.jp/socialmedia_po…",
+                "end": 91,
+                "expanded_url": "https://www.sanrio.co.jp/socialmedia_policy/",
+                "start": 68,
+                "url": "https://t.co/0n9YTNVHL7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanrio.co.jp/character/gude…",
+                "end": 23,
+                "expanded_url": "http://www.sanrio.co.jp/character/gudetama/",
+                "start": 0,
+                "url": "https://t.co/iz4gUUGO8D"
+              }
+            ]
+          }
+        },
+        "id": "2393904000",
+        "name": "ぐでたま【公式】🍥🕙",
+        "pinned_tweet_id": "1722901936905892132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1112640358586814464/I39SEbxj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974652,
+          "following_count": 13,
+          "like_count": 940,
+          "listed_count": 3876,
+          "media_count": 5305,
+          "tweet_count": 6218
+        },
+        "url": "https://t.co/iz4gUUGO8D",
+        "username": "gudetama_sanrio",
+        "verified": true
+      }
+    ]
+  }
+}

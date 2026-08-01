@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081206428350418944"
+      ],
+      "media_source_tweet_id": [
+        "2081206432167235641"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081551187497881724",
+    "created_at": "2026-07-27T01:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T02:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081551187497881724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "930287040200970240",
+          "start": 3,
+          "username": "Il_DeBrandon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jbq9BeHKQC",
+          "end": 98,
+          "expanded_url": "https://x.com/Il_DeBrandon/status/2081206432167235641/photo/1",
+          "media_key": "3_2081206428350418944",
+          "start": 75,
+          "url": "https://t.co/Jbq9BeHKQC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081551187497881724",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2102
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081206432167235641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Il_DeBrandon: Mi compa después de pedirme prestado para una emergencia https://t.co/Jbq9BeHKQC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1661,
+        "media_key": "3_2081206428350418944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHuOEoWEAAIj4D.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081206428350418944"
+          ]
+        },
+        "author_id": "930287040200970240",
+        "conversation_id": "2081206432167235641",
+        "created_at": "2026-07-26T02:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081206432167235641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jbq9BeHKQC",
+              "end": 80,
+              "expanded_url": "https://x.com/Il_DeBrandon/status/2081206432167235641/photo/1",
+              "media_key": "3_2081206428350418944",
+              "start": 57,
+              "url": "https://t.co/Jbq9BeHKQC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081206432167235641",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13577,
+          "impression_count": 4508909,
+          "like_count": 81903,
+          "quote_count": 157,
+          "reply_count": 1122,
+          "retweet_count": 2101
+        },
+        "reply_settings": "everyone",
+        "text": "Mi compa después de pedirme prestado para una emergencia https://t.co/Jbq9BeHKQC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081206428350418944"
+          ],
+          "media_source_tweet_id": [
+            "2081206432167235641"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081551187497881724",
+        "created_at": "2026-07-27T01:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081551187497881724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "930287040200970240",
+              "start": 3,
+              "username": "Il_DeBrandon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jbq9BeHKQC",
+              "end": 98,
+              "expanded_url": "https://x.com/Il_DeBrandon/status/2081206432167235641/photo/1",
+              "media_key": "3_2081206428350418944",
+              "start": 75,
+              "url": "https://t.co/Jbq9BeHKQC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081551187497881724",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2102
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081206432167235641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Il_DeBrandon: Mi compa después de pedirme prestado para una emergencia https://t.co/Jbq9BeHKQC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 255,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1434
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-14T04:11:29.000Z",
+        "description": "México-Brasileiro, Árbitro retirado, Barítono, Financiero, (CFO) Gatero 🐱 Aviones, Armas! 🇧🇷 🇲🇽  Ronaldo en  #ClanSinson Novo-Queretano",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 109,
+                "tag": "ClanSinson"
+              }
+            ]
+          }
+        },
+        "id": "930287040200970240",
+        "location": "México, Brasil",
+        "name": "Ildebrando D'Arcangelo",
+        "pinned_tweet_id": "2081206432167235641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072524360401797120/j78SUVJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3355,
+          "following_count": 1349,
+          "like_count": 23653,
+          "listed_count": 3,
+          "media_count": 6109,
+          "tweet_count": 23796
+        },
+        "url": "",
+        "username": "Il_DeBrandon",
+        "verified": true
+      }
+    ]
+  }
+}

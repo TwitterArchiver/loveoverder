@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081354747463057408"
+      ],
+      "media_source_tweet_id": [
+        "2081862195659362677"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2082027538231222759",
+    "created_at": "2026-07-28T08:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082027538231222759"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1417493712368717827",
+          "start": 3,
+          "username": "Crysepia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZMAPyVhIzw",
+          "end": 43,
+          "expanded_url": "https://x.com/Crysepia/status/2081862195659362677/photo/1",
+          "media_key": "3_2081354747463057408",
+          "start": 20,
+          "url": "https://t.co/ZMAPyVhIzw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082027538231222759",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 764
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081862195659362677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Crysepia: ＃初音ミク https://t.co/ZMAPyVhIzw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2081354747463057408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJ1HYYbwAASYIK.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081354747463057408"
+          ]
+        },
+        "author_id": "1417493712368717827",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2081862195659362677",
+        "created_at": "2026-07-27T22:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T23:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081862195659362677"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMAPyVhIzw",
+              "end": 29,
+              "expanded_url": "https://x.com/Crysepia/status/2081862195659362677/photo/1",
+              "media_key": "3_2081354747463057408",
+              "start": 6,
+              "url": "https://t.co/ZMAPyVhIzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081862195659362677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 79166,
+          "like_count": 13176,
+          "quote_count": 12,
+          "reply_count": 19,
+          "retweet_count": 764
+        },
+        "reply_settings": "everyone",
+        "text": "＃初音ミク https://t.co/ZMAPyVhIzw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081354747463057408"
+          ],
+          "media_source_tweet_id": [
+            "2081862195659362677"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2082027538231222759",
+        "created_at": "2026-07-28T08:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082027538231222759"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1417493712368717827",
+              "start": 3,
+              "username": "Crysepia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMAPyVhIzw",
+              "end": 43,
+              "expanded_url": "https://x.com/Crysepia/status/2081862195659362677/photo/1",
+              "media_key": "3_2081354747463057408",
+              "start": 20,
+              "url": "https://t.co/ZMAPyVhIzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082027538231222759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 764
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081862195659362677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Crysepia: ＃初音ミク https://t.co/ZMAPyVhIzw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 289,
+          "like_count": 811,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1693
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-20T14:37:01.000Z",
+        "description": "クライセピア　作曲　シュールなミクテト描く人\nご依頼、お問い合わせ：crysepia@gmail.com\n外部サイトまとめ→https://t.co/1joOW15y9U\n生成AI❌",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/crysepia",
+                "end": 85,
+                "expanded_url": "https://lit.link/crysepia",
+                "start": 62,
+                "url": "https://t.co/1joOW15y9U"
+              }
+            ]
+          }
+        },
+        "id": "1417493712368717827",
+        "location": "日本",
+        "name": "Crysepia",
+        "pinned_tweet_id": "2080412643383509096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060592156377743360/izSVNk-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18657,
+          "following_count": 948,
+          "like_count": 1256,
+          "listed_count": 30,
+          "media_count": 257,
+          "tweet_count": 886
+        },
+        "url": "",
+        "username": "Crysepia",
+        "verified": true
+      }
+    ]
+  }
+}

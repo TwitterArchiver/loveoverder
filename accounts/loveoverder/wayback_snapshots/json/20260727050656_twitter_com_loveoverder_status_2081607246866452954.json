@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081340996701274112"
+      ],
+      "media_source_tweet_id": [
+        "2081341168487415822"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081607246866452954",
+    "created_at": "2026-07-27T05:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T06:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081607246866452954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1860497581270331392",
+          "start": 3,
+          "username": "JapanOfcontext"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/35WRVe8Oh0",
+          "end": 43,
+          "expanded_url": "https://x.com/JapanOfcontext/status/2081341168487415822/video/1",
+          "media_key": "13_2081340996701274112",
+          "start": 20,
+          "url": "https://t.co/35WRVe8Oh0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081607246866452954",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 324
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081341168487415822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JapanOfcontext: https://t.co/35WRVe8Oh0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14907,
+        "height": 1280,
+        "media_key": "13_2081340996701274112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081340996701274112/img/wz-NV4f5z38qiGt0.jpg",
+        "public_metrics": {
+          "view_count": 49464
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081340996701274112/vid/avc1/320x568/zGwLW1HQPCwt9YeN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081340996701274112/vid/avc1/480x852/ZPVXypH1PPTWTtfF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081340996701274112/vid/avc1/720x1280/I26xGVG9WeUBr-3q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081340996701274112/pl/AujifNPJVnQE6Rx9.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081340996701274112"
+          ]
+        },
+        "author_id": "1860497581270331392",
+        "conversation_id": "2081341168487415822",
+        "created_at": "2026-07-26T11:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081341168487415822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/35WRVe8Oh0",
+              "end": 23,
+              "expanded_url": "https://x.com/JapanOfcontext/status/2081341168487415822/video/1",
+              "media_key": "13_2081340996701274112",
+              "start": 0,
+              "url": "https://t.co/35WRVe8Oh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081341168487415822",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 856,
+          "impression_count": 92144,
+          "like_count": 4939,
+          "quote_count": 14,
+          "reply_count": 12,
+          "retweet_count": 324
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/35WRVe8Oh0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081340996701274112"
+          ],
+          "media_source_tweet_id": [
+            "2081341168487415822"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081607246866452954",
+        "created_at": "2026-07-27T05:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081607246866452954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1860497581270331392",
+              "start": 3,
+              "username": "JapanOfcontext"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/35WRVe8Oh0",
+              "end": 43,
+              "expanded_url": "https://x.com/JapanOfcontext/status/2081341168487415822/video/1",
+              "media_key": "13_2081340996701274112",
+              "start": 20,
+              "url": "https://t.co/35WRVe8Oh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081607246866452954",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 324
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081341168487415822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JapanOfcontext: https://t.co/35WRVe8Oh0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 257,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1469
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T01:36:32.000Z",
+        "description": "˗ˏˋ 🌸 ˎˊ˗",
+        "id": "1860497581270331392",
+        "name": "Out Of Context Japan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861239611411841024/9FKRzBbD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136520,
+          "following_count": 2,
+          "like_count": 6852,
+          "listed_count": 253,
+          "media_count": 2107,
+          "tweet_count": 6666
+        },
+        "url": "",
+        "username": "JapanOfcontext",
+        "verified": true
+      }
+    ]
+  }
+}

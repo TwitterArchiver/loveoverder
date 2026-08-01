@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082388248874352706",
+    "created_at": "2026-07-29T08:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082388248874352706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039317124053905408",
+          "start": 3,
+          "username": "SenT0rii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082388248874352706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081946045706321938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SenT0rii: 不要听任何从小到大没有换过生活地点的长辈的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082388248874352706",
+        "created_at": "2026-07-29T08:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082388248874352706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039317124053905408",
+              "start": 3,
+              "username": "SenT0rii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082388248874352706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081946045706321938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SenT0rii: 不要听任何从小到大没有换过生活地点的长辈的话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039317124053905408",
+        "conversation_id": "2081946045706321938",
+        "created_at": "2026-07-28T03:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081946045706321938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081946045706321938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 76123,
+          "like_count": 1285,
+          "quote_count": 1,
+          "reply_count": 222,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "不要听任何从小到大没有换过生活地点的长辈的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 310,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1844
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T12:24:12.000Z",
+        "description": "好想喝酷儿苹果汁",
+        "id": "2039317124053905408",
+        "name": "苹果",
+        "pinned_tweet_id": "2075910614401364216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039318812080955392/rRXsfmY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 53,
+          "like_count": 2488,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 825
+        },
+        "url": "",
+        "username": "SenT0rii",
+        "verified": false
+      }
+    ]
+  }
+}

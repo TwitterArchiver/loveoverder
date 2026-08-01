@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076284718753230848"
+      ],
+      "media_source_tweet_id": [
+        "2076284733231894992"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076295852721889362",
+    "created_at": "2026-07-12T13:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076295852721889362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2016028559228469252",
+          "start": 3,
+          "username": "Alvvaysioffy1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZjSLGlowIx",
+          "end": 53,
+          "expanded_url": "https://x.com/Alvvaysioffy1/status/2076284733231894992/photo/1",
+          "media_key": "3_2076284718753230848",
+          "start": 30,
+          "url": "https://t.co/ZjSLGlowIx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076295852721889362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076284733231894992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alvvaysioffy1: 俺以为某人要就拾走嘞 https://t.co/ZjSLGlowIx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076284718753230848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBx83nbsAA68yh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076284718753230848"
+          ],
+          "media_source_tweet_id": [
+            "2076284733231894992"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076295852721889362",
+        "created_at": "2026-07-12T13:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076295852721889362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2016028559228469252",
+              "start": 3,
+              "username": "Alvvaysioffy1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZjSLGlowIx",
+              "end": 53,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2076284733231894992/photo/1",
+              "media_key": "3_2076284718753230848",
+              "start": 30,
+              "url": "https://t.co/ZjSLGlowIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076295852721889362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076284733231894992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alvvaysioffy1: 俺以为某人要就拾走嘞 https://t.co/ZjSLGlowIx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076284718753230848"
+          ]
+        },
+        "author_id": "2016028559228469252",
+        "conversation_id": "2076284733231894992",
+        "created_at": "2026-07-12T12:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076284733231894992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZjSLGlowIx",
+              "end": 34,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2076284733231894992/photo/1",
+              "media_key": "3_2076284718753230848",
+              "start": 11,
+              "url": "https://t.co/ZjSLGlowIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076284733231894992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "俺以为某人要就拾走嘞 https://t.co/ZjSLGlowIx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 53,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 236,
+          "like_count": 1519,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 934
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

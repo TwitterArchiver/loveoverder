@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080851848437825536"
+      ],
+      "media_source_tweet_id": [
+        "2080852008765206992"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080933427914883127",
+    "created_at": "2026-07-25T08:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080933427914883127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1528798633168347137",
+          "start": 3,
+          "username": "TomoriNao2022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/18qzEdCGOG",
+          "end": 60,
+          "expanded_url": "https://x.com/TomoriNao2022/status/2080852008765206992/photo/1",
+          "media_key": "3_2080851848437825536",
+          "start": 37,
+          "url": "https://t.co/18qzEdCGOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080933427914883127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080852008765206992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TomoriNao2022: 纳指又跌了。\n\n苟罕见们气死了吧。 https://t.co/18qzEdCGOG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_2080851848437825536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOCruzhaAAAPE_Z.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080851848437825536"
+          ]
+        },
+        "author_id": "1528798633168347137",
+        "conversation_id": "2080852008765206992",
+        "created_at": "2026-07-25T03:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080852008765206992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18qzEdCGOG",
+              "end": 41,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2080852008765206992/photo/1",
+              "media_key": "3_2080851848437825536",
+              "start": 18,
+              "url": "https://t.co/18qzEdCGOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080852008765206992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6688,
+          "like_count": 107,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "纳指又跌了。\n\n苟罕见们气死了吧。 https://t.co/18qzEdCGOG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080851848437825536"
+          ],
+          "media_source_tweet_id": [
+            "2080852008765206992"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080933427914883127",
+        "created_at": "2026-07-25T08:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080933427914883127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1528798633168347137",
+              "start": 3,
+              "username": "TomoriNao2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/18qzEdCGOG",
+              "end": 60,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2080852008765206992/photo/1",
+              "media_key": "3_2080851848437825536",
+              "start": 37,
+              "url": "https://t.co/18qzEdCGOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080933427914883127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080852008765206992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TomoriNao2022: 纳指又跌了。\n\n苟罕见们气死了吧。 https://t.co/18qzEdCGOG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 255,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1327
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！\ntelegram：https://t.co/K8jioEliU0\ndiscord：https://t.co/g6evdifySc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 48,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 25,
+                "url": "https://t.co/K8jioEliU0"
+              },
+              {
+                "display_url": "discord.gg/5YhkSchu2",
+                "end": 80,
+                "expanded_url": "https://discord.gg/5YhkSchu2",
+                "start": 57,
+                "url": "https://t.co/g6evdifySc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/5YhkSchu2",
+                "end": 23,
+                "expanded_url": "https://discord.gg/5YhkSchu2",
+                "start": 0,
+                "url": "https://t.co/g6evdifySc"
+              }
+            ]
+          }
+        },
+        "id": "1528798633168347137",
+        "location": "神奈川県",
+        "name": "なおNaO",
+        "pinned_tweet_id": "2078866714859860030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17351,
+          "following_count": 903,
+          "like_count": 11273,
+          "listed_count": 61,
+          "media_count": 2666,
+          "tweet_count": 10943
+        },
+        "url": "https://t.co/g6evdifySc",
+        "username": "TomoriNao2022",
+        "verified": true
+      }
+    ]
+  }
+}

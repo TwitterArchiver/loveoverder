@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080631871411765248"
+      ],
+      "media_source_tweet_id": [
+        "2080631876398797104"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080933541760921927",
+    "created_at": "2026-07-25T08:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080933541760921927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1643517192955207680",
+          "start": 3,
+          "username": "GlassFoxowo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ylm2YTpkXJ",
+          "end": 44,
+          "expanded_url": "https://x.com/GlassFoxowo/status/2080631876398797104/photo/1",
+          "media_key": "3_2080631871411765248",
+          "start": 21,
+          "url": "https://t.co/Ylm2YTpkXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080933541760921927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080631876398797104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GlassFoxowo: 谢谢。 https://t.co/Ylm2YTpkXJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2080631871411765248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_jqdPawAAmOfp.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080631871411765248"
+          ]
+        },
+        "author_id": "1643517192955207680",
+        "conversation_id": "2080631876398797104",
+        "created_at": "2026-07-24T12:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080631876398797104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ylm2YTpkXJ",
+              "end": 27,
+              "expanded_url": "https://x.com/GlassFoxowo/status/2080631876398797104/photo/1",
+              "media_key": "3_2080631871411765248",
+              "start": 4,
+              "url": "https://t.co/Ylm2YTpkXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080631876398797104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 35299,
+          "like_count": 176,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢。 https://t.co/Ylm2YTpkXJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080631871411765248"
+          ],
+          "media_source_tweet_id": [
+            "2080631876398797104"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080933541760921927",
+        "created_at": "2026-07-25T08:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080933541760921927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1643517192955207680",
+              "start": 3,
+              "username": "GlassFoxowo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ylm2YTpkXJ",
+              "end": 44,
+              "expanded_url": "https://x.com/GlassFoxowo/status/2080631876398797104/photo/1",
+              "media_key": "3_2080631871411765248",
+              "start": 21,
+              "url": "https://t.co/Ylm2YTpkXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080933541760921927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080631876398797104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GlassFoxowo: 谢谢。 https://t.co/Ylm2YTpkXJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 255,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1330
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T07:33:48.000Z",
+        "description": "🏳️‍🌈 Gay | 22 | Furry | ✝ |\n🎵音乐日推Bot #玻狸日推歌单 | 🌏Base 成都 |\n💻半吊子DevOps 前端运维网络什么都会一点 |\n❤️ 爱人 @realShellWen |\n©️推文适用 CC BY-NC-SA 4.0 署名非商业使用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 37,
+                "tag": "玻狸日推歌单"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 90,
+                "username": "realShellWen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.glassfoxowo.com",
+                "end": 23,
+                "expanded_url": "https://note.glassfoxowo.com",
+                "start": 0,
+                "url": "https://t.co/g02SwVlQdr"
+              }
+            ]
+          }
+        },
+        "id": "1643517192955207680",
+        "location": "南通福瑞有限公司",
+        "name": "玻狸",
+        "pinned_tweet_id": "2076195679953985721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026080688454414336/S_dPrHrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4780,
+          "following_count": 379,
+          "like_count": 10018,
+          "listed_count": 2,
+          "media_count": 1234,
+          "tweet_count": 5205
+        },
+        "url": "https://t.co/g02SwVlQdr",
+        "username": "GlassFoxowo",
+        "verified": true
+      }
+    ]
+  }
+}

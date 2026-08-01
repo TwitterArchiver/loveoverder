@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080906466999889920"
+      ],
+      "media_source_tweet_id": [
+        "2080906568686526786"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2080972851814031572",
+    "created_at": "2026-07-25T11:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080972851814031572"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "习近平"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065780013841170432",
+          "start": 3,
+          "username": "DavidLeeut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nBzvPX2zN0",
+          "end": 62,
+          "expanded_url": "https://x.com/DavidLeeut/status/2080906568686526786/video/1",
+          "media_key": "13_2080906466999889920",
+          "start": 39,
+          "url": "https://t.co/nBzvPX2zN0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080972851814031572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080906568686526786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DavidLeeut: 不同群体看待习近平 be like\n#习近平 https://t.co/nBzvPX2zN0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54200,
+        "height": 720,
+        "media_key": "13_2080906466999889920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080906466999889920/img/sTbPnh61YipNGBdX.jpg",
+        "public_metrics": {
+          "view_count": 15542
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080906466999889920/vid/avc1/320x320/OTa6mdLLJMozM7zW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080906466999889920/vid/avc1/540x540/BXr-55CwYcV8c2c_.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080906466999889920/vid/avc1/720x720/KzB3esEYuOHhRS2m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080906466999889920/pl/pqMOOeeaw_PgDxRD.m3u8?v=a0c"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080906466999889920"
+          ]
+        },
+        "author_id": "2065780013841170432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2080906568686526786",
+        "created_at": "2026-07-25T06:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080906568686526786"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "习近平"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nBzvPX2zN0",
+              "end": 46,
+              "expanded_url": "https://x.com/DavidLeeut/status/2080906568686526786/video/1",
+              "media_key": "13_2080906466999889920",
+              "start": 23,
+              "url": "https://t.co/nBzvPX2zN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080906568686526786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 24976,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "不同群体看待习近平 be like\n#习近平 https://t.co/nBzvPX2zN0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080906466999889920"
+          ],
+          "media_source_tweet_id": [
+            "2080906568686526786"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2080972851814031572",
+        "created_at": "2026-07-25T11:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080972851814031572"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "习近平"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065780013841170432",
+              "start": 3,
+              "username": "DavidLeeut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nBzvPX2zN0",
+              "end": 62,
+              "expanded_url": "https://x.com/DavidLeeut/status/2080906568686526786/video/1",
+              "media_key": "13_2080906466999889920",
+              "start": 39,
+              "url": "https://t.co/nBzvPX2zN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080972851814031572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080906568686526786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DavidLeeut: 不同群体看待习近平 be like\n#习近平 https://t.co/nBzvPX2zN0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 255,
+          "like_count": 645,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1341
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T12:55:45.000Z",
+        "description": "“让世界好一点，让氛围轻松一些，让干旱许久的土地下场热烈的雨。”\n建制改革—左翼自由二象性，温和派，杂圈享受者，厌恶支黑粉蛆与其他极端思想，尊重每个人，也请尊重自己，明天会更好\n小号: @purplerates114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 93,
+                "username": "purplerates114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.un.org/zh/?utm_source…",
+                "end": 23,
+                "expanded_url": "https://news.un.org/zh/?utm_source=chatgpt.com",
+                "start": 0,
+                "url": "https://t.co/G3XBMt37Ru"
+              }
+            ]
+          }
+        },
+        "id": "2065780013841170432",
+        "location": "白宫总统府桌子下",
+        "name": "旧金山紫薯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080737823372500992/ehtXxaIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 239,
+          "like_count": 5359,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/G3XBMt37Ru",
+        "username": "DavidLeeut",
+        "verified": false
+      }
+    ]
+  }
+}

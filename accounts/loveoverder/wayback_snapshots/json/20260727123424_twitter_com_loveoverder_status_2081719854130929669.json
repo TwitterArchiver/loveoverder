@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081719854130929669",
+    "created_at": "2026-07-27T12:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081719854130929669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1263040190559354880",
+          "start": 3,
+          "username": "4NIDUF98HPKleOB"
+        },
+        {
+          "end": 28,
+          "id": "825183199198212096",
+          "start": 21,
+          "username": "Bitwux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081719854130929669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081627243965800526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4NIDUF98HPKleOB: @Bitwux 大妈还是你大妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081719854130929669",
+        "created_at": "2026-07-27T12:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081719854130929669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1263040190559354880",
+              "start": 3,
+              "username": "4NIDUF98HPKleOB"
+            },
+            {
+              "end": 28,
+              "id": "825183199198212096",
+              "start": 21,
+              "username": "Bitwux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081719854130929669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081627243965800526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4NIDUF98HPKleOB: @Bitwux 大妈还是你大妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263040190559354880",
+        "conversation_id": "2081560137689612329",
+        "created_at": "2026-07-27T06:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081627243965800526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "825183199198212096",
+              "start": 0,
+              "username": "Bitwux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081627243965800526",
+        "in_reply_to_user_id": "825183199198212096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 744,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081560137689612329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitwux 大妈还是你大妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 261,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1519
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T09:33:55.000Z",
+        "description": "美好的事情即将发生！",
+        "id": "1263040190559354880",
+        "name": "盛盛💯💯💯fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741850907535613953/OPWTRDle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 2763,
+          "like_count": 16740,
+          "listed_count": 10,
+          "media_count": 214,
+          "tweet_count": 7972
+        },
+        "url": "",
+        "username": "4NIDUF98HPKleOB",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-28T03:26:20.000Z",
+        "description": "Investor & Researcher｜投资｜研究｜市场｜AI｜Crypto｜https://t.co/5pqnsZftci ｜ https://t.co/5SEXYaTHzf｜https://t.co/R49fVhFDyx｜https://t.co/z4L7oE7Z5n\n\n和同频的人产生深度连接。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/bitewu",
+                "end": 64,
+                "expanded_url": "http://t.me/bitewu",
+                "start": 41,
+                "url": "https://t.co/5pqnsZftci"
+              },
+              {
+                "display_url": "binance.com",
+                "end": 90,
+                "expanded_url": "http://binance.com",
+                "start": 67,
+                "url": "https://t.co/5SEXYaTHzf"
+              },
+              {
+                "display_url": "okx.com",
+                "end": 114,
+                "expanded_url": "http://okx.com",
+                "start": 91,
+                "url": "https://t.co/R49fVhFDyx"
+              },
+              {
+                "display_url": "Gate.com",
+                "end": 138,
+                "expanded_url": "http://Gate.com",
+                "start": 115,
+                "url": "https://t.co/z4L7oE7Z5n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mirror.xyz/bitwu.eth",
+                "end": 23,
+                "expanded_url": "http://mirror.xyz/bitwu.eth",
+                "start": 0,
+                "url": "https://t.co/ogjpTXU6k0"
+              }
+            ]
+          }
+        },
+        "id": "825183199198212096",
+        "location": "Los Angeles, CA",
+        "name": "BITWU.ETH 🔆",
+        "pinned_tweet_id": "1537614958930055168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011998329123770368/u69zr9Dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378783,
+          "following_count": 2346,
+          "like_count": 10994,
+          "listed_count": 3569,
+          "media_count": 12364,
+          "tweet_count": 36399
+        },
+        "url": "https://t.co/ogjpTXU6k0",
+        "username": "Bitwux",
+        "verified": true
+      }
+    ]
+  }
+}

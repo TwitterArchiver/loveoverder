@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076215241281880064"
+      ],
+      "media_source_tweet_id": [
+        "2076216376516300917"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076289591376764989",
+    "created_at": "2026-07-12T12:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076289591376764989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/549R5Ym8Qo",
+          "end": 60,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2076216376516300917/photo/1",
+          "media_key": "3_2076215241281880064",
+          "start": 37,
+          "url": "https://t.co/549R5Ym8Qo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076289591376764989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076216376516300917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 终于看见……理想中的夫妻关系了😭 https://t.co/549R5Ym8Qo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_2076215241281880064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAywv3bwAARqY6.png",
+        "width": 638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076215241281880064"
+          ],
+          "media_source_tweet_id": [
+            "2076216376516300917"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076289591376764989",
+        "created_at": "2026-07-12T12:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076289591376764989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/549R5Ym8Qo",
+              "end": 60,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2076216376516300917/photo/1",
+              "media_key": "3_2076215241281880064",
+              "start": 37,
+              "url": "https://t.co/549R5Ym8Qo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076289591376764989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076216376516300917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 终于看见……理想中的夫妻关系了😭 https://t.co/549R5Ym8Qo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076215241281880064"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2076216376516300917",
+        "created_at": "2026-07-12T08:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076216376516300917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/549R5Ym8Qo",
+              "end": 40,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2076216376516300917/photo/1",
+              "media_key": "3_2076215241281880064",
+              "start": 17,
+              "url": "https://t.co/549R5Ym8Qo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076216376516300917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 25948,
+          "like_count": 821,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "终于看见……理想中的夫妻关系了😭 https://t.co/549R5Ym8Qo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 50,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9813,
+          "following_count": 880,
+          "like_count": 30419,
+          "listed_count": 13,
+          "media_count": 2024,
+          "tweet_count": 10191
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Journalism",
+          "id": "1074755369530880001",
+          "name": "Journalists"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Prime Minister of India Narendra Modi",
+          "id": "806566669166350336",
+          "name": "Narendra Modi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Prime Minister of India Narendra Modi",
+          "id": "806566669166350336",
+          "name": "Narendra Modi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Prime Minister of India Narendra Modi",
+          "id": "806566669166350336",
+          "name": "Narendra Modi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1489542346047852544",
+          "name": "India politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518657363795845121",
+          "name": "India political figures"
+        }
+      }
+    ],
+    "conversation_id": "2080885476844818702",
+    "created_at": "2026-07-25T05:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080885476844818702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080885476844818702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080588800753881102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: “印度也有它的白纸革命”\n\n7月23日，印度新德里简塔·曼塔，“蟑螂人民党”抗议现场，一名头缠绷带的青年举起一张白纸。\n\n采访者问：“你手里拿的是什么？”\n\n青年回答：“这是莫迪的政绩。”\n\n采访者说：“可这明明是一张白纸。”\n\n青年随即…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24659,
+        "height": 980,
+        "media_key": "13_2080581805401366528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080581805401366528/img/gouYNFYPbkQEoEIM.jpg",
+        "public_metrics": {
+          "view_count": 55525
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080581805401366528/vid/avc1/320x434/8fU7Z0NpOds8ra48.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080581805401366528/vid/avc1/480x652/pZ1z1wyuLb4gjHE4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080581805401366528/vid/avc1/720x980/pcZ9XYv_nF18Hjcc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080581805401366528/pl/V5rEOIHBARLIwGBf.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489542346047852544",
+              "name": "India politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518657363795845121",
+              "name": "India political figures"
+            }
+          }
+        ],
+        "conversation_id": "2080885476844818702",
+        "created_at": "2026-07-25T05:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080885476844818702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080885476844818702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080588800753881102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: “印度也有它的白纸革命”\n\n7月23日，印度新德里简塔·曼塔，“蟑螂人民党”抗议现场，一名头缠绷带的青年举起一张白纸。\n\n采访者问：“你手里拿的是什么？”\n\n青年回答：“这是莫迪的政绩。”\n\n采访者说：“可这明明是一张白纸。”\n\n青年随即…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080581805401366528"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of India Narendra Modi",
+              "id": "806566669166350336",
+              "name": "Narendra Modi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489542346047852544",
+              "name": "India politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518657363795845121",
+              "name": "India political figures"
+            }
+          }
+        ],
+        "conversation_id": "2080588800753881102",
+        "created_at": "2026-07-24T09:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080588800753881102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpuLZ4uIls",
+              "end": 176,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2080588800753881102/video/1",
+              "media_key": "13_2080581805401366528",
+              "start": 153,
+              "url": "https://t.co/cpuLZ4uIls"
+            },
+            {
+              "display_url": "x.com/Amockx2022/sta…",
+              "end": 200,
+              "expanded_url": "https://twitter.com/Amockx2022/status/2080502230210548136",
+              "start": 177,
+              "url": "https://t.co/9qDgzWSmoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080588800753881102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“印度也有它的白纸革命”\n\n7月23日，印度新德里简塔·曼塔，“蟑螂人民党”抗议现场，一名头缠绷带的青年举起一张白纸。\n\n采访者问：“你手里拿的是什么？”\n\n青年回答：“这是莫迪的政绩。”\n\n采访者说：“可这明明是一张白纸。”\n\n青年随即回应：“你看不到他的政绩，是因为你没有戴上‘盲目崇拜者’的眼镜。”\n\n“盲目崇拜者”（andhbhakt）是印度反对者对莫迪及印度人民党狂热支持者的讽刺性称呼。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 190260,
+          "like_count": 1807,
+          "quote_count": 15,
+          "reply_count": 117,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080502230210548136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“印度也有它的白纸革命”\n\n7月23日，印度新德里简塔·曼塔，“蟑螂人民党”抗议现场，一名头缠绷带的青年举起一张白纸。\n\n采访者问：“你手里拿的是什么？”\n\n青年回答：“这是莫迪的政绩。”\n\n采访者说：“可这明明是一张白纸。”\n\n青年随即回应：“你看不到他的政绩，是因为你没有戴上‘盲目崇拜者’的眼镜。” https://t.co/cpuLZ4uIls https://t.co/9qDgzWSmoi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 251,
+          "like_count": 631,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1294
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2078717699849630025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244058,
+          "following_count": 1081,
+          "like_count": 9808,
+          "listed_count": 8836,
+          "media_count": 51018,
+          "tweet_count": 58239
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

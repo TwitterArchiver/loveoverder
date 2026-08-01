@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080652555982639105"
+      ],
+      "media_source_tweet_id": [
+        "2080652568204910632"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080873294581092604",
+    "created_at": "2026-07-25T04:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080873294581092604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "769370647",
+          "start": 3,
+          "username": "0xsexybanana"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RJ4dj0PGwb",
+          "end": 60,
+          "expanded_url": "https://x.com/0xsexybanana/status/2080652568204910632/photo/1",
+          "media_key": "3_2080652555982639105",
+          "start": 37,
+          "url": "https://t.co/RJ4dj0PGwb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080873294581092604",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080652568204910632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0xsexybanana: Crypto ages people https://t.co/RJ4dj0PGwb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 667,
+        "media_key": "3_2080652555982639105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_2edRakAEDlMa.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080652555982639105"
+          ]
+        },
+        "author_id": "769370647",
+        "conversation_id": "2080652568204910632",
+        "created_at": "2026-07-24T13:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080652568204910632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RJ4dj0PGwb",
+              "end": 42,
+              "expanded_url": "https://x.com/0xsexybanana/status/2080652568204910632/photo/1",
+              "media_key": "3_2080652555982639105",
+              "start": 19,
+              "url": "https://t.co/RJ4dj0PGwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080652568204910632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7924,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Crypto ages people https://t.co/RJ4dj0PGwb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080652555982639105"
+          ],
+          "media_source_tweet_id": [
+            "2080652568204910632"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080873294581092604",
+        "created_at": "2026-07-25T04:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080873294581092604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "769370647",
+              "start": 3,
+              "username": "0xsexybanana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RJ4dj0PGwb",
+              "end": 60,
+              "expanded_url": "https://x.com/0xsexybanana/status/2080652568204910632/photo/1",
+              "media_key": "3_2080652555982639105",
+              "start": 37,
+              "url": "https://t.co/RJ4dj0PGwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080873294581092604",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080652568204910632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0xsexybanana: Crypto ages people https://t.co/RJ4dj0PGwb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 249,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1269
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-20T11:41:54.000Z",
+        "description": "Contributor @axisrobotics\nalso like to share my thoughts on farming and trading.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "axisrobotics"
+              }
+            ]
+          }
+        },
+        "id": "769370647",
+        "location": "United States",
+        "name": "郡主Christine (✱,✱)",
+        "pinned_tweet_id": "2078116582661005327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059458108599238656/IGcnPchb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41326,
+          "following_count": 2431,
+          "like_count": 22887,
+          "listed_count": 589,
+          "media_count": 868,
+          "tweet_count": 9850
+        },
+        "url": "",
+        "username": "0xsexybanana",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076565819220484168",
+    "created_at": "2026-07-13T09:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076597477499912392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1750848549217329152",
+          "start": 0,
+          "username": "youiiiovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076597477499912392",
+    "in_reply_to_user_id": "1750848549217329152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076565819220484168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youiiiovo 烏雞傻逼婊子我沒想到小孩子也能那麼惡心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076565806851436544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFxmWYaMAAL8gE.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076565806830481409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFxmWTacAERWB_.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076565806893473792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFxmWiboAA4v_O.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076565819220484168",
+        "created_at": "2026-07-13T09:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076597477499912392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1750848549217329152",
+              "start": 0,
+              "username": "youiiiovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076597477499912392",
+        "in_reply_to_user_id": "1750848549217329152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076565819220484168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youiiiovo 烏雞傻逼婊子我沒想到小孩子也能那麼惡心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076565806851436544",
+            "3_2076565806830481409",
+            "3_2076565806893473792"
+          ]
+        },
+        "author_id": "1750848549217329152",
+        "conversation_id": "2076565819220484168",
+        "created_at": "2026-07-13T07:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076565819220484168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ASiXgEVEiF",
+              "end": 37,
+              "expanded_url": "https://x.com/youiiiovo/status/2076565819220484168/photo/1",
+              "media_key": "3_2076565806851436544",
+              "start": 14,
+              "url": "https://t.co/ASiXgEVEiF"
+            },
+            {
+              "display_url": "pic.x.com/ASiXgEVEiF",
+              "end": 37,
+              "expanded_url": "https://x.com/youiiiovo/status/2076565819220484168/photo/1",
+              "media_key": "3_2076565806830481409",
+              "start": 14,
+              "url": "https://t.co/ASiXgEVEiF"
+            },
+            {
+              "display_url": "pic.x.com/ASiXgEVEiF",
+              "end": 37,
+              "expanded_url": "https://x.com/youiiiovo/status/2076565819220484168/photo/1",
+              "media_key": "3_2076565806893473792",
+              "start": 14,
+              "url": "https://t.co/ASiXgEVEiF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076565819220484168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1030,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在你火了呀宝子❤️开心吗 https://t.co/ASiXgEVEiF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 135,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T11:50:05.000Z",
+        "description": "",
+        "id": "1750848549217329152",
+        "name": "你们全都死妈啦",
+        "pinned_tweet_id": "2076418225299222752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076102363841187840/7itwvexi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 21,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "youiiiovo",
+        "verified": false
+      }
+    ]
+  }
+}

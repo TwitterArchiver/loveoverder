@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2076196400648634580",
+    "created_at": "2026-07-12T06:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076196400648634580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1762149651208130560",
+          "start": 3,
+          "username": "jaeminfeminista"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076196400648634580",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5253
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075597170107887938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jaeminfeminista: já faz um milhão de anos que uso twitter e ainda não consigo entender como as pessoas conseguem gif e vídeo tão apropr…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15681,
+        "height": 480,
+        "media_key": "13_2033566951553847296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033566951553847296/img/SC0ze271xm0Rc4km.jpg",
+        "public_metrics": {
+          "view_count": 9491658
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033566951553847296/vid/avc1/320x320/X_TPZrcRHT92nYTR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033566951553847296/vid/avc1/480x480/CZcwuxd4FfyIErVW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033566951553847296/pl/BCdqlCAnqQTibIvS.m3u8?v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2076196400648634580",
+        "created_at": "2026-07-12T06:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076196400648634580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1762149651208130560",
+              "start": 3,
+              "username": "jaeminfeminista"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076196400648634580",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5253
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075597170107887938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jaeminfeminista: já faz um milhão de anos que uso twitter e ainda não consigo entender como as pessoas conseguem gif e vídeo tão apropr…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033566951553847296"
+          ],
+          "media_source_tweet_id": [
+            "2033567006201409992"
+          ]
+        },
+        "author_id": "1762149651208130560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2075597170107887938",
+        "created_at": "2026-07-10T15:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075597170107887938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/00MZCz7yiO",
+              "end": 265,
+              "expanded_url": "https://x.com/unbsincera/status/2033567006201409992/video/1",
+              "media_key": "13_2033566951553847296",
+              "start": 242,
+              "url": "https://t.co/00MZCz7yiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075597170107887938",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7463,
+          "impression_count": 916111,
+          "like_count": 77738,
+          "quote_count": 203,
+          "reply_count": 380,
+          "retweet_count": 5253
+        },
+        "reply_settings": "everyone",
+        "text": "já faz um milhão de anos que uso twitter e ainda não consigo entender como as pessoas conseguem gif e vídeo tão apropriado pra fazer o tweet delas, vcs salvam? tem uma pasta só pra isso? só o meu search que não funciona? são muitas dúvidas.. https://t.co/00MZCz7yiO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 16,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T16:16:36.000Z",
+        "description": "luffy !! luffy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/njmin",
+                "end": 23,
+                "expanded_url": "https://rentry.co/njmin",
+                "start": 0,
+                "url": "https://t.co/2J6hfYgBiv"
+              }
+            ]
+          }
+        },
+        "id": "1762149651208130560",
+        "name": "bebely",
+        "pinned_tweet_id": "2072345152346042375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072343902472871936/LCwsbtrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 86,
+          "like_count": 90846,
+          "listed_count": 0,
+          "media_count": 1501,
+          "tweet_count": 9524
+        },
+        "url": "https://t.co/2J6hfYgBiv",
+        "username": "jaeminfeminista",
+        "verified": false
+      }
+    ]
+  }
+}

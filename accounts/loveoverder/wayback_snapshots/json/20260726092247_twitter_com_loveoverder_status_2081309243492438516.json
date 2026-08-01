@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080921653819670528"
+      ],
+      "media_source_tweet_id": [
+        "2080921769850831161"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2081309243492438516",
+    "created_at": "2026-07-26T09:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T10:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081309243492438516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "978272328",
+          "start": 3,
+          "username": "yetkisizherif"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HV7gQ6TvFQ",
+          "end": 105,
+          "expanded_url": "https://x.com/yetkisizherif/status/2080921769850831161/video/1",
+          "media_key": "13_2080921653819670528",
+          "start": 82,
+          "url": "https://t.co/HV7gQ6TvFQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081309243492438516",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 639
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080921769850831161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yetkisizherif: yavrusunun tatlılığına dayanamayıp onu sevgiye boğan anne kedi https://t.co/HV7gQ6TvFQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40299,
+        "height": 1624,
+        "media_key": "13_2080921653819670528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080921653819670528/img/tEHNx-IcY7nyVy-P.jpg",
+        "public_metrics": {
+          "view_count": 137340
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080921653819670528/vid/avc1/1080x1624/V8fp1BXvmaMpHMQ8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080921653819670528/pl/M7-Niqx_b8zjmMpn.m3u8?v=92c"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080921653819670528/vid/avc1/720x1082/CWxc79H-Cz6ra_Pc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080921653819670528/vid/avc1/480x720/diRam5Gp2uzendAE.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080921653819670528/vid/avc1/320x480/2FiNoEiKy97o4XcW.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080921653819670528"
+          ]
+        },
+        "author_id": "978272328",
+        "conversation_id": "2080921769850831161",
+        "created_at": "2026-07-25T07:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080921769850831161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HV7gQ6TvFQ",
+              "end": 86,
+              "expanded_url": "https://x.com/yetkisizherif/status/2080921769850831161/video/1",
+              "media_key": "13_2080921653819670528",
+              "start": 63,
+              "url": "https://t.co/HV7gQ6TvFQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080921769850831161",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1245,
+          "impression_count": 330557,
+          "like_count": 12608,
+          "quote_count": 60,
+          "reply_count": 78,
+          "retweet_count": 639
+        },
+        "reply_settings": "everyone",
+        "text": "yavrusunun tatlılığına dayanamayıp onu sevgiye boğan anne kedi https://t.co/HV7gQ6TvFQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080921653819670528"
+          ],
+          "media_source_tweet_id": [
+            "2080921769850831161"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2081309243492438516",
+        "created_at": "2026-07-26T09:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081309243492438516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "978272328",
+              "start": 3,
+              "username": "yetkisizherif"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HV7gQ6TvFQ",
+              "end": 105,
+              "expanded_url": "https://x.com/yetkisizherif/status/2080921769850831161/video/1",
+              "media_key": "13_2080921653819670528",
+              "start": 82,
+              "url": "https://t.co/HV7gQ6TvFQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081309243492438516",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 639
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080921769850831161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yetkisizherif: yavrusunun tatlılığına dayanamayıp onu sevgiye boğan anne kedi https://t.co/HV7gQ6TvFQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 256,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1368
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-29T12:47:26.000Z",
+        "description": "Olumsuz içerikler görmekten sıkılanlar için tekrar tekrar izlemek isteyeceğiniz pozitif videolar paylaşıyorum.",
+        "id": "978272328",
+        "location": "Universe",
+        "name": "Batu",
+        "pinned_tweet_id": "2080921769850831161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648808197329747971/w5IDVeY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71591,
+          "following_count": 62456,
+          "like_count": 57069,
+          "listed_count": 61,
+          "media_count": 2098,
+          "tweet_count": 3570
+        },
+        "url": "",
+        "username": "yetkisizherif",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076834589977526372",
+    "created_at": "2026-07-14T01:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076834589977526372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Niubi082417269…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Niubi0824172693/status/2076530895239221520",
+          "start": 7,
+          "url": "https://t.co/phg5hhsYXs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076834589977526372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076530895239221520",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈哈 https://t.co/phg5hhsYXs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076834589977526372",
+        "created_at": "2026-07-14T01:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076834589977526372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Niubi082417269…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Niubi0824172693/status/2076530895239221520",
+              "start": 7,
+              "url": "https://t.co/phg5hhsYXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076834589977526372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076530895239221520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈 https://t.co/phg5hhsYXs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650366505861758976",
+        "conversation_id": "2076530895239221520",
+        "created_at": "2026-07-13T04:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076530895239221520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076530895239221520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11972,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "韩股熔断的频率比我一周射的都多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 176,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 590
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T05:10:22.000Z",
+        "description": "04年美本在读 @penn_state\nBuild in WEB3 | AI 美股港股学习中\nOKX Bitget返佣| https://t.co/zhkZVjKFNs\nhttps://t.co/7PDlqOP7hD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "penn_state"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jsqkmfytwpn.com/join/66994857",
+                "end": 84,
+                "expanded_url": "https://www.jsqkmfytwpn.com/join/66994857",
+                "start": 61,
+                "url": "https://t.co/zhkZVjKFNs"
+              },
+              {
+                "display_url": "web3.bitget.com/share/3Skh1L?i…",
+                "end": 108,
+                "expanded_url": "https://web3.bitget.com/share/3Skh1L?inviteCode=pKv8cP",
+                "start": 85,
+                "url": "https://t.co/7PDlqOP7hD"
+              }
+            ]
+          }
+        },
+        "id": "1650366505861758976",
+        "location": "New York, USA",
+        "name": "马牛逼Trader",
+        "pinned_tweet_id": "2043587286130946399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037191985682092032/frZ3HPmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6826,
+          "following_count": 489,
+          "like_count": 2276,
+          "listed_count": 38,
+          "media_count": 985,
+          "tweet_count": 3871
+        },
+        "url": "",
+        "username": "Niubi0824172693",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077023649991938049"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2077023656027508947",
+    "created_at": "2026-07-14T13:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077023656027508947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/irwfRbzzkr",
+          "end": 27,
+          "expanded_url": "https://x.com/loveoverder/status/2077023656027508947/photo/1",
+          "media_key": "3_2077023649991938049",
+          "start": 4,
+          "url": "https://t.co/irwfRbzzkr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077023656027508947",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠了 https://t.co/irwfRbzzkr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 734,
+        "media_key": "3_2077023649991938049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMSAU_a0AEK36a.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077023649991938049"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2077023656027508947",
+        "created_at": "2026-07-14T13:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077023656027508947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/irwfRbzzkr",
+              "end": 27,
+              "expanded_url": "https://x.com/loveoverder/status/2077023656027508947/photo/1",
+              "media_key": "3_2077023649991938049",
+              "start": 4,
+              "url": "https://t.co/irwfRbzzkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077023656027508947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠了 https://t.co/irwfRbzzkr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头\n已有闺，勿动勿碰勿抢",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 201,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 782
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      }
+    ]
+  }
+}

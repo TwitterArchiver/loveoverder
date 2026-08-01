@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080898175628619776"
+      ],
+      "media_source_tweet_id": [
+        "2080898241248510238"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2080980178780709274",
+    "created_at": "2026-07-25T11:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080980178780709274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811384610749874176",
+          "start": 3,
+          "username": "wgddking"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C4wbC90IuH",
+          "end": 43,
+          "expanded_url": "https://x.com/wgddking/status/2080898241248510238/video/1",
+          "media_key": "13_2080898175628619776",
+          "start": 20,
+          "url": "https://t.co/C4wbC90IuH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080980178780709274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080898241248510238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wgddking: 幺幺~~~ https://t.co/C4wbC90IuH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31230,
+        "height": 720,
+        "media_key": "13_2080898175628619776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080898175628619776/img/GnnHOwr6hw35I6DM.jpg",
+        "public_metrics": {
+          "view_count": 1580
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080898175628619776/vid/avc1/480x270/OUupLWUcZi0PYEcf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080898175628619776/vid/avc1/640x360/_U7_vcW9O_AL6pTU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080898175628619776/vid/avc1/1280x720/BOsILZK8WQtVbSA_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080898175628619776/pl/WgVd7EqKEVKirxjV.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080898175628619776"
+          ]
+        },
+        "author_id": "1811384610749874176",
+        "conversation_id": "2080898241248510238",
+        "created_at": "2026-07-25T06:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080898241248510238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4wbC90IuH",
+              "end": 29,
+              "expanded_url": "https://x.com/wgddking/status/2080898241248510238/video/1",
+              "media_key": "13_2080898175628619776",
+              "start": 6,
+              "url": "https://t.co/C4wbC90IuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080898241248510238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2935,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "幺幺~~~ https://t.co/C4wbC90IuH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080898175628619776"
+          ],
+          "media_source_tweet_id": [
+            "2080898241248510238"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2080980178780709274",
+        "created_at": "2026-07-25T11:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080980178780709274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811384610749874176",
+              "start": 3,
+              "username": "wgddking"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4wbC90IuH",
+              "end": 43,
+              "expanded_url": "https://x.com/wgddking/status/2080898241248510238/video/1",
+              "media_key": "13_2080898175628619776",
+              "start": 20,
+              "url": "https://t.co/C4wbC90IuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080980178780709274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080898241248510238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wgddking: 幺幺~~~ https://t.co/C4wbC90IuH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n主人 @tiantmaoshenshi\n本人已潤去脆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "tiantmaoshenshi"
+              }
+            ]
+          }
+        },
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 255,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1347
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "自由 平等 博爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Hitachi-shi, Ibaraki",
+        "name": "wgdd（祥压抑）",
+        "pinned_tweet_id": "2078024446762447318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 85,
+          "like_count": 1830,
+          "listed_count": 1,
+          "media_count": 574,
+          "tweet_count": 3088
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": true
+      }
+    ]
+  }
+}

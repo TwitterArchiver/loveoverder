@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075859532023042048"
+      ],
+      "media_source_tweet_id": [
+        "2075859544589173125"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2076473248171323562",
+    "created_at": "2026-07-13T01:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T02:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076473248171323562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "909098174236606470",
+          "start": 3,
+          "username": "xueezi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lZw3Ap06P1",
+          "end": 42,
+          "expanded_url": "https://x.com/xueezi/status/2075859544589173125/photo/1",
+          "media_key": "3_2075859532023042048",
+          "start": 19,
+          "url": "https://t.co/lZw3Ap06P1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076473248171323562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 939
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075859544589173125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xueezi: 跟课代餐一下 https://t.co/lZw3Ap06P1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075859532023042048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7vPvnXkAAtfBq.jpg",
+        "width": 1349
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075859532023042048"
+          ],
+          "media_source_tweet_id": [
+            "2075859544589173125"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2076473248171323562",
+        "created_at": "2026-07-13T01:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076473248171323562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "909098174236606470",
+              "start": 3,
+              "username": "xueezi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZw3Ap06P1",
+              "end": 42,
+              "expanded_url": "https://x.com/xueezi/status/2075859544589173125/photo/1",
+              "media_key": "3_2075859532023042048",
+              "start": 19,
+              "url": "https://t.co/lZw3Ap06P1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076473248171323562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 939
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075859544589173125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xueezi: 跟课代餐一下 https://t.co/lZw3Ap06P1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075859532023042048"
+          ]
+        },
+        "author_id": "909098174236606470",
+        "conversation_id": "2075859544589173125",
+        "created_at": "2026-07-11T08:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075859544589173125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lZw3Ap06P1",
+              "end": 30,
+              "expanded_url": "https://x.com/xueezi/status/2075859544589173125/photo/1",
+              "media_key": "3_2075859532023042048",
+              "start": 7,
+              "url": "https://t.co/lZw3Ap06P1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075859544589173125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1308,
+          "impression_count": 124086,
+          "like_count": 10908,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 939
+        },
+        "reply_settings": "everyone",
+        "text": "跟课代餐一下 https://t.co/lZw3Ap06P1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TW",
+              "full_name": "Taiwan (Province of China)",
+              "geo": {
+                "coordinates": [
+                  121.0,
+                  24.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人",
+        "id": "2073934453454614530",
+        "location": "台灣",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 74,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-16T16:54:29.000Z",
+        "description": "🇨🇳中國人です/寿嶺二推し/ポケモン/ロイエド/モブエド/犬かご/(о´∀`о)🦋 叶瑄/莫弈/燃晚/all花 爬墙非常快注意。 🚫AI🚫",
+        "id": "909098174236606470",
+        "location": "北京, 中华人民共和国",
+        "name": "雪蛾子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1266859225247932416/KSU7e-hr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14148,
+          "following_count": 106,
+          "like_count": 2676,
+          "listed_count": 69,
+          "media_count": 461,
+          "tweet_count": 923
+        },
+        "url": "",
+        "username": "xueezi",
+        "verified": false
+      }
+    ]
+  }
+}
