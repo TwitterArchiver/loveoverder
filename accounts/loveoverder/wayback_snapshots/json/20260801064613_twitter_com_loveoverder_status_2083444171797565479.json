@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083277205052731393"
+      ],
+      "media_source_tweet_id": [
+        "2083277218327740787"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083444171797565479",
+    "created_at": "2026-08-01T06:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083444171797565479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1582545494752251904",
+          "start": 3,
+          "username": "yhdawn831"
+        },
+        {
+          "end": 30,
+          "id": "2061442873074028545",
+          "start": 15,
+          "username": "YokoYokoYHTOTE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s6ipJkmkQD",
+          "end": 71,
+          "expanded_url": "https://x.com/yhdawn831/status/2083277218327740787/photo/1",
+          "media_key": "3_2083277205052731393",
+          "start": 48,
+          "url": "https://t.co/s6ipJkmkQD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083444171797565479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083277218327740787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yhdawn831: @YokoYokoYHTOTE 我就知道总会有用武之地的，... https://t.co/s6ipJkmkQD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2083277205052731393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlJlI_WMAEAboe.jpg",
+        "width": 1315
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083277205052731393"
+          ]
+        },
+        "author_id": "1582545494752251904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083180662023127386",
+        "created_at": "2026-07-31T19:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083277218327740787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061442873074028545",
+              "start": 0,
+              "username": "YokoYokoYHTOTE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6ipJkmkQD",
+              "end": 56,
+              "expanded_url": "https://x.com/yhdawn831/status/2083277218327740787/photo/1",
+              "media_key": "3_2083277205052731393",
+              "start": 33,
+              "url": "https://t.co/s6ipJkmkQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083277218327740787",
+        "in_reply_to_user_id": "2061442873074028545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2730,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083180662023127386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YokoYokoYHTOTE 我就知道总会有用武之地的，... https://t.co/s6ipJkmkQD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083277205052731393"
+          ],
+          "media_source_tweet_id": [
+            "2083277218327740787"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083444171797565479",
+        "created_at": "2026-08-01T06:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083444171797565479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1582545494752251904",
+              "start": 3,
+              "username": "yhdawn831"
+            },
+            {
+              "end": 30,
+              "id": "2061442873074028545",
+              "start": 15,
+              "username": "YokoYokoYHTOTE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6ipJkmkQD",
+              "end": 71,
+              "expanded_url": "https://x.com/yhdawn831/status/2083277218327740787/photo/1",
+              "media_key": "3_2083277205052731393",
+              "start": 48,
+              "url": "https://t.co/s6ipJkmkQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083444171797565479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083277218327740787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yhdawn831: @YokoYokoYHTOTE 我就知道总会有用武之地的，... https://t.co/s6ipJkmkQD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 352,
+          "like_count": 1112,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2109
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T01:33:55.000Z",
+        "description": "【追記】日本の左翼の方には友好的に接しますが、右翼の方は私に話しかけないでください。ありがとうございます。\nこのようなやり取りは私に負担をかけるだけでなく、私たち双方にトラブルをもたらすことになってしまうからです。\n粉蛆粉红别回复我\n胡温派!!! 啤酒烧烤 喜欢政治，但不喜欢吵架，因为吵架也不会改变任何东西!\n日本友好",
+        "id": "1582545494752251904",
+        "location": "Osaka-shi Naniwa-ku, Osaka",
+        "name": "jack🇯🇵\\^O^/🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699926536163329/vfaUMC2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 204,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1919
+        },
+        "url": "",
+        "username": "yhdawn831",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T13:42:21.000Z",
+        "description": "我是一名中国的初中生，喜欢prsk，BanGDream和ボカロ，非常非常喜欢orangestar～\n如果是其他国家的朋友和我聊天的话我会很欢迎的！涉及政治之类的还是算了。我只是一个普通人，，\n我想和同样喜欢ボカロ和🍊💫的日本人一起交朋友\n关于日语的回帖大部分都是AI翻译，真的很抱歉\n我喜欢望月穗波、IA、大和麻弥。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/82Ca21mLbk0h…",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/82Ca21mLbk0https://b23.tv/jasgtjA",
+                "start": 0,
+                "url": "https://t.co/mcC6W17D9z"
+              }
+            ]
+          }
+        },
+        "id": "2061442873074028545",
+        "location": "甘肃",
+        "name": "友叛🍊💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061445680409776130/ASijxz3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 77,
+          "like_count": 3055,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/mcC6W17D9z",
+        "username": "YokoYokoYHTOTE",
+        "verified": false
+      }
+    ]
+  }
+}

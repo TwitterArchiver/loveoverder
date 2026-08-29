@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      }
+    ],
+    "conversation_id": "2082850141351063975",
+    "created_at": "2026-07-30T15:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082850141351063975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1380836814802534400",
+          "start": 3,
+          "username": "JacoL7513"
+        },
+        {
+          "end": 22,
+          "id": "562680597",
+          "start": 15,
+          "username": "leijun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082850141351063975",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082746423271907398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JacoL7513: @leijun I'd like an autographed T-shirt. Maybe a car included 😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2082850141351063975",
+        "created_at": "2026-07-30T15:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082850141351063975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1380836814802534400",
+              "start": 3,
+              "username": "JacoL7513"
+            },
+            {
+              "end": 22,
+              "id": "562680597",
+              "start": 15,
+              "username": "leijun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082850141351063975",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082746423271907398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JacoL7513: @leijun I'd like an autographed T-shirt. Maybe a car included 😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1380836814802534400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2082745511941923109",
+        "created_at": "2026-07-30T08:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082746423271907398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "562680597",
+              "start": 0,
+              "username": "leijun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082746423271907398",
+        "in_reply_to_user_id": "562680597",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3028,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082745511941923109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leijun I'd like an autographed T-shirt. Maybe a car included 😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 312,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1938
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-10T10:55:39.000Z",
+        "description": "Xiaomi Community Poland Super Moderator        Xiaomi REDMI & POCO Super Fan\nXiaomi Explorer 2025",
+        "id": "1380836814802534400",
+        "location": "Greater Poland, Poland",
+        "name": "JacoL7513",
+        "pinned_tweet_id": "2068661598542062074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065113209774710784/MNzub70w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 47,
+          "like_count": 28575,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 17779
+        },
+        "url": "",
+        "username": "JacoL7513",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-25T04:50:20.000Z",
+        "description": "Founder and CEO of @Xiaomi \nPassion is the reason and the answer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "Xiaomi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com/global/",
+                "end": 23,
+                "expanded_url": "https://www.mi.com/global/",
+                "start": 0,
+                "url": "https://t.co/U7O7Jwdubv"
+              }
+            ]
+          }
+        },
+        "id": "562680597",
+        "name": "Lei Jun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814912966288199680/rc6ajkLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487801,
+          "following_count": 89,
+          "like_count": 2756,
+          "listed_count": 836,
+          "media_count": 1743,
+          "tweet_count": 3523
+        },
+        "url": "https://t.co/U7O7Jwdubv",
+        "username": "leijun",
+        "verified": true
+      }
+    ]
+  }
+}

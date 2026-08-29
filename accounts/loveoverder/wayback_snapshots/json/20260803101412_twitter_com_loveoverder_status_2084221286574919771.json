@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082766840313393422",
+    "created_at": "2026-08-03T10:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084221286574919771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1625467627",
+          "start": 0,
+          "username": "AlgoDeGango"
+        },
+        {
+          "end": 21,
+          "id": "57981270",
+          "start": 13,
+          "username": "La1_tve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084221286574919771",
+    "in_reply_to_user_id": "1625467627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082997642259218458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlgoDeGango @La1_tve 你覺得美劇巔峰是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082766840313393422",
+        "created_at": "2026-08-03T10:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084221286574919771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1625467627",
+              "start": 0,
+              "username": "AlgoDeGango"
+            },
+            {
+              "end": 21,
+              "id": "57981270",
+              "start": 13,
+              "username": "La1_tve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084221286574919771",
+        "in_reply_to_user_id": "1625467627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082997642259218458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlgoDeGango @La1_tve 你覺得美劇巔峰是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625467627",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          }
+        ],
+        "conversation_id": "2082766840313393422",
+        "created_at": "2026-07-31T01:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082997642259218458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "57981270",
+              "start": 0,
+              "username": "La1_tve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082997642259218458",
+        "in_reply_to_user_id": "57981270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082766840313393422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@La1_tve 这个反转挺有综艺感，第二次机会太戏剧了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 399,
+          "like_count": 1436,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2423
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-27T13:10:08.000Z",
+        "description": "我的日常必备工具之一，就是这款稳定 VPN，链接放下面👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fl1.me/2",
+                "end": 23,
+                "expanded_url": "https://fl1.me/2",
+                "start": 0,
+                "url": "https://t.co/U7dHoAKWP2"
+              }
+            ]
+          }
+        },
+        "id": "1625467627",
+        "name": "雯儿体验VPN工具",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082124706858078208/WwBEPGzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 614,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/U7dHoAKWP2",
+        "username": "AlgoDeGango",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-18T17:19:39.000Z",
+        "description": "Bienvenido a la cuenta oficial de La 1 de TVE. La cadena de televisión de @rtve con información, ficción y entretenimiento de calidad.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 74,
+                "username": "rtve"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rtve.es/play/videos/di…",
+                "end": 23,
+                "expanded_url": "https://www.rtve.es/play/videos/directo/la-1/",
+                "start": 0,
+                "url": "https://t.co/ix0Y5STr52"
+              }
+            ]
+          }
+        },
+        "id": "57981270",
+        "location": "España",
+        "name": "La 1",
+        "pinned_tweet_id": "2083260832079561175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082842666937552896/nw4ScOiM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689747,
+          "following_count": 280,
+          "like_count": 9861,
+          "listed_count": 3304,
+          "media_count": 92457,
+          "tweet_count": 198765
+        },
+        "url": "https://t.co/ix0Y5STr52",
+        "username": "La1_tve",
+        "verified": false
+      }
+    ]
+  }
+}

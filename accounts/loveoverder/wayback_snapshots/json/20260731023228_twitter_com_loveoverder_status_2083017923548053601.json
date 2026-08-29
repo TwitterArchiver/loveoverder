@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083017923548053601",
+    "created_at": "2026-07-31T02:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083017923548053601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "806858994",
+          "start": 3,
+          "username": "0xadou"
+        },
+        {
+          "end": 21,
+          "id": "1516941936971554817",
+          "start": 12,
+          "username": "wolfyxbt"
+        },
+        {
+          "end": 36,
+          "id": "902839045356744704",
+          "start": 22,
+          "username": "justinsuntron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083017923548053601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082808564087955746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0xadou: @wolfyxbt @justinsuntron 狼弟一看就是男大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083017923548053601",
+        "created_at": "2026-07-31T02:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083017923548053601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "806858994",
+              "start": 3,
+              "username": "0xadou"
+            },
+            {
+              "end": 21,
+              "id": "1516941936971554817",
+              "start": 12,
+              "username": "wolfyxbt"
+            },
+            {
+              "end": 36,
+              "id": "902839045356744704",
+              "start": 22,
+              "username": "justinsuntron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083017923548053601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082808564087955746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0xadou: @wolfyxbt @justinsuntron 狼弟一看就是男大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "806858994",
+        "conversation_id": "2082807108022816996",
+        "created_at": "2026-07-30T12:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082808564087955746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1516941936971554817",
+              "start": 0,
+              "username": "wolfyxbt"
+            },
+            {
+              "end": 24,
+              "id": "902839045356744704",
+              "start": 10,
+              "username": "justinsuntron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082808564087955746",
+        "in_reply_to_user_id": "1516941936971554817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1750,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082807108022816996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wolfyxbt @justinsuntron 狼弟一看就是男大了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 314,
+          "like_count": 989,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1952
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-06T13:49:07.000Z",
+        "description": "#Binance #BTC 加密老炮儿｜Crypto的忠实信仰者｜Continue to hold cryptocurrencies such as Bitcoin, Ethereum, and BNB｜只奶真龙 不接飞刀｜#BNB 合作交流✈️DM：@adoueth",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Binance"
+              },
+              {
+                "end": 13,
+                "start": 9,
+                "tag": "BTC"
+              },
+              {
+                "end": 116,
+                "start": 112,
+                "tag": "BNB"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 126,
+                "username": "adoueth"
+              }
+            ]
+          }
+        },
+        "id": "806858994",
+        "location": "İstanbul",
+        "name": "0x阿豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046569384047714304/_G0RYazt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70653,
+          "following_count": 2806,
+          "like_count": 20411,
+          "listed_count": 23,
+          "media_count": 720,
+          "tweet_count": 15467
+        },
+        "url": "",
+        "username": "0xadou",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-21T00:48:42.000Z",
+        "description": "目前专注 5 件事：炒币、打飞机、找番号、Vibe Coding、建设 @CHILABS_｜币安返佣：https://t.co/AUJdXS2sTr｜交易 Memecoin 推荐使用币安 Web3 钱包：https://t.co/msPjqdJALu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "CHILABS_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=S…",
+                "end": 74,
+                "expanded_url": "http://binance.com/register?ref=SPL001",
+                "start": 51,
+                "url": "https://t.co/AUJdXS2sTr"
+              },
+              {
+                "display_url": "web3.binance.com/referral?ref=S…",
+                "end": 125,
+                "expanded_url": "http://web3.binance.com/referral?ref=SPL001",
+                "start": 102,
+                "url": "https://t.co/msPjqdJALu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/wolfyxbt",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/wolfyxbt",
+                "start": 0,
+                "url": "https://t.co/plPhSkkg4O"
+              }
+            ]
+          }
+        },
+        "id": "1516941936971554817",
+        "location": "交易所返佣链接 →",
+        "name": "杀破狼 WolfyXBT",
+        "pinned_tweet_id": "2080605146481102979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680938637628944384/2FYk0Ft4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856492,
+          "following_count": 7824,
+          "like_count": 55410,
+          "listed_count": 3786,
+          "media_count": 2924,
+          "tweet_count": 22308
+        },
+        "url": "https://t.co/plPhSkkg4O",
+        "username": "wolfyxbt",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-30T10:22:57.000Z",
+        "description": "👨‍💻 Entrepreneur | 🤵‍♂️ Diplomat | 👨‍🚀 Astronaut #712 | 🍌 Art Collector | Founder @trondao | Advisor https://t.co/o9xGaETpdH https://t.co/Y1UfwSJ8ko https://t.co/GSEqOn3haH | Chinese @sunyuchentron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "trondao"
+              },
+              {
+                "end": 197,
+                "start": 183,
+                "username": "sunyuchentron"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b.ai",
+                "end": 124,
+                "expanded_url": "http://b.ai",
+                "start": 101,
+                "url": "https://t.co/o9xGaETpdH"
+              },
+              {
+                "display_url": "bt.io",
+                "end": 148,
+                "expanded_url": "http://bt.io",
+                "start": 125,
+                "url": "https://t.co/Y1UfwSJ8ko"
+              },
+              {
+                "display_url": "htx.com",
+                "end": 172,
+                "expanded_url": "http://htx.com",
+                "start": 149,
+                "url": "https://t.co/GSEqOn3haH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b.ai",
+                "end": 23,
+                "expanded_url": "http://b.ai",
+                "start": 0,
+                "url": "https://t.co/o9xGaETpdH"
+              }
+            ]
+          }
+        },
+        "id": "902839045356744704",
+        "location": "Geneva, Switzerland",
+        "name": "H.E. Justin Sun 👨‍🚀 🌞",
+        "pinned_tweet_id": "1905324113851547790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4057529,
+          "following_count": 3773,
+          "like_count": 10149,
+          "listed_count": 12810,
+          "media_count": 3122,
+          "tweet_count": 22569
+        },
+        "url": "https://t.co/o9xGaETpdH",
+        "username": "justinsuntron",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083035663449080070",
+    "created_at": "2026-07-31T03:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083035663449080070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1796356797097443328",
+          "start": 3,
+          "username": "TheMidnight1988"
+        },
+        {
+          "end": 30,
+          "id": "2739080844",
+          "start": 21,
+          "username": "hazenlee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083035663449080070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083003790215786597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheMidnight1988: @hazenlee 他妈的 山东人都气抖冷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083035663449080070",
+        "created_at": "2026-07-31T03:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083035663449080070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1796356797097443328",
+              "start": 3,
+              "username": "TheMidnight1988"
+            },
+            {
+              "end": 30,
+              "id": "2739080844",
+              "start": 21,
+              "username": "hazenlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083035663449080070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083003790215786597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheMidnight1988: @hazenlee 他妈的 山东人都气抖冷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796356797097443328",
+        "conversation_id": "2082736820249579801",
+        "created_at": "2026-07-31T01:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083003790215786597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2739080844",
+              "start": 0,
+              "username": "hazenlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083003790215786597",
+        "in_reply_to_user_id": "2739080844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2025,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082736820249579801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hazenlee 他妈的 山东人都气抖冷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 316,
+          "like_count": 1010,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1992
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T01:43:42.000Z",
+        "description": "",
+        "id": "1796356797097443328",
+        "name": "的发",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015280126276059136/xR9gfhlz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 1,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1385
+        },
+        "url": "",
+        "username": "TheMidnight1988",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-17T05:47:55.000Z",
+        "description": "𝙀/𝘼𝙘𝙘｜十年加密𝙊𝙂｜伪𝙏𝙧𝙖𝙙𝙚𝙧，真𝙃𝙤𝙙𝙡𝙚𝙧｜长期信仰 ₿𝙏𝘾 + 𝘼𝙄 ｜致力于科技金融投资交易科普｜抽象派行为艺术大师｜牛熊转换趋势吹号手｜观点明确，拒绝马后炮、模棱两可｜有立场、有温度、有时效｜推文仅代表个人仓位，不构成投资建议，𝘿𝙔𝙊𝙍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hazenlee",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@hazenlee",
+                "start": 0,
+                "url": "https://t.co/1EwW72IIK3"
+              }
+            ]
+          }
+        },
+        "id": "2739080844",
+        "location": "距离你384400km 🌕 🚪520/999/1314",
+        "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "pinned_tweet_id": "2078671691132330179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73458,
+          "following_count": 3741,
+          "like_count": 46355,
+          "listed_count": 1080,
+          "media_count": 5349,
+          "tweet_count": 39165
+        },
+        "url": "https://t.co/1EwW72IIK3",
+        "username": "hazenlee",
+        "verified": true
+      }
+    ]
+  }
+}

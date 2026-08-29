@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084030206986035200"
+      ],
+      "media_source_tweet_id": [
+        "2084030210190561632"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2084222057651511746",
+    "created_at": "2026-08-03T10:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084222057651511746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1948035186584670209",
+          "start": 3,
+          "username": "thctroche"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/shianbey",
+          "end": 38,
+          "expanded_url": "https://ngl.link/shianbey",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2083254874947330048/xcD0weL_?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2083254874947330048/xcD0weL_?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 15,
+          "status": 200,
+          "title": "@shianbey: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/shianbey",
+          "url": "https://t.co/0gNA26SePa"
+        },
+        {
+          "display_url": "pic.x.com/rKEWbulQQK",
+          "end": 62,
+          "expanded_url": "https://x.com/thctroche/status/2084030210190561632/photo/1",
+          "media_key": "3_2084030206986035200",
+          "start": 39,
+          "url": "https://t.co/rKEWbulQQK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084222057651511746",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084030210190561632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thctroche: https://t.co/0gNA26SePa https://t.co/rKEWbulQQK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2084030206986035200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOv2bnyWIAAJeUs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084030206986035200"
+          ]
+        },
+        "author_id": "1948035186584670209",
+        "conversation_id": "2084030210190561632",
+        "created_at": "2026-08-02T21:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T22:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084030210190561632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/shianbey",
+              "end": 23,
+              "expanded_url": "https://ngl.link/shianbey",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2083254874947330048/xcD0weL_?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083254874947330048/xcD0weL_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "@shianbey: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/shianbey",
+              "url": "https://t.co/0gNA26SePa"
+            },
+            {
+              "display_url": "pic.x.com/rKEWbulQQK",
+              "end": 47,
+              "expanded_url": "https://x.com/thctroche/status/2084030210190561632/photo/1",
+              "media_key": "3_2084030206986035200",
+              "start": 24,
+              "url": "https://t.co/rKEWbulQQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084030210190561632",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1750,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0gNA26SePa https://t.co/rKEWbulQQK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084030206986035200"
+          ],
+          "media_source_tweet_id": [
+            "2084030210190561632"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2084222057651511746",
+        "created_at": "2026-08-03T10:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084222057651511746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948035186584670209",
+              "start": 3,
+              "username": "thctroche"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/shianbey",
+              "end": 38,
+              "expanded_url": "https://ngl.link/shianbey",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2083254874947330048/xcD0weL_?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083254874947330048/xcD0weL_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "@shianbey: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/shianbey",
+              "url": "https://t.co/0gNA26SePa"
+            },
+            {
+              "display_url": "pic.x.com/rKEWbulQQK",
+              "end": 62,
+              "expanded_url": "https://x.com/thctroche/status/2084030210190561632/photo/1",
+              "media_key": "3_2084030206986035200",
+              "start": 39,
+              "url": "https://t.co/rKEWbulQQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084222057651511746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084030210190561632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thctroche: https://t.co/0gNA26SePa https://t.co/rKEWbulQQK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 400,
+          "like_count": 1441,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2425
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T15:01:34.000Z",
+        "description": "我只是个爱情的骗徒，是爱情的小坏蛋。Queer poly pan 🍳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shianbey",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shianbey",
+                "start": 0,
+                "url": "https://t.co/Ml7rVTPl25"
+              }
+            ]
+          }
+        },
+        "id": "1948035186584670209",
+        "location": "Pennsylvania, USA",
+        "name": "大麻軟糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074265713225728000/_GkUdFFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 329,
+          "like_count": 3192,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 2059
+        },
+        "url": "https://t.co/Ml7rVTPl25",
+        "username": "thctroche",
+        "verified": false
+      }
+    ]
+  }
+}

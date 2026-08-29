@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1733370459578875904"
+      ],
+      "media_source_tweet_id": [
+        "1733370546367434922"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083830820956246058",
+    "created_at": "2026-08-02T08:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083830820956246058"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 34,
+          "tag": "doll_weekend"
+        },
+        {
+          "end": 53,
+          "start": 48,
+          "tag": "DW10"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1489607783469416448",
+          "start": 3,
+          "username": "J_Sica1"
+        },
+        {
+          "end": 33,
+          "id": "1465236821701382152",
+          "start": 20,
+          "username": "doll_weekend"
+        },
+        {
+          "end": 63,
+          "id": "2706437743",
+          "start": 55,
+          "username": "kyo_tao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YIh1MV6Epb",
+          "end": 87,
+          "expanded_url": "https://x.com/J_Sica1/status/1733370546367434922/photo/1",
+          "media_key": "3_1733370459578875904",
+          "start": 64,
+          "url": "https://t.co/YIh1MV6Epb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083830820956246058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1733370546367434922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @J_Sica1: 看到你啦^^\n@doll_weekend\n#doll_weekend #DW10 \n@kyo_tao https://t.co/YIh1MV6Epb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3715,
+        "media_key": "3_1733370459578875904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GA4rP8tawAAwvrl.jpg",
+        "width": 2587
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1733370459578875904"
+          ]
+        },
+        "author_id": "1489607783469416448",
+        "conversation_id": "1733370546367434922",
+        "created_at": "2023-12-09T06:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2023-12-09T07:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1733370546367434922"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 21,
+              "tag": "doll_weekend"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "DW10"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1465236821701382152",
+              "start": 7,
+              "username": "doll_weekend"
+            },
+            {
+              "end": 50,
+              "id": "2706437743",
+              "start": 42,
+              "username": "kyo_tao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIh1MV6Epb",
+              "end": 74,
+              "expanded_url": "https://x.com/J_Sica1/status/1733370546367434922/photo/1",
+              "media_key": "3_1733370459578875904",
+              "start": 51,
+              "url": "https://t.co/YIh1MV6Epb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1733370546367434922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 46296,
+          "like_count": 492,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "看到你啦^^\n@doll_weekend\n#doll_weekend #DW10 \n@kyo_tao https://t.co/YIh1MV6Epb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1733370459578875904"
+          ],
+          "media_source_tweet_id": [
+            "1733370546367434922"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083830820956246058",
+        "created_at": "2026-08-02T08:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083830820956246058"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 34,
+              "tag": "doll_weekend"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "DW10"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1489607783469416448",
+              "start": 3,
+              "username": "J_Sica1"
+            },
+            {
+              "end": 33,
+              "id": "1465236821701382152",
+              "start": 20,
+              "username": "doll_weekend"
+            },
+            {
+              "end": 63,
+              "id": "2706437743",
+              "start": 55,
+              "username": "kyo_tao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIh1MV6Epb",
+              "end": 87,
+              "expanded_url": "https://x.com/J_Sica1/status/1733370546367434922/photo/1",
+              "media_key": "3_1733370459578875904",
+              "start": 64,
+              "url": "https://t.co/YIh1MV6Epb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083830820956246058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1733370546367434922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @J_Sica1: 看到你啦^^\n@doll_weekend\n#doll_weekend #DW10 \n@kyo_tao https://t.co/YIh1MV6Epb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 375,
+          "like_count": 1289,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2275
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T14:32:44.000Z",
+        "description": "西卡是我 我是西卡^^\ncp @ArohaTVStation",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ArohaTVStation"
+              }
+            ]
+          }
+        },
+        "id": "1489607783469416448",
+        "location": "550W",
+        "name": "西卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621944917907099649/AOsoUsV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14604,
+          "following_count": 532,
+          "like_count": 2871,
+          "listed_count": 86,
+          "media_count": 187,
+          "tweet_count": 1389
+        },
+        "url": "",
+        "username": "J_Sica1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-29T08:31:32.000Z",
+        "description": "https://t.co/BSevFGZ6y6, the world's largest Kigurumi doll convention~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dollweekend.com",
+                "end": 23,
+                "expanded_url": "http://www.dollweekend.com",
+                "start": 0,
+                "url": "https://t.co/BSevFGZ6y6"
+              }
+            ]
+          }
+        },
+        "id": "1465236821701382152",
+        "location": "China",
+        "name": "Doll Weekend",
+        "pinned_tweet_id": "2054413978877788366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697247121915977728/VJNXsd8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14036,
+          "following_count": 374,
+          "like_count": 3258,
+          "listed_count": 81,
+          "media_count": 218,
+          "tweet_count": 3591
+        },
+        "url": "",
+        "username": "doll_weekend",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-04T12:00:58.000Z",
+        "description": "",
+        "id": "2706437743",
+        "name": "Kyo tao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1386716829943353344/TiMspx-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 2591,
+          "like_count": 7949,
+          "listed_count": 5,
+          "media_count": 15,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "kyo_tao",
+        "verified": false
+      }
+    ]
+  }
+}

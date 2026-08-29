@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596715024385",
+          "name": "Apparel/Accessories - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026482015",
+          "name": "Victoria's Secret"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Brand",
+          "id": "846427983237672960",
+          "name": "Fashion Brand"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596715024385",
+          "name": "Apparel/Accessories - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026482015",
+          "name": "Victoria's Secret"
+        }
+      }
+    ],
+    "conversation_id": "2083859885880664533",
+    "created_at": "2026-08-02T10:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083859885880664533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1425237418366668806",
+          "start": 3,
+          "username": "vogueandxcoffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083859885880664533",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24334
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083307493761892754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vogueandxcoffee: Essa é a modelo Sara Sampaio, ex-angel da Victoria's Secret, mostrando que tudo é ângulo e que o corpo perfeito só exi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28305,
+        "height": 960,
+        "media_key": "13_2083307468969410560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083307468969410560/img/owjy0-zsqLd1HrKC.jpg",
+        "public_metrics": {
+          "view_count": 11527337
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083307468969410560/vid/avc1/320x568/IW5sgyuo04Iavtif.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083307468969410560/vid/avc1/480x852/WpP5nVBXOfy5milr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083307468969410560/vid/avc1/540x960/bvLmUmAsG_lPz9aL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083307468969410560/pl/nlc81p1ajZIR_E8G.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596715024385",
+              "name": "Apparel/Accessories - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026482015",
+              "name": "Victoria's Secret"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596715024385",
+              "name": "Apparel/Accessories - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026482015",
+              "name": "Victoria's Secret"
+            }
+          }
+        ],
+        "conversation_id": "2083859885880664533",
+        "created_at": "2026-08-02T10:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083859885880664533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1425237418366668806",
+              "start": 3,
+              "username": "vogueandxcoffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083859885880664533",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24334
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083307493761892754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vogueandxcoffee: Essa é a modelo Sara Sampaio, ex-angel da Victoria's Secret, mostrando que tudo é ângulo e que o corpo perfeito só exi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083307468969410560"
+          ]
+        },
+        "author_id": "1425237418366668806",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596715024385",
+              "name": "Apparel/Accessories - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026482015",
+              "name": "Victoria's Secret"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596715024385",
+              "name": "Apparel/Accessories - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026482015",
+              "name": "Victoria's Secret"
+            }
+          }
+        ],
+        "conversation_id": "2083307493761892754",
+        "created_at": "2026-07-31T21:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083307493761892754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DOVxHtVdFT",
+              "end": 301,
+              "expanded_url": "https://x.com/vogueandxcoffee/status/2083307493761892754/video/1",
+              "media_key": "13_2083307468969410560",
+              "start": 278,
+              "url": "https://t.co/DOVxHtVdFT"
+            },
+            {
+              "display_url": "x.com/tatyrck/status…",
+              "end": 325,
+              "expanded_url": "https://twitter.com/tatyrck/status/2083181225800347871",
+              "start": 302,
+              "url": "https://t.co/x6CH45svUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083307493761892754",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46096,
+          "impression_count": 31146729,
+          "like_count": 250912,
+          "quote_count": 1430,
+          "reply_count": 1291,
+          "retweet_count": 24334
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083181225800347871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Essa é a modelo Sara Sampaio, ex-angel da Victoria's Secret, mostrando que tudo é ângulo e que o corpo perfeito só existe no Instagram. A sua blogueira favorita não tem um corpo perfeito. A sua modelo favorita também não. Tudo é questão de ângulo, iluminação e alguns retoques. https://t.co/DOVxHtVdFT https://t.co/x6CH45svUK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 375,
+          "like_count": 1303,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2306
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-10T23:27:45.000Z",
+        "description": "Apaixonada por moda, arte e coisas antigas.",
+        "id": "1425237418366668806",
+        "name": "Ane F.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081071407534919680/m8NywQTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5451,
+          "following_count": 2865,
+          "like_count": 188024,
+          "listed_count": 8,
+          "media_count": 330,
+          "tweet_count": 44466
+        },
+        "url": "",
+        "username": "vogueandxcoffee",
+        "verified": true
+      }
+    ]
+  }
+}

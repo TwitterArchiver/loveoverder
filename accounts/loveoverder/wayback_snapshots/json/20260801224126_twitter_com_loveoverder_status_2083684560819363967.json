@@ -1,0 +1,615 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390680741206368263",
+          "name": "Cryptocurrency exchanges"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1481584103228985345",
+          "name": "Gate.io"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1481584103228985345",
+          "name": "Gate.io"
+        }
+      }
+    ],
+    "conversation_id": "2083684560819363967",
+    "created_at": "2026-08-01T22:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T23:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083684560819363967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2841295136",
+          "start": 3,
+          "username": "BTCfuyao"
+        },
+        {
+          "end": 24,
+          "id": "1869344314314436608",
+          "start": 14,
+          "username": "Mojito_cx"
+        },
+        {
+          "end": 30,
+          "id": "912539725071777792",
+          "start": 25,
+          "username": "Gate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083684560819363967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083608061571432884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BTCfuyao: @Mojito_cx @Gate 我对接过的Gate所有工作人员，个个都很好，不可能说出这种话的，这种估计是电棍吃多了火气太旺的骗子🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1481584103228985345",
+              "name": "Gate.io"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1481584103228985345",
+              "name": "Gate.io"
+            }
+          }
+        ],
+        "conversation_id": "2083684560819363967",
+        "created_at": "2026-08-01T22:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T23:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083684560819363967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2841295136",
+              "start": 3,
+              "username": "BTCfuyao"
+            },
+            {
+              "end": 24,
+              "id": "1869344314314436608",
+              "start": 14,
+              "username": "Mojito_cx"
+            },
+            {
+              "end": 30,
+              "id": "912539725071777792",
+              "start": 25,
+              "username": "Gate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083684560819363967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083608061571432884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BTCfuyao: @Mojito_cx @Gate 我对接过的Gate所有工作人员，个个都很好，不可能说出这种话的，这种估计是电棍吃多了火气太旺的骗子🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2841295136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1481584103228985345",
+              "name": "Gate.io"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1481584103228985345",
+              "name": "Gate.io"
+            }
+          }
+        ],
+        "conversation_id": "2083572970782630172",
+        "created_at": "2026-08-01T17:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083608061571432884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1869344314314436608",
+              "start": 0,
+              "username": "Mojito_cx"
+            },
+            {
+              "end": 16,
+              "id": "912539725071777792",
+              "start": 11,
+              "username": "Gate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083608061571432884",
+        "in_reply_to_user_id": "1869344314314436608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 967,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083572970782630172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mojito_cx @Gate 我对接过的Gate所有工作人员，个个都很好，不可能说出这种话的，这种估计是电棍吃多了火气太旺的骗子🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 372,
+          "like_count": 1239,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 2211
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-05T12:54:24.000Z",
+        "description": "入圈5年 专注一级二级分享 撸毛投研  | 数据分析 | 活动空投 | 嘴撸选手\n我爱 #BNB #BTC #ETH #SOL #OKB \n商务✈️：https://t.co/4HdVItvXlT",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 44,
+                "tag": "BNB"
+              },
+              {
+                "end": 53,
+                "start": 49,
+                "tag": "BTC"
+              },
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "ETH"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "SOL"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "OKB"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/BTCfuyao",
+                "end": 98,
+                "expanded_url": "https://t.me/BTCfuyao",
+                "start": 75,
+                "url": "https://t.co/4HdVItvXlT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/btcfuyao",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/btcfuyao",
+                "start": 0,
+                "url": "https://t.co/ZJYBFQkUv6"
+              }
+            ]
+          }
+        },
+        "id": "2841295136",
+        "location": "原创撸毛投研",
+        "name": "加密扶摇 🔶 BNB & AI | 上Gate玩事件合约",
+        "pinned_tweet_id": "2057695900768596213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956340456377499648/UiACv0nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31240,
+          "following_count": 5842,
+          "like_count": 26007,
+          "listed_count": 45,
+          "media_count": 1359,
+          "tweet_count": 29277
+        },
+        "url": "https://t.co/ZJYBFQkUv6",
+        "username": "BTCfuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T11:30:05.000Z",
+        "description": "07年｜链上交易员｜链上行为学｜用数据拆项目方、LP、前排钱包和老鼠仓嫌疑\n每日 Alpha / 教程 / 实战案例\n社区：https://t.co/u13mjnr8rL｜Call：https://t.co/2jmM7ygEPJ\nNFA DYOR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mojitocxchat",
+                "end": 85,
+                "expanded_url": "http://t.me/mojitocxchat",
+                "start": 62,
+                "url": "https://t.co/u13mjnr8rL"
+              },
+              {
+                "display_url": "t.me/mojitocx",
+                "end": 114,
+                "expanded_url": "http://t.me/mojitocx",
+                "start": 91,
+                "url": "https://t.co/2jmM7ygEPJ"
+              }
+            ]
+          }
+        },
+        "id": "1869344314314436608",
+        "name": "Mojito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074938238335385600/-PgPTmx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9145,
+          "following_count": 1654,
+          "like_count": 9702,
+          "listed_count": 77,
+          "media_count": 193,
+          "tweet_count": 2567
+        },
+        "url": "",
+        "username": "Mojito_cx",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-26T04:49:59.000Z",
+        "description": "https://t.co/Rf4ibjdoXK | Top 3 | 13+Yrs | 58M+ Users |  4,800+ Cryptos | 12,500+ Stocks & CFDs | Sponsor of @redbullracing | Telegram: https://t.co/U3jSAiiSOR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "redbullracing"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Gate.com",
+                "end": 23,
+                "expanded_url": "http://Gate.com",
+                "start": 0,
+                "url": "https://t.co/Rf4ibjdoXK"
+              },
+              {
+                "display_url": "t.me/GateCom_EN",
+                "end": 159,
+                "expanded_url": "http://t.me/GateCom_EN",
+                "start": 136,
+                "url": "https://t.co/U3jSAiiSOR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gate.onelink.me/7pdk/x",
+                "end": 23,
+                "expanded_url": "https://gate.onelink.me/7pdk/x",
+                "start": 0,
+                "url": "https://t.co/n6TTplHYun"
+              }
+            ]
+          }
+        },
+        "id": "912539725071777792",
+        "name": "Gate",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052300137939214336/EbNpxaZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2069946,
+          "following_count": 808,
+          "like_count": 38395,
+          "listed_count": 5373,
+          "media_count": 27741,
+          "tweet_count": 46121
+        },
+        "url": "https://t.co/n6TTplHYun",
+        "username": "Gate",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083820047144030423",
+    "created_at": "2026-08-02T07:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083820047144030423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1778170278813769730",
+          "start": 3,
+          "username": "s1299856695623"
+        },
+        {
+          "end": 27,
+          "id": "2070716874271440896",
+          "start": 20,
+          "username": "7hgwne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083820047144030423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083615593018884177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s1299856695623: @7hgwne 假如我说我绷住了呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083820047144030423",
+        "created_at": "2026-08-02T07:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083820047144030423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1778170278813769730",
+              "start": 3,
+              "username": "s1299856695623"
+            },
+            {
+              "end": 27,
+              "id": "2070716874271440896",
+              "start": 20,
+              "username": "7hgwne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083820047144030423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083615593018884177",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s1299856695623: @7hgwne 假如我说我绷住了呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778170278813769730",
+        "conversation_id": "2083593307251478953",
+        "created_at": "2026-08-01T18:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083615593018884177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2070716874271440896",
+              "start": 0,
+              "username": "7hgwne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083615593018884177",
+        "in_reply_to_user_id": "2070716874271440896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2283,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083593307251478953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7hgwne 假如我说我绷住了呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 375,
+          "like_count": 1283,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2265
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-10T21:17:12.000Z",
+        "description": "les，05，女同，无畏契约侦查梦女",
+        "id": "1778170278813769730",
+        "name": "本地人被炸鱼炸死",
+        "pinned_tweet_id": "1822290993070108816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927928372480593926/tyR-5Jd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 70,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "s1299856695623",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-27T03:53:45.000Z",
+        "description": "男的私信4⃣️全家，le",
+        "id": "2070716874271440896",
+        "name": "在喝中药",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070717980103913473/-hyh0laX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 85,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "7hgwne",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083044835603492864"
+      ],
+      "media_source_tweet_id": [
+        "2083044846785450479"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083500728090612180",
+    "created_at": "2026-08-01T10:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083500728090612180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682303195832360960",
+          "start": 3,
+          "username": "ffynya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5sGJ0IpFM8",
+          "end": 38,
+          "expanded_url": "https://x.com/ffynya/status/2083044846785450479/photo/1",
+          "media_key": "3_2083044835603492864",
+          "start": 15,
+          "url": "https://t.co/5sGJ0IpFM8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083500728090612180",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083044846785450479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ffynya: 🫨🫨 https://t.co/5sGJ0IpFM8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1093,
+        "media_key": "3_2083044835603492864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOh2PdVbsAARvBL.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083044835603492864"
+          ]
+        },
+        "author_id": "1682303195832360960",
+        "conversation_id": "2083044846785450479",
+        "created_at": "2026-07-31T04:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083044846785450479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5sGJ0IpFM8",
+              "end": 26,
+              "expanded_url": "https://x.com/ffynya/status/2083044846785450479/photo/1",
+              "media_key": "3_2083044835603492864",
+              "start": 3,
+              "url": "https://t.co/5sGJ0IpFM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083044846785450479",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 21542,
+          "like_count": 789,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "🫨🫨 https://t.co/5sGJ0IpFM8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083044835603492864"
+          ],
+          "media_source_tweet_id": [
+            "2083044846785450479"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083500728090612180",
+        "created_at": "2026-08-01T10:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083500728090612180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682303195832360960",
+              "start": 3,
+              "username": "ffynya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5sGJ0IpFM8",
+              "end": 38,
+              "expanded_url": "https://x.com/ffynya/status/2083044846785450479/photo/1",
+              "media_key": "3_2083044835603492864",
+              "start": 15,
+              "url": "https://t.co/5sGJ0IpFM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083500728090612180",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083044846785450479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ffynya: 🫨🫨 https://t.co/5sGJ0IpFM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 364,
+          "like_count": 1194,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2183
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜CH/EN｜友跨｜游戏、二次元｜\n聊天：https://t.co/vy1vlfiftN｜\nsteam好友代码：1238560657｜\n不o不割心理正常，不鉴证，不参团｜互fo｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ffynya",
+                "end": 49,
+                "expanded_url": "https://t.me/ffynya",
+                "start": 26,
+                "url": "https://t.co/vy1vlfiftN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ffynya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ffynya",
+                "start": 0,
+                "url": "https://t.co/q5hd5vC18p"
+              }
+            ]
+          }
+        },
+        "id": "1682303195832360960",
+        "location": "-20cm",
+        "name": "🫥ffy喵🫥",
+        "pinned_tweet_id": "2083228342774600011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 682,
+          "like_count": 1348,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 1017
+        },
+        "url": "https://t.co/q5hd5vC18p",
+        "username": "ffynya",
+        "verified": true
+      }
+    ]
+  }
+}

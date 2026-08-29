@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082358671515033600"
+      ],
+      "media_source_tweet_id": [
+        "2082358679521931763"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083873326683009142",
+    "created_at": "2026-08-02T11:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083873326683009142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918261520817065984",
+          "start": 3,
+          "username": "EmptyVx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d6wuTtJutD",
+          "end": 126,
+          "expanded_url": "https://x.com/EmptyVx/status/2082358679521931763/photo/1",
+          "media_key": "3_2082358671515033600",
+          "start": 103,
+          "url": "https://t.co/d6wuTtJutD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083873326683009142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082358679521931763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EmptyVx: 一切都是男的骗我，女的欠我，跨性别背叛我，老的冤枉我，小的欺负我，中年人说教我，学校阴我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的笑话我，现实的孤立我，你们全都对不起我！ https://t.co/d6wuTtJutD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_2082358671515033600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYGLc6boAA9tS7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082358671515033600"
+          ]
+        },
+        "author_id": "1918261520817065984",
+        "conversation_id": "2082358679521931763",
+        "created_at": "2026-07-29T06:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082358679521931763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d6wuTtJutD",
+              "end": 113,
+              "expanded_url": "https://x.com/EmptyVx/status/2082358679521931763/photo/1",
+              "media_key": "3_2082358671515033600",
+              "start": 90,
+              "url": "https://t.co/d6wuTtJutD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082358679521931763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 596,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一切都是男的骗我，女的欠我，跨性别背叛我，老的冤枉我，小的欺负我，中年人说教我，学校阴我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的笑话我，现实的孤立我，你们全都对不起我！ https://t.co/d6wuTtJutD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082358671515033600"
+          ],
+          "media_source_tweet_id": [
+            "2082358679521931763"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083873326683009142",
+        "created_at": "2026-08-02T11:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083873326683009142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918261520817065984",
+              "start": 3,
+              "username": "EmptyVx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d6wuTtJutD",
+              "end": 126,
+              "expanded_url": "https://x.com/EmptyVx/status/2082358679521931763/photo/1",
+              "media_key": "3_2082358671515033600",
+              "start": 103,
+              "url": "https://t.co/d6wuTtJutD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083873326683009142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082358679521931763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EmptyVx: 一切都是男的骗我，女的欠我，跨性别背叛我，老的冤枉我，小的欺负我，中年人说教我，学校阴我，中国的压迫我，外国的引诱我，身边的霸凌我，网上的笑话我，现实的孤立我，你们全都对不起我！ https://t.co/d6wuTtJutD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 382,
+          "like_count": 1329,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2342
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T11:09:46.000Z",
+        "description": "非二元，非健全，无性恋，我能罵你說明你也是糖到極致了，看见了会回Fo💅",
+        "id": "1918261520817065984",
+        "location": "塔菲國",
+        "name": "糖人日記",
+        "pinned_tweet_id": "2082358679521931763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066775745784090624/pkNSZG9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 231,
+          "like_count": 117,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "EmptyVx",
+        "verified": false
+      }
+    ]
+  }
+}

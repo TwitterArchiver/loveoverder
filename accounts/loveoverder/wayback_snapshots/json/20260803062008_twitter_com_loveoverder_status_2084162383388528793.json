@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073447719616831488",
+        "3_2073447804341817344",
+        "3_2073448365149622272",
+        "3_2073454592369811456"
+      ],
+      "media_source_tweet_id": [
+        "2073454608480076009",
+        "2073454608480076009",
+        "2073454608480076009",
+        "2073454608480076009"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2084162383388528793",
+    "created_at": "2026-08-03T06:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084162383388528793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "340236882",
+          "start": 3,
+          "username": "Kyoto_Ryota_F"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y20iQpN2De",
+          "end": 49,
+          "expanded_url": "https://x.com/Kyoto_Ryota_F/status/2073454608480076009/photo/1",
+          "media_key": "3_2073447719616831488",
+          "start": 26,
+          "url": "https://t.co/Y20iQpN2De"
+        },
+        {
+          "display_url": "pic.x.com/Y20iQpN2De",
+          "end": 49,
+          "expanded_url": "https://x.com/Kyoto_Ryota_F/status/2073454608480076009/photo/1",
+          "media_key": "3_2073447804341817344",
+          "start": 26,
+          "url": "https://t.co/Y20iQpN2De"
+        },
+        {
+          "display_url": "pic.x.com/Y20iQpN2De",
+          "end": 49,
+          "expanded_url": "https://x.com/Kyoto_Ryota_F/status/2073454608480076009/photo/1",
+          "media_key": "3_2073448365149622272",
+          "start": 26,
+          "url": "https://t.co/Y20iQpN2De"
+        },
+        {
+          "display_url": "pic.x.com/Y20iQpN2De",
+          "end": 49,
+          "expanded_url": "https://x.com/Kyoto_Ryota_F/status/2073454608480076009/photo/1",
+          "media_key": "3_2073454592369811456",
+          "start": 26,
+          "url": "https://t.co/Y20iQpN2De"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084162383388528793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 363
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073454608480076009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyoto_Ryota_F: 祇園祭より。 https://t.co/Y20iQpN2De"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2073447719616831488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZdtyQa4AAhhYw.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2073447804341817344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZdyt4bkAAvR1y.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_2073448365149622272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZeTXDbkAATNop.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2691,
+        "media_key": "3_2073454592369811456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZj91Qa4AAbGGo.jpg",
+        "width": 4037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073447719616831488",
+            "3_2073447804341817344",
+            "3_2073448365149622272",
+            "3_2073454592369811456"
+          ]
+        },
+        "author_id": "340236882",
+        "conversation_id": "2073454608480076009",
+        "created_at": "2026-07-04T17:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073454608480076009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y20iQpN2De",
+              "end": 30,
+              "expanded_url": "https://x.com/Kyoto_Ryota_F/status/2073454608480076009/photo/1",
+              "media_key": "3_2073447719616831488",
+              "start": 7,
+              "url": "https://t.co/Y20iQpN2De"
+            },
+            {
+              "display_url": "pic.x.com/Y20iQpN2De",
+              "end": 30,
+              "expanded_url": "https://x.com/Kyoto_Ryota_F/status/2073454608480076009/photo/1",
+              "media_key": "3_2073447804341817344",
+              "start": 7,
+              "url": "https://t.co/Y20iQpN2De"
+            },
+            {
+              "display_url": "pic.x.com/Y20iQpN2De",
+              "end": 30,
+              "expanded_url": "https://x.com/Kyoto_Ryota_F/status/2073454608480076009/photo/1",
+              "media_key": "3_2073448365149622272",
+              "start": 7,
+              "url": "https://t.co/Y20iQpN2De"
+            },
+            {
+              "display_url": "pic.x.com/Y20iQpN2De",
+              "end": 30,
+              "expanded_url": "https://x.com/Kyoto_Ryota_F/status/2073454608480076009/photo/1",
+              "media_key": "3_2073454592369811456",
+              "start": 7,
+              "url": "https://t.co/Y20iQpN2De"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073454608480076009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 380,
+          "impression_count": 164475,
+          "like_count": 3877,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 363
+        },
+        "reply_settings": "everyone",
+        "text": "祇園祭より。 https://t.co/Y20iQpN2De"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073447719616831488",
+            "3_2073447804341817344",
+            "3_2073448365149622272",
+            "3_2073454592369811456"
+          ],
+          "media_source_tweet_id": [
+            "2073454608480076009",
+            "2073454608480076009",
+            "2073454608480076009",
+            "2073454608480076009"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2084162383388528793",
+        "created_at": "2026-08-03T06:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084162383388528793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "340236882",
+              "start": 3,
+              "username": "Kyoto_Ryota_F"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y20iQpN2De",
+              "end": 49,
+              "expanded_url": "https://x.com/Kyoto_Ryota_F/status/2073454608480076009/photo/1",
+              "media_key": "3_2073447719616831488",
+              "start": 26,
+              "url": "https://t.co/Y20iQpN2De"
+            },
+            {
+              "display_url": "pic.x.com/Y20iQpN2De",
+              "end": 49,
+              "expanded_url": "https://x.com/Kyoto_Ryota_F/status/2073454608480076009/photo/1",
+              "media_key": "3_2073447804341817344",
+              "start": 26,
+              "url": "https://t.co/Y20iQpN2De"
+            },
+            {
+              "display_url": "pic.x.com/Y20iQpN2De",
+              "end": 49,
+              "expanded_url": "https://x.com/Kyoto_Ryota_F/status/2073454608480076009/photo/1",
+              "media_key": "3_2073448365149622272",
+              "start": 26,
+              "url": "https://t.co/Y20iQpN2De"
+            },
+            {
+              "display_url": "pic.x.com/Y20iQpN2De",
+              "end": 49,
+              "expanded_url": "https://x.com/Kyoto_Ryota_F/status/2073454608480076009/photo/1",
+              "media_key": "3_2073454592369811456",
+              "start": 26,
+              "url": "https://t.co/Y20iQpN2De"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084162383388528793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073454608480076009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyoto_Ryota_F: 祇園祭より。 https://t.co/Y20iQpN2De"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 398,
+          "like_count": 1427,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2410
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-22T11:02:28.000Z",
+        "description": "静けさや日本らしい風景を好みます。\n地味めなので、映えを好む方はフォローお勧めしません。｜kyoto_ryota_f@outlook.com｜\n HP→https://t.co/0Uc2pvDJob",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kyotoryotaf.myportfolio.com/work",
+                "end": 99,
+                "expanded_url": "http://kyotoryotaf.myportfolio.com/work",
+                "start": 76,
+                "url": "https://t.co/0Uc2pvDJob"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kyoto_ryota.f/…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kyoto_ryota.f/?hl=ja",
+                "start": 0,
+                "url": "https://t.co/m3c3nDO6qY"
+              }
+            ]
+          }
+        },
+        "id": "340236882",
+        "location": "京都",
+        "name": "Ryota,F",
+        "pinned_tweet_id": "1846559687791218903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810704060892495872/jAJo8VUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26307,
+          "following_count": 405,
+          "like_count": 169918,
+          "listed_count": 333,
+          "media_count": 3293,
+          "tweet_count": 44477
+        },
+        "url": "https://t.co/m3c3nDO6qY",
+        "username": "Kyoto_Ryota_F",
+        "verified": false
+      }
+    ]
+  }
+}

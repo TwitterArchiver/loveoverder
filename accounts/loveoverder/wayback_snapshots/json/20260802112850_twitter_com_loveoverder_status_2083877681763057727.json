@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083877681763057727",
+    "created_at": "2026-08-02T11:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083877681763057727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2064254283080445952",
+          "start": 3,
+          "username": "MariaYuiO"
+        },
+        {
+          "end": 25,
+          "id": "2006855596491075584",
+          "start": 15,
+          "username": "8lovelea8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083877681763057727",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083650781316886668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MariaYuiO: @8lovelea8 Pretty privilege is real and it sucks so bad"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083877681763057727",
+        "created_at": "2026-08-02T11:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083877681763057727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2064254283080445952",
+              "start": 3,
+              "username": "MariaYuiO"
+            },
+            {
+              "end": 25,
+              "id": "2006855596491075584",
+              "start": 15,
+              "username": "8lovelea8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083877681763057727",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083650781316886668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MariaYuiO: @8lovelea8 Pretty privilege is real and it sucks so bad"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064254283080445952",
+        "conversation_id": "2083314113422262335",
+        "created_at": "2026-08-01T20:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083650781316886668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006855596491075584",
+              "start": 0,
+              "username": "8lovelea8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083650781316886668",
+        "in_reply_to_user_id": "2006855596491075584",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1113,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083314113422262335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8lovelea8 Pretty privilege is real and it sucks so bad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 382,
+          "like_count": 1329,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2345
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T07:53:48.000Z",
+        "description": "no bio here go somewhere else",
+        "id": "2064254283080445952",
+        "name": "Maria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064254888725684224/lxyfCrs__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 181,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1356
+        },
+        "url": "",
+        "username": "MariaYuiO",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-01T22:30:42.000Z",
+        "description": "",
+        "id": "2006855596491075584",
+        "name": "˖⋆࿐໋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083874852432162816/zCy7wAax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 651,
+          "like_count": 5386,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 2328
+        },
+        "url": "",
+        "username": "8lovelea8",
+        "verified": false
+      }
+    ]
+  }
+}

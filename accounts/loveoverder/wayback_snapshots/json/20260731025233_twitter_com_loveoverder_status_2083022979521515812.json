@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082728014614564864"
+      ],
+      "media_source_tweet_id": [
+        "2082728029139435921"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083022979521515812",
+    "created_at": "2026-07-31T02:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083022979521515812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1445222248902651906",
+          "start": 3,
+          "username": "Wangduanniao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qIOZQbKUYD",
+          "end": 65,
+          "expanded_url": "https://x.com/Wangduanniao/status/2082728029139435921/photo/1",
+          "media_key": "3_2082728014614564864",
+          "start": 42,
+          "url": "https://t.co/qIOZQbKUYD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083022979521515812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082728029139435921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wangduanniao: 做空海力士赚了29个亿，这是我赚的最多的一次。 https://t.co/qIOZQbKUYD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082728014614564864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdWGDLbEAAfCV9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082728014614564864"
+          ]
+        },
+        "author_id": "1445222248902651906",
+        "conversation_id": "2082728029139435921",
+        "created_at": "2026-07-30T07:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082728029139435921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qIOZQbKUYD",
+              "end": 47,
+              "expanded_url": "https://x.com/Wangduanniao/status/2082728029139435921/photo/1",
+              "media_key": "3_2082728014614564864",
+              "start": 24,
+              "url": "https://t.co/qIOZQbKUYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082728029139435921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 137566,
+          "like_count": 210,
+          "quote_count": 0,
+          "reply_count": 204,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "做空海力士赚了29个亿，这是我赚的最多的一次。 https://t.co/qIOZQbKUYD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082728014614564864"
+          ],
+          "media_source_tweet_id": [
+            "2082728029139435921"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083022979521515812",
+        "created_at": "2026-07-31T02:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083022979521515812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1445222248902651906",
+              "start": 3,
+              "username": "Wangduanniao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qIOZQbKUYD",
+              "end": 65,
+              "expanded_url": "https://x.com/Wangduanniao/status/2082728029139435921/photo/1",
+              "media_key": "3_2082728014614564864",
+              "start": 42,
+              "url": "https://t.co/qIOZQbKUYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083022979521515812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082728029139435921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wangduanniao: 做空海力士赚了29个亿，这是我赚的最多的一次。 https://t.co/qIOZQbKUYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 315,
+          "like_count": 991,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1957
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T03:00:20.000Z",
+        "description": "🦅超级大v，#OKX Web3钱包现已支持100+公链#web3入口 一个就够 https://t.co/fwm39TWSQ8 #Binance 币安福利官专属注册通道👉 https://t.co/G1rnYY0vv1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "OKX"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/oKybmq",
+                "end": 63,
+                "expanded_url": "https://reurl.cc/oKybmq",
+                "start": 40,
+                "url": "https://t.co/fwm39TWSQ8"
+              },
+              {
+                "display_url": "psce.pw/8bgh86",
+                "end": 109,
+                "expanded_url": "https://psce.pw/8bgh86",
+                "start": 86,
+                "url": "https://t.co/G1rnYY0vv1"
+              }
+            ]
+          }
+        },
+        "id": "1445222248902651906",
+        "name": "王短鸟 (长鸟版)",
+        "pinned_tweet_id": "1702199777566331091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076791256303501312/2SZDOgBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98319,
+          "following_count": 4895,
+          "like_count": 24038,
+          "listed_count": 1495,
+          "media_count": 5730,
+          "tweet_count": 49173
+        },
+        "url": "",
+        "username": "Wangduanniao",
+        "verified": true
+      }
+    ]
+  }
+}

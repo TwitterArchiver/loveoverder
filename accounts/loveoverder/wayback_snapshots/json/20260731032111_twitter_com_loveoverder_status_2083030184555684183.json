@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082449329680265216"
+      ],
+      "media_source_tweet_id": [
+        "2082753064256369015"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083030184555684183",
+    "created_at": "2026-07-31T03:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083030184555684183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990727295280328704",
+          "start": 3,
+          "username": "evangelionHQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lq2YnlAe5n",
+          "end": 41,
+          "expanded_url": "https://x.com/evangelionHQ/status/2082753064256369015/photo/1",
+          "media_key": "3_2082449329680265216",
+          "start": 18,
+          "url": "https://t.co/Lq2YnlAe5n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083030184555684183",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 304
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082753064256369015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @evangelionHQ: https://t.co/Lq2YnlAe5n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 965,
+        "media_key": "3_2082449329680265216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZYoc5XsAAlBk3.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082449329680265216"
+          ]
+        },
+        "author_id": "1990727295280328704",
+        "conversation_id": "2082753064256369015",
+        "created_at": "2026-07-30T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082753064256369015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lq2YnlAe5n",
+              "end": 23,
+              "expanded_url": "https://x.com/evangelionHQ/status/2082753064256369015/photo/1",
+              "media_key": "3_2082449329680265216",
+              "start": 0,
+              "url": "https://t.co/Lq2YnlAe5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082753064256369015",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 25105,
+          "like_count": 3049,
+          "quote_count": 12,
+          "reply_count": 2,
+          "retweet_count": 304
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Lq2YnlAe5n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082449329680265216"
+          ],
+          "media_source_tweet_id": [
+            "2082753064256369015"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083030184555684183",
+        "created_at": "2026-07-31T03:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083030184555684183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990727295280328704",
+              "start": 3,
+              "username": "evangelionHQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lq2YnlAe5n",
+              "end": 41,
+              "expanded_url": "https://x.com/evangelionHQ/status/2082753064256369015/photo/1",
+              "media_key": "3_2082449329680265216",
+              "start": 18,
+              "url": "https://t.co/Lq2YnlAe5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083030184555684183",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 304
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082753064256369015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @evangelionHQ: https://t.co/Lq2YnlAe5n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 316,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1975
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T10:24:58.000Z",
+        "description": "at least, be human\nエヴァンゲリオン .ᐟ\nFan Page",
+        "id": "1990727295280328704",
+        "name": "エヴァンゲリオン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082138265151287296/FXhU8vwC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10718,
+          "following_count": 0,
+          "like_count": 240,
+          "listed_count": 27,
+          "media_count": 401,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "evangelionHQ",
+        "verified": true
+      }
+    ]
+  }
+}

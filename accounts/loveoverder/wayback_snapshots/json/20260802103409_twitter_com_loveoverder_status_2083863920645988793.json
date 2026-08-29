@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083863920645988793",
+    "created_at": "2026-08-02T10:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083863920645988793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Themalickwrld/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Themalickwrld/status/2083567468455354688",
+          "start": 6,
+          "url": "https://t.co/9BveXgB5Pt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083863920645988793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083567468455354688",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牙冠七千。 https://t.co/9BveXgB5Pt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11284,
+        "height": 654,
+        "media_key": "7_2050166151817076737",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050166151817076737/pu/img/z-f2fN5w8213yVzy.jpg",
+        "public_metrics": {
+          "view_count": 1439607
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050166151817076737/pu/vid/avc1/332x270/vTK9zkIFt1CIADwz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050166151817076737/pu/vid/avc1/444x360/7MBerXIcad2XDFEj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050166151817076737/pu/vid/avc1/808x654/eLbKj0XxCN3-Fozs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050166151817076737/pu/pl/HlMy9uEo8A6qW9lJ.m3u8?v=4b8"
+          }
+        ],
+        "width": 808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083863920645988793",
+        "created_at": "2026-08-02T10:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083863920645988793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Themalickwrld/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Themalickwrld/status/2083567468455354688",
+              "start": 6,
+              "url": "https://t.co/9BveXgB5Pt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083863920645988793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083567468455354688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牙冠七千。 https://t.co/9BveXgB5Pt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050166151817076737"
+          ],
+          "media_source_tweet_id": [
+            "2050166167696748886"
+          ]
+        },
+        "author_id": "3559051335",
+        "conversation_id": "2083567468455354688",
+        "created_at": "2026-08-01T14:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083567468455354688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXGERAzn0n",
+              "end": 186,
+              "expanded_url": "https://x.com/Themalickwrld/status/2050166167696748886/video/1",
+              "media_key": "7_2050166151817076737",
+              "start": 163,
+              "url": "https://t.co/OXGERAzn0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083567468455354688",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 837,
+          "impression_count": 523926,
+          "like_count": 46089,
+          "quote_count": 102,
+          "reply_count": 76,
+          "retweet_count": 3293
+        },
+        "reply_settings": "everyone",
+        "text": "Le dentiste qui me demande de ne pas manger pendant 2 heures après m'avoir retiré une dent sans savoir qu'à cause de ses prix je ne mangerai pas le mois prochain  https://t.co/OXGERAzn0n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 379,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2320
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-05T20:47:48.000Z",
+        "description": "Truly Humble Under God.   \n                                          \njeffery Lamar Williams & Nayvadius DeMun Cash.",
+        "id": "3559051335",
+        "location": "511 Kinderheim, Ruhenheim",
+        "name": "𓃵",
+        "pinned_tweet_id": "2083567468455354688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044849590336139264/wC59IBSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4673,
+          "following_count": 4319,
+          "like_count": 19691,
+          "listed_count": 7,
+          "media_count": 9092,
+          "tweet_count": 56662
+        },
+        "url": "",
+        "username": "Themalickwrld",
+        "verified": true
+      }
+    ]
+  }
+}

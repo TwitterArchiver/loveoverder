@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083472699511456117",
+    "created_at": "2026-08-01T08:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083472699511456117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1831127108791529473",
+          "start": 3,
+          "username": "Meuuuu_kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083472699511456117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083071143192224048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meuuuu_kk: 能一直从电子游戏获取的多巴胺的也是一种天选体质了，我现在玩一会就关了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083472699511456117",
+        "created_at": "2026-08-01T08:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083472699511456117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1831127108791529473",
+              "start": 3,
+              "username": "Meuuuu_kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083472699511456117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083071143192224048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meuuuu_kk: 能一直从电子游戏获取的多巴胺的也是一种天选体质了，我现在玩一会就关了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831127108791529473",
+        "conversation_id": "2083071143192224048",
+        "created_at": "2026-07-31T06:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083071143192224048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083071143192224048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8074,
+          "like_count": 223,
+          "quote_count": 1,
+          "reply_count": 59,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "能一直从电子游戏获取的多巴胺的也是一种天选体质了，我现在玩一会就关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 348,
+          "like_count": 1125,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2118
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T00:28:52.000Z",
+        "description": "🌈",
+        "id": "1831127108791529473",
+        "location": "He/him",
+        "name": "💫",
+        "pinned_tweet_id": "2053922314778038337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076283640275783680/1GyvugGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 248,
+          "like_count": 17786,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 6457
+        },
+        "url": "",
+        "username": "Meuuuu_kk",
+        "verified": false
+      }
+    ]
+  }
+}

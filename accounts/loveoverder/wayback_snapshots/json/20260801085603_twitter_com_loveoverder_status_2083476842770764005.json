@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083377094097022976"
+      ],
+      "media_source_tweet_id": [
+        "2083377105652363364"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083476842770764005",
+    "created_at": "2026-08-01T08:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083476842770764005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1980479917306298368",
+          "start": 3,
+          "username": "acervygatinhos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KBNCyp1OnB",
+          "end": 78,
+          "expanded_url": "https://x.com/acervygatinhos/status/2083377105652363364/video/1",
+          "media_key": "13_2083377094097022976",
+          "start": 55,
+          "url": "https://t.co/KBNCyp1OnB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083476842770764005",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 611
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083377105652363364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acervygatinhos: gatinho revoltado batendo em vc 🫵🏻 https://t.co/KBNCyp1OnB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5691,
+        "height": 538,
+        "media_key": "13_2083377094097022976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083377094097022976/img/VaRqCxjiR5S8c16f.jpg",
+        "public_metrics": {
+          "view_count": 24331
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083377094097022976/vid/avc1/320x358/2Ko4b_vcv_8kMCgw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083377094097022976/vid/avc1/480x538/dZBipI7t5sxlSs60.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083377094097022976/pl/mTbrV3g296vJ_qnc.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083377094097022976"
+          ]
+        },
+        "author_id": "1980479917306298368",
+        "conversation_id": "2083377105652363364",
+        "created_at": "2026-08-01T02:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083377105652363364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KBNCyp1OnB",
+              "end": 58,
+              "expanded_url": "https://x.com/acervygatinhos/status/2083377105652363364/video/1",
+              "media_key": "13_2083377094097022976",
+              "start": 35,
+              "url": "https://t.co/KBNCyp1OnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083377105652363364",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 561,
+          "impression_count": 92453,
+          "like_count": 4618,
+          "quote_count": 65,
+          "reply_count": 17,
+          "retweet_count": 611
+        },
+        "reply_settings": "everyone",
+        "text": "gatinho revoltado batendo em vc 🫵🏻 https://t.co/KBNCyp1OnB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083377094097022976"
+          ],
+          "media_source_tweet_id": [
+            "2083377105652363364"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083476842770764005",
+        "created_at": "2026-08-01T08:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083476842770764005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1980479917306298368",
+              "start": 3,
+              "username": "acervygatinhos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KBNCyp1OnB",
+              "end": 78,
+              "expanded_url": "https://x.com/acervygatinhos/status/2083377105652363364/video/1",
+              "media_key": "13_2083377094097022976",
+              "start": 55,
+              "url": "https://t.co/KBNCyp1OnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083476842770764005",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 611
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083377105652363364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acervygatinhos: gatinho revoltado batendo em vc 🫵🏻 https://t.co/KBNCyp1OnB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 352,
+          "like_count": 1143,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 2139
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T03:43:20.000Z",
+        "description": "videos de gatinhos pra vcs 🐈",
+        "id": "1980479917306298368",
+        "location": "Brasil",
+        "name": "acervo gatinhos",
+        "pinned_tweet_id": "1993748537029587296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078447272602300416/ANAl_uSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3540,
+          "following_count": 9,
+          "like_count": 2330,
+          "listed_count": 7,
+          "media_count": 206,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "acervygatinhos",
+        "verified": true
+      }
+    ]
+  }
+}

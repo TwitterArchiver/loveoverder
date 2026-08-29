@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082707619882708992"
+      ],
+      "media_source_tweet_id": [
+        "2082707646193504419"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083031929113460829",
+    "created_at": "2026-07-31T03:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083031929113460829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2068947204937859072",
+          "start": 3,
+          "username": "CatsLoverjp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zbGqXCfSlu",
+          "end": 40,
+          "expanded_url": "https://x.com/CatsLoverjp/status/2082707646193504419/video/1",
+          "media_key": "13_2082707619882708992",
+          "start": 17,
+          "url": "https://t.co/zbGqXCfSlu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083031929113460829",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1916
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082707646193504419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CatsLoverjp: https://t.co/zbGqXCfSlu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12766,
+        "height": 944,
+        "media_key": "13_2082707619882708992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082707619882708992/img/J2RLGSNpZJT5-fuC.jpg",
+        "public_metrics": {
+          "view_count": 82280
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082707619882708992/vid/avc1/320x418/NhF2fCGN-lAtsOtx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082707619882708992/vid/avc1/480x628/VD7mqhlZMyx39UcC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082707619882708992/vid/avc1/720x944/i71MzcjPt0HS3xS7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082707619882708992/pl/JKGs6utCsgo4JMMG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082707619882708992"
+          ]
+        },
+        "author_id": "2068947204937859072",
+        "conversation_id": "2082707646193504419",
+        "created_at": "2026-07-30T05:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082707646193504419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbGqXCfSlu",
+              "end": 23,
+              "expanded_url": "https://x.com/CatsLoverjp/status/2082707646193504419/video/1",
+              "media_key": "13_2082707619882708992",
+              "start": 0,
+              "url": "https://t.co/zbGqXCfSlu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082707646193504419",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 985,
+          "impression_count": 317684,
+          "like_count": 18408,
+          "quote_count": 126,
+          "reply_count": 54,
+          "retweet_count": 1916
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zbGqXCfSlu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082707619882708992"
+          ],
+          "media_source_tweet_id": [
+            "2082707646193504419"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083031929113460829",
+        "created_at": "2026-07-31T03:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083031929113460829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2068947204937859072",
+              "start": 3,
+              "username": "CatsLoverjp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbGqXCfSlu",
+              "end": 40,
+              "expanded_url": "https://x.com/CatsLoverjp/status/2082707646193504419/video/1",
+              "media_key": "13_2082707619882708992",
+              "start": 17,
+              "url": "https://t.co/zbGqXCfSlu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083031929113460829",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1916
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082707646193504419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CatsLoverjp: https://t.co/zbGqXCfSlu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 316,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1983
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T06:44:01.000Z",
+        "description": "🐱 Daily cat photos & endless purrfection. Follow for your daily dose of cuteness.",
+        "id": "2068947204937859072",
+        "location": "earth 🌎",
+        "name": "Cat's Lover",
+        "pinned_tweet_id": "2082707646193504419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068948655076409344/tvOr0lLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 1340,
+          "like_count": 116,
+          "listed_count": 2,
+          "media_count": 385,
+          "tweet_count": 518
+        },
+        "url": "",
+        "username": "CatsLoverjp",
+        "verified": false
+      }
+    ]
+  }
+}

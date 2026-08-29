@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082840065819250688"
+      ],
+      "media_source_tweet_id": [
+        "2082840069866651892"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083031937564934209",
+    "created_at": "2026-07-31T03:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083031937564934209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1785002627648110592",
+          "start": 3,
+          "username": "kohaze102"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U0t21RBf0a",
+          "end": 46,
+          "expanded_url": "https://x.com/kohaze102/status/2082840069866651892/photo/1",
+          "media_key": "3_2082840065819250688",
+          "start": 23,
+          "url": "https://t.co/U0t21RBf0a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083031937564934209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 948
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082840069866651892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohaze102: 「ご飯出して」 https://t.co/U0t21RBf0a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2082840065819250688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOe8AScbkAAzJAs.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082840065819250688"
+          ]
+        },
+        "author_id": "1785002627648110592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082840069866651892",
+        "created_at": "2026-07-30T14:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082840069866651892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0t21RBf0a",
+              "end": 31,
+              "expanded_url": "https://x.com/kohaze102/status/2082840069866651892/photo/1",
+              "media_key": "3_2082840065819250688",
+              "start": 8,
+              "url": "https://t.co/U0t21RBf0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082840069866651892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 257,
+          "impression_count": 100185,
+          "like_count": 11077,
+          "quote_count": 12,
+          "reply_count": 15,
+          "retweet_count": 948
+        },
+        "reply_settings": "everyone",
+        "text": "「ご飯出して」 https://t.co/U0t21RBf0a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082840065819250688"
+          ],
+          "media_source_tweet_id": [
+            "2082840069866651892"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083031937564934209",
+        "created_at": "2026-07-31T03:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083031937564934209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1785002627648110592",
+              "start": 3,
+              "username": "kohaze102"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0t21RBf0a",
+              "end": 46,
+              "expanded_url": "https://x.com/kohaze102/status/2082840069866651892/photo/1",
+              "media_key": "3_2082840065819250688",
+              "start": 23,
+              "url": "https://t.co/U0t21RBf0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083031937564934209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 948
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082840069866651892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohaze102: 「ご飯出して」 https://t.co/U0t21RBf0a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 316,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1983
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T17:46:16.000Z",
+        "description": "“幸運のおてて🐾”足袋猫こはぜと申します。Hi,my name is Kohaze🐈‍⬛ Born October 2, 2023. Munchkin girl🎀 Reproduction is prohibited(add credit→OK)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohaze102",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kohaze102",
+                "start": 0,
+                "url": "https://t.co/9Qqb4mM2Kv"
+              }
+            ]
+          }
+        },
+        "id": "1785002627648110592",
+        "name": "こはぜ",
+        "pinned_tweet_id": "1863889472594829398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785003102867017728/t-GBehuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45886,
+          "following_count": 35,
+          "like_count": 6823,
+          "listed_count": 384,
+          "media_count": 479,
+          "tweet_count": 2278
+        },
+        "url": "https://t.co/9Qqb4mM2Kv",
+        "username": "kohaze102",
+        "verified": false
+      }
+    ]
+  }
+}

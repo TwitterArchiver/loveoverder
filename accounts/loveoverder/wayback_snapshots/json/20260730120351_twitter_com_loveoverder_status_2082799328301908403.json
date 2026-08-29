@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082448610785169408"
+      ],
+      "media_source_tweet_id": [
+        "2082448624588607682"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082799328301908403",
+    "created_at": "2026-07-30T12:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082799328301908403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1523233263946412032",
+          "start": 3,
+          "username": "MtFAllahuakbar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E42FSjuh26",
+          "end": 43,
+          "expanded_url": "https://x.com/MtFAllahuakbar/status/2082448624588607682/photo/1",
+          "media_key": "3_2082448610785169408",
+          "start": 20,
+          "url": "https://t.co/E42FSjuh26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082799328301908403",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082448624588607682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MtFAllahuakbar: https://t.co/E42FSjuh26"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_2082448610785169408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZX-mzbEAAH-KI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082448610785169408"
+          ]
+        },
+        "author_id": "1523233263946412032",
+        "conversation_id": "2082448624588607682",
+        "created_at": "2026-07-29T12:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082448624588607682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E42FSjuh26",
+              "end": 23,
+              "expanded_url": "https://x.com/MtFAllahuakbar/status/2082448624588607682/photo/1",
+              "media_key": "3_2082448610785169408",
+              "start": 0,
+              "url": "https://t.co/E42FSjuh26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082448624588607682",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 8809,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E42FSjuh26"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082448610785169408"
+          ],
+          "media_source_tweet_id": [
+            "2082448624588607682"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082799328301908403",
+        "created_at": "2026-07-30T12:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082799328301908403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1523233263946412032",
+              "start": 3,
+              "username": "MtFAllahuakbar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E42FSjuh26",
+              "end": 43,
+              "expanded_url": "https://x.com/MtFAllahuakbar/status/2082448624588607682/photo/1",
+              "media_key": "3_2082448610785169408",
+              "start": 20,
+              "url": "https://t.co/E42FSjuh26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082799328301908403",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082448624588607682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MtFAllahuakbar: https://t.co/E42FSjuh26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 309,
+          "like_count": 966,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1925
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T09:28:11.000Z",
+        "description": "简中药圈相关P事与段子收集\n\n| 不予评价，不做核实，不听谏言，不负责任\n| 目光短浅，坐井观天，尖酸刻薄，滑坡加速\n\n投稿 https://t.co/dQmAFbCUYN\n频道 https://t.co/MiYOyjp5Pi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/MtFGodBot",
+                "end": 86,
+                "expanded_url": "http://t.me/MtFGodBot",
+                "start": 63,
+                "url": "https://t.co/dQmAFbCUYN"
+              },
+              {
+                "display_url": "t.me/MtFAllahuakbar",
+                "end": 113,
+                "expanded_url": "http://t.me/MtFAllahuakbar",
+                "start": 90,
+                "url": "https://t.co/MiYOyjp5Pi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtfgod.org",
+                "end": 23,
+                "expanded_url": "http://mtfgod.org",
+                "start": 0,
+                "url": "https://t.co/RTLZbMPduI"
+              }
+            ]
+          }
+        },
+        "id": "1523233263946412032",
+        "location": "蒸笼锅",
+        "name": "清蒸协会🙏",
+        "pinned_tweet_id": "1958149063939150155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775064346777067520/aPEsKF2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7392,
+          "following_count": 3447,
+          "like_count": 136,
+          "listed_count": 18,
+          "media_count": 844,
+          "tweet_count": 1816
+        },
+        "url": "https://t.co/RTLZbMPduI",
+        "username": "MtFAllahuakbar",
+        "verified": true
+      }
+    ]
+  }
+}

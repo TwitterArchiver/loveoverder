@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083031339704766732",
+    "created_at": "2026-07-31T03:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083031339704766732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1341776619745193986",
+          "start": 3,
+          "username": "tutefunado"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083031339704766732",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3294
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082845674471665716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tutefunado: Europa tiene dos salidas:\n- Cae completamente ante el islam\n- Les sale un pintor nuevo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083031339704766732",
+        "created_at": "2026-07-31T03:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083031339704766732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1341776619745193986",
+              "start": 3,
+              "username": "tutefunado"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083031339704766732",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3294
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082845674471665716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tutefunado: Europa tiene dos salidas:\n- Cae completamente ante el islam\n- Les sale un pintor nuevo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1341776619745193986",
+        "conversation_id": "2082845674471665716",
+        "created_at": "2026-07-30T15:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082845674471665716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082845674471665716",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1185,
+          "impression_count": 973236,
+          "like_count": 55249,
+          "quote_count": 152,
+          "reply_count": 361,
+          "retweet_count": 3294
+        },
+        "reply_settings": "everyone",
+        "text": "Europa tiene dos salidas:\n- Cae completamente ante el islam\n- Les sale un pintor nuevo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 316,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1979
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T16:04:17.000Z",
+        "description": "El lobo siempre será malo si quien cuenta la historia es caperucita. Enemigo del animal print",
+        "id": "1341776619745193986",
+        "name": "Tute",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881632200195559424/_0T68E1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12856,
+          "following_count": 1502,
+          "like_count": 202426,
+          "listed_count": 26,
+          "media_count": 12858,
+          "tweet_count": 102745
+        },
+        "url": "",
+        "username": "tutefunado",
+        "verified": true
+      }
+    ]
+  }
+}

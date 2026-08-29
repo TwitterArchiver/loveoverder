@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083166494134022144"
+      ],
+      "media_source_tweet_id": [
+        "2083166558474617303"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      }
+    ],
+    "conversation_id": "2083415672084894047",
+    "created_at": "2026-08-01T04:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083415672084894047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1496921813485776896",
+          "start": 3,
+          "username": "1no_aalsi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VNsJa8bBBt",
+          "end": 77,
+          "expanded_url": "https://x.com/1no_aalsi_/status/2083166558474617303/video/1",
+          "media_key": "13_2083166494134022144",
+          "start": 54,
+          "url": "https://t.co/VNsJa8bBBt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083415672084894047",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2710
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083166558474617303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1no_aalsi_: Indian Railways rejected my project 🥲 https://t.co/VNsJa8bBBt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15950,
+        "height": 1080,
+        "media_key": "13_2083166494134022144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083166494134022144/img/R3xpeNRgPGvo7yuu.jpg",
+        "public_metrics": {
+          "view_count": 3468336
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083166494134022144/vid/avc1/720x720/6nCHpTdcYlSaG-wu.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083166494134022144/vid/avc1/320x320/l0Tsdnz1MjRokbfH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083166494134022144/pl/QlnAfQmBvWLJW0YI.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083166494134022144/vid/avc1/540x540/jG2HvXIT_gu1d8fU.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083166494134022144/vid/avc1/1080x1080/sU1saaLF6jYBbDrM.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083166494134022144"
+          ]
+        },
+        "author_id": "1496921813485776896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          }
+        ],
+        "conversation_id": "2083166558474617303",
+        "created_at": "2026-07-31T12:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083166558474617303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VNsJa8bBBt",
+              "end": 61,
+              "expanded_url": "https://x.com/1no_aalsi_/status/2083166558474617303/video/1",
+              "media_key": "13_2083166494134022144",
+              "start": 38,
+              "url": "https://t.co/VNsJa8bBBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083166558474617303",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3453,
+          "impression_count": 6220330,
+          "like_count": 47968,
+          "quote_count": 361,
+          "reply_count": 1063,
+          "retweet_count": 2710
+        },
+        "reply_settings": "everyone",
+        "text": "Indian Railways rejected my project 🥲 https://t.co/VNsJa8bBBt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083166494134022144"
+          ],
+          "media_source_tweet_id": [
+            "2083166558474617303"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          }
+        ],
+        "conversation_id": "2083415672084894047",
+        "created_at": "2026-08-01T04:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083415672084894047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1496921813485776896",
+              "start": 3,
+              "username": "1no_aalsi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VNsJa8bBBt",
+              "end": 77,
+              "expanded_url": "https://x.com/1no_aalsi_/status/2083166558474617303/video/1",
+              "media_key": "13_2083166494134022144",
+              "start": 54,
+              "url": "https://t.co/VNsJa8bBBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083415672084894047",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2710
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083166558474617303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1no_aalsi_: Indian Railways rejected my project 🥲 https://t.co/VNsJa8bBBt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 350,
+          "like_count": 1096,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2102
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T18:56:14.000Z",
+        "description": "Cricket | Meme | Hypocrite",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/1no_aalsi_",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/1no_aalsi_",
+                "start": 0,
+                "url": "https://t.co/nxqLt4gHI2"
+              }
+            ]
+          }
+        },
+        "id": "1496921813485776896",
+        "name": "Gagan🇮🇳",
+        "pinned_tweet_id": "2083216878500221064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663304143140966400/wYN42Nu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33588,
+          "following_count": 733,
+          "like_count": 75300,
+          "listed_count": 105,
+          "media_count": 3068,
+          "tweet_count": 118725
+        },
+        "url": "https://t.co/nxqLt4gHI2",
+        "username": "1no_aalsi_",
+        "verified": true
+      }
+    ]
+  }
+}

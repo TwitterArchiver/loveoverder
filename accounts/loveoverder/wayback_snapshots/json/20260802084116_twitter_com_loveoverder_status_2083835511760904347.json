@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083835508896243712"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083800192990802131",
+    "created_at": "2026-08-02T08:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083835511760904347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2059212406451240960",
+          "start": 0,
+          "username": "Cxq6666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GtXgkCA5Vk",
+          "end": 32,
+          "expanded_url": "https://x.com/loveoverder/status/2083835511760904347/photo/1",
+          "media_key": "3_2083835508896243712",
+          "start": 9,
+          "url": "https://t.co/GtXgkCA5Vk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083835511760904347",
+    "in_reply_to_user_id": "2059212406451240960",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083800192990802131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cxq6666 https://t.co/GtXgkCA5Vk"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083800192990802131].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083800192990802131",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083800192990802131"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1327,
+        "media_key": "3_2083835508896243712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtFWs4bIAARRJq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083835508896243712"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083800192990802131",
+        "created_at": "2026-08-02T08:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083835511760904347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GtXgkCA5Vk",
+              "end": 32,
+              "expanded_url": "https://x.com/loveoverder/status/2083835511760904347/photo/1",
+              "media_key": "3_2083835508896243712",
+              "start": 9,
+              "url": "https://t.co/GtXgkCA5Vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083835511760904347",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083800192990802131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 https://t.co/GtXgkCA5Vk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 375,
+          "like_count": 1297,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 2291
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 176,
+          "like_count": 544,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 641
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

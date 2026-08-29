@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082799403996520767",
+    "created_at": "2026-07-30T12:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082799403996520767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065733059232854016",
+          "start": 3,
+          "username": "Minvy0j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082799403996520767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082640344567726319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minvy0j: 给听潮阁刷礼物的女的啥心理，绑定了给胖子刷钱就返现的系统"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082799403996520767",
+        "created_at": "2026-07-30T12:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082799403996520767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065733059232854016",
+              "start": 3,
+              "username": "Minvy0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082799403996520767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082640344567726319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minvy0j: 给听潮阁刷礼物的女的啥心理，绑定了给胖子刷钱就返现的系统"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065733059232854016",
+        "conversation_id": "2082640344567726319",
+        "created_at": "2026-07-30T01:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082640344567726319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082640344567726319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11624,
+          "like_count": 190,
+          "quote_count": 2,
+          "reply_count": 49,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "给听潮阁刷礼物的女的啥心理，绑定了给胖子刷钱就返现的系统"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 309,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1927
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T09:50:23.000Z",
+        "description": "背叛自己的意志\n苦笑着替你解释\n她无辜介入这个事实\n我有妒忌的体质\n却把原谅的权利当成恩赐",
+        "id": "2065733059232854016",
+        "location": "-20cm",
+        "name": "Min",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082765919806500864/VX2SfZ_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 79,
+          "like_count": 659,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 413
+        },
+        "url": "",
+        "username": "Minvy0j",
+        "verified": false
+      }
+    ]
+  }
+}

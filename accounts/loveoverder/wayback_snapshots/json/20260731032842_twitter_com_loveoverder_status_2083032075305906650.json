@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082753847739510784"
+      ],
+      "media_source_tweet_id": [
+        "2082934255454462239"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083032075305906650",
+    "created_at": "2026-07-31T03:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083032075305906650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990727295280328704",
+          "start": 3,
+          "username": "evangelionHQ"
+        },
+        {
+          "end": 41,
+          "id": "1559185153779531778",
+          "start": 25,
+          "username": "alexa_mosyakina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ubX5Ir2wgj",
+          "end": 65,
+          "expanded_url": "https://x.com/evangelionHQ/status/2082934255454462239/photo/1",
+          "media_key": "3_2082753847739510784",
+          "start": 42,
+          "url": "https://t.co/ubX5Ir2wgj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083032075305906650",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082934255454462239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @evangelionHQ: art by @alexa_mosyakina https://t.co/ubX5Ir2wgj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082753847739510784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdtlvEXcAAEF1Z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082753847739510784"
+          ]
+        },
+        "author_id": "1990727295280328704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082934255454462239",
+        "created_at": "2026-07-30T21:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082934255454462239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1559185153779531778",
+              "start": 7,
+              "username": "alexa_mosyakina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubX5Ir2wgj",
+              "end": 47,
+              "expanded_url": "https://x.com/evangelionHQ/status/2082934255454462239/photo/1",
+              "media_key": "3_2082753847739510784",
+              "start": 24,
+              "url": "https://t.co/ubX5Ir2wgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082934255454462239",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 5541,
+          "like_count": 791,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "art by @alexa_mosyakina https://t.co/ubX5Ir2wgj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082753847739510784"
+          ],
+          "media_source_tweet_id": [
+            "2082934255454462239"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083032075305906650",
+        "created_at": "2026-07-31T03:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083032075305906650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990727295280328704",
+              "start": 3,
+              "username": "evangelionHQ"
+            },
+            {
+              "end": 41,
+              "id": "1559185153779531778",
+              "start": 25,
+              "username": "alexa_mosyakina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubX5Ir2wgj",
+              "end": 65,
+              "expanded_url": "https://x.com/evangelionHQ/status/2082934255454462239/photo/1",
+              "media_key": "3_2082753847739510784",
+              "start": 42,
+              "url": "https://t.co/ubX5Ir2wgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083032075305906650",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082934255454462239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @evangelionHQ: art by @alexa_mosyakina https://t.co/ubX5Ir2wgj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 316,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1986
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T10:24:58.000Z",
+        "description": "at least, be human\nエヴァンゲリオン .ᐟ\nFan Page",
+        "id": "1990727295280328704",
+        "name": "エヴァンゲリオン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082138265151287296/FXhU8vwC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10719,
+          "following_count": 0,
+          "like_count": 240,
+          "listed_count": 27,
+          "media_count": 401,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "evangelionHQ",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-15T14:28:27.000Z",
+        "description": "Character design, illustration \nalex.mosyakina@gmail.com\n\nhttps://t.co/EAXVNhkzbC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/alexandra_mosy…",
+                "end": 81,
+                "expanded_url": "https://t.me/alexandra_mosyakina",
+                "start": 58,
+                "url": "https://t.co/EAXVNhkzbC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/alexandra_mosy…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/alexandra_mosyakina?igsh=bHNoOGtmNHRuMG56&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/p1GR1SiyeV"
+              }
+            ]
+          }
+        },
+        "id": "1559185153779531778",
+        "name": "Alexandra Mosyakina",
+        "pinned_tweet_id": "2015803372431904850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812055066402004992/R8-hwnJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8203,
+          "following_count": 23,
+          "like_count": 35,
+          "listed_count": 47,
+          "media_count": 22,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/p1GR1SiyeV",
+        "username": "alexa_mosyakina",
+        "verified": false
+      }
+    ]
+  }
+}

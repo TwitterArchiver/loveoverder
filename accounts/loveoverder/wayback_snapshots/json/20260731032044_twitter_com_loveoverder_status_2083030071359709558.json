@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083018477057835008"
+      ],
+      "media_source_tweet_id": [
+        "2083018482111926722"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083030071359709558",
+    "created_at": "2026-07-31T03:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083030071359709558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1654534022448713728",
+          "start": 3,
+          "username": "jueduizhengyi_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TMuKrm1hxk",
+          "end": 65,
+          "expanded_url": "https://x.com/jueduizhengyi_A/status/2083018482111926722/photo/1",
+          "media_key": "3_2083018477057835008",
+          "start": 42,
+          "url": "https://t.co/TMuKrm1hxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083030071359709558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083018482111926722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jueduizhengyi_A: 我攒的两万积分就应该用来买这种唐东西😋😋 https://t.co/TMuKrm1hxk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2083018477057835008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOheRMGbgAA_Igw.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083018477057835008"
+          ]
+        },
+        "author_id": "1654534022448713728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083018482111926722",
+        "created_at": "2026-07-31T02:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083018482111926722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMuKrm1hxk",
+              "end": 44,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2083018482111926722/photo/1",
+              "media_key": "3_2083018477057835008",
+              "start": 21,
+              "url": "https://t.co/TMuKrm1hxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083018482111926722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我攒的两万积分就应该用来买这种唐东西😋😋 https://t.co/TMuKrm1hxk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083018477057835008"
+          ],
+          "media_source_tweet_id": [
+            "2083018482111926722"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083030071359709558",
+        "created_at": "2026-07-31T03:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083030071359709558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1654534022448713728",
+              "start": 3,
+              "username": "jueduizhengyi_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMuKrm1hxk",
+              "end": 65,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2083018482111926722/photo/1",
+              "media_key": "3_2083018477057835008",
+              "start": 42,
+              "url": "https://t.co/TMuKrm1hxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083030071359709558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083018482111926722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jueduizhengyi_A: 我攒的两万积分就应该用来买这种唐东西😋😋 https://t.co/TMuKrm1hxk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 316,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1973
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "Sugawara/菅原です｜INTJ｜男｜仮面ライダー｜キャラクターデザイナー｜小さな雑記｜京都｜为天地立心，为生民立命，为往圣继绝学，为万世开太平。",
+        "id": "1654534022448713728",
+        "location": "京都",
+        "name": "Suga.",
+        "pinned_tweet_id": "2082151184706793598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054129512401813504/FvqgyFhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 307,
+          "like_count": 68551,
+          "listed_count": 2,
+          "media_count": 1310,
+          "tweet_count": 9981
+        },
+        "url": "",
+        "username": "jueduizhengyi_A",
+        "verified": true
+      }
+    ]
+  }
+}

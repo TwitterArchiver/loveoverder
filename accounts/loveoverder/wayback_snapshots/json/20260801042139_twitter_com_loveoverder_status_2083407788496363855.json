@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083407788496363855",
+    "created_at": "2026-08-01T04:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083407788496363855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026902241328648192",
+          "start": 3,
+          "username": "ovo_3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083407788496363855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083171213686505919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovo_3l: 我好崩溃一堆人机在我的评论区说她们的福不黑 关我什么事呀.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083407788496363855",
+        "created_at": "2026-08-01T04:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083407788496363855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026902241328648192",
+              "start": 3,
+              "username": "ovo_3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083407788496363855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083171213686505919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ovo_3l: 我好崩溃一堆人机在我的评论区说她们的福不黑 关我什么事呀.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026902241328648192",
+        "conversation_id": "2083171213686505919",
+        "created_at": "2026-07-31T12:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083171213686505919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083171213686505919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 43104,
+          "like_count": 646,
+          "quote_count": 2,
+          "reply_count": 187,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我好崩溃一堆人机在我的评论区说她们的福不黑 关我什么事呀.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 348,
+          "like_count": 1090,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2088
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T06:14:33.000Z",
+        "description": "提问箱📬：https://t.co/cmXHyk3EL8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo_3l",
+                "end": 28,
+                "expanded_url": "https://ngl.link/ovo_3l",
+                "start": 5,
+                "url": "https://t.co/cmXHyk3EL8"
+              }
+            ]
+          }
+        },
+        "id": "2026902241328648192",
+        "location": "专心经营自己的呆萌生活..",
+        "name": "^_^",
+        "pinned_tweet_id": "2060395645362692126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075226801585205248/M-Zi5nJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 10,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 536
+        },
+        "url": "",
+        "username": "ovo_3l",
+        "verified": false
+      }
+    ]
+  }
+}

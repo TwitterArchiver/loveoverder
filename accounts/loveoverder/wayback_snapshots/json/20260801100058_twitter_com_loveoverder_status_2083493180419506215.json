@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083493180419506215",
+    "created_at": "2026-08-01T10:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083493180419506215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1107493884630724608",
+          "start": 3,
+          "username": "realChainDoctor"
+        },
+        {
+          "end": 32,
+          "id": "1997935091075670016",
+          "start": 21,
+          "username": "Jiajia_OKX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083493180419506215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083479781530849596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realChainDoctor: @Jiajia_OKX 没有疑问啊，问题都在台面上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083493180419506215",
+        "created_at": "2026-08-01T10:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083493180419506215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1107493884630724608",
+              "start": 3,
+              "username": "realChainDoctor"
+            },
+            {
+              "end": 32,
+              "id": "1997935091075670016",
+              "start": 21,
+              "username": "Jiajia_OKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083493180419506215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083479781530849596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realChainDoctor: @Jiajia_OKX 没有疑问啊，问题都在台面上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1107493884630724608",
+        "conversation_id": "2083438732208906529",
+        "created_at": "2026-08-01T09:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083479781530849596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1997935091075670016",
+              "start": 0,
+              "username": "Jiajia_OKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083479781530849596",
+        "in_reply_to_user_id": "1997935091075670016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 772,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083475889720041514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiajia_OKX 没有疑问啊，问题都在台面上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 363,
+          "like_count": 1182,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2170
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-18T04:08:13.000Z",
+        "description": "Mama of 2 | Crypto investor | Learning AI |\nIf you don't get it, I don't have time to try to convince you. \n#NFA #notAkol",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 108,
+                "tag": "NFA"
+              },
+              {
+                "end": 121,
+                "start": 113,
+                "tag": "notAkol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/realchaindoctor",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/realchaindoctor",
+                "start": 0,
+                "url": "https://t.co/MPIj6wrmq7"
+              }
+            ]
+          }
+        },
+        "id": "1107493884630724608",
+        "name": "ChainDoctor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905244227539533825/ciwlacFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85220,
+          "following_count": 606,
+          "like_count": 4119,
+          "listed_count": 1826,
+          "media_count": 320,
+          "tweet_count": 6381
+        },
+        "url": "https://t.co/MPIj6wrmq7",
+        "username": "realChainDoctor",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-08T07:43:51.000Z",
+        "description": "OKX官方社区大使&品牌经理\n星球创作，就找佳佳！～",
+        "id": "1997935091075670016",
+        "name": "佳佳 OKX",
+        "pinned_tweet_id": "2082276672535965972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079909106404790272/M2qlj-rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 892,
+          "like_count": 3383,
+          "listed_count": 20,
+          "media_count": 227,
+          "tweet_count": 1839
+        },
+        "url": "",
+        "username": "Jiajia_OKX",
+        "verified": true
+      }
+    ]
+  }
+}

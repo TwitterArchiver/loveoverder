@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      }
+    ],
+    "conversation_id": "2083500643965419732",
+    "created_at": "2026-08-01T10:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083500643965419732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "848740122",
+          "start": 3,
+          "username": "kimuse_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083500643965419732",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083196269523251236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kimuse_: 일본의 넷우익이나 중국의 소분홍은 K-pop이나 K-drama의 세계적인 성공을 도저히 인정하고 싶지가 않은가보다. \n그리고 자신들의 눈과 귀에 안들린다고 없다고 생각한다. 조금만 찾아봐라 한국이라는 작은 나라 문화 산업이 전…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "2083500643965419732",
+        "created_at": "2026-08-01T10:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083500643965419732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "848740122",
+              "start": 3,
+              "username": "kimuse_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083500643965419732",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083196269523251236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kimuse_: 일본의 넷우익이나 중국의 소분홍은 K-pop이나 K-drama의 세계적인 성공을 도저히 인정하고 싶지가 않은가보다. \n그리고 자신들의 눈과 귀에 안들린다고 없다고 생각한다. 조금만 찾아봐라 한국이라는 작은 나라 문화 산업이 전…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "848740122",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "2083196269523251236",
+        "created_at": "2026-07-31T14:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083196269523251236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083196269523251236",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "일본의 넷우익이나 중국의 소분홍은 K-pop이나 K-drama의 세계적인 성공을 도저히 인정하고 싶지가 않은가보다. \n그리고 자신들의 눈과 귀에 안들린다고 없다고 생각한다. 조금만 찾아봐라 한국이라는 작은 나라 문화 산업이 전세계 전대륙에 무슨 일을 이뤘는지. \n이미 이뤄놓은거 없다고 억지 논리 펴고 애써 부정 하지 말고 그 걸 뛰어 넘는 성과를 가져와서 자랑을 하던지 한류를 무시하든해라.\n자기들은 아무것도 못이루고 남이 이룬것들을 부정하면 스스로 비참해지는거야.\n스스로 대국이고 강하다고 말하고 싶으면 타국을 낮추는게 아니고 타국에게 존경 존중 빋을 수있는 수준으로 보여줘라"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 20126,
+          "like_count": 192,
+          "quote_count": 7,
+          "reply_count": 239,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "일본의 넷우익이나 중국의 소분홍은 K-pop이나 K-drama의 세계적인 성공을 도저히 인정하고 싶지가 않은가보다. \n그리고 자신들의 눈과 귀에 안들린다고 없다고 생각한다. 조금만 찾아봐라 한국이라는 작은 나라 문화 산업이 전세계 전대륙에 무슨 일을 이뤘는지. \n이미 이뤄놓은거 없다고 억지 논리"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 364,
+          "like_count": 1194,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2181
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-27T06:08:08.000Z",
+        "description": "一期一会 /日韓架け橋/極端政治拒否/ /한일교류/양극단정치거부/ESTJ/建築/庭園/まちづくり/건축/정원/마치쯔꾸리",
+        "id": "848740122",
+        "location": "京",
+        "name": "KIMUSE_",
+        "pinned_tweet_id": "2083453204260614541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052652051176538113/yYvXCXjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 2594,
+          "like_count": 40271,
+          "listed_count": 9,
+          "media_count": 503,
+          "tweet_count": 15921
+        },
+        "url": "",
+        "username": "kimuse_",
+        "verified": true
+      }
+    ]
+  }
+}

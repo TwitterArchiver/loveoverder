@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083185121394671616"
+      ],
+      "media_source_tweet_id": [
+        "2083185128612974738"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083208852787573129",
+    "created_at": "2026-07-31T15:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083208852787573129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845123077644091395",
+          "start": 3,
+          "username": "eternalucis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rRIVQHvYMk",
+          "end": 53,
+          "expanded_url": "https://x.com/eternalucis/status/2083185128612974738/photo/1",
+          "media_key": "3_2083185121394671616",
+          "start": 30,
+          "url": "https://t.co/rRIVQHvYMk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083208852787573129",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083185128612974738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eternalucis: The Observed https://t.co/rRIVQHvYMk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2083185121394671616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj11KobwAA0ZRH.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083185121394671616"
+          ]
+        },
+        "author_id": "1845123077644091395",
+        "conversation_id": "2083185128612974738",
+        "created_at": "2026-07-31T13:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083185128612974738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rRIVQHvYMk",
+              "end": 36,
+              "expanded_url": "https://x.com/eternalucis/status/2083185128612974738/photo/1",
+              "media_key": "3_2083185121394671616",
+              "start": 13,
+              "url": "https://t.co/rRIVQHvYMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083185128612974738",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 1845,
+          "like_count": 215,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "The Observed https://t.co/rRIVQHvYMk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083185121394671616"
+          ],
+          "media_source_tweet_id": [
+            "2083185128612974738"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083208852787573129",
+        "created_at": "2026-07-31T15:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083208852787573129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845123077644091395",
+              "start": 3,
+              "username": "eternalucis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rRIVQHvYMk",
+              "end": 53,
+              "expanded_url": "https://x.com/eternalucis/status/2083185128612974738/photo/1",
+              "media_key": "3_2083185121394671616",
+              "start": 30,
+              "url": "https://t.co/rRIVQHvYMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083208852787573129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083185128612974738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eternalucis: The Observed https://t.co/rRIVQHvYMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 341,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 2062
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T15:23:43.000Z",
+        "description": "( ◡‿◡ *) ︵🖼️ Artist | ai lover | drawing dreams from between worlds",
+        "id": "1845123077644091395",
+        "name": "Lisa",
+        "pinned_tweet_id": "1965109497992806541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962047652771901440/Aj2xclis_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 172,
+          "like_count": 3554,
+          "listed_count": 6,
+          "media_count": 390,
+          "tweet_count": 793
+        },
+        "url": "",
+        "username": "eternalucis",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083627887702544384",
+        "3_2083627899153010688"
+      ],
+      "media_source_tweet_id": [
+        "2083627907415761238",
+        "2083627907415761238"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083819583484674213",
+    "created_at": "2026-08-02T07:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083819583484674213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1676896795496939520",
+          "start": 3,
+          "username": "Chajtelxiaohao"
+        },
+        {
+          "end": 27,
+          "id": "1613079089879076864",
+          "start": 20,
+          "username": "YunJiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fYxey3Cm86",
+          "end": 62,
+          "expanded_url": "https://x.com/Chajtelxiaohao/status/2083627907415761238/photo/1",
+          "media_key": "3_2083627887702544384",
+          "start": 39,
+          "url": "https://t.co/fYxey3Cm86"
+        },
+        {
+          "display_url": "pic.x.com/fYxey3Cm86",
+          "end": 62,
+          "expanded_url": "https://x.com/Chajtelxiaohao/status/2083627907415761238/photo/1",
+          "media_key": "3_2083627899153010688",
+          "start": 39,
+          "url": "https://t.co/fYxey3Cm86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083819583484674213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083627907415761238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chajtelxiaohao: @YunJiu 人行道不是很宽敞吗？ https://t.co/fYxey3Cm86"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 923,
+        "media_key": "3_2083627887702544384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqIhjqbkAApXXJ.jpg",
+        "width": 1678
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2083627899153010688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqIiOUb0AAPCZS.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083627887702544384",
+            "3_2083627899153010688"
+          ]
+        },
+        "author_id": "1676896795496939520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083581008117715098",
+        "created_at": "2026-08-01T18:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083627907415761238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "YunJiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYxey3Cm86",
+              "end": 42,
+              "expanded_url": "https://x.com/Chajtelxiaohao/status/2083627907415761238/photo/1",
+              "media_key": "3_2083627887702544384",
+              "start": 19,
+              "url": "https://t.co/fYxey3Cm86"
+            },
+            {
+              "display_url": "pic.x.com/fYxey3Cm86",
+              "end": 42,
+              "expanded_url": "https://x.com/Chajtelxiaohao/status/2083627907415761238/photo/1",
+              "media_key": "3_2083627899153010688",
+              "start": 19,
+              "url": "https://t.co/fYxey3Cm86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083627907415761238",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 824,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083581008117715098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunJiu 人行道不是很宽敞吗？ https://t.co/fYxey3Cm86"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083627887702544384",
+            "3_2083627899153010688"
+          ],
+          "media_source_tweet_id": [
+            "2083627907415761238",
+            "2083627907415761238"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083819583484674213",
+        "created_at": "2026-08-02T07:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083819583484674213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1676896795496939520",
+              "start": 3,
+              "username": "Chajtelxiaohao"
+            },
+            {
+              "end": 27,
+              "id": "1613079089879076864",
+              "start": 20,
+              "username": "YunJiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYxey3Cm86",
+              "end": 62,
+              "expanded_url": "https://x.com/Chajtelxiaohao/status/2083627907415761238/photo/1",
+              "media_key": "3_2083627887702544384",
+              "start": 39,
+              "url": "https://t.co/fYxey3Cm86"
+            },
+            {
+              "display_url": "pic.x.com/fYxey3Cm86",
+              "end": 62,
+              "expanded_url": "https://x.com/Chajtelxiaohao/status/2083627907415761238/photo/1",
+              "media_key": "3_2083627899153010688",
+              "start": 39,
+              "url": "https://t.co/fYxey3Cm86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083819583484674213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083627907415761238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chajtelxiaohao: @YunJiu 人行道不是很宽敞吗？ https://t.co/fYxey3Cm86"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 375,
+          "like_count": 1283,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2263
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T10:12:20.000Z",
+        "description": "",
+        "id": "1676896795496939520",
+        "location": "Japan",
+        "name": "0kuyasu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075265630538977280/gui9SJPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 139,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 541,
+          "tweet_count": 1008
+        },
+        "url": "",
+        "username": "Chajtelxiaohao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106471,
+          "following_count": 824,
+          "like_count": 37572,
+          "listed_count": 296,
+          "media_count": 20528,
+          "tweet_count": 29157
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

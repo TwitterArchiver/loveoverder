@@ -1,0 +1,564 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Action and Adventure",
+          "id": "859530721588723713",
+          "name": "Action & adventure books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Action and Adventure",
+          "id": "859530721588723713",
+          "name": "Action & adventure books"
+        }
+      }
+    ],
+    "conversation_id": "2083889134993866774",
+    "created_at": "2026-08-02T12:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083889134993866774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "760796640747945984",
+          "start": 3,
+          "username": "mandaj7485"
+        },
+        {
+          "end": 27,
+          "id": "62513246",
+          "start": 16,
+          "username": "jk_rowling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083889134993866774",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083690044611584196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mandaj7485: @jk_rowling I've never commented before.  I bought all your books. I've sat and quietly disagreed with so much you've stood…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Action and Adventure",
+              "id": "859530721588723713",
+              "name": "Action & adventure books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Action and Adventure",
+              "id": "859530721588723713",
+              "name": "Action & adventure books"
+            }
+          }
+        ],
+        "conversation_id": "2083889134993866774",
+        "created_at": "2026-08-02T12:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083889134993866774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "760796640747945984",
+              "start": 3,
+              "username": "mandaj7485"
+            },
+            {
+              "end": 27,
+              "id": "62513246",
+              "start": 16,
+              "username": "jk_rowling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083889134993866774",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083690044611584196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mandaj7485: @jk_rowling I've never commented before.  I bought all your books. I've sat and quietly disagreed with so much you've stood…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "760796640747945984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Action and Adventure",
+              "id": "859530721588723713",
+              "name": "Action & adventure books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Action and Adventure",
+              "id": "859530721588723713",
+              "name": "Action & adventure books"
+            }
+          }
+        ],
+        "conversation_id": "2083637556319543378",
+        "created_at": "2026-08-01T23:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083690044611584196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "62513246",
+              "start": 0,
+              "username": "jk_rowling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083690044611584196",
+        "in_reply_to_user_id": "62513246",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I've never commented before.  I bought all your books. I've sat and quietly disagreed with so much you've stood for for such a long time. I honestly don't understand why you are so vocal about people who just want to live their lives. You have such a voice and platform. But you choose to villyfy people who just want to live their own lives. Yes I understand some of your valid points about sports and prisons. Not everything is addressed by law. But the majority of trans people that you vilify are just normal law abiding persons who want to just exist without hate or persecution.  You use your platform for hate. Which is so wrong. I get that you think you are protecting women. But you could still protect women without demonising a whole community. You should do better."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 23207,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 137,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083637556319543378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jk_rowling I've never commented before.  I bought all your books. I've sat and quietly disagreed with so much you've stood for for such a long time. I honestly don't understand why you are so vocal about people who just want to live their lives. You have such a voice and platform. But you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 385,
+          "like_count": 1356,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 2365
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-03T11:17:09.000Z",
+        "description": "",
+        "id": "760796640747945984",
+        "name": "Amanda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/762252798507573248/yiAD8MyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 420,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "mandaj7485",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-03T13:23:45.000Z",
+        "description": "Author, founder of Lumos and Beira's Place, surname rhymes with bowling, not growling.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jkrowling.com",
+                "end": 23,
+                "expanded_url": "http://www.jkrowling.com",
+                "start": 0,
+                "url": "https://t.co/sQiPGyMIFA"
+              }
+            ]
+          }
+        },
+        "id": "62513246",
+        "location": "Scotland",
+        "name": "J.K. Rowling",
+        "pinned_tweet_id": "1966256971134234678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068423688500744192/mBmehEZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13777701,
+          "following_count": 1159,
+          "like_count": 73170,
+          "listed_count": 30415,
+          "media_count": 1780,
+          "tweet_count": 23152
+        },
+        "url": "https://t.co/sQiPGyMIFA",
+        "username": "jk_rowling",
+        "verified": true
+      }
+    ]
+  }
+}

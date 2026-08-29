@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082535269291446272"
+      ],
+      "media_source_tweet_id": [
+        "2082535272323928413"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082800488454779268",
+    "created_at": "2026-07-30T12:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082800488454779268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "924814145781891072",
+          "start": 3,
+          "username": "ragingxngxl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zqvUcYyDBH",
+          "end": 40,
+          "expanded_url": "https://x.com/ragingxngxl/status/2082535272323928413/photo/1",
+          "media_key": "3_2082535269291446272",
+          "start": 17,
+          "url": "https://t.co/zqvUcYyDBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082800488454779268",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 353
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082535272323928413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ragingxngxl: https://t.co/zqvUcYyDBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 696,
+        "media_key": "3_2082535269291446272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOamyy5W0AA4yqH.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082535269291446272"
+          ]
+        },
+        "author_id": "924814145781891072",
+        "conversation_id": "2082535272323928413",
+        "created_at": "2026-07-29T18:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082535272323928413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqvUcYyDBH",
+              "end": 23,
+              "expanded_url": "https://x.com/ragingxngxl/status/2082535272323928413/photo/1",
+              "media_key": "3_2082535269291446272",
+              "start": 0,
+              "url": "https://t.co/zqvUcYyDBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082535272323928413",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 17332,
+          "like_count": 1837,
+          "quote_count": 20,
+          "reply_count": 10,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zqvUcYyDBH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082535269291446272"
+          ],
+          "media_source_tweet_id": [
+            "2082535272323928413"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082800488454779268",
+        "created_at": "2026-07-30T12:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082800488454779268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "924814145781891072",
+              "start": 3,
+              "username": "ragingxngxl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqvUcYyDBH",
+              "end": 40,
+              "expanded_url": "https://x.com/ragingxngxl/status/2082535272323928413/photo/1",
+              "media_key": "3_2082535269291446272",
+              "start": 17,
+              "url": "https://t.co/zqvUcYyDBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082800488454779268",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082535272323928413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ragingxngxl: https://t.co/zqvUcYyDBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 309,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1932
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-30T01:44:09.000Z",
+        "description": "",
+        "id": "924814145781891072",
+        "name": "۟",
+        "pinned_tweet_id": "1778861613493182975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028334564343427072/5u_w88B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5260,
+          "following_count": 713,
+          "like_count": 154431,
+          "listed_count": 11,
+          "media_count": 5158,
+          "tweet_count": 36543
+        },
+        "url": "",
+        "username": "ragingxngxl",
+        "verified": false
+      }
+    ]
+  }
+}

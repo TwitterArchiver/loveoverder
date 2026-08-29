@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083248426410717184",
+        "3_2083248438830047232"
+      ],
+      "media_source_tweet_id": [
+        "2083248450611904517",
+        "2083248450611904517"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083474174165807135",
+    "created_at": "2026-08-01T08:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083474174165807135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679905283068555265",
+          "start": 3,
+          "username": "yuda8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NPf1Fm4RDo",
+          "end": 45,
+          "expanded_url": "https://x.com/yuda8964/status/2083248450611904517/photo/1",
+          "media_key": "3_2083248426410717184",
+          "start": 22,
+          "url": "https://t.co/NPf1Fm4RDo"
+        },
+        {
+          "display_url": "pic.x.com/NPf1Fm4RDo",
+          "end": 45,
+          "expanded_url": "https://x.com/yuda8964/status/2083248450611904517/photo/1",
+          "media_key": "3_2083248438830047232",
+          "start": 22,
+          "url": "https://t.co/NPf1Fm4RDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083474174165807135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083248450611904517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuda8964: 斯格玛格勒战役 https://t.co/NPf1Fm4RDo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_2083248426410717184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkvaAMaMAA7trr.jpg",
+        "width": 663
+      },
+      {
+        "height": 1110,
+        "media_key": "3_2083248438830047232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkvaudaIAABvjo.jpg",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083248426410717184",
+            "3_2083248438830047232"
+          ]
+        },
+        "author_id": "1679905283068555265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083248450611904517",
+        "created_at": "2026-07-31T17:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083248450611904517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NPf1Fm4RDo",
+              "end": 31,
+              "expanded_url": "https://x.com/yuda8964/status/2083248450611904517/photo/1",
+              "media_key": "3_2083248426410717184",
+              "start": 8,
+              "url": "https://t.co/NPf1Fm4RDo"
+            },
+            {
+              "display_url": "pic.x.com/NPf1Fm4RDo",
+              "end": 31,
+              "expanded_url": "https://x.com/yuda8964/status/2083248450611904517/photo/1",
+              "media_key": "3_2083248438830047232",
+              "start": 8,
+              "url": "https://t.co/NPf1Fm4RDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083248450611904517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "斯格玛格勒战役 https://t.co/NPf1Fm4RDo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083248426410717184",
+            "3_2083248438830047232"
+          ],
+          "media_source_tweet_id": [
+            "2083248450611904517",
+            "2083248450611904517"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083474174165807135",
+        "created_at": "2026-08-01T08:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083474174165807135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679905283068555265",
+              "start": 3,
+              "username": "yuda8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NPf1Fm4RDo",
+              "end": 45,
+              "expanded_url": "https://x.com/yuda8964/status/2083248450611904517/photo/1",
+              "media_key": "3_2083248426410717184",
+              "start": 22,
+              "url": "https://t.co/NPf1Fm4RDo"
+            },
+            {
+              "display_url": "pic.x.com/NPf1Fm4RDo",
+              "end": 45,
+              "expanded_url": "https://x.com/yuda8964/status/2083248450611904517/photo/1",
+              "media_key": "3_2083248438830047232",
+              "start": 22,
+              "url": "https://t.co/NPf1Fm4RDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083474174165807135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083248450611904517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuda8964: 斯格玛格勒战役 https://t.co/NPf1Fm4RDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 348,
+          "like_count": 1132,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 2125
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "pinned_tweet_id": "2083106427909156969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 115,
+          "like_count": 1356,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

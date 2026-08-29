@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083816262384374066",
+    "created_at": "2026-08-02T07:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083816262384374066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1040021880",
+          "start": 3,
+          "username": "CoinWuTang"
+        },
+        {
+          "end": 27,
+          "id": "571539711",
+          "start": 16,
+          "username": "BTCbangzhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083816262384374066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083802374192148829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CoinWuTang: @BTCbangzhu 稳稳的幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083816262384374066",
+        "created_at": "2026-08-02T07:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083816262384374066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1040021880",
+              "start": 3,
+              "username": "CoinWuTang"
+            },
+            {
+              "end": 27,
+              "id": "571539711",
+              "start": 16,
+              "username": "BTCbangzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083816262384374066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083802374192148829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CoinWuTang: @BTCbangzhu 稳稳的幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1040021880",
+        "conversation_id": "2083761733148311936",
+        "created_at": "2026-08-02T06:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083802374192148829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "571539711",
+              "start": 0,
+              "username": "BTCbangzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083802374192148829",
+        "in_reply_to_user_id": "571539711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 828,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083761733148311936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BTCbangzhu 稳稳的幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 375,
+          "like_count": 1281,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2258
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-27T16:40:53.000Z",
+        "description": "一位专业投资者\n自2018年起便致力于社群发展\n热衷于内容创作与挖掘潜力“宝石”（项目）\n在2021年获得巨大成功，赚取了数百万美元\n目前仍在持续深耕与壮大",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuliuu8",
+                "end": 23,
+                "expanded_url": "http://t.me/yuliuu8",
+                "start": 0,
+                "url": "https://t.co/LrsjMClFat"
+              }
+            ]
+          }
+        },
+        "id": "1040021880",
+        "location": "印钞机根本停不下来",
+        "name": "Tang 现货大手子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019282838147985414/ByG3krIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137666,
+          "following_count": 469,
+          "like_count": 3634,
+          "listed_count": 873,
+          "media_count": 9350,
+          "tweet_count": 2118231
+        },
+        "url": "https://t.co/LrsjMClFat",
+        "username": "CoinWuTang",
+        "verified": true
+      },
+      {
+        "created_at": "2012-05-05T05:03:21.000Z",
+        "description": "#BNB 持有者 | 用最简单的方式带大家了解币圈 | 拥抱币安，3亿用户的选择 #Binance https://t.co/nOBLODX2F4 所发推文无投资建议，看着玩，别研究。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "BNB"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "accounts.binance.com/zh-CN/register…",
+                "end": 73,
+                "expanded_url": "https://accounts.binance.com/zh-CN/register?ref=XUC9XYW1",
+                "start": 50,
+                "url": "https://t.co/nOBLODX2F4"
+              }
+            ]
+          }
+        },
+        "id": "571539711",
+        "location": "Singaparna",
+        "name": "乔帮主",
+        "pinned_tweet_id": "2021401651383501209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849512019537625088/3ni-jg1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32926,
+          "following_count": 4594,
+          "like_count": 17654,
+          "listed_count": 72,
+          "media_count": 739,
+          "tweet_count": 13042
+        },
+        "url": "",
+        "username": "BTCbangzhu",
+        "verified": true
+      }
+    ]
+  }
+}

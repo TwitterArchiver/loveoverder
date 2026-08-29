@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2084225770424336705",
+    "created_at": "2026-08-03T10:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084225770424336705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "339412747",
+          "start": 3,
+          "username": "ChouxCrypto"
+        },
+        {
+          "end": 33,
+          "id": "1107493884630724608",
+          "start": 17,
+          "username": "realChainDoctor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084225770424336705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084205012058812704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChouxCrypto: @realChainDoctor 解决了提问题的人，也就不会有问题了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2084225770424336705",
+        "created_at": "2026-08-03T10:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084225770424336705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "339412747",
+              "start": 3,
+              "username": "ChouxCrypto"
+            },
+            {
+              "end": 33,
+              "id": "1107493884630724608",
+              "start": 17,
+              "username": "realChainDoctor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084225770424336705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084205012058812704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChouxCrypto: @realChainDoctor 解决了提问题的人，也就不会有问题了😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "339412747",
+        "conversation_id": "2084156352365256905",
+        "created_at": "2026-08-03T09:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084205012058812704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1107493884630724608",
+              "start": 0,
+              "username": "realChainDoctor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084205012058812704",
+        "in_reply_to_user_id": "1107493884630724608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084156352365256905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realChainDoctor 解决了提问题的人，也就不会有问题了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 404,
+          "like_count": 1454,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2434
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-21T02:15:24.000Z",
+        "description": "",
+        "id": "339412747",
+        "name": "Chou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867127032309796864/6tKPUSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 3314,
+          "like_count": 701,
+          "listed_count": 8,
+          "media_count": 150,
+          "tweet_count": 2415
+        },
+        "url": "",
+        "username": "ChouxCrypto",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-18T04:08:13.000Z",
+        "description": "Mama of 2 | Crypto investor | Learning AI |\nIf you don't get it, I don't have time to try to convince you. \n#NFA #notAkol",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 108,
+                "tag": "NFA"
+              },
+              {
+                "end": 121,
+                "start": 113,
+                "tag": "notAkol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/realchaindoctor",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/realchaindoctor",
+                "start": 0,
+                "url": "https://t.co/MPIj6wrmq7"
+              }
+            ]
+          }
+        },
+        "id": "1107493884630724608",
+        "name": "ChainDoctor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905244227539533825/ciwlacFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85522,
+          "following_count": 606,
+          "like_count": 4169,
+          "listed_count": 1827,
+          "media_count": 322,
+          "tweet_count": 6424
+        },
+        "url": "https://t.co/MPIj6wrmq7",
+        "username": "realChainDoctor",
+        "verified": true
+      }
+    ]
+  }
+}

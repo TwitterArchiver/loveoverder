@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083027482954108974",
+    "created_at": "2026-07-31T03:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083027482954108974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "16477634",
+          "start": 3,
+          "username": "durov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083027482954108974",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3078
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082872046229283046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @durov: Russia has designated me as a “terrorist” for refusing its demands for mass surveillance and censorship on Telegram.\n\nUnder Russ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083027482954108974",
+        "created_at": "2026-07-31T03:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083027482954108974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "16477634",
+              "start": 3,
+              "username": "durov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083027482954108974",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3078
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082872046229283046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @durov: Russia has designated me as a “terrorist” for refusing its demands for mass surveillance and censorship on Telegram.\n\nUnder Russ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "16477634",
+        "conversation_id": "2082872046229283046",
+        "created_at": "2026-07-30T16:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082872046229283046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082872046229283046",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1600,
+          "impression_count": 1405218,
+          "like_count": 35293,
+          "quote_count": 334,
+          "reply_count": 1634,
+          "retweet_count": 3080
+        },
+        "reply_settings": "everyone",
+        "text": "Russia has designated me as a “terrorist” for refusing its demands for mass surveillance and censorship on Telegram.\n\nUnder Russian law, I’m banned from “publishing information on the Internet” 😌\n\nRussian officials are clearly confused about who can ban whom from the Internet 😉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 316,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1963
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2008-09-27T00:12:22.000Z",
+        "description": "Founder, CEO at @telegram (2013), founder, ex-CEO of @vkontakte (2006), part-time troll.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "telegram"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "vkontakte"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/durov",
+                "end": 23,
+                "expanded_url": "http://t.me/durov",
+                "start": 0,
+                "url": "https://t.co/j9dOiblQNJ"
+              }
+            ]
+          }
+        },
+        "id": "16477634",
+        "location": "United Arab Emirates",
+        "name": "Pavel Durov",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/658376777258151936/-Jz8l4Rr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3383377,
+          "following_count": 1,
+          "like_count": 466,
+          "listed_count": 6198,
+          "media_count": 151,
+          "tweet_count": 2448
+        },
+        "url": "https://t.co/j9dOiblQNJ",
+        "username": "durov",
+        "verified": true
+      }
+    ]
+  }
+}
