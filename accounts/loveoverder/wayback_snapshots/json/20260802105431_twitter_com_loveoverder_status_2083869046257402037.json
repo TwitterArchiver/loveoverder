@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083869046257402037",
+    "created_at": "2026-08-02T10:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083869046257402037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2083522467335942144",
+          "start": 3,
+          "username": "xfzzlrs11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083869046257402037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083662326302163395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xfzzlrs11: 觉得男人像小狗就是你当狗的开始"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083869046257402037",
+        "created_at": "2026-08-02T10:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083869046257402037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2083522467335942144",
+              "start": 3,
+              "username": "xfzzlrs11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083869046257402037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083662326302163395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xfzzlrs11: 觉得男人像小狗就是你当狗的开始"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083522467335942144",
+        "conversation_id": "2083662326302163395",
+        "created_at": "2026-08-01T21:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083662326302163395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083662326302163395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8236,
+          "like_count": 62,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "觉得男人像小狗就是你当狗的开始"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 380,
+          "like_count": 1321,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2332
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-01T11:58:23.000Z",
+        "description": "眼泪是否比风轻",
+        "id": "2083522467335942144",
+        "name": "≡ω≡",
+        "pinned_tweet_id": "2083808061333106716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083522923915288576/QZ9wxiW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 11,
+          "like_count": 33,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "xfzzlrs11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083509158456750080"
+      ],
+      "media_source_tweet_id": [
+        "2083509184713072848"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Desserts and baked goods",
+          "id": "847863957599567872",
+          "name": "Desserts and baked goods"
+        }
+      }
+    ],
+    "conversation_id": "2083881959898640885",
+    "created_at": "2026-08-02T11:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083881959898640885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1970027222397284352",
+          "start": 3,
+          "username": "IfeanyiEmm34386"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rXLipXXYSL",
+          "end": 111,
+          "expanded_url": "https://x.com/IfeanyiEmm34386/status/2083509184713072848/video/1",
+          "media_key": "13_2083509158456750080",
+          "start": 88,
+          "url": "https://t.co/rXLipXXYSL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083881959898640885",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19415
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083509184713072848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IfeanyiEmm34386: When i'm so full i can barely breath but someone mentions dessert: https://t.co/rXLipXXYSL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6256,
+        "height": 400,
+        "media_key": "13_2083509158456750080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083509158456750080/img/eVlFhzsssLNS3hg1.jpg",
+        "public_metrics": {
+          "view_count": 941239
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083509158456750080/vid/avc1/320x346/xObs9Jyzi6Nk0Z6p.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083509158456750080/vid/avc1/368x400/xuhUvhKfTtAg0c6g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083509158456750080/pl/KOg97pmTzPKOVP3-.m3u8"
+          }
+        ],
+        "width": 368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083509158456750080"
+          ]
+        },
+        "author_id": "1970027222397284352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2083509184713072848",
+        "created_at": "2026-08-01T11:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083509184713072848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXLipXXYSL",
+              "end": 90,
+              "expanded_url": "https://x.com/IfeanyiEmm34386/status/2083509184713072848/video/1",
+              "media_key": "13_2083509158456750080",
+              "start": 67,
+              "url": "https://t.co/rXLipXXYSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083509184713072848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7278,
+          "impression_count": 2575238,
+          "like_count": 114591,
+          "quote_count": 681,
+          "reply_count": 301,
+          "retweet_count": 19415
+        },
+        "reply_settings": "everyone",
+        "text": "When i'm so full i can barely breath but someone mentions dessert: https://t.co/rXLipXXYSL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083509158456750080"
+          ],
+          "media_source_tweet_id": [
+            "2083509184713072848"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2083881959898640885",
+        "created_at": "2026-08-02T11:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083881959898640885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1970027222397284352",
+              "start": 3,
+              "username": "IfeanyiEmm34386"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXLipXXYSL",
+              "end": 111,
+              "expanded_url": "https://x.com/IfeanyiEmm34386/status/2083509184713072848/video/1",
+              "media_key": "13_2083509158456750080",
+              "start": 88,
+              "url": "https://t.co/rXLipXXYSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083881959898640885",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19415
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083509184713072848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IfeanyiEmm34386: When i'm so full i can barely breath but someone mentions dessert: https://t.co/rXLipXXYSL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 384,
+          "like_count": 1343,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2351
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T07:28:28.000Z",
+        "description": "Manchester united ❤\nraw lessons \nJ. Dm for promotion 😎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@h.man531?_r=1…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@h.man531?_r=1&_t=ZN-97mzKkXoxrK",
+                "start": 0,
+                "url": "https://t.co/crWFd89nh2"
+              }
+            ]
+          }
+        },
+        "id": "1970027222397284352",
+        "name": "H",
+        "pinned_tweet_id": "2083509184713072848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074147161210507264/j4uL1zpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5686,
+          "following_count": 3678,
+          "like_count": 67626,
+          "listed_count": 11,
+          "media_count": 2470,
+          "tweet_count": 77166
+        },
+        "url": "https://t.co/crWFd89nh2",
+        "username": "IfeanyiEmm34386",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083530670203412480"
+      ],
+      "media_source_tweet_id": [
+        "2083530677279150275"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083835134399348922",
+    "created_at": "2026-08-02T08:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083835134399348922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1608475156594425856",
+          "start": 3,
+          "username": "ee_drip"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PyIpUb3qit",
+          "end": 36,
+          "expanded_url": "https://x.com/ee_drip/status/2083530677279150275/photo/1",
+          "media_key": "3_2083530670203412480",
+          "start": 13,
+          "url": "https://t.co/PyIpUb3qit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083835134399348922",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9649
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083530677279150275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ee_drip: https://t.co/PyIpUb3qit"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1753,
+        "media_key": "3_2083530670203412480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOowGwQbIAAf1Rz.jpg",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083530670203412480"
+          ]
+        },
+        "author_id": "1608475156594425856",
+        "conversation_id": "2083530677279150275",
+        "created_at": "2026-08-01T12:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083530677279150275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PyIpUb3qit",
+              "end": 23,
+              "expanded_url": "https://x.com/ee_drip/status/2083530677279150275/photo/1",
+              "media_key": "3_2083530670203412480",
+              "start": 0,
+              "url": "https://t.co/PyIpUb3qit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083530677279150275",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 993,
+          "impression_count": 736936,
+          "like_count": 32640,
+          "quote_count": 350,
+          "reply_count": 0,
+          "retweet_count": 9644
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/PyIpUb3qit"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083530670203412480"
+          ],
+          "media_source_tweet_id": [
+            "2083530677279150275"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083835134399348922",
+        "created_at": "2026-08-02T08:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083835134399348922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1608475156594425856",
+              "start": 3,
+              "username": "ee_drip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PyIpUb3qit",
+              "end": 36,
+              "expanded_url": "https://x.com/ee_drip/status/2083530677279150275/photo/1",
+              "media_key": "3_2083530670203412480",
+              "start": 13,
+              "url": "https://t.co/PyIpUb3qit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083835134399348922",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9649
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083530677279150275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ee_drip: https://t.co/PyIpUb3qit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 375,
+          "like_count": 1295,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2288
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T14:49:33.000Z",
+        "description": "내가 쓸 짤 백업용",
+        "id": "1608475156594425856",
+        "name": "드립짤모음",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608483579990016001/MZI-ZWCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239176,
+          "following_count": 0,
+          "like_count": 19,
+          "listed_count": 136,
+          "media_count": 1027,
+          "tweet_count": 1042
+        },
+        "url": "",
+        "username": "ee_drip",
+        "verified": false
+      }
+    ]
+  }
+}

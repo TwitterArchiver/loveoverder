@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083683850819977216"
+      ],
+      "media_source_tweet_id": [
+        "2083684143280333230"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1137010313503551488",
+          "name": "Funko"
+        }
+      }
+    ],
+    "conversation_id": "2083897877915652561",
+    "created_at": "2026-08-02T12:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083897877915652561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1965119272046178304",
+          "start": 3,
+          "username": "TheDailyFUMO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vOc1hMdLhq",
+          "end": 96,
+          "expanded_url": "https://x.com/TheDailyFUMO/status/2083684143280333230/video/1",
+          "media_key": "13_2083683850819977216",
+          "start": 73,
+          "url": "https://t.co/vOc1hMdLhq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083897877915652561",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083684143280333230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheDailyFUMO: NEWS: Fumosident talking about the funko-labubugrants. https://t.co/vOc1hMdLhq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7523,
+        "height": 1080,
+        "media_key": "13_2083683850819977216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083683850819977216/img/SI5ChoGm-nvOTtiv.jpg",
+        "public_metrics": {
+          "view_count": 2479
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083683850819977216/vid/avc1/320x320/O9Jzb-eCeVtDeVuK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083683850819977216/vid/avc1/540x540/ugYioFs8xmnUvkXM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083683850819977216/vid/avc1/720x720/gG42dZZ94IS6fKiY.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083683850819977216/pl/37VBhKw52GeiGEG4.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083683850819977216"
+          ]
+        },
+        "author_id": "1965119272046178304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1137010313503551488",
+              "name": "Funko"
+            }
+          }
+        ],
+        "conversation_id": "2083684143280333230",
+        "created_at": "2026-08-01T22:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T23:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083684143280333230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOc1hMdLhq",
+              "end": 78,
+              "expanded_url": "https://x.com/TheDailyFUMO/status/2083684143280333230/video/1",
+              "media_key": "13_2083683850819977216",
+              "start": 55,
+              "url": "https://t.co/vOc1hMdLhq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083684143280333230",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 5929,
+          "like_count": 545,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "NEWS: Fumosident talking about the funko-labubugrants. https://t.co/vOc1hMdLhq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083683850819977216"
+          ],
+          "media_source_tweet_id": [
+            "2083684143280333230"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1137010313503551488",
+              "name": "Funko"
+            }
+          }
+        ],
+        "conversation_id": "2083897877915652561",
+        "created_at": "2026-08-02T12:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083897877915652561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1965119272046178304",
+              "start": 3,
+              "username": "TheDailyFUMO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOc1hMdLhq",
+              "end": 96,
+              "expanded_url": "https://x.com/TheDailyFUMO/status/2083684143280333230/video/1",
+              "media_key": "13_2083683850819977216",
+              "start": 73,
+              "url": "https://t.co/vOc1hMdLhq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083897877915652561",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083684143280333230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheDailyFUMO: NEWS: Fumosident talking about the funko-labubugrants. https://t.co/vOc1hMdLhq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 388,
+          "like_count": 1371,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 2373
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T18:25:26.000Z",
+        "description": "Labubu and Funko Killer\nFunky reposts\n\nOnly FUMO posting. Ask anything, I'll answer in fumo language:\nyes = fumo fumo\nno = fumo fumo",
+        "id": "1965119272046178304",
+        "location": "Gensokyo ",
+        "name": "Fumo of the day",
+        "pinned_tweet_id": "2057906460047167994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074578843600306177/St72yEzZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5818,
+          "following_count": 325,
+          "like_count": 12688,
+          "listed_count": 12,
+          "media_count": 580,
+          "tweet_count": 1124
+        },
+        "url": "",
+        "username": "TheDailyFUMO",
+        "verified": false
+      }
+    ]
+  }
+}

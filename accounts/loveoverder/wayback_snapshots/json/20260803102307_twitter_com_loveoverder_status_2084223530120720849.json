@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080706938804072449"
+      ],
+      "media_source_tweet_id": [
+        "2080714137257336852"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2084223530120720849",
+    "created_at": "2026-08-03T10:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084223530120720849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019292645466730499",
+          "start": 3,
+          "username": "imagine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BtElphXZBO",
+          "end": 77,
+          "expanded_url": "https://x.com/imagine/status/2080714137257336852/video/1",
+          "media_key": "13_2080706938804072449",
+          "start": 54,
+          "url": "https://t.co/BtElphXZBO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084223530120720849",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 209
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080714137257336852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imagine: Bloopers from our Odyssey dialogue scene https://t.co/BtElphXZBO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68010,
+        "height": 1920,
+        "media_key": "13_2080706938804072449",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080706938804072449/img/bt8saXBt0cD9Lrp1.jpg",
+        "public_metrics": {
+          "view_count": 2183447
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080706938804072449/vid/avc1/3840x1920/IYSKaocvzOY1CcaM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080706938804072449/vid/avc1/1440x720/mp2O2xo8VbTOrAA2.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080706938804072449/vid/avc1/540x270/HHGYIeFHghxqa0iC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080706938804072449/pl/dATWTjudmq6lfXuH.m3u8?v=f44"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080706938804072449/vid/avc1/2160x1080/k83CorcM-5cibXS6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080706938804072449/vid/avc1/720x360/27GQKl6WmGmBHh8v.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080706938804072449"
+          ]
+        },
+        "author_id": "2019292645466730499",
+        "conversation_id": "2080714137257336852",
+        "created_at": "2026-07-24T17:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080714137257336852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BtElphXZBO",
+              "end": 64,
+              "expanded_url": "https://x.com/imagine/status/2080714137257336852/video/1",
+              "media_key": "13_2080706938804072449",
+              "start": 41,
+              "url": "https://t.co/BtElphXZBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080714137257336852",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 278,
+          "impression_count": 4198708,
+          "like_count": 2015,
+          "quote_count": 54,
+          "reply_count": 172,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "Bloopers from our Odyssey dialogue scene https://t.co/BtElphXZBO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080706938804072449"
+          ],
+          "media_source_tweet_id": [
+            "2080714137257336852"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2084223530120720849",
+        "created_at": "2026-08-03T10:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084223530120720849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019292645466730499",
+              "start": 3,
+              "username": "imagine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BtElphXZBO",
+              "end": 77,
+              "expanded_url": "https://x.com/imagine/status/2080714137257336852/video/1",
+              "media_key": "13_2080706938804072449",
+              "start": 54,
+              "url": "https://t.co/BtElphXZBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084223530120720849",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 209
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080714137257336852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imagine: Bloopers from our Odyssey dialogue scene https://t.co/BtElphXZBO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 400,
+          "like_count": 1448,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2428
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T06:12:18.000Z",
+        "description": "Unlock your imagination with Grok Imagine.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/X18oris5NC"
+              }
+            ]
+          }
+        },
+        "id": "2019292645466730499",
+        "name": "Grok Imagine",
+        "pinned_tweet_id": "2083651989398032496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888115419947008/hlp4OKEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71312,
+          "following_count": 4,
+          "like_count": 21,
+          "listed_count": 312,
+          "media_count": 58,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/X18oris5NC",
+        "username": "imagine",
+        "verified": true
+      }
+    ]
+  }
+}

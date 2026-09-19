@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084077421599584256",
+        "3_2084077421595414528"
+      ],
+      "media_source_tweet_id": [
+        "2084077426137858273",
+        "2084077426137858273"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2084224371309338823",
+    "created_at": "2026-08-03T10:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084224371309338823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "50151076",
+          "start": 3,
+          "username": "demk0814"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K6KJyqz4cN",
+          "end": 37,
+          "expanded_url": "https://x.com/demk0814/status/2084077426137858273/photo/1",
+          "media_key": "3_2084077421599584256",
+          "start": 14,
+          "url": "https://t.co/K6KJyqz4cN"
+        },
+        {
+          "display_url": "pic.x.com/K6KJyqz4cN",
+          "end": 37,
+          "expanded_url": "https://x.com/demk0814/status/2084077426137858273/photo/1",
+          "media_key": "3_2084077421595414528",
+          "start": 14,
+          "url": "https://t.co/K6KJyqz4cN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084224371309338823",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 330
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084077426137858273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @demk0814: https://t.co/K6KJyqz4cN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1272,
+        "media_key": "3_2084077421599584256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwhX37a8AAg6tM.jpg",
+        "width": 915
+      },
+      {
+        "height": 246,
+        "media_key": "3_2084077421595414528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwhX36bUAA-fDc.jpg",
+        "width": 304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084077421599584256",
+            "3_2084077421595414528"
+          ]
+        },
+        "author_id": "50151076",
+        "conversation_id": "2084077426137858273",
+        "created_at": "2026-08-03T00:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084077426137858273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K6KJyqz4cN",
+              "end": 23,
+              "expanded_url": "https://x.com/demk0814/status/2084077426137858273/photo/1",
+              "media_key": "3_2084077421599584256",
+              "start": 0,
+              "url": "https://t.co/K6KJyqz4cN"
+            },
+            {
+              "display_url": "pic.x.com/K6KJyqz4cN",
+              "end": 23,
+              "expanded_url": "https://x.com/demk0814/status/2084077426137858273/photo/1",
+              "media_key": "3_2084077421595414528",
+              "start": 0,
+              "url": "https://t.co/K6KJyqz4cN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084077426137858273",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 272075,
+          "like_count": 1835,
+          "quote_count": 41,
+          "reply_count": 80,
+          "retweet_count": 330
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/K6KJyqz4cN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084077421599584256",
+            "3_2084077421595414528"
+          ],
+          "media_source_tweet_id": [
+            "2084077426137858273",
+            "2084077426137858273"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2084224371309338823",
+        "created_at": "2026-08-03T10:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084224371309338823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "50151076",
+              "start": 3,
+              "username": "demk0814"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K6KJyqz4cN",
+              "end": 37,
+              "expanded_url": "https://x.com/demk0814/status/2084077426137858273/photo/1",
+              "media_key": "3_2084077421599584256",
+              "start": 14,
+              "url": "https://t.co/K6KJyqz4cN"
+            },
+            {
+              "display_url": "pic.x.com/K6KJyqz4cN",
+              "end": 37,
+              "expanded_url": "https://x.com/demk0814/status/2084077426137858273/photo/1",
+              "media_key": "3_2084077421595414528",
+              "start": 14,
+              "url": "https://t.co/K6KJyqz4cN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084224371309338823",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 330
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084077426137858273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @demk0814: https://t.co/K6KJyqz4cN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 402,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2431
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-24T00:15:49.000Z",
+        "description": "FX戦士くるみちゃん商業連載中！/2026年アニメ化/投資歴18年目/新都社/IIDX(SP皆伝右片手鏡十段)/DTM/BMS作者/雀魂/アニメ/アイマス/原神/AOE3/ぷよぷよ/ウマ娘/W103/ポーカー/巨大数/※スパム対策のためリプ制限中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "comic-walker.com/contents/detai…",
+                "end": 23,
+                "expanded_url": "https://comic-walker.com/contents/detail/KDCW_MF01202187010000_68/",
+                "start": 0,
+                "url": "https://t.co/nqoWzX6lZB"
+              }
+            ]
+          }
+        },
+        "id": "50151076",
+        "location": "兵庫さん",
+        "name": "でむにゃん@くるみちゃんアニメ10月放送予定！",
+        "pinned_tweet_id": "1417775701957038087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1453530061303205890/2oqGkeWC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47019,
+          "following_count": 95,
+          "like_count": 2172,
+          "listed_count": 242,
+          "media_count": 2722,
+          "tweet_count": 14544
+        },
+        "url": "https://t.co/nqoWzX6lZB",
+        "username": "demk0814",
+        "verified": true
+      }
+    ]
+  }
+}

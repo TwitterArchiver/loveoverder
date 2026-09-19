@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082944958282223616"
+      ],
+      "media_source_tweet_id": [
+        "2082944980298162386"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083203247658201227",
+    "created_at": "2026-07-31T14:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083203247658201227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "358175664",
+          "start": 3,
+          "username": "Yoda4ever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bAP7Ok6eea",
+          "end": 55,
+          "expanded_url": "https://x.com/Yoda4ever/status/2082944980298162386/video/1",
+          "media_key": "13_2082944958282223616",
+          "start": 32,
+          "url": "https://t.co/bAP7Ok6eea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083203247658201227",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 646
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082944980298162386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yoda4ever: Fluffy paws..🐈🐾😍 https://t.co/bAP7Ok6eea"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8300,
+        "height": 1024,
+        "media_key": "13_2082944958282223616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082944958282223616/img/6EuAvKPcc5f9Uo4h.jpg",
+        "public_metrics": {
+          "view_count": 30314
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082944958282223616/vid/avc1/320x568/gRAoPVlzhGLNBNCd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082944958282223616/vid/avc1/480x852/g3x2tlVl046CuWVl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082944958282223616/vid/avc1/576x1024/GtzZgyXLHdWnCYzg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082944958282223616/pl/aU_yxRp4Jb3XgQ9c.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082944958282223616"
+          ]
+        },
+        "author_id": "358175664",
+        "conversation_id": "2082944980298162386",
+        "created_at": "2026-07-30T21:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082944980298162386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bAP7Ok6eea",
+              "end": 40,
+              "expanded_url": "https://x.com/Yoda4ever/status/2082944980298162386/video/1",
+              "media_key": "13_2082944958282223616",
+              "start": 17,
+              "url": "https://t.co/bAP7Ok6eea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082944980298162386",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 311,
+          "impression_count": 105088,
+          "like_count": 9753,
+          "quote_count": 8,
+          "reply_count": 19,
+          "retweet_count": 646
+        },
+        "reply_settings": "everyone",
+        "text": "Fluffy paws..🐈🐾😍 https://t.co/bAP7Ok6eea"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082944958282223616"
+          ],
+          "media_source_tweet_id": [
+            "2082944980298162386"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083203247658201227",
+        "created_at": "2026-07-31T14:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083203247658201227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "358175664",
+              "start": 3,
+              "username": "Yoda4ever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bAP7Ok6eea",
+              "end": 55,
+              "expanded_url": "https://x.com/Yoda4ever/status/2082944980298162386/video/1",
+              "media_key": "13_2082944958282223616",
+              "start": 32,
+              "url": "https://t.co/bAP7Ok6eea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083203247658201227",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 646
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082944980298162386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yoda4ever: Fluffy paws..🐈🐾😍 https://t.co/bAP7Ok6eea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 341,
+          "like_count": 1055,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 2054
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-19T14:12:19.000Z",
+        "description": "Funny, good and  upbeat videos of 🐶🐱🐻🐺🐨🐼🌏🐧🐬🐳🐾🐝🐟🐠🏞️👶",
+        "id": "358175664",
+        "location": "✉️ᴅᴍ ꜰᴏʀ ᴄʀᴇᴅɪᴛ ᴀɴᴅ ʀᴇᴍᴏᴠᴀʟ.",
+        "name": "𝕐o̴g̴",
+        "pinned_tweet_id": "2033958668392403270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1371562774577385473/dlYvfORX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963371,
+          "following_count": 96,
+          "like_count": 32541,
+          "listed_count": 4333,
+          "media_count": 11490,
+          "tweet_count": 11484
+        },
+        "url": "",
+        "username": "Yoda4ever",
+        "verified": true
+      }
+    ]
+  }
+}

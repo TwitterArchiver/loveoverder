@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      }
+    ],
+    "conversation_id": "2082754078111867222",
+    "created_at": "2026-07-30T09:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082754078111867222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009536613286903808",
+          "start": 3,
+          "username": "ishxy1014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082754078111867222",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2172
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082367191912169824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ishxy1014: 백날천날 화장해봤자 \n예쁜애들 발목 끝도 못미칠것같고\n1시간 넘게 화장하고꾸몄는데도 \n시간 지나면 다 무너져있고 \n땀 흘려서 모공자국 \n그대로 화장 망가져있고\n길거리 화장실 들어가서 \n얼굴 마주하면 나 혼자 못생긴것같고…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2082754078111867222",
+        "created_at": "2026-07-30T09:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082754078111867222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009536613286903808",
+              "start": 3,
+              "username": "ishxy1014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082754078111867222",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2172
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082367191912169824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ishxy1014: 백날천날 화장해봤자 \n예쁜애들 발목 끝도 못미칠것같고\n1시간 넘게 화장하고꾸몄는데도 \n시간 지나면 다 무너져있고 \n땀 흘려서 모공자국 \n그대로 화장 망가져있고\n길거리 화장실 들어가서 \n얼굴 마주하면 나 혼자 못생긴것같고…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009536613286903808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2082367191912169824",
+        "created_at": "2026-07-29T07:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082367191912169824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082367191912169824",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1225,
+          "impression_count": 1957812,
+          "like_count": 10747,
+          "quote_count": 2165,
+          "reply_count": 17,
+          "retweet_count": 2172
+        },
+        "reply_settings": "everyone",
+        "text": "백날천날 화장해봤자 \n예쁜애들 발목 끝도 못미칠것같고\n1시간 넘게 화장하고꾸몄는데도 \n시간 지나면 다 무너져있고 \n땀 흘려서 모공자국 \n그대로 화장 망가져있고\n길거리 화장실 들어가서 \n얼굴 마주하면 나 혼자 못생긴것같고 \n그냥 너무 우울하고 울고싶고\n 화장 잘 안된날에는 다 안풀리는것같음"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 311,
+          "like_count": 959,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1907
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T08:04:19.000Z",
+        "description": "정병부계:@yahoping \n🙊:@anzueve_1224\n🍧:@chodan0119\n˖˚˳⌖:@aleum55207297\n💐:@ulvu2p\n🪽: @yukawaiii99\n🫧: @xhrrlvnf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "yahoping"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "anzueve_1224"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "chodan0119"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "aleum55207297"
+              },
+              {
+                "end": 75,
+                "start": 68,
+                "username": "ulvu2p"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "yukawaiii99"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "xhrrlvnf"
+              }
+            ]
+          }
+        },
+        "id": "2009536613286903808",
+        "location": "ㅇㅜㅇㅜㄹㅈㅓㅇㅂㅕㅇ",
+        "name": ".(❄️)",
+        "pinned_tweet_id": "2035006884089143720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064872038955905024/zJMuhzae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 838,
+          "like_count": 17284,
+          "listed_count": 7,
+          "media_count": 215,
+          "tweet_count": 4275
+        },
+        "url": "",
+        "username": "ishxy1014",
+        "verified": false
+      }
+    ]
+  }
+}

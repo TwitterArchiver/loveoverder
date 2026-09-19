@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083498545265648111",
+    "created_at": "2026-08-01T10:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083498545265648111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1058197676213231618",
+          "start": 3,
+          "username": "CindyCreation"
+        },
+        {
+          "end": 26,
+          "id": "1393107434059616257",
+          "start": 19,
+          "username": "0xMoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083498545265648111",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083462804523425851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CindyCreation: @0xMoon 跪下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083498545265648111",
+        "created_at": "2026-08-01T10:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083498545265648111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1058197676213231618",
+              "start": 3,
+              "username": "CindyCreation"
+            },
+            {
+              "end": 26,
+              "id": "1393107434059616257",
+              "start": 19,
+              "username": "0xMoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083498545265648111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083462804523425851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CindyCreation: @0xMoon 跪下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058197676213231618",
+        "conversation_id": "2083431456148463697",
+        "created_at": "2026-08-01T08:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083462804523425851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1393107434059616257",
+              "start": 0,
+              "username": "0xMoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083462804523425851",
+        "in_reply_to_user_id": "1393107434059616257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083449847118733391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xMoon 跪下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 366,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2178
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-02T03:22:41.000Z",
+        "description": "情感研究员｜关心食物和身体 | $ETH Maxi | @CDC_Club Core Builder｜@OpenClawby 最好用的交易数据聚合Skill｜商务：https://t.co/DgnY4Wv3zk ｜♋️巨蟹INTP ｜一年只干好一件事、只交易两三次足矣～",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "ETH"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "CDC_Club"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "OpenClawby"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MetaCindy",
+                "end": 105,
+                "expanded_url": "https://t.me/MetaCindy",
+                "start": 82,
+                "url": "https://t.co/DgnY4Wv3zk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCLjFF…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCLjFF108rbeV-Rt901-ZFlA",
+                "start": 0,
+                "url": "https://t.co/dXHxJSQSAK"
+              }
+            ]
+          }
+        },
+        "id": "1058197676213231618",
+        "location": "Ur Heart",
+        "name": "Cindy胖迪🥰",
+        "pinned_tweet_id": "1914684647386006010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901827743337357312/sa_7JZnM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92632,
+          "following_count": 3883,
+          "like_count": 41301,
+          "listed_count": 714,
+          "media_count": 2766,
+          "tweet_count": 30699
+        },
+        "url": "https://t.co/dXHxJSQSAK",
+        "username": "CindyCreation",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-14T07:34:39.000Z",
+        "description": "币安钱包邀请码：MOON6626\nOKX钱包邀请码：0XMOON\n3亿用户买币在币安https://t.co/yONbHFnppQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "binance.com/join?ref=MOON6…",
+                "end": 65,
+                "expanded_url": "https://www.binance.com/join?ref=MOON6626",
+                "start": 42,
+                "url": "https://t.co/yONbHFnppQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Moon6626",
+                "end": 23,
+                "expanded_url": "https://t.me/Moon6626",
+                "start": 0,
+                "url": "https://t.co/9R4LsDdGv7"
+              }
+            ]
+          }
+        },
+        "id": "1393107434059616257",
+        "location": "Telegram",
+        "name": "0xMoon",
+        "pinned_tweet_id": "1793852734887821709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946537446034071553/tNkWpnyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44284,
+          "following_count": 1100,
+          "like_count": 26223,
+          "listed_count": 323,
+          "media_count": 6370,
+          "tweet_count": 43776
+        },
+        "url": "https://t.co/9R4LsDdGv7",
+        "username": "0xMoon",
+        "verified": true
+      }
+    ]
+  }
+}

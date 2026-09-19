@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2084162583175790595",
+    "created_at": "2026-08-03T06:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084162583175790595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1010256230936403968",
+          "start": 3,
+          "username": "Asumi_kanami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084162583175790595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068481626183741921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Asumi_kanami: 清醒文案网上看看得了，现实里谁不想急头白脸问一句我们是什么关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2084162583175790595",
+        "created_at": "2026-08-03T06:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084162583175790595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1010256230936403968",
+              "start": 3,
+              "username": "Asumi_kanami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084162583175790595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068481626183741921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Asumi_kanami: 清醒文案网上看看得了，现实里谁不想急头白脸问一句我们是什么关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1010256230936403968",
+        "conversation_id": "2068481626183741921",
+        "created_at": "2026-06-20T23:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T00:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068481626183741921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068481626183741921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5568,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "清醒文案网上看看得了，现实里谁不想急头白脸问一句我们是什么关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 398,
+          "like_count": 1427,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2411
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-22T20:20:29.000Z",
+        "description": "「ラオウ、天に帰る時がきたのだ」",
+        "id": "1010256230936403968",
+        "location": "六本木",
+        "name": "吃薯条大王",
+        "pinned_tweet_id": "2046740591107789042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930408133618491392/gd2ZKOEW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 304,
+          "like_count": 38401,
+          "listed_count": 4,
+          "media_count": 443,
+          "tweet_count": 1038
+        },
+        "url": "",
+        "username": "Asumi_kanami",
+        "verified": false
+      }
+    ]
+  }
+}

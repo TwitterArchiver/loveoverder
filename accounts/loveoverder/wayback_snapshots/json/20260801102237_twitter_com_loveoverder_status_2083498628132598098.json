@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083498628132598098",
+    "created_at": "2026-08-01T10:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083498628132598098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1917851204635484160",
+          "start": 3,
+          "username": "e1iex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083498628132598098",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11392
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083305937360818322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @e1iex: 1st of August\nI love you"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083498628132598098",
+        "created_at": "2026-08-01T10:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083498628132598098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1917851204635484160",
+              "start": 3,
+              "username": "e1iex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083498628132598098",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11392
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083305937360818322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @e1iex: 1st of August\nI love you"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917851204635484160",
+        "conversation_id": "2083305937360818322",
+        "created_at": "2026-07-31T21:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083305937360818322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083305937360818322",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2393,
+          "impression_count": 1026681,
+          "like_count": 36171,
+          "quote_count": 853,
+          "reply_count": 227,
+          "retweet_count": 11392
+        },
+        "reply_settings": "everyone",
+        "text": "1st of August\nI love you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 366,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2180
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T07:59:08.000Z",
+        "description": "",
+        "id": "1917851204635484160",
+        "location": "r",
+        "name": "i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081935181867589632/46crubBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 27,
+          "like_count": 1668,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 999
+        },
+        "url": "",
+        "username": "e1iex",
+        "verified": false
+      }
+    ]
+  }
+}

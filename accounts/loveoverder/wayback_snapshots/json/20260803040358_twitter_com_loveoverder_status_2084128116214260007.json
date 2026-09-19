@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083786898213081088"
+      ],
+      "media_source_tweet_id": [
+        "2083787340414415027"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2084128116214260007",
+    "created_at": "2026-08-03T04:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084128116214260007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1033587347789570049",
+          "start": 3,
+          "username": "ALLHAILDURIANS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JNJomWWuJN",
+          "end": 60,
+          "expanded_url": "https://x.com/ALLHAILDURIANS/status/2083787340414415027/video/1",
+          "media_key": "13_2083786898213081088",
+          "start": 37,
+          "url": "https://t.co/JNJomWWuJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084128116214260007",
+    "lang": "fi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 328
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083787340414415027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ALLHAILDURIANS: Koishi run 🏃💨💨💨💨 https://t.co/JNJomWWuJN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1333,
+        "height": 1080,
+        "media_key": "13_2083786898213081088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083786898213081088/img/d2Lujrs90KHrlkqC.jpg",
+        "public_metrics": {
+          "view_count": 5522
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083786898213081088/vid/avc1/360x270/ofABsWn2MRnuUnUO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083786898213081088/vid/avc1/480x360/IRoUwOS-JRm1HdOK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083786898213081088/vid/avc1/960x720/u_vtVSVpOS-tWfm5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083786898213081088/pl/0W12BTeyHVgd0GoN.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083786898213081088"
+          ]
+        },
+        "author_id": "1033587347789570049",
+        "conversation_id": "2083787340414415027",
+        "created_at": "2026-08-02T05:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083787340414415027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNJomWWuJN",
+              "end": 40,
+              "expanded_url": "https://x.com/ALLHAILDURIANS/status/2083787340414415027/video/1",
+              "media_key": "13_2083786898213081088",
+              "start": 17,
+              "url": "https://t.co/JNJomWWuJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083787340414415027",
+        "lang": "fi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 357,
+          "impression_count": 33939,
+          "like_count": 2867,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "Koishi run 🏃💨💨💨💨 https://t.co/JNJomWWuJN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083786898213081088"
+          ],
+          "media_source_tweet_id": [
+            "2083787340414415027"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2084128116214260007",
+        "created_at": "2026-08-03T04:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084128116214260007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1033587347789570049",
+              "start": 3,
+              "username": "ALLHAILDURIANS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNJomWWuJN",
+              "end": 60,
+              "expanded_url": "https://x.com/ALLHAILDURIANS/status/2083787340414415027/video/1",
+              "media_key": "13_2083786898213081088",
+              "start": 37,
+              "url": "https://t.co/JNJomWWuJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084128116214260007",
+        "lang": "fi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083787340414415027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ALLHAILDURIANS: Koishi run 🏃💨💨💨💨 https://t.co/JNJomWWuJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 394,
+          "like_count": 1411,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2400
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-26T05:30:01.000Z",
+        "description": "I make Touhou MMDs \n\nSpeaks EN/ID\n\nhttps://t.co/BlOSB1PtZd\n\nI will put Hifuu stuff on your timeline and there's nothing you can do to stop me",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/vegemiteflavor…",
+                "end": 58,
+                "expanded_url": "https://ko-fi.com/vegemiteflavoredindomie",
+                "start": 35,
+                "url": "https://t.co/BlOSB1PtZd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCt39h…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCt39hy1GlvtJZZoqRB9n9bg",
+                "start": 0,
+                "url": "https://t.co/fEjrhLIhdZ"
+              }
+            ]
+          }
+        },
+        "id": "1033587347789570049",
+        "location": "M78",
+        "name": "Vegemite-Flavored Indomie MMD 🇵🇸",
+        "pinned_tweet_id": "1848169770325340607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080142994859331584/kxp4nPuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15186,
+          "following_count": 3116,
+          "like_count": 83047,
+          "listed_count": 51,
+          "media_count": 1452,
+          "tweet_count": 45222
+        },
+        "url": "https://t.co/fEjrhLIhdZ",
+        "username": "ALLHAILDURIANS",
+        "verified": false
+      }
+    ]
+  }
+}

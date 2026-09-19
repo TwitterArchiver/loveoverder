@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082820138148196352"
+      ],
+      "media_source_tweet_id": [
+        "2082866309503541367"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Spa and Medical Spa",
+          "id": "855066047157649408",
+          "name": "Spas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Massages",
+          "id": "855108295643746304",
+          "name": "Massages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Spa and Medical Spa",
+          "id": "855066047157649408",
+          "name": "Spas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Massages",
+          "id": "855108295643746304",
+          "name": "Massages"
+        }
+      }
+    ],
+    "conversation_id": "2083211968488559087",
+    "created_at": "2026-07-31T15:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083211968488559087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1563861742551441410",
+          "start": 3,
+          "username": "catsareblessing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZL72eDXjqR",
+          "end": 107,
+          "expanded_url": "https://x.com/catsareblessing/status/2082866309503541367/video/1",
+          "media_key": "13_2082820138148196352",
+          "start": 84,
+          "url": "https://t.co/ZL72eDXjqR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083211968488559087",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2341
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082866309503541367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @catsareblessing: A spa in Japan where you can opt for a cat massage as an extra https://t.co/ZL72eDXjqR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21466,
+        "height": 1080,
+        "media_key": "13_2082820138148196352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082820138148196352/img/-8ahuV9zEy0J7zOn.jpg",
+        "public_metrics": {
+          "view_count": 372052
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082820138148196352/vid/avc1/1306x720/lFpBHfx6JBPZ47Jm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082820138148196352/vid/avc1/652x360/R86DHf1G_YmQEWPC.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082820138148196352/vid/avc1/1960x1080/8_AHEXxHgFjb4_F9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082820138148196352/pl/bidIaAcLC_Vqgs1q.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082820138148196352/vid/avc1/490x270/7rJVf0ujvLr1nvMo.mp4"
+          }
+        ],
+        "width": 1960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082820138148196352"
+          ]
+        },
+        "author_id": "1563861742551441410",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Massages",
+              "id": "855108295643746304",
+              "name": "Massages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Massages",
+              "id": "855108295643746304",
+              "name": "Massages"
+            }
+          }
+        ],
+        "conversation_id": "2082866309503541367",
+        "created_at": "2026-07-30T16:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082866309503541367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZL72eDXjqR",
+              "end": 86,
+              "expanded_url": "https://x.com/catsareblessing/status/2082866309503541367/video/1",
+              "media_key": "13_2082820138148196352",
+              "start": 63,
+              "url": "https://t.co/ZL72eDXjqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082866309503541367",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2232,
+          "impression_count": 680074,
+          "like_count": 35322,
+          "quote_count": 209,
+          "reply_count": 81,
+          "retweet_count": 2341
+        },
+        "reply_settings": "everyone",
+        "text": "A spa in Japan where you can opt for a cat massage as an extra https://t.co/ZL72eDXjqR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082820138148196352"
+          ],
+          "media_source_tweet_id": [
+            "2082866309503541367"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Massages",
+              "id": "855108295643746304",
+              "name": "Massages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Massages",
+              "id": "855108295643746304",
+              "name": "Massages"
+            }
+          }
+        ],
+        "conversation_id": "2083211968488559087",
+        "created_at": "2026-07-31T15:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083211968488559087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1563861742551441410",
+              "start": 3,
+              "username": "catsareblessing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZL72eDXjqR",
+              "end": 107,
+              "expanded_url": "https://x.com/catsareblessing/status/2082866309503541367/video/1",
+              "media_key": "13_2082820138148196352",
+              "start": 84,
+              "url": "https://t.co/ZL72eDXjqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083211968488559087",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2341
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082866309503541367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @catsareblessing: A spa in Japan where you can opt for a cat massage as an extra https://t.co/ZL72eDXjqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 344,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 2067
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T12:11:46.000Z",
+        "description": "Cats choose us; we don't own them 🫂\n\nDM for Credit/removal",
+        "id": "1563861742551441410",
+        "name": "We don't deserve cats 😺",
+        "pinned_tweet_id": "2081904973365784838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821061332503859200/pMDweDL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326298,
+          "following_count": 8661,
+          "like_count": 738,
+          "listed_count": 748,
+          "media_count": 26534,
+          "tweet_count": 40884
+        },
+        "url": "",
+        "username": "catsareblessing",
+        "verified": true
+      }
+    ]
+  }
+}

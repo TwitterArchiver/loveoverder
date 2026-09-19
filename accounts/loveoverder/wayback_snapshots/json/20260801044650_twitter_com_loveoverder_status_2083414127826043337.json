@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083414127826043337",
+    "created_at": "2026-08-01T04:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083414127826043337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2082434496968966144",
+          "start": 3,
+          "username": "0nemoremin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083414127826043337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082440995145466099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0nemoremin: 我是00 我被邪恶msk关小黑屋gban了😭转生寻回互关中😭，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083414127826043337",
+        "created_at": "2026-08-01T04:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083414127826043337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2082434496968966144",
+              "start": 3,
+              "username": "0nemoremin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083414127826043337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082440995145466099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0nemoremin: 我是00 我被邪恶msk关小黑屋gban了😭转生寻回互关中😭，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082434496968966144",
+        "conversation_id": "2082440995145466099",
+        "created_at": "2026-07-29T12:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082440995145466099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082440995145466099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1477,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我是00 我被邪恶msk关小黑屋gban了😭转生寻回互关中😭，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 350,
+          "like_count": 1094,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2096
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T11:56:25.000Z",
+        "description": "尸体在说话\n前世@0nemoresec 我又被gban了已畏惧\n匿名信 https://t.co/aDqZ0rknbk\n🌰@silentbleeding1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "0nemoresec"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "silentbleeding1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/0nemoresec",
+                "end": 59,
+                "expanded_url": "https://ngl.link/0nemoresec",
+                "start": 36,
+                "url": "https://t.co/aDqZ0rknbk"
+              }
+            ]
+          }
+        },
+        "id": "2082434496968966144",
+        "name": "0002.0",
+        "pinned_tweet_id": "2082440995145466099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082436080654290944/3Xt839UE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 28,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "0nemoremin",
+        "verified": false
+      }
+    ]
+  }
+}

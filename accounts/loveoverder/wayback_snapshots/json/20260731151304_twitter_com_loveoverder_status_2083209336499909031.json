@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082480029410209792"
+      ],
+      "media_source_tweet_id": [
+        "2082480212000817267"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083209336499909031",
+    "created_at": "2026-07-31T15:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083209336499909031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946956450401763328",
+          "start": 3,
+          "username": "magimgca"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fcsMKr8njG",
+          "end": 89,
+          "expanded_url": "https://x.com/magimgca/status/2082480212000817267/photo/1",
+          "media_key": "3_2082480029410209792",
+          "start": 66,
+          "url": "https://t.co/fcsMKr8njG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083209336499909031",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4067
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082480212000817267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @magimgca: white people when their parents don't buy them weed https://t.co/fcsMKr8njG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2082480029410209792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZ0jaTXMAAaE7y.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082480029410209792"
+          ]
+        },
+        "author_id": "1946956450401763328",
+        "conversation_id": "2082480212000817267",
+        "created_at": "2026-07-29T14:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082480212000817267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fcsMKr8njG",
+              "end": 75,
+              "expanded_url": "https://x.com/magimgca/status/2082480212000817267/photo/1",
+              "media_key": "3_2082480029410209792",
+              "start": 52,
+              "url": "https://t.co/fcsMKr8njG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082480212000817267",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1548,
+          "impression_count": 410827,
+          "like_count": 44725,
+          "quote_count": 198,
+          "reply_count": 187,
+          "retweet_count": 4067
+        },
+        "reply_settings": "everyone",
+        "text": "white people when their parents don't buy them weed https://t.co/fcsMKr8njG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082480029410209792"
+          ],
+          "media_source_tweet_id": [
+            "2082480212000817267"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083209336499909031",
+        "created_at": "2026-07-31T15:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083209336499909031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946956450401763328",
+              "start": 3,
+              "username": "magimgca"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fcsMKr8njG",
+              "end": 89,
+              "expanded_url": "https://x.com/magimgca/status/2082480212000817267/photo/1",
+              "media_key": "3_2082480029410209792",
+              "start": 66,
+              "url": "https://t.co/fcsMKr8njG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083209336499909031",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4067
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082480212000817267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @magimgca: white people when their parents don't buy them weed https://t.co/fcsMKr8njG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 342,
+          "like_count": 1062,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 2063
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T15:32:57.000Z",
+        "description": "drunkard, envy",
+        "id": "1946956450401763328",
+        "location": "20m",
+        "name": "mgca",
+        "pinned_tweet_id": "2075714290045026578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067049755788603393/HTDgEFT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 189,
+          "like_count": 53439,
+          "listed_count": 0,
+          "media_count": 635,
+          "tweet_count": 4695
+        },
+        "url": "",
+        "username": "magimgca",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083107396105494528"
+      ],
+      "media_source_tweet_id": [
+        "2083107401193156656"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083415338008686628",
+    "created_at": "2026-08-01T04:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083415338008686628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1770837614964211712",
+          "start": 3,
+          "username": "azull_estragon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BVemJyaQHl",
+          "end": 43,
+          "expanded_url": "https://x.com/azull_estragon/status/2083107401193156656/photo/1",
+          "media_key": "3_2083107396105494528",
+          "start": 20,
+          "url": "https://t.co/BVemJyaQHl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083415338008686628",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 522
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083107401193156656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azull_estragon: https://t.co/BVemJyaQHl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083107396105494528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOivI9XbYAA-6AQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083107396105494528"
+          ]
+        },
+        "author_id": "1770837614964211712",
+        "conversation_id": "2083107401193156656",
+        "created_at": "2026-07-31T08:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083107401193156656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BVemJyaQHl",
+              "end": 23,
+              "expanded_url": "https://x.com/azull_estragon/status/2083107401193156656/photo/1",
+              "media_key": "3_2083107396105494528",
+              "start": 0,
+              "url": "https://t.co/BVemJyaQHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083107401193156656",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 353,
+          "impression_count": 33494,
+          "like_count": 4068,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 522
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BVemJyaQHl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083107396105494528"
+          ],
+          "media_source_tweet_id": [
+            "2083107401193156656"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083415338008686628",
+        "created_at": "2026-08-01T04:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083415338008686628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1770837614964211712",
+              "start": 3,
+              "username": "azull_estragon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BVemJyaQHl",
+              "end": 43,
+              "expanded_url": "https://x.com/azull_estragon/status/2083107401193156656/photo/1",
+              "media_key": "3_2083107396105494528",
+              "start": 20,
+              "url": "https://t.co/BVemJyaQHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083415338008686628",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 522
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083107401193156656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azull_estragon: https://t.co/BVemJyaQHl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 350,
+          "like_count": 1096,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2101
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T15:39:33.000Z",
+        "description": "they/them",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/azuliiluza?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/azuliiluza?igsh=c2JnOXRiejVtdWs1&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/l9lDqP7TV9"
+              }
+            ]
+          }
+        },
+        "id": "1770837614964211712",
+        "location": "home",
+        "name": "azull",
+        "pinned_tweet_id": "2067064506417807796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880627965018697729/Y8H3Vv0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8030,
+          "following_count": 473,
+          "like_count": 3275,
+          "listed_count": 43,
+          "media_count": 190,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/l9lDqP7TV9",
+        "username": "azull_estragon",
+        "verified": false
+      }
+    ]
+  }
+}

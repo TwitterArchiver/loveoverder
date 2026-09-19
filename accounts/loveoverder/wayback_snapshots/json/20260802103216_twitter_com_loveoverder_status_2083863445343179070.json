@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083731477062205440",
+        "3_2083731477062094848",
+        "3_2083731477062197248",
+        "3_2083731477057961984"
+      ],
+      "media_source_tweet_id": [
+        "2083731483278069763",
+        "2083731483278069763",
+        "2083731483278069763",
+        "2083731483278069763"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2083863445343179070",
+    "created_at": "2026-08-02T10:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083863445343179070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1333423199481163780",
+          "start": 3,
+          "username": "anipicss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tfsg4kJ421",
+          "end": 109,
+          "expanded_url": "https://x.com/anipicss/status/2083731483278069763/photo/1",
+          "media_key": "3_2083731477062205440",
+          "start": 86,
+          "url": "https://t.co/tfsg4kJ421"
+        },
+        {
+          "display_url": "pic.x.com/tfsg4kJ421",
+          "end": 109,
+          "expanded_url": "https://x.com/anipicss/status/2083731483278069763/photo/1",
+          "media_key": "3_2083731477062094848",
+          "start": 86,
+          "url": "https://t.co/tfsg4kJ421"
+        },
+        {
+          "display_url": "pic.x.com/tfsg4kJ421",
+          "end": 109,
+          "expanded_url": "https://x.com/anipicss/status/2083731483278069763/photo/1",
+          "media_key": "3_2083731477062197248",
+          "start": 86,
+          "url": "https://t.co/tfsg4kJ421"
+        },
+        {
+          "display_url": "pic.x.com/tfsg4kJ421",
+          "end": 109,
+          "expanded_url": "https://x.com/anipicss/status/2083731483278069763/photo/1",
+          "media_key": "3_2083731477057961984",
+          "start": 86,
+          "url": "https://t.co/tfsg4kJ421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083863445343179070",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 463
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083731483278069763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anipicss: 2000s gotta be the best era for anime fanart they were moving different https://t.co/tfsg4kJ421"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_2083731477062205440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrmvQGXwAA1ihq.jpg",
+        "width": 1530
+      },
+      {
+        "height": 1598,
+        "media_key": "3_2083731477062094848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrmvQGWEAAc_bd.jpg",
+        "width": 1196
+      },
+      {
+        "height": 300,
+        "media_key": "3_2083731477062197248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrmvQGXoAAQd-r.jpg",
+        "width": 300
+      },
+      {
+        "height": 830,
+        "media_key": "3_2083731477057961984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrmvQFXAAApK1U.jpg",
+        "width": 1092
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083731477062205440",
+            "3_2083731477062094848",
+            "3_2083731477062197248",
+            "3_2083731477057961984"
+          ]
+        },
+        "author_id": "1333423199481163780",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2083731483278069763",
+        "created_at": "2026-08-02T01:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083731483278069763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tfsg4kJ421",
+              "end": 95,
+              "expanded_url": "https://x.com/anipicss/status/2083731483278069763/photo/1",
+              "media_key": "3_2083731477062205440",
+              "start": 72,
+              "url": "https://t.co/tfsg4kJ421"
+            },
+            {
+              "display_url": "pic.x.com/tfsg4kJ421",
+              "end": 95,
+              "expanded_url": "https://x.com/anipicss/status/2083731483278069763/photo/1",
+              "media_key": "3_2083731477062094848",
+              "start": 72,
+              "url": "https://t.co/tfsg4kJ421"
+            },
+            {
+              "display_url": "pic.x.com/tfsg4kJ421",
+              "end": 95,
+              "expanded_url": "https://x.com/anipicss/status/2083731483278069763/photo/1",
+              "media_key": "3_2083731477062197248",
+              "start": 72,
+              "url": "https://t.co/tfsg4kJ421"
+            },
+            {
+              "display_url": "pic.x.com/tfsg4kJ421",
+              "end": 95,
+              "expanded_url": "https://x.com/anipicss/status/2083731483278069763/photo/1",
+              "media_key": "3_2083731477057961984",
+              "start": 72,
+              "url": "https://t.co/tfsg4kJ421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083731483278069763",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 614,
+          "impression_count": 61295,
+          "like_count": 3574,
+          "quote_count": 22,
+          "reply_count": 9,
+          "retweet_count": 463
+        },
+        "reply_settings": "everyone",
+        "text": "2000s gotta be the best era for anime fanart they were moving different https://t.co/tfsg4kJ421"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083731477062205440",
+            "3_2083731477062094848",
+            "3_2083731477062197248",
+            "3_2083731477057961984"
+          ],
+          "media_source_tweet_id": [
+            "2083731483278069763",
+            "2083731483278069763",
+            "2083731483278069763",
+            "2083731483278069763"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2083863445343179070",
+        "created_at": "2026-08-02T10:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083863445343179070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1333423199481163780",
+              "start": 3,
+              "username": "anipicss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tfsg4kJ421",
+              "end": 109,
+              "expanded_url": "https://x.com/anipicss/status/2083731483278069763/photo/1",
+              "media_key": "3_2083731477062205440",
+              "start": 86,
+              "url": "https://t.co/tfsg4kJ421"
+            },
+            {
+              "display_url": "pic.x.com/tfsg4kJ421",
+              "end": 109,
+              "expanded_url": "https://x.com/anipicss/status/2083731483278069763/photo/1",
+              "media_key": "3_2083731477062094848",
+              "start": 86,
+              "url": "https://t.co/tfsg4kJ421"
+            },
+            {
+              "display_url": "pic.x.com/tfsg4kJ421",
+              "end": 109,
+              "expanded_url": "https://x.com/anipicss/status/2083731483278069763/photo/1",
+              "media_key": "3_2083731477062197248",
+              "start": 86,
+              "url": "https://t.co/tfsg4kJ421"
+            },
+            {
+              "display_url": "pic.x.com/tfsg4kJ421",
+              "end": 109,
+              "expanded_url": "https://x.com/anipicss/status/2083731483278069763/photo/1",
+              "media_key": "3_2083731477057961984",
+              "start": 86,
+              "url": "https://t.co/tfsg4kJ421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083863445343179070",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 463
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083731483278069763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anipicss: 2000s gotta be the best era for anime fanart they were moving different https://t.co/tfsg4kJ421"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 378,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2319
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-30T14:50:55.000Z",
+        "description": "animanga archive.",
+        "id": "1333423199481163780",
+        "location": "Tokyo, Japan",
+        "name": "アニメ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080426416378695680/FDn010yL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32785,
+          "following_count": 405,
+          "like_count": 2216,
+          "listed_count": 96,
+          "media_count": 1136,
+          "tweet_count": 2044
+        },
+        "url": "",
+        "username": "anipicss",
+        "verified": false
+      }
+    ]
+  }
+}

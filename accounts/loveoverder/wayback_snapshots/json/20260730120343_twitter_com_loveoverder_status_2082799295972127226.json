@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082713640877355008",
+        "3_2082713641242275840"
+      ],
+      "media_source_tweet_id": [
+        "2082713647873495184",
+        "2082713647873495184"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2082799295972127226",
+    "created_at": "2026-07-30T12:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082799295972127226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2739080844",
+          "start": 3,
+          "username": "hazenlee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G6RDk7dc6j",
+          "end": 66,
+          "expanded_url": "https://x.com/hazenlee/status/2082713647873495184/photo/1",
+          "media_key": "3_2082713640877355008",
+          "start": 43,
+          "url": "https://t.co/G6RDk7dc6j"
+        },
+        {
+          "display_url": "pic.x.com/G6RDk7dc6j",
+          "end": 66,
+          "expanded_url": "https://x.com/hazenlee/status/2082713647873495184/photo/1",
+          "media_key": "3_2082713641242275840",
+          "start": 43,
+          "url": "https://t.co/G6RDk7dc6j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082799295972127226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082713647873495184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hazenlee: 压力大的时候看看这位基金经理\n刚入职一个月闪现进场吃满大 https://t.co/G6RDk7dc6j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 841,
+        "media_key": "3_2082713640877355008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdJBY1a8AAdEAO.jpg",
+        "width": 1206
+      },
+      {
+        "height": 581,
+        "media_key": "3_2082713641242275840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdJBaMbMAAMlp0.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082713640877355008",
+            "3_2082713641242275840"
+          ]
+        },
+        "author_id": "2739080844",
+        "conversation_id": "2082713647873495184",
+        "created_at": "2026-07-30T06:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082713647873495184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6RDk7dc6j",
+              "end": 52,
+              "expanded_url": "https://x.com/hazenlee/status/2082713647873495184/photo/1",
+              "media_key": "3_2082713640877355008",
+              "start": 29,
+              "url": "https://t.co/G6RDk7dc6j"
+            },
+            {
+              "display_url": "pic.x.com/G6RDk7dc6j",
+              "end": 52,
+              "expanded_url": "https://x.com/hazenlee/status/2082713647873495184/photo/1",
+              "media_key": "3_2082713641242275840",
+              "start": 29,
+              "url": "https://t.co/G6RDk7dc6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082713647873495184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 118214,
+          "like_count": 247,
+          "quote_count": 0,
+          "reply_count": 150,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "压力大的时候看看这位基金经理\n刚入职一个月闪现进场吃满大 https://t.co/G6RDk7dc6j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082713640877355008",
+            "3_2082713641242275840"
+          ],
+          "media_source_tweet_id": [
+            "2082713647873495184",
+            "2082713647873495184"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2082799295972127226",
+        "created_at": "2026-07-30T12:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082799295972127226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2739080844",
+              "start": 3,
+              "username": "hazenlee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6RDk7dc6j",
+              "end": 66,
+              "expanded_url": "https://x.com/hazenlee/status/2082713647873495184/photo/1",
+              "media_key": "3_2082713640877355008",
+              "start": 43,
+              "url": "https://t.co/G6RDk7dc6j"
+            },
+            {
+              "display_url": "pic.x.com/G6RDk7dc6j",
+              "end": 66,
+              "expanded_url": "https://x.com/hazenlee/status/2082713647873495184/photo/1",
+              "media_key": "3_2082713641242275840",
+              "start": 43,
+              "url": "https://t.co/G6RDk7dc6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082799295972127226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082713647873495184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hazenlee: 压力大的时候看看这位基金经理\n刚入职一个月闪现进场吃满大 https://t.co/G6RDk7dc6j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 309,
+          "like_count": 966,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1924
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-17T05:47:55.000Z",
+        "description": "𝙀/𝘼𝙘𝙘｜十年加密𝙊𝙂｜伪𝙏𝙧𝙖𝙙𝙚𝙧，真𝙃𝙤𝙙𝙡𝙚𝙧｜长期信仰 ₿𝙏𝘾 + 𝘼𝙄 ｜致力于科技金融投资交易科普｜抽象派行为艺术大师｜牛熊转换趋势吹号手｜观点明确，拒绝马后炮、模棱两可｜有立场、有温度、有时效｜推文仅代表个人仓位，不构成投资建议，𝘿𝙔𝙊𝙍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hazenlee",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@hazenlee",
+                "start": 0,
+                "url": "https://t.co/1EwW72IIK3"
+              }
+            ]
+          }
+        },
+        "id": "2739080844",
+        "location": "距离你384400km 🌕 🚪520/999/1314",
+        "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "pinned_tweet_id": "2078671691132330179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059076527405584384/kPacSsMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73371,
+          "following_count": 3741,
+          "like_count": 46352,
+          "listed_count": 1079,
+          "media_count": 5347,
+          "tweet_count": 39160
+        },
+        "url": "https://t.co/1EwW72IIK3",
+        "username": "hazenlee",
+        "verified": true
+      }
+    ]
+  }
+}

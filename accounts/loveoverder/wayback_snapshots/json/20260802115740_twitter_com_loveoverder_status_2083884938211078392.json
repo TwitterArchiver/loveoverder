@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083884938211078392",
+    "created_at": "2026-08-02T11:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083884938211078392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/loveoverder/st…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/loveoverder/status/2083876444695110015",
+          "start": 81,
+          "url": "https://t.co/ko6xcEEd3N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083884938211078392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083876444695110015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主要是，唉，都不容易，这个天带家里都得开空调，在外面干活怎么受得了。因为我这个真是干过累活，所以还挺能理解的。而且这种一般都有老小，万一倒了，一家子咋办。唉，唉 https://t.co/ko6xcEEd3N"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083884938211078392",
+        "created_at": "2026-08-02T11:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083884938211078392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loveoverder/st…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/loveoverder/status/2083876444695110015",
+              "start": 81,
+              "url": "https://t.co/ko6xcEEd3N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083884938211078392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083876444695110015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主要是，唉，都不容易，这个天带家里都得开空调，在外面干活怎么受得了。因为我这个真是干过累活，所以还挺能理解的。而且这种一般都有老小，万一倒了，一家子咋办。唉，唉 https://t.co/ko6xcEEd3N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083876444695110015",
+        "created_at": "2026-08-02T11:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083876444695110015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083876444695110015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陈说问了专业的人，最快十三四个人拼命干也得一个半月。我说你哪里找的专家，那边三十七八度，在山顶干。本来利就薄，出个事还赚个毛啊（敲头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 385,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2359
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      }
+    ]
+  }
+}

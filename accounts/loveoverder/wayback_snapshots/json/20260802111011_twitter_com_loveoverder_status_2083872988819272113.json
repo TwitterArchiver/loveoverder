@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083872988819272113",
+    "created_at": "2026-08-02T11:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083872988819272113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1524108410966269952",
+          "start": 3,
+          "username": "Zhou_A7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083872988819272113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083559957195305079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zhou_A7: 靠 玩我早说啊 害我为了你 跟其他几个都不聊了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083872988819272113",
+        "created_at": "2026-08-02T11:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083872988819272113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1524108410966269952",
+              "start": 3,
+              "username": "Zhou_A7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083872988819272113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083559957195305079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zhou_A7: 靠 玩我早说啊 害我为了你 跟其他几个都不聊了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524108410966269952",
+        "conversation_id": "2083559957195305079",
+        "created_at": "2026-08-01T14:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083559957195305079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083559957195305079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7511,
+          "like_count": 169,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "靠 玩我早说啊 害我为了你 跟其他几个都不聊了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 382,
+          "like_count": 1329,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2340
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-10T19:25:45.000Z",
+        "description": "",
+        "id": "1524108410966269952",
+        "location": "˃ ˄ ˂̥̥",
+        "name": "我想我不够好",
+        "pinned_tweet_id": "2019513851138740405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019859531862536197/p9ocTLi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2214,
+          "following_count": 0,
+          "like_count": 650,
+          "listed_count": 8,
+          "media_count": 66,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "Zhou_A7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2083730093504176437",
+    "created_at": "2026-08-02T01:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083730093504176437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "304360331",
+          "start": 3,
+          "username": "sakurai7715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083730093504176437",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 144
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083134827684061227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakurai7715: ｢みいちゃんと山田さん｣のアニメ化には大賛成だ。\n\nみいちゃんのような、発達障害、知的障害、境界知能の人がどれだけ苦しんでいるか、どれだけ支援が必要かを多くの人に知ってほしい。\n\n人並みに学業や仕事ができず、トー横でトー横キッズをやり、酒、薬、…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44698,
+        "height": 960,
+        "media_key": "7_2083134755101691904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2083134755101691904/pu/img/94OjEDlZaI6M07C-.jpg",
+        "public_metrics": {
+          "view_count": 343633
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2083134755101691904/pu/vid/avc1/320x568/bCJHKSoW4qV8yrH0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2083134755101691904/pu/vid/avc1/480x852/N70lL8ymjYY9P9iv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2083134755101691904/pu/vid/avc1/540x960/5cZWWAuORYLU9vWE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2083134755101691904/pu/pl/xj67xkB3qjNP-AC0.m3u8?tag=12&v=c02"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2083730093504176437",
+        "created_at": "2026-08-02T01:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083730093504176437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "304360331",
+              "start": 3,
+              "username": "sakurai7715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083730093504176437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083134827684061227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakurai7715: ｢みいちゃんと山田さん｣のアニメ化には大賛成だ。\n\nみいちゃんのような、発達障害、知的障害、境界知能の人がどれだけ苦しんでいるか、どれだけ支援が必要かを多くの人に知ってほしい。\n\n人並みに学業や仕事ができず、トー横でトー横キッズをやり、酒、薬、…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2083134755101691904"
+          ]
+        },
+        "author_id": "304360331",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "2083134827684061227",
+        "created_at": "2026-07-31T10:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083134827684061227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hqhDvPrFSR",
+              "end": 167,
+              "expanded_url": "https://x.com/sakurai7715/status/2083134827684061227/video/1",
+              "media_key": "7_2083134755101691904",
+              "start": 144,
+              "url": "https://t.co/hqhDvPrFSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083134827684061227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 908,
+          "impression_count": 634299,
+          "like_count": 2174,
+          "quote_count": 44,
+          "reply_count": 46,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "｢みいちゃんと山田さん｣のアニメ化には大賛成だ。\n\nみいちゃんのような、発達障害、知的障害、境界知能の人がどれだけ苦しんでいるか、どれだけ支援が必要かを多くの人に知ってほしい。\n\n人並みに学業や仕事ができず、トー横でトー横キッズをやり、酒、薬、売春の日々だ。\n\n絶望の中で苦しんでいる。 https://t.co/hqhDvPrFSR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 374,
+          "like_count": 1254,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2235
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-24T11:33:41.000Z",
+        "description": "1分130円で話を聞いている。話を聞いてほしい人はDM。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/sakurai7715",
+                "end": 23,
+                "expanded_url": "https://note.com/sakurai7715",
+                "start": 0,
+                "url": "https://t.co/gcjhrwQlir"
+              }
+            ]
+          }
+        },
+        "id": "304360331",
+        "location": "東京",
+        "name": "話を聞いている桜井🌺",
+        "pinned_tweet_id": "1960366357046014450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1081934600962625536/vm8kNH-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47375,
+          "following_count": 0,
+          "like_count": 186967,
+          "listed_count": 237,
+          "media_count": 29728,
+          "tweet_count": 161843
+        },
+        "url": "https://t.co/gcjhrwQlir",
+        "username": "sakurai7715",
+        "verified": true
+      }
+    ]
+  }
+}

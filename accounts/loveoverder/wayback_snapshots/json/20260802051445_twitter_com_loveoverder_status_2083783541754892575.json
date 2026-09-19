@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083782541040082944"
+      ],
+      "media_source_tweet_id": [
+        "2083782607373021608"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083783541754892575",
+    "created_at": "2026-08-02T05:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083783541754892575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2057372131256864768",
+          "start": 3,
+          "username": "IntrovertCalico"
+        },
+        {
+          "end": 34,
+          "id": "1782932905419046912",
+          "start": 21,
+          "username": "ratshelprats"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/raBDH0wZlv",
+          "end": 63,
+          "expanded_url": "https://x.com/IntrovertCalico/status/2083782607373021608/photo/1",
+          "media_key": "3_2083782541040082944",
+          "start": 40,
+          "url": "https://t.co/raBDH0wZlv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083783541754892575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083782607373021608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IntrovertCalico: @ratshelprats 科多兽。 https://t.co/raBDH0wZlv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 408,
+        "media_key": "3_2083782541040082944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsVLkPa4AAlAQw.png",
+        "width": 489
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083782541040082944"
+          ]
+        },
+        "author_id": "2057372131256864768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083778517209366745",
+        "created_at": "2026-08-02T05:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083782607373021608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782932905419046912",
+              "start": 0,
+              "username": "ratshelprats"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/raBDH0wZlv",
+              "end": 42,
+              "expanded_url": "https://x.com/IntrovertCalico/status/2083782607373021608/photo/1",
+              "media_key": "3_2083782541040082944",
+              "start": 19,
+              "url": "https://t.co/raBDH0wZlv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083782607373021608",
+        "in_reply_to_user_id": "1782932905419046912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083778517209366745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratshelprats 科多兽。 https://t.co/raBDH0wZlv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083782541040082944"
+          ],
+          "media_source_tweet_id": [
+            "2083782607373021608"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083783541754892575",
+        "created_at": "2026-08-02T05:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083783541754892575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2057372131256864768",
+              "start": 3,
+              "username": "IntrovertCalico"
+            },
+            {
+              "end": 34,
+              "id": "1782932905419046912",
+              "start": 21,
+              "username": "ratshelprats"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/raBDH0wZlv",
+              "end": 63,
+              "expanded_url": "https://x.com/IntrovertCalico/status/2083782607373021608/photo/1",
+              "media_key": "3_2083782541040082944",
+              "start": 40,
+              "url": "https://t.co/raBDH0wZlv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083783541754892575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083782607373021608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IntrovertCalico: @ratshelprats 科多兽。 https://t.co/raBDH0wZlv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 375,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2243
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T08:05:51.000Z",
+        "description": "Meow not aloof. Just another Introvert.\ni猫和她的室友猫 ｜ 两只猫猫再打闹也是个伴\n以及一个突然发现自己一事无成的人",
+        "id": "2057372131256864768",
+        "name": "IntrovertCalico",
+        "pinned_tweet_id": "2069660950626721864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057375759132692480/YrXYSVMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 914,
+          "like_count": 3914,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 3205
+        },
+        "url": "",
+        "username": "IntrovertCalico",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2082719887672397959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115652,
+          "following_count": 477,
+          "like_count": 104551,
+          "listed_count": 168,
+          "media_count": 611,
+          "tweet_count": 1606
+        },
+        "url": "",
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

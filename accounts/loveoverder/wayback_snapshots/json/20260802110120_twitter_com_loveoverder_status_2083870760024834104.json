@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083744049383579648"
+      ],
+      "media_source_tweet_id": [
+        "2083747176895729850"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083870760024834104",
+    "created_at": "2026-08-02T11:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083870760024834104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "725943482",
+          "start": 3,
+          "username": "PanRobak321"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7jwHrRQRNh",
+          "end": 59,
+          "expanded_url": "https://x.com/PanRobak321/status/2083747176895729850/video/1",
+          "media_key": "13_2083744049383579648",
+          "start": 36,
+          "url": "https://t.co/7jwHrRQRNh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083870760024834104",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083747176895729850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PanRobak321: The sniffing beast https://t.co/7jwHrRQRNh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12689,
+        "height": 1280,
+        "media_key": "13_2083744049383579648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083744049383579648/img/EpqxiAPVvciNp7fs.jpg",
+        "public_metrics": {
+          "view_count": 809
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083744049383579648/vid/avc1/320x568/9stMOIUuFla4KVeI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083744049383579648/vid/avc1/480x852/q50WL9aD8ClGpLQI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083744049383579648/vid/avc1/720x1280/qkMQ3zOA0nUDI9dk.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083744049383579648/pl/TK1wmYvVXraZmHif.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083744049383579648"
+          ]
+        },
+        "author_id": "725943482",
+        "conversation_id": "2083747176895729850",
+        "created_at": "2026-08-02T02:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083747176895729850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jwHrRQRNh",
+              "end": 42,
+              "expanded_url": "https://x.com/PanRobak321/status/2083747176895729850/video/1",
+              "media_key": "13_2083744049383579648",
+              "start": 19,
+              "url": "https://t.co/7jwHrRQRNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083747176895729850",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 2361,
+          "like_count": 211,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "The sniffing beast https://t.co/7jwHrRQRNh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083744049383579648"
+          ],
+          "media_source_tweet_id": [
+            "2083747176895729850"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083870760024834104",
+        "created_at": "2026-08-02T11:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083870760024834104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "725943482",
+              "start": 3,
+              "username": "PanRobak321"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jwHrRQRNh",
+              "end": 59,
+              "expanded_url": "https://x.com/PanRobak321/status/2083747176895729850/video/1",
+              "media_key": "13_2083744049383579648",
+              "start": 36,
+              "url": "https://t.co/7jwHrRQRNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083870760024834104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083747176895729850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PanRobak321: The sniffing beast https://t.co/7jwHrRQRNh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 382,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2336
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-30T12:14:30.000Z",
+        "description": "I'm dumb as hell. Fumo.\nBanner by @Kuro_Tofu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "Kuro_Tofu"
+              }
+            ]
+          }
+        },
+        "id": "725943482",
+        "location": "😭",
+        "name": "PanRobak",
+        "pinned_tweet_id": "1963935154801623070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951070375699263488/yysgNmKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 1599,
+          "like_count": 163761,
+          "listed_count": 4,
+          "media_count": 1718,
+          "tweet_count": 16944
+        },
+        "url": "",
+        "username": "PanRobak321",
+        "verified": false
+      }
+    ]
+  }
+}

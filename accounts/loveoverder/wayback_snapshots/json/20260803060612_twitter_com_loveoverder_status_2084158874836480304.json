@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083969343461654528"
+      ],
+      "media_source_tweet_id": [
+        "2083969350487150667"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2084158874836480304",
+    "created_at": "2026-08-03T06:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084158874836480304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947425688258285569",
+          "start": 3,
+          "username": "1gdipirona"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OK8AHlY0XN",
+          "end": 47,
+          "expanded_url": "https://x.com/1gdipirona/status/2083969350487150667/photo/1",
+          "media_key": "3_2083969343461654528",
+          "start": 24,
+          "url": "https://t.co/OK8AHlY0XN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084158874836480304",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 529
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083969350487150667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1gdipirona: my wife https://t.co/OK8AHlY0XN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2083969343461654528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOu_E5fWAAA-ZsE.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083969343461654528"
+          ]
+        },
+        "author_id": "1947425688258285569",
+        "conversation_id": "2083969350487150667",
+        "created_at": "2026-08-02T17:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083969350487150667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OK8AHlY0XN",
+              "end": 31,
+              "expanded_url": "https://x.com/1gdipirona/status/2083969350487150667/photo/1",
+              "media_key": "3_2083969343461654528",
+              "start": 8,
+              "url": "https://t.co/OK8AHlY0XN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083969350487150667",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 755,
+          "impression_count": 46070,
+          "like_count": 5263,
+          "quote_count": 11,
+          "reply_count": 8,
+          "retweet_count": 529
+        },
+        "reply_settings": "everyone",
+        "text": "my wife https://t.co/OK8AHlY0XN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083969343461654528"
+          ],
+          "media_source_tweet_id": [
+            "2083969350487150667"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2084158874836480304",
+        "created_at": "2026-08-03T06:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084158874836480304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947425688258285569",
+              "start": 3,
+              "username": "1gdipirona"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OK8AHlY0XN",
+              "end": 47,
+              "expanded_url": "https://x.com/1gdipirona/status/2083969350487150667/photo/1",
+              "media_key": "3_2083969343461654528",
+              "start": 24,
+              "url": "https://t.co/OK8AHlY0XN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084158874836480304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 529
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083969350487150667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1gdipirona: my wife https://t.co/OK8AHlY0XN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 397,
+          "like_count": 1423,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2406
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T22:37:30.000Z",
+        "description": "mmm dipirona @hater_bassist ♡ i block freely",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "hater_bassist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dipironapilled.straw.page",
+                "end": 23,
+                "expanded_url": "https://dipironapilled.straw.page",
+                "start": 0,
+                "url": "https://t.co/GKbdBZxp2l"
+              }
+            ]
+          }
+        },
+        "id": "1947425688258285569",
+        "location": "ela / she",
+        "name": "sopa",
+        "pinned_tweet_id": "2055611102495396237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083911578080952320/PuZ5wYQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 269,
+          "like_count": 4707,
+          "listed_count": 3,
+          "media_count": 626,
+          "tweet_count": 5107
+        },
+        "url": "https://t.co/GKbdBZxp2l",
+        "username": "1gdipirona",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083382963933491200"
+      ],
+      "media_source_tweet_id": [
+        "2083383011274637791"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083485184570393065",
+    "created_at": "2026-08-01T09:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083485184570393065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1737695702581698560",
+          "start": 3,
+          "username": "Ryuksasshair"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e2Y5qnSFDI",
+          "end": 108,
+          "expanded_url": "https://x.com/Ryuksasshair/status/2083383011274637791/photo/1",
+          "media_key": "3_2083382963933491200",
+          "start": 85,
+          "url": "https://t.co/e2Y5qnSFDI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083485184570393065",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4159
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083383011274637791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ryuksasshair: How it feels when you're suicidal but your friend is also suicidal https://t.co/e2Y5qnSFDI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 514,
+        "media_key": "3_2083382963933491200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmpxHhbMAAV2Qu.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083382963933491200"
+          ]
+        },
+        "author_id": "1737695702581698560",
+        "conversation_id": "2083383011274637791",
+        "created_at": "2026-08-01T02:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083383011274637791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e2Y5qnSFDI",
+              "end": 90,
+              "expanded_url": "https://x.com/Ryuksasshair/status/2083383011274637791/photo/1",
+              "media_key": "3_2083382963933491200",
+              "start": 67,
+              "url": "https://t.co/e2Y5qnSFDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083383011274637791",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1300,
+          "impression_count": 205423,
+          "like_count": 24829,
+          "quote_count": 136,
+          "reply_count": 40,
+          "retweet_count": 4159
+        },
+        "reply_settings": "everyone",
+        "text": "How it feels when you're suicidal but your friend is also suicidal https://t.co/e2Y5qnSFDI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083382963933491200"
+          ],
+          "media_source_tweet_id": [
+            "2083383011274637791"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083485184570393065",
+        "created_at": "2026-08-01T09:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083485184570393065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1737695702581698560",
+              "start": 3,
+              "username": "Ryuksasshair"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e2Y5qnSFDI",
+              "end": 108,
+              "expanded_url": "https://x.com/Ryuksasshair/status/2083383011274637791/photo/1",
+              "media_key": "3_2083382963933491200",
+              "start": 85,
+              "url": "https://t.co/e2Y5qnSFDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083485184570393065",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4159
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083383011274637791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ryuksasshair: How it feels when you're suicidal but your friend is also suicidal https://t.co/e2Y5qnSFDI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 361,
+          "like_count": 1164,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2161
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T04:45:23.000Z",
+        "description": "dedicated to lawliet xxs | INTP | I'm a minor and I'm gay as fuck | insta and tiktok @/afaggwithswag | he/him/any | ifb blindly | DM to join discord server",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lawlietxxs.straw.page",
+                "end": 23,
+                "expanded_url": "https://lawlietxxs.straw.page",
+                "start": 0,
+                "url": "https://t.co/GKJc3V2BfX"
+              }
+            ]
+          }
+        },
+        "id": "1737695702581698560",
+        "location": "Backup account: @abortelonmusk",
+        "name": "UNDERGROUND RAPPER BUFF HAALAND XXS",
+        "pinned_tweet_id": "2067662001682395615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082337598358659072/b-iCCVfL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9385,
+          "following_count": 5086,
+          "like_count": 66781,
+          "listed_count": 108,
+          "media_count": 3412,
+          "tweet_count": 8506
+        },
+        "url": "https://t.co/GKJc3V2BfX",
+        "username": "Ryuksasshair",
+        "verified": false
+      }
+    ]
+  }
+}

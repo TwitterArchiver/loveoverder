@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083862331646484541",
+    "created_at": "2026-08-02T10:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083862331646484541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2016433849836961794",
+          "start": 3,
+          "username": "Xiibiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083862331646484541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083759006691287053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiibiao: 我要是能长宋威龙那样早得性病死了，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083862331646484541",
+        "created_at": "2026-08-02T10:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083862331646484541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2016433849836961794",
+              "start": 3,
+              "username": "Xiibiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083862331646484541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083759006691287053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiibiao: 我要是能长宋威龙那样早得性病死了，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016433849836961794",
+        "conversation_id": "2083759006691287053",
+        "created_at": "2026-08-02T03:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083759006691287053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083759006691287053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 55295,
+          "like_count": 305,
+          "quote_count": 1,
+          "reply_count": 75,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我要是能长宋威龙那样早得性病死了，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 378,
+          "like_count": 1308,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2314
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T08:51:24.000Z",
+        "description": "第二个朋友圈丨只回口令和门槛\n盗图替我挡灾",
+        "id": "2016433849836961794",
+        "location": "🚪",
+        "name": "小白",
+        "pinned_tweet_id": "2050197065389789523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016435953506656256/U0TgphBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5914,
+          "following_count": 9,
+          "like_count": 815,
+          "listed_count": 12,
+          "media_count": 44,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "Xiibiao",
+        "verified": false
+      }
+    ]
+  }
+}

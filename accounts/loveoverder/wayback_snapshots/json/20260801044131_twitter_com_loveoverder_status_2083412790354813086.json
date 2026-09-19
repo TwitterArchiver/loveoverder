@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082905678683783168"
+      ],
+      "media_source_tweet_id": [
+        "2082905699177341222"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083412790354813086",
+    "created_at": "2026-08-01T04:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083412790354813086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "294864836",
+          "start": 3,
+          "username": "FrMinecraft"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UGoksaCnuN",
+          "end": 40,
+          "expanded_url": "https://x.com/FrMinecraft/status/2082905699177341222/video/1",
+          "media_key": "13_2082905678683783168",
+          "start": 17,
+          "url": "https://t.co/UGoksaCnuN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083412790354813086",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5234
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082905699177341222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FrMinecraft: https://t.co/UGoksaCnuN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22300,
+        "height": 398,
+        "media_key": "13_2082905678683783168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082905678683783168/img/2AjVZxj8RJMLGH1L.jpg",
+        "public_metrics": {
+          "view_count": 766900
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082905678683783168/vid/avc1/578x270/HvawL3PBFFDvD4Bl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082905678683783168/vid/avc1/854x398/oAGGSUf_0Fbb_TBQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082905678683783168/pl/7qOxnum3cIsHuNHa.m3u8?v=900"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082905678683783168"
+          ]
+        },
+        "author_id": "294864836",
+        "conversation_id": "2082905699177341222",
+        "created_at": "2026-07-30T19:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T20:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082905699177341222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UGoksaCnuN",
+              "end": 23,
+              "expanded_url": "https://x.com/FrMinecraft/status/2082905699177341222/video/1",
+              "media_key": "13_2082905678683783168",
+              "start": 0,
+              "url": "https://t.co/UGoksaCnuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082905699177341222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7718,
+          "impression_count": 1375253,
+          "like_count": 52713,
+          "quote_count": 207,
+          "reply_count": 164,
+          "retweet_count": 5234
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UGoksaCnuN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082905678683783168"
+          ],
+          "media_source_tweet_id": [
+            "2082905699177341222"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083412790354813086",
+        "created_at": "2026-08-01T04:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083412790354813086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "294864836",
+              "start": 3,
+              "username": "FrMinecraft"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UGoksaCnuN",
+              "end": 40,
+              "expanded_url": "https://x.com/FrMinecraft/status/2082905699177341222/video/1",
+              "media_key": "13_2082905678683783168",
+              "start": 17,
+              "url": "https://t.co/UGoksaCnuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083412790354813086",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5234
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082905699177341222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FrMinecraft: https://t.co/UGoksaCnuN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 348,
+          "like_count": 1091,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2093
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-07T22:45:54.000Z",
+        "description": "1er site #Minecraft français, non-associé à Mojang et Microsoft. Créé par des fans et pour des fans. Mods, maps, texture pack et build. Et un peu Hytale aussi !",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "Minecraft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.fr",
+                "end": 23,
+                "expanded_url": "https://minecraft.fr/",
+                "start": 0,
+                "url": "https://t.co/sKNDWCyb4n"
+              }
+            ]
+          }
+        },
+        "id": "294864836",
+        "location": "Dans le Nether",
+        "name": "Minecraft.fr - Communauté de Fans",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1453030611212541966/uzQ0QVYV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113642,
+          "following_count": 574,
+          "like_count": 2337,
+          "listed_count": 185,
+          "media_count": 6007,
+          "tweet_count": 24725
+        },
+        "url": "https://t.co/sKNDWCyb4n",
+        "username": "FrMinecraft",
+        "verified": true
+      }
+    ]
+  }
+}

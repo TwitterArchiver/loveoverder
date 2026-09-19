@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082916513716301825"
+      ],
+      "media_source_tweet_id": [
+        "2082916531848253601"
+      ]
+    },
+    "author_id": "2073934453454614530",
+    "conversation_id": "2083028104226959489",
+    "created_at": "2026-07-31T03:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083028104226959489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1881922471630450688",
+          "start": 3,
+          "username": "lvseshan643"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XR8tshr1P3",
+          "end": 40,
+          "expanded_url": "https://x.com/lvseshan643/status/2082916531848253601/video/1",
+          "media_key": "13_2082916513716301825",
+          "start": 17,
+          "url": "https://t.co/XR8tshr1P3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083028104226959489",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 792
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082916531848253601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lvseshan643: https://t.co/XR8tshr1P3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15080,
+        "height": 480,
+        "media_key": "13_2082916513716301825",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082916513716301825/img/aKZeJCN6YMO1yKXe.jpg",
+        "public_metrics": {
+          "view_count": 36345
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082916513716301825/vid/avc1/428x270/nofaLedlfsq2cDra.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082916513716301825/vid/avc1/570x360/LH-Ek0Xy67xmo29n.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082916513716301825/vid/avc1/762x480/Q2PTxvwNGB7d-NiH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082916513716301825/pl/5cdxCsDgLPSlwr37.m3u8?v=cfc"
+          }
+        ],
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082916513716301825"
+          ]
+        },
+        "author_id": "1881922471630450688",
+        "conversation_id": "2082916531848253601",
+        "created_at": "2026-07-30T19:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T20:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082916531848253601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XR8tshr1P3",
+              "end": 23,
+              "expanded_url": "https://x.com/lvseshan643/status/2082916531848253601/video/1",
+              "media_key": "13_2082916513716301825",
+              "start": 0,
+              "url": "https://t.co/XR8tshr1P3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082916531848253601",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 687,
+          "impression_count": 72313,
+          "like_count": 4702,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 792
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XR8tshr1P3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082916513716301825"
+          ],
+          "media_source_tweet_id": [
+            "2082916531848253601"
+          ]
+        },
+        "author_id": "2073934453454614530",
+        "conversation_id": "2083028104226959489",
+        "created_at": "2026-07-31T03:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083028104226959489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1881922471630450688",
+              "start": 3,
+              "username": "lvseshan643"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XR8tshr1P3",
+              "end": 40,
+              "expanded_url": "https://x.com/lvseshan643/status/2082916531848253601/video/1",
+              "media_key": "13_2082916513716301825",
+              "start": 17,
+              "url": "https://t.co/XR8tshr1P3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083028104226959489",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 792
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082916531848253601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lvseshan643: https://t.co/XR8tshr1P3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "location": "molise 的心里！",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 316,
+          "like_count": 1001,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1965
+        },
+        "url": "",
+        "username": "loveoverder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T04:31:08.000Z",
+        "description": "",
+        "id": "1881922471630450688",
+        "name": "绿色山2",
+        "pinned_tweet_id": "2032315727617970198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032459090992238592/CglKWg1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10372,
+          "following_count": 160,
+          "like_count": 7332,
+          "listed_count": 19,
+          "media_count": 233,
+          "tweet_count": 538
+        },
+        "url": "",
+        "username": "lvseshan643",
+        "verified": false
+      }
+    ]
+  }
+}
